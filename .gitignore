@@ -1,0 +1,9 @@
+*.pdf
+
+Embeddings/
+
+__pycache__/
+*.pyc
+
+.tfg/
+venv/

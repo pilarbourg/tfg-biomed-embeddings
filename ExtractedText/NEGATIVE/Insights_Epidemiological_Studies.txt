@@ -1,0 +1,3108 @@
+cells
+Review
+Metabolomics in Diabetes and Diabetic Complications:
+Insights from Epidemiological Studies
+Qiao Jin 1
+and Ronald Ching Wan Ma 1,2,3,4,*
+
+
+Citation: Jin, Q.; Ma, R.C.W.
+Metabolomics in Diabetes and
+Diabetic Complications: Insights from
+Epidemiological Studies. Cells 2021,
+10, 2832. https://doi.org/10.3390/
+cells10112832
+Academic Editor: Sang Woo Kim
+Received: 19 September 2021
+Accepted: 13 October 2021
+Published: 21 October 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Department of Medicine and Therapeutics, Prince of Wales Hospital, The Chinese University of Hong Kong,
+Shatin, New Territories, Hong Kong, China; jinqiao@link.cuhk.edu.hk
+2
+Laboratory for Molecular Epidemiology in Diabetes, Li Ka Shing Institute of Health Sciences,
+The Chinese University of Hong Kong, Hong Kong, China
+3
+Hong Kong Institute of Diabetes and Obesity, The Chinese University of Hong Kong, Hong Kong, China
+4
+Chinese University of Hong Kong-Shanghai Jiao Tong University Joint Research Centre in Diabetes Genomics
+and Precision Medicine, The Chinese University of Hong Kong, Hong Kong, China
+*
+Correspondence: rcwma@cuhk.edu.hk; Fax: +852-26373852
+Abstract: The increasing prevalence of diabetes and its complications, such as cardiovascular and
+kidney disease, remains a huge burden globally. Identiﬁcation of biomarkers for the screening,
+diagnosis, and prognosis of diabetes and its complications and better understanding of the molecular
+pathways involved in the development and progression of diabetes can facilitate individualized
+prevention and treatment. With the advancement of analytical techniques, metabolomics can iden-
+tify and quantify multiple biomarkers simultaneously in a high-throughput manner. Providing
+information on underlying metabolic pathways, metabolomics can further identify mechanisms
+of diabetes and its progression. The application of metabolomics in epidemiological studies have
+identiﬁed novel biomarkers for type 2 diabetes (T2D) and its complications, such as branched-chain
+amino acids, metabolites of phenylalanine, metabolites involved in energy metabolism, and lipid
+metabolism. Metabolomics have also been applied to explore the potential pathways modulated by
+medications. Investigating diabetes using a systems biology approach by integrating metabolomics
+with other omics data, such as genetics, transcriptomics, proteomics, and clinical data can present a
+comprehensive metabolic network and facilitate causal inference. In this regard, metabolomics can
+deepen the molecular understanding, help identify potential therapeutic targets, and improve the pre-
+vention and management of T2D and its complications. The current review focused on metabolomic
+biomarkers for kidney and cardiovascular disease in T2D identiﬁed from epidemiological studies,
+and will also provide a brief overview on metabolomic investigations for T2D.
+Keywords: biomarkers; cardiovascular disease; chronic kidney disease; metabolomics; type 2 diabetes
+1. Introduction
+Diabetes affected 463 million people in 2019, and it has been projected that 700 million
+adults will have diabetes worldwide by 2045, with the majority being type 2 diabetes
+(T2D) [1]. Diabetes is the leading cause of chronic kidney disease (CKD); whereby around
+40% of individuals with T2D develop diabetic kidney disease (DKD) [2], and DKD has
+become the major cause of end-stage kidney disease (ESKD), contributing to half of new
+cases of ESKD each year [3]. Moreover, individuals with T2D have 2- to 4-fold increased
+risk of cardiovascular disease (CVD) and death [4]. A multinational study including
+participants from South and East Asia, North Africa, the Middle East, South America,
+and Europe reported an approximate 50% prevalence of microvascular complications
+and 30% prevalence of macrovascular complications in T2D [5]. DKD characterized by
+impaired glomerular ﬁltration rate or albuminuria has been associated with increased risk
+of CVD and mortality [6,7]. Furthermore, CVD has been estimated to cause two-thirds of
+Cells 2021, 10, 2832. https://doi.org/10.3390/cells10112832
+https://www.mdpi.com/journal/cells
+
+Cells 2021, 10, 2832
+2 of 38
+deaths in T2D [8]. Consequently, T2D has been ranked fourth among the disease burden
+worldwide [9], with a 2- to 3-fold increase in medical expenditures [10].
+T2D is believed to arise due to complex interactions between genetic information,
+developmental exposures and environmental factors such as diet, physical activity, and
+pollution [11,12]. Hyperglycemia is the hallmark feature of diabetes and has been utilized
+as a screening and diagnostic biomarker for diabetes, however, metabolic alteration leading
+to diabetes may be present decades before the onset of hyperglycemia. Modiﬁcation
+of lifestyle (diet and physical activity) could delay or even prevent the development of
+diabetes [13,14], highlighting the utility of powerful screening biomarkers to identify
+individuals at risk of developing diabetes. Given the increasing risks of adverse outcomes
+in diabetes and the availability of drugs proven to delay or prevent CVD and DKD [15–17],
+it is also critical to identify prognostic biomarkers involved in the pathogenesis of diabetic
+complications or predictive of future diabetic complications, which can facilitate clinicians’
+decision making and beneﬁt individuals at risk. Biomarkers indicating clinical response
+to speciﬁc medications can help identify individuals who may beneﬁt from the therapy
+compared with those who have no biological response.
+To improve the prevention and risk stratiﬁcation of diabetes and its complications,
+as well as to maximize the beneﬁts from interventions, approaches which provide novel
+insights into the etiology, diagnosis and prognosis of diabetes are much needed. With
+the rapid advancements in analytical techniques, it has become possible to identify and
+quantify multiple biomarkers simultaneously in a high-throughput manner, which has
+dramatically advanced approaches for biomarker discovery.
+2. Metabolomics and Metabolites
+In 1971, Linus Pauling and colleagues introduced the concept of using quantitative
+and qualitative patterns of metabolites to understand the physiological status within
+a biological system [18]. Metabolites (with a small molecular mass < 1500 Da) can be
+endogenous compounds that are produced during endogenous catabolism or anabolism,
+such as amino acids, peptides, nucleic acids, sugars, lipids, organic acids, and fatty acids
+(FAs), as well as exogenous chemicals, such as toxins and xenobiotics. The metabolome is
+termed as the complete collection of metabolites in a given biosample. Metabolomics is
+the method of comprehensively characterizing the metabolome in cells, organs, bioﬂuids,
+or other biological systems. Metabolomics is emerging as an attractive tool for biomarker
+discovery in diabetes and its complications, since metabolites can provide information on
+the molecular pathways involved in the development and progression of disease.
+Multiple factors contribute to the development of diabetes. Most genetic variants
+associated with T2D identiﬁed in large genome-wide association studies (GWAS) only
+modestly contribute to the risk of diabetes. Among the identiﬁed genetic variants, over
+300 common genetic variants collectively explained only 16% of the variance of diabetes in
+a study which included around one million individuals of European decent [19]. Metabo-
+lites are, in general, the downstream products of gene expression, transcripts, protein
+transporters, and enzymatic reactions, which are closely correlated with genes in which a
+single deoxyribonucleic acid (DNA) base change in a given gene can result in 10,000-fold
+change in the level of endogenous metabolites [20] (Figure 1). Besides internal variations,
+metabolites can also be affected by exogenous factors, such as diet, lifestyle, physical
+activities, gut microbiota, and environmental pollution; thus, the metabolome is believed to
+reﬂect the molecular proﬁle most proximal to an individual’s phenotype, since it integrates
+information from the genome, transcriptome, proteome, and enzymes as well as exogenous
+exposures (Figure 1).
+
+Cells 2021, 10, 2832
+3 of 38
+ 
+Figure 1. Metabolomics provide a comprehensive molecular proﬁle of a phenotype by integrating both endogenous
+and exogenous information. Metabolites are the downstream products of the genome, transcriptome, proteome, and
+enzymatic reactions, which are also affected by environmental exposures, such as environmental pollution, physical
+activities, medications, and diet. The metabolome is closely correlated with genes in which even one single base change
+in a protein-coding gene can result in 10,000-fold change in the level of a metabolite. In contrast to the relatively simple
+chemical constitutions of genome (4 nucleotide bases) and proteome (20 proteogenic amino acids), the metabolome consists
+of thousands of different chemical classes and the number of metabolites is estimated to be around 1 million, while the
+number of genes and proteins are about 20,000 and 620,000, respectively. Thus, metabolomics provides a comprehensive
+molecular proﬁle of a phenotype.
+With the advances of analytical techniques and statistical approaches, the number of
+measurable metabolites has been increasing exponentially over the past 10 years (from
+2200 to around 1 million currently) [21]. The application of metabolomics in diabetes
+and its complications, especially in large-scale epidemiological studies, has facilitated the
+identiﬁcation and validation of metabolites that can serve as screening and prognostic
+biomarkers. Moreover, a multi-omics approach, combining metabolomics with other
+“omics” data, can provide insights into the complex intercorrelations of different axes
+involved in the disease and provide opportunities to elucidate the potential causality
+between biomarkers and disease. The current review focuses on metabolomic biomarkers
+for kidney and cardiovascular disease in T2D identiﬁed from epidemiological studies,
+and will also provide a brief overview on metabolomic biomarkers for T2D identiﬁed in
+prospective studies. In the following section, we ﬁrstly introduce the analytical methods
+for metabolic proﬁling.
+3. Analytical Methods
+3.1. Untargeted and Targeted Metabolomics
+There are two analytical approaches for metabolomics studies: untargeted and tar-
+geted. Untargeted metabolomics represents the unbiased approach to complete proﬁling of
+the metabolome, aiming to detect, identify, and quantify as many metabolites in a biological
+sample as possible. The major strength of untargeted metabolomics is the possibility of
+uncovering novel biomarkers and pathophysiological pathways of disease. However, the
+annotation of unknown compounds often becomes a challenge, given the wide coverage
+of signals. In contrast, targeted metabolomics aims to measure a prespeciﬁed set or clus-
+ter of chemical compounds, which are usually lying on the same metabolic pathways or
+are structurally similar. Although only capable of providing limited information on the
+metabolic proﬁling, targeted metabolomics in general has higher sensitivity and selectivity,
+and can often provide a deeper understanding of the selected metabolites.
+3.2. Nuclear Magnetic Resonance (NMR) Spectroscopy
+In sharp contrast to the genome, which comprises of only four nucleotide bases, or
+the proteome, which represents the different combinations of 20 proteogenic amino acids,
+the metabolome consists of chemical compounds belonging to thousands of different
+chemical classes [22] (Figure 1). Given the diverse chemical properties and the wide
+
+Cells 2021, 10, 2832
+4 of 38
+range of concentrations of metabolites, currently, no single platform can quantify the
+entire metabolome. The two most commonly used techniques are NMR spectroscopy and
+mass spectrometry (MS), with the latter usually coupled to separation techniques, such
+as gas chromatography (GC-MS) or liquid chromatography (LC-MS). NMR works by the
+manipulation of the nuclear spin of certain atomic nuclei, such as 1H, 13C, 15N, and 31P, by
+exposing them to a strong external magnetic ﬁeld, and then recording the frequency of
+electromagnetic radiation released as a result of nuclei relaxation. Because the signal of a
+given nucleus is inﬂuenced by the neighboring atoms in a predictable way, the chemical
+shifts in its resonance frequency can thus be used to identify the underlying molecular
+structure. Since 1H atoms can be found in most of the organic compounds, proton (1H)
+NMR spectroscopy (1H NMR) is widely employed in NMR-based metabolomics studies.
+NMR is noninvasive and nondestructive, and requires little or no sample preparation,
+chromatographic separation, or chemical derivatization; it can also be applied to in vivo
+tissues or to living samples, such as the real-time proﬁling of living cells and analysis of
+real-time metabolic ﬂux [23,24]. Another advantage of NMR is that NMR is especially
+suitable for assessing protein-bound metabolites (i.e., lipoprotein particles), and given the
+high automatability and reproducibility, NMR can be applied in large-scale metabolomics
+studies [25,26]. The major limitation of NMR, however, is its relatively low sensitivity
+(millimole to micromole per liter range), which is approximately 10 to 100 times less
+sensitive than MS.
+3.3. Mass Spectrometry
+The high resolution and sensitivity of MS has made it the most widely used platform
+for metabolomic studies [27]. Compounds are ﬁrst separated by chromatographic tech-
+niques (i.e., GC or LC) to reduce ion suppression, before quantiﬁcation and identiﬁcation
+by the mass spectrometer. GC-MS is a highly sensitive and suitable method for the separa-
+tion of volatile and thermally stable metabolites. GC-MS can separate naturally volatile
+compounds, such as ketones, aldehydes, alcohols, esters, and furans, and compounds
+that can be made volatile by derivatization, such as sugars, amino acids, lipids, and or-
+ganic acids [28]. As chemical derivatization may alter the structure of compounds and
+unpredictable variations may occur during sample preparation, one of the drawbacks of
+GC-MS is its relatively low reproducibility [29]. Compared with GC-MS, LC-MS requires
+higher instrument costs, and suffers from lower reproducibility. LC-MS can separate a
+wide range of classes of compounds, from very polar to very nonpolar ones [30]. As
+compounds in bioﬂuids must be ionized prior to MS measurement, unlike GC-MS which
+utilizes the hard-ionization approach (i.e., electron-impact [EI] ionization), LC-MS often
+uses soft-ionization methods instead (i.e., electrospray ionization [ESI] and atmospheric
+pressure chemical ionization [APCI]), thus generating ions without fragmentation and
+allowing the identiﬁcation of unknown compounds [31,32]. Compared to GC-MS, one of
+the advantages of LC-MS is that chemical derivatization is not required in most conditions
+since high temperatures and volatility are no longer required. Moreover, LC-MS is in
+general more sensitive, covering compounds from low molecular weight to molecular
+weights beyond 600 Da, including phospholipids, conjugated bile acids, glycosides and
+sugars [33]. However, the major drawback of LC-MS as an untargeted platform is the lack
+of transferable mass spectral libraries [34]. Compared with NMR, although MS techniques
+have higher sensitivity, they are destructive and in general produce results which are
+comparatively less reproducible. The major advantages and disadvantages of NMR and
+MS techniques for metabolomic proﬁling are summarized in Table 1.
+
+Cells 2021, 10, 2832
+5 of 38
+Table 1. Advantages and disadvantages of different platforms for metabolomics studies.
+NMR
+GC-MS
+LC-MS
+Applications
+Targeted and untargeted
+Targeted and untargeted
+Targeted and untargeted
+Throughput
+10–30 min
+20–60 min
+15–60 min
+Advantages
+Nondestructive and suitable for
+in vivo
+Sensitive
+Highly sensitive
+Quantitative of absolute
+concentrations
+Quantitative of absolute
+concentrations
+Wide dynamic range
+Requiring little or no sample
+preparation
+Robust and reproducible
+No need for derivatization
+Automated and robust
+Small sample volume required
+(~1 uL)
+Small sample volume required
+(10–100 uL)
+Highly reproducible
+Available databases for
+identiﬁcation (i.e., NIST)
+Compatible with solids and
+liquids
+Less expensive compared with
+LC-MS
+Disadvantages
+Poor sensitivity
+Destructive
+Destructive
+Large sample volumes required
+(~0.5 mL)
+Requiring derivatization and
+separation
+Requiring separation
+Not compatible with solids
+Lack of absolute quantiﬁcation in
+untargeted applications
+Less reproducible
+Difﬁculty in unknown metabolite
+identiﬁcation
+More expensive compared with
+GC-MS
+GC-MS, gas chromatography–mass spectrometry; LC-MS, liquid chromatography–mass spectrometry; NIST, National Institute of Standards
+and Technology; NMR, nuclear magnetic resonance.
+4. Metabolomics in Diabetes
+The characteristic perturbations of metabolic homeostasis associated with or preceding
+the development of hyperglycemia makes metabolomics a good method to elucidate
+the potential pathways and to explore potential biomarkers for T2D. Over the past two
+decades, metabolomics has been widely utilized in large epidemiological studies, and some
+metabolites/pathways have been identiﬁed and validated to be associated with insulin
+metabolism or being predictive of diabetes across different studies [35]. Table 2 summarizes
+the ﬁndings from some of key prospective studies [36–66].
+
+Cells 2021, 10, 2832
+6 of 38
+Table 2. Circulating metabolites associated with type 2 diabetes in prospective epidemiological studies.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[36]; 2005
+IRAS; America;
+population-based cohort
+825 (129 T2D);
+5.2 years
+Targeted; NMR
+Plasma
+Incident T2D
+Age, gender, and ethnicity
+(+): VLDL particle, large VLDL,
+LDL particle, small LDL, small
+HDL, triglycerides;
+(−): large HDL, HDL cholesterol
+No
+[37]; 2010
+WHS; America;
+randomized,
+double-blinded,
+placebo-controlled trial
+26,836 (1687 T2D);
+13.3 years
+Targeted; NMR
+Plasma
+Incident T2D
+Age, race, randomized
+treatment assignment,
+smoking, exercise,
+education, menopausal
+status, hormone use, blood
+pressure, BMI, family
+history of diabetes, HbA1C,
+and high-sensitivity
+C-Reactive protein
+(+): total LDL particle, IDL
+particle, small LDL particle, small
+HDL particle, triglycerides, total
+VLDL particle, large VLDL
+particle, small VLDL particle
+(−): large LDL particle, HDL
+cholesterol, total HDL particle,
+large HDL particle
+No
+[38]; 2011
+FHS; America; nested
+case–control
+189 T2D and 189
+control; 12 years
+Targeted; LC-MS
+Plasma
+Incident T2D
+Age, sex, BMI, FPG, and
+family history of T2D
+(+): isoleucine, leucine, valine,
+tyrosine, phenylalanine
+Yes; Malmö Diet and
+Cancer study,
+Sweden; nested
+case–control (163
+T2D and 163 no T2D)
+[39]; 2012
+METSIM; Finland;
+population-based cohort
+1775 (151 T2D);
+4.7 years
+Targeted; NMR
+Serum
+Incident T2D
+Age, BMI
+(+): alanine, isoleucine, leucine,
+phenylalanine, tyrosine;
+(−): glutamine
+No
+[40]; 2012
+KORA; Germany;
+population-based cohort
+589 (118 IGT) and
+876 (91 T2D); 7 years
+Targeted; LC-MS
+Plasma
+Incident IGT and
+T2D
+Age, sex, BMI, physical
+activity, alcohol intake,
+smoking, systolic BP and
+HDL cholesterol
+(−): glycine, LPC (18:2)
+No
+[41]; 2013
+Botnia study; Finland;
+family-based study
+2580 (151 T2D);
+9.5 years
+Targeted; LC-MS
+Plasma
+Incident T2D
+Age, sex, BMI, family
+history of diabetes, and
+fasting glucose
+(+): a-hydroxybutyrate;
+(−): L-GPC
+No
+[42]; 2013
+EPIC; Germany;
+case–cohort
+2282 (800 T2D);
+7 years
+Targeted; MS
+Serum
+Incident T2D
+Age, sex, alcohol intake,
+smoking, physical activity,
+education, coffee intake,
+red meat intake,
+whole-grain bread intake,
+prevalent hypertension
+BMI, and waist
+circumference
+(+): hexose, phenylalanine,
+diacyl-phosphatidylcholines
+(C32:1, C36:1, C38:3, C40:5);
+(−): glycine, sphingomyelin
+C16:1, lysophospha-tidylcholine
+C18:2, and
+acyl-alkyl-phosphatidylcholines
+(C34:3, C40:6, C42:5, C44:4, C44:5)
+Yes; KORA,
+Germany; 876 (91
+T2D); 7 years
+[43], 2013
+METSIM; Finland;
+population-based cohort
+4306 (276 T2D);
+5 years
+Targeted; NMR
+Plasma
+Incident T2D
+Age, BMI, smoking, and
+physical activity
+(+): acetoacetate
+No
+
+Cells 2021, 10, 2832
+7 of 38
+Table 2. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[44]; 2013
+METSIM; Finland;
+population-based cohort
+4335 (276 T2D);
+4.5 years
+Targeted; NMR
+Plasma
+Incident T2D
+Age, BMI, smoking, and
+physical activity
+(+): glycerol, total fatty acids,
+triglycerides, monounsaturated
+fatty acids%, saturated fatty
+acids%;
+(−): n-3 fatty acids%, n-6 fatty
+acids%, linoleic acid%.
+No
+[45]; 2015
+SABRE; Britain;
+population-based cohort
+801 Europeans (113
+T2D) and 643 South
+Asians (227 T2D);
+19 years
+Targeted; NMR
+Serum
+Incident T2D
+Age, WHR, truncal
+skinfold thickness,
+Matsuda-IR,
+HDL-cholesterol level,
+current smoking, and
+alcohol consumption
+(+): tyrosine for South Asians;
+(−): glycine for Europeans
+No
+[46]; 2015
+METSIM; Finland;
+population-based cohort
+6607 (386 T2D);
+5.9 years
+Targeted; NMR
+Serum
+Incident T2D
+Age, BMI, smoking, and
+physical activity
+(+): ApoA1/HDL-C ratio,
+ApoB/LDL-C ratio,
+ApoB/non-HDL-C ratio;
+(−): HDL cholesterol and large
+HDL particles
+No
+[47]; 2015
+IRAS; America;
+population-based cohort
+146 (76 T2D); 5 years
+Targeted;
+MS/MS
+Plasma
+Incident T2D
+Age, sex, BMI, and
+ethnicity
+(+): alanine, valine, leucine or
+isoleucine, phenylalanine,
+glutamine and glutamate;
+(−): glycine, asparagine and
+aspartate
+No
+[48]; 2016
+Four cohorts: ULSAM;
+Sweden,
+population-based cohort;
+PIVUS; Sweden,
+population-based cohort;
+the TwinGene study;
+Sweden, case–cohort;
+KORA; Germany,
+population-based cohort
+1138 from ULSAM
+(78 T2D), 970 from
+PIVUS (70 T2D),
+1630 from TwinGene
+(122 T2D), and 855
+from KORA (88 T2D)
+Untargeted;
+LC-MS
+Plasma and
+serum
+Incident T2D
+Age, sex, BMI, waist
+circumference, and fasting
+glucose
+(+): γ-glutamyl-leucine,
+2-methylbutyroylcarnitine,
+barogenin, L-tyrosine,
+monoacylglycerol (18:2),
+deoxycholic acid;
+(−): cortisol,
+LysoPC/PC(O-16:1/0:0), SM
+(33:1, d18:2/18:1, 34:2), LysoPC
+(20:2), CerPE (38:2), PC (42:7)
+No
+[49]; 2016
+Two Chinese cohorts:
+DFTJ and JSNCD; nested
+case–control studies
+2078 from DFJT
+(1039 T2D); 4.6 years;
+140 form JSNCD (520
+T2D); 7.6 years
+Targeted; LC-MS
+Plasma
+Incident T2D
+Age, BMI, smoking and
+drinking status, education
+level, physical activity,
+systolic blood pressure,
+serum HDL cholesterol
+and triglycerides, fasting
+glucose, family history of
+diabetes, and
+metabolomics batch
+(+): alanine, phenylalanine,
+tyrosine, palmitoylcarnitine
+Yes
+
+Cells 2021, 10, 2832
+8 of 38
+Table 2. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[50]; 2016
+RISC; Europe,
+population-based cohort
+DMVhi; Britain;
+population-based cohort
+855 (623 NGT, 56
+isolated IGT (iIGT),
+220 isolated IFG, 56
+IFG and IGT);
+3 years
+668 (not given);
+3 years
+Targeted;
+LC-MS/MS
+Plasma
+iIGT
+Age, sex, and BMI
+(+): a-hydroxybutyric acid,
+oleic acid;
+(−): linoleoyl-
+glycerophosphocholine
+Yes, Botnia, Finland;
+2430 (not given)
+[51]; 2016
+SCHS; Singapore; nested
+case–control
+394 (197 T2D);
+6 years
+Untargeted;
+LC-MS and
+GC-MS
+Serum
+Incident T2D
+BMI, smoking status, and
+history of hypertension
+(+): aminomalonic acid, glycine,
+isoleucine, leucine, threonine,
+valine, hippuric acid, cytidine
+diphosphate glucose, D-galactose,
+gluconate, palmitic acid (16:0),
+stearic acid (18:0), oleic acid
+(18:1), linoleic acid (18:2), LPG
+(12:0), LPI (16:1, 18:1, 18:2, 20:3,
+20:4, 22:6), lactic acid, pyruvate,
+urea, 1,3-propanediol;
+(−): 2-aminooctanoic acid,
+ornithine, phosphoserine, proline,
+serine, glycerol,
+9-decenoylcarnitine (C10), CMPF,
+LPE (20:3, 20:5)
+No
+[52]; 2017
+Botnia Prospective Study;
+Finland;
+population-based cohort
+543 (146 T2D);
+7.7 years
+Untargeted and
+targeted; MS
+Serum
+Incident T2D
+Age, sex, BMI, fasting
+insulin level, and family
+history of type 2 diabetes
+(+): glucose, mannose,
+α-hydroxybutyrate, isoleucine,
+valine, glutamate, trehalose;
+(−): histidine, bilirubin,
+glutamine, α-Tocopherol
+Yes; DESIR, France;
+1044 (231 T2D);
+9 years
+[53]; 2017
+ERF; Netherlands;
+population-based cohort
+1571 (137 T2D);
+11.3 years
+Targeted; NMR
+and LC-MS
+Plasma
+Incident T2D
+Age, sex, and
+lipid-lowering medication
+(+): isoleucine, tyrosine,
+2-hydroxybutyrate, 2-oxoglutaric
+acid, glycerol, lactate, pyruvate,
+TG (48:0), TG (48:1), TG (50:5),
+VLDL free cholesterol, extremely
+large VLDL cholesterol, VLDL
+triglycerides, very small LDL
+and ApoB
+No
+
+Cells 2021, 10, 2832
+9 of 38
+Table 2. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[54]; 2018
+The Västerbotten
+Intervention Programme
+cohort; Sweden; nested
+case–control study
+1006 (503 T2D);
+7 years
+Untargeted;
+LC-MS
+Plasma
+Incident T2D
+BMI and FPG
+(+): PC(16:0/16:1),
+DAG(16:1/16:1, 14:0/16:0,
+14:0/18:1, 16:0/18:1),
+3-hydroxyisovalerylcarnitine,
+phenylalanine, leucine,
+isoleucine, valine, tryptophan,
+L-tyrosine, alanine, citrulline;
+(−): lysoPC (18:2, 18:1, p16:0,
+17:0, 19:1, 20:1), PC (15:1/18:2,
+17:0/18:2), n-acetylglycine,
+2-hydroxyethanesulfonate,
+3-methyl-2-oxovaleric acid
+No
+[55]; 2018
+SCHS; Singapore; nested
+case–control study
+320 (160 T2D); not
+given
+Targeted; LC-MS
+and GC-MS
+Serum
+Incident T2D
+BMI, history of
+hypertension, smoking,
+physical activity, fasting
+status, triglycerides, and
+HDL-cholesterol
+(+): lysophosphatidylinositol
+(16:1, 18:0), myristic acid (14:0),
+palmitic acid (16:0), palmitoleic
+acid (16:1n-7), stearic acid (18:0),
+eicosadienoic acid (20:2n-6),
+dihomo-gamma-linolenic
+acid (20:3n-6), arachidonic acid
+(20:4n-6), adrenic acid (22:4n-6)
+No
+[56]; 2018
+KoGES;
+community-based cohort
+1939 (282 T2D);
+8 years
+Targeted; MS
+Serum
+Incident T2D
+Sex, age, energy intake,
+body-mass index,
+metabolic equivalent,
+smoking status, drinking
+status, household income,
+and education level,
+consumption of coffee, red
+meat, and whole grain, and
+history of hypertension
+(+): alanine, arginine, isoluecine,
+proline, tyrosine, valine, hexose,
+phosphatidylcholine diacyl
+(C32:1, C34:1, C36:1, C40:5,
+C42:5);
+(−): spermine, lyso
+phosphatidylcholine acyl (C17:0,
+C18:2, C38:0, C40:1, C42:1, C34:3,
+C36:3), hydroxysphingomyelin
+C22:2, sphingomyelin C16:1
+No
+[57]; 2018
+ARIC; America;
+community-based cohort
+2939 (1126 T2D);
+20 years
+Untargeted;
+LC-MS
+Serum
+Incident T2D
+Age, sex, race, center,
+batch, education level,
+systolic blood pressure,
+diastolic blood pressure,
+BMI, HDL-cholesterol,
+LDL-cholesterol, smoking
+status, physical activity
+level, history of
+cardiovascular disease,
+eGFR, and fasting glucose
+(+): isoleucine, leucine,
+3-(4-hydroxyphenyl)lactate,
+valine, trehalose, erythritol;
+(−): asparagine
+No
+
+Cells 2021, 10, 2832
+10 of 38
+Table 2. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[58]; 2018
+FHS; America;
+community-based cohort
+1150 with NFG (95
+T2D); 20 years
+Targeted;
+LC-MS/MS
+Plasma
+Incident T2D
+Age, sex, BMI, fasting
+glucose, and triglycerides
+(+): phenylalanine;
+(−): glycine, taurine
+No
+[59]; 2019
+Four Finnish
+population-based
+cohorts: YFS;
+FINRISK-1997; DILGOM;
+NFBC
+11,896 (392 T2D);
+8–15 years
+Targeted; NMR
+Serum
+Incident T2D
+Sex, baseline age, BMI, and
+fasting glucose
+(+): isoleucine, leucine,
+phenylalanine, glycerol,
+glycoprotein acetyls, total fatty
+acids, monounsaturated fatty
+acids%,
+triacylglycer/phosphoglyceride
+ratio, VLDL cholesterol, total
+triacylglycerol, triacylglycerol in
+VLDL, triacylglycerol in LDL,
+apo B/apo A1 ratio, VLDL
+particle size;
+(−): polyunsaturated fatty
+acids%, n-6 fatty acids%, linoleic
+acid%, HDL cholesterol, HDL
+particle size
+No
+[60]; 2019
+METSIM; Finland;
+population-based cohort
+4851 (522 T2D);
+7.4 years
+Untargeted;
+LC-MS
+Plasma
+Incident T2D
+Batch effect, age, BMI,
+smoking, and physical
+activity
+(+): tyrosine, alanine, isoleucine,
+aspartate, glutamate
+No
+[61]; 2019
+MPP; Sweden;
+case–cohort study
+698 (202 T2D);
+6.3 years
+Untargeted;
+LC-MS
+Plasma
+Incident T2D
+Age, sex, fasting glucose,
+and BMI
+(+): N2,N2-dimethylguanosine,
+7-methylguanine,
+3-hydroxy-trimethyllysine, urea
+Yes, MDC-CC,
+Sweden;
+population-based
+cohort; 3423 (402
+T2D); 18.2 years
+[62]; 2019
+PREDIMED; Spain;
+case–cohort
+853 (243 T2D);
+3.8 years
+Targeted; LC-MS
+Plasma
+Incident T2D
+Age, sex, intervention, BMI,
+smoking, dyslipidemia,
+hypertension, and baseline
+plasma glucose
+(+): lysine, 2-aminoadipic acid
+No
+[63]; 2020
+METSIM; Finland;
+population-based cohort
+4851 (522 T2D);
+7.4 years
+Untargeted;
+LC-MS
+Plasma
+Incident T2D
+Age, BMI, smoking, and
+physical activity
+(+): creatine;
+1-palmitoleoylglycerol (16:1),
+urate, 2-hydroxybutyrate,
+xanthine, xanthurenate,
+kynurenate, 3-(4-hydroxyphenyl)
+lactate, 1-oleoylglycerol (18:1),
+1-myristoylglycerol (14:0),
+dimethylglycine,
+2-hydroxyhippurate;
+(−): 1-linoleoyl-GPC (18:2)
+No
+
+Cells 2021, 10, 2832
+11 of 38
+Table 2. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome
+Adjustments
+Major Findings
+Replication
+[64]; 2021
+DFTJ; China; nested
+case–control
+1000 (500 T2D);
+4.61 years
+Untargeted;
+LC-MS
+Serum
+Incident T2D
+Age, sex, BMI, smoking
+status, drinking status, and
+physical activity
+(+): carnitine 14:0, PE 34:2, FFA
+20:4;
+(−): pipecolinic acid,
+1,5-Anhydro-D-Glucitol, LPC
+18:2, Isoleucine/leucine,
+epinephrine
+No
+[65]; 2021
+Five cohorts from
+America: HCHS/SOL;
+ARIC; FHS, WHI and a
+case–cohort study nested
+in PREDIMED;
+prospective
+9180 (2031 T2D);
+5.7 years
+LC-MS
+Serum and
+plasma
+Incident T2D
+Age, sex, smoking, alcohol
+consumption, education,
+family income, family
+history of diabetes,
+self-reported hypertension
+and/or antihypertensive
+medication use,
+self-reported dyslipidemia
+and/or lipid-lowering
+medication use, other
+study-speciﬁc covariates,
+BMI and WHR; yes
+(+): tryptophan, kynurenine,
+kynurenate, xanthurenate,
+quinolinate;
+(−): indolepropionate
+No
+[66]; 2021
+PREVEND; Netherlands;
+population-based cohort
+4828 (265 T2D);
+7.3 years
+Targeted; NMR
+Plasma
+Incident T2D
+Age, sex, family history of
+diabetes, smoking, alcohol
+assumption, BMI,
+hypertension,
+high-sensitivity C-reactive
+protein, lipid-lowering
+medication, and fasting
+glucose
+(+): small HDL;
+(−): HDL cholesterol, large HDL,
+medium HDL
+No
+IRAS, Insulin Resistance Atherosclerosis Study; WHS, Women’s Health Study; FHS, Framingham Heart Study; METSIM, Metabolic Syndrome in Men; KORA, Cooperative Health Research in the Region
+of Augsburg; EPIC, European Prospective Investigation into Cancer and Nutrition; SABRE, Southall Additionally, Brent Revisited; ULSAM, Uppsala Longitudinal Study of Adult Men; PIVUS, Prospective
+Investigation of the Vasculature in Uppsala Seniors; DFTJ, Dongfeng-Tongji; JSNCD, Jiangsu Noncommunicable Disease; RISC, Relationship Between Insulin Sensitivity and Cardiovascular Disease; SCHS,
+Singapore Chinese Health Study; DESIR, Data from an Epidemiological Study on the Insulin Resistance Syndrome; ERF, Erasmus Rucphen Family genetic isolate study; KoGES, Korean Genome and Epidemiology
+Study; ARIC, Atherosclerosis Risk in Communities; YFS, Cardiovascular Risk in Young Finns Study; DILGOM, Dietary, Lifestyle, and Genetic Determinants of Obesity and Metabolic Syndrome; NFBC,
+Northern Finland Birth Cohort; MPP, Malmö Preventive Project; MDC-CC: Malmö Diet and Cancer–Cardiovascular Cohort; PREDIMED, Prevención con Dieta Mediterránea study; HCHS/SOL, Hispanic
+Community Health Study/Study of Latinos; PREVEND: Prevention of Renal and Vascular End-Stage Disease; BMI, body-mass index; CerPE, ceramide phosphoethanolamine; CMPF, 3-carboxy-4-methyl-5-
+propyl-2-furanpropionic acid; DAG, diglyceride; eGFR, estimated glomerular ﬁltration rate; FFA, free fatty acid; FPG, fasting plasma glucose; GPC, glycerophosphocholine; HbA1C, glycated hemoglobin;
+IGT, impaired glucose tolerance; IR, insulin resistance; L-GPC, linoleoyl-glycerophosphocholine; LPC, lysophosphatidylcholine; LPE, lysophosphatidylethanolamine; LPG, lysophosphatidylglycerol; lysoPC,
+lysophosphatidylcholine; NFG, normal fasting glucose; NGT, normal glucose tolerance; PC, phosphatidylcholine; PE, phosphatidylethanolamine; PI, lysophosphatidylinositol; SM, sphingomyelin; T2D, type 2
+diabetes; TG, triacylglycerol; WHR, waist-hip ratio.
+
+Cells 2021, 10, 2832
+12 of 38
+4.1. Amino Acids
+4.1.1. Branched-Chain Amino Acids (BCAAs)
+BCAAs (isoleucine, leucine, and valine) have been found to be altered among obese
+vs. lean humans, and were found to contribute to insulin resistance in experimental
+studies [67]. First reported in the Framingham Heart Study (FHS) and subsequently
+replicated in the Malmö Diet and Cancer study [38], BCAAs and two aromatic amino
+acids (AAAs, tyrosine and phenylalanine) were found to be associated with increased
+risk of T2D during a 12-year follow-up, and the associations remained signiﬁcant after
+adjustment for age, sex, body-mass index (BMI), and fasting glucose [38]. The combination
+of three amino acids (isoleucine, tyrosine, and phenylalanine) could predict T2D (odds ratio
+[OR] 2.42, 95% conﬁdence interval [CI] 1.66–3.54). Furthermore, compared to individuals
+from the lowest quartile, people in the highest quartile had an odds ratio of 5.99 (95%
+CI, 2.34–15.34) for diabetes [38]. Multiple studies across different ethnicities have since
+replicated the association between BCAAs and risk of diabetes [39,45,47,51–54,57,59,60].
+BCAAs have been found to be related to insulin resistance in animal and human studies [68],
+however, it remains unclear whether BCAAs contribute to diabetes in a causal manner.
+Residual confounding and reverse causation in observational studies often hamper the
+causal inference between biomarkers and outcomes. Using genetic variants mimicking
+the life-time effects of an environmental exposure which are ﬁxed at conception as the
+instrumental variable, Mendelian randomization (MR) studies have been utilized to explore
+the potential causal link between exposures and outcomes. One MR study found that a GRS
+(genetic risk score) for insulin resistance causally increased BCAAs levels, while genetically
+increased BCAAs were not associated with insulin resistance [69]. Another two-sample
+MR study further supported a causal link between insulin resistance and BCAAs [70].
+Despite lacking a direct causal link with diabetes, these results suggest that BCAAs may
+lie on the causal pathway from insulin resistance to diabetes by mediating the effect of
+insulin resistance on the development of diabetes, since BCAAs levels have been found to
+be increased by obese microbiomes, and there is decreased oxidation in the adipose tissue
+and liver in people with insulin resistance [71] (Figure 2). BCAAs may therefore serve as
+predictive biomarkers, especially given their levels may be increased as early as a decade
+before overt diabetes.
+Figure 2. The role of BCAAs in the progression from insulin resistance to type 2 diabetes. In mendelian randomization
+studies, genetically predicted insulin resistance increased BCAAs, rather than the reverse. BCAAs oxidation in adipose
+tissue and liver was decreased in people with insulin resistance, leading to elevated circulating BCAAs. Obese microbiomes
+could elevate BCAAs. One of the BCAAs, leucine, could activate the mTOR pathway. The above ﬁndings suggest a potential
+mediating role of BCAAs in the progression from insulin resistance to type 2 diabetes. Increased BCAAs oxidation in skeletal
+muscle depletes the intracellular pool of glycine and increases 3-hydroxyisobutyrate production, resulting in skeletal muscle
+lipotoxicity, which may be the mechanism linking BCAAs and insulin resistance. BCAAs, branched-chain amino acids; MR,
+mendelian randomization; mTOR, mechanistic target of rapamycin.
+
+Cells 2021, 10, 2832
+13 of 38
+4.1.2. Aromatic Amino Acids
+Tyrosine and phenylalanine, two kinds of AAAs, have also been associated with
+risk of diabetes [38,39,45,47,49,54,56,59,60]. Analyses in individuals with normal fasting
+glucose from the FHS found a positive association between phenylalanine and future
+diabetes, and the consistent ﬁndings in MR studies further supported a potential causal
+role of phenylalanine in the pathogenesis of diabetes [58]. A breakdown product of
+phenylalanine, 3-(4-hydroxyphenyl) lactate, has been found to be associated with decreased
+insulin secretion and diabetes in the Metabolic Syndrome in Men (METSIM) study [63].
+Results from the Southall Additionally, Brent Revisited (SABRE) study suggested a stronger
+association of tyrosine with diabetes in South Asians than in Europeans, indicating that
+the metabolic proﬁle may differ between different ethnicities, and that metabolites may
+be helpful towards exploring ethnic differences in diabetes incidence. Tyrosine may be an
+ideal predictive biomarker for diabetes in South Asians [45].
+4.1.3. Other Amino Acids
+Glycine, a nonessential amino acid [72], was found to be inversely associated with
+diabetes in Europeans [40,42,47,58], whereas a positive association has been reported in
+a Chinese population [51]. The MR analysis from the FHS suggested a potential causal
+link between glycine and diabetes, with the genetically predicted glycine being inversely
+associated with risk of diabetes [58]. However, a study including 74,124 T2D cases and
+824,006 controls did not ﬁnd an association between genetically predicted glycine and
+diabetes risk [73]. Furthermore, the study found that genetically higher insulin resistance
+was associated with lower levels of glycine, suggesting a mediating role of glycine between
+insulin resistance and diabetes [73]. Alanine, a nonessential amino acid synthesized from
+pyruvate and BCAAs, has also been reported to be associated with diabetes [39,47,49,54,56].
+Glutamate, synthesized from α-ketoglutaric acid in the citric acid cycle, has been found to
+be associated with the risk of diabetes [47,52,60] and a reverse association of glutamine,
+a transamination product of glutamate, has been reported [39,52]. The biological roles of
+these amino acids in the development of diabetes are, however, yet to be elucidated.
+4.2. Organic Acids
+Alpha-hydroxybutyrate, a product of threonine and methionine, upstream of the
+tricarboxylic acid (TCA) cycle, has been associated with impaired glucose tolerance and
+diabetes [41,50,52,53,63]. Ketone bodies are an important alternative energy source during
+fasting, and levels of ketone bodies represent the balance of production (ketogenesis)
+and utilization (ketolysis). Acetoacetate, converted from free fatty acids (FFAs), has been
+associated with impaired insulin secretion and diabetes [43].
+4.3. Lipids
+4.3.1. Lipoproteins
+Individuals with T2D commonly exhibit dyslipidemia, namely, high levels of triglyc-
+erides and small dense LDL particles, low levels of high-density lipoprotein (HDL) choles-
+terol, and normal or near-normal low-density lipoprotein (LDL) cholesterol levels [74].
+NMR has emerged as a novel method to measure lipoprotein particles [75], and has been
+applied in investigations on lipoproteins and onset of diabetes. In the Insulin Resistance
+Atherosclerosis Study (IRAS), very-low-density lipoprotein (VLDL) size and small HDL
+were associated with increased risk of diabetes, independent of triglycerides and HDL
+cholesterol in prediabetic subjects [36]. In the Women’s Health Study (WHS), both lipopro-
+tein particle size and concentration have been associated with incident diabetes during
+13-year follow-up; VLDL size, total/large/small VLDL concentration, and small LDL and
+HDL were positively associated with diabetes, while large LDL and HDL were inversely
+associated [37]. Analyses from Finnish populations have also found a positive association
+for VLDL and a negative association for HDL [46,59]. Recent analyses from the Prevention
+of Renal and Vascular End-Stage Disease (PREVEND) study with detailed HDL subspecies
+
+Cells 2021, 10, 2832
+14 of 38
+measurements reported heterogeneous associations between HDL subclasses and inci-
+dent diabetes: larger HDL size and particles were associated with lower risk of incident
+diabetes [66].
+4.3.2. Fatty Acids
+FFAs are produced during hydrolysis of triglycerides [76]. Under the insulin-resistant
+state, increased lipolysis leads to overproduction of FFAs. In the METSIM study, saturated
+FAs were associated with increased risk of diabetes, while an inverse association has been
+found between unsaturated FAs and diabetes [44]. Furthermore, monounsaturated FAs
+(MUFAs%) were associated with risk of diabetes in a prospective study combining four
+Finnish cohorts over 8–15 years of follow-up, and polyunsaturated FAs (PUFAs%), mainly
+n-6 FAs, were associated with decreased risk of diabetes [59]. A two-sample MR study
+suggested potential causal associations between FAs and fasting glucose, beta cell function,
+and diabetes [77]. Genetically predicted linoleic acid, the main n-6 PUFAs, has been consis-
+tently associated with lower risk of diabetes in a two-sample MR using different genetic
+variants and analytical approaches [78]. FAs can be derived from dietary triglycerides and
+phospholipids and dietary counselling has been shown to modify circulating FAs levels [79].
+With possible causal links with diabetes, FAs may be emerging as new intervention targets
+for the prevention of diabetes.
+5. Metabolomics in Diabetic Kidney Disease
+The kidneys are metabolically active organs involved in modulating the circulating
+levels of metabolites through ﬁltration, reabsorption, secretion, and metabolism (including
+catabolism and anabolism). Consequently, changes in metabolite concentrations may reﬂect
+kidney function, and these changes may even precede the onset or progression of kidney
+disease, hence providing insights into the development and progression of DKD. Creatinine
+is one of the commonly applied metabolites that is freely ﬁltered at the glomerulus, and not
+reabsorbed, with only limited secretion by tubules [80]. Serum creatinine can be used to
+estimate glomerular ﬁltration rate (eGFR) noninvasively, however, creatinine is signiﬁcantly
+increased at more advanced stages of CKD (CKD stage three and onward) and is affected
+by age, sex, race, and muscle mass. The identiﬁcation of early markers is warranted given
+the availability of treatments which can prevent and delay DKD progression. Metabolomic
+studies have been applied to investigate blood or urine metabolomic biomarkers for DKD
+and have provided novel insights into the mechanisms leading to DKD and its progression,
+which make potential therapeutic targets possible. Table 3 summarized metabolomic
+investigations in DKD [81–107].
+
+Cells 2021, 10, 2832
+15 of 38
+Table 3. Circulating metabolites associated with diabetic kidney disease in human studies.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[81]; 2009
+China;
+case–control
+119 (31 control: no DM
+and DN, 23 T2D without
+DN, 65 T2D and DN)
+Targeted; LC-MS
+Plasma
+NA
+NA
+Higher levels of inosine, adenosine, uric
+acid, and xanthine in DN group
+compared with control or T2D without
+DN group
+No
+[82]; 2012
+Japan;
+case–control
+78 T2D
+(20 normoalbuminuria,
+32 microalbuminuria,
+26 macroalbuminuria)
+Untargeted; MS
+Serum
+NA
+No
+Higher levels of creatinine, aspartic acid,
+γ-butyrobetaine, citrulline, SDMA and
+kynurenine and lower levels of azelaic
+acid and galactaric acid in
+macroalbuminuria group compared with
+normoalbuminuria group
+No
+[83]; 2012
+FinnDiane;
+Finland; nested
+case–control
+52 T1D (26 progressing
+to micro/
+macroalbuminuria,
+26 nonprogressor);
+5.5 years
+Untargeted;
+LC-MS and
+GC-MS
+Urine
+Progression from
+normoalbuminuria
+to micro- or
+macro-albuminuria;
+26
+No
+Higher level of substituted carnitine and
+S-(3-oxododecanoyl) cysteamine and
+lower level of hippuric acid in progressors
+No
+[84]; 2012
+FinnDiane;
+Finland;
+cross-sectional
+326 T1D (182 normal
+AER,
+58 microalbuminuria,
+86 macroalbuminuria)
+Targeted; NMR
+Serum
+24 h AER
+Diabetes duration, gender,
+waist, SBP, HbA1C,
+triglycerides, HDL
+cholesterol, and serum
+creatinine
+(+): sphingomyelin
+No
+[85]; 2013
+America;
+case–control
+47: 23 healthy control,
+24 T2D with CKD
+(screening group)
+Targeted;
+GC-MS
+Urine and
+plasma
+NA
+Age, race, and sex
+Lower levels of urine 3-hydroxy
+isovalerate, aconitic acid, citric acid,
+2-ethyl 3-OH propionate, glycolic acid,
+homovanillic acid, 3-hydroxyisobutyrate,
+2-methylacetoacetate, 3-methyladipic
+acid, 3-methylcrotonylglycine,
+3-hydroxypropionate, tiglylglycine, and
+uracil in DM with CKD group compared
+with control group
+Yes; 61 diabetes
+(12 T1D and 49
+T2D) with CKD
+as validation
+group
+[86]; 2014
+PREVEND;
+Netherlands;
+The Steno
+Diabetes Center;
+Denmark; nested
+case–control
+90 T2D (24 from
+normoalbuminuria to
+microalbuminuria,
+24 normoalbuminuria
+control; 21 from
+microalbuminuria to
+macroalbuminuria,
+21 microalbuminuria
+control); 2.9 years
+Targeted; LC-MS
+Urine and
+Plasma
+Transition from
+normo- to
+micro-albuminuria
+or from micro- to
+macro-albuminuria;
+24 from normo- to
+micro-albuminuria,
+21 from micro- to
+macro-albuminuria
+Baseline UAE and eGFR
+Higher plasma levels of butenoylcarnitine
+and lower levels of plasma histidine,
+urine hexose, urine glutamine, and urine
+tyrosine in patients progressing from
+microalbuminuria to macroalbuminuria
+compared with controls
+No
+
+Cells 2021, 10, 2832
+16 of 38
+Table 3. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[87]; 2014
+DCCT; America;
+prospective
+497 T1D; 14–20 years
+Targeted; LC-MS
+Plasma
+Incident
+macroalbuminuria;
+65
+DCCT Treatment Group,
+baseline retinopathy status,
+use of ACE/ARB drugs
+during study period,
+gender, and baseline
+measures of duration of
+T1DM, age, HbA1C %, BMI,
+triglyceride levels, and
+AER
+(−): very long chain ceramide species
+(C20, C22:1, C24, C26, and C26:1)
+No
+[88]; 2014
+The Joslin Study
+of the Genetics
+of Type 2
+Diabetes and
+Kidney
+Complications;
+America; nested
+case–control
+80 T2D (40 incident
+ESRD, 40 without ESRD);
+8–12 years
+Targeted and
+untargeted;
+LC-MS and
+GC-MS
+Plasma
+Incident ESRD: renal
+death, renal
+replacement therapy
+HbA1C, AER, and eGFR
+(+): p-cresol sulfate, gulono-1,4-lactone,
+threitol, erythronate, pseudouridine,
+N2,N2-dimethylguanosine,
+N4-acetylcytidine, C-glycosyltryptophan,
+glutaroyl carnitine,
+methylglutarylcarnitine,
+3-dehygrocarnitine, urea, myo-inositol,
+urate, phenylacetylglutamine;
+(−): 2-hydroxyisocaproate,
+2-oxoisoleucine, 2-hydroxyisovalerate,
+2-hydroxybutyrate
+No
+[89]; 2015
+GO-DARTS;
+Scotland; nested
+case–control
+307 T2D with baseline
+eGFR
+30–60 mL/min/1.73 m2;
+3.5 years
+Targeted; LC-MS
+Serum
+Rapid eGFR
+progression: >40%
+compared with
+baseline; 154
+Age, sex, eGFR,
+albuminuria status, HbA1C,
+use of ACE inhibitors, and
+use of ARBs
+(+): C16-acylcarnitine, creatinine,
+methylmalonic acid, n-acetylaspartate,
+sialic acid, SDMA, SDMA/ADMA, uracil;
+(-): lysine, tryptophan
+No
+[90]; 2016
+Singapore;
+case–control
+129 T2D without DKD
+(control), 126 T2D with
+ACR 30–299 mg/g and
+eGFR 60 mL/min/
+1.73 m2 (early DKD),
+154 T2D with ACR
+≥300 mg/g or eGFR
+<60 mL/min/1.73 m2
+(overt DKD)
+Targeted; LC-MS
+and GC-MS
+Plasma
+NA
+Age, sex, and ethnicity
+Higher levels of C2, C3, C4, C4-OH, C5,
+C4-DC, C5:1, C5-DC, C5-OH/C3-DC, C6,
+C8-OH/C6-DC, C14:1-OH,
+C14-OH/C12-DC, C18-OH/C16-DC
+acylcarnitines, Cer 18:1/16:0, GlcCer
+18:1/18:0, SM 18:1/16:1, and sphingosine
+and lower levels of serine, (32:2, 34:3, 36:6,
+38:3, 40:5) in overt DKD compared with
+control group
+Yes, 149 T2D
+without DKD,
+149 T2D with
+overt DKD
+[91]; 2016
+Italy;
+prospective
+286 T2D; 3 years
+Untargeted;
+LC-MS and
+GC-MS
+Urine and
+serum
+Association with
+baseline eGFR and
+ACR; incident
+>10 mL/min/1.73 m2
+eGFR decline;
+incident >14 mg/g
+ACR increase;
+number not given
+Gender, age, glucose, and
+baseline eGFR
+(+): C-glycosyl tryptophan,
+pseudouridine, N-acetylthreonine
+No
+
+Cells 2021, 10, 2832
+17 of 38
+Table 3. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[92]; 2017
+China;
+case–control
+20 healthy controls
+(control); 25 T2D with
+UACR <30 mg/g (T2D);
+24 T2D with UACR
+≥30 mg/g (DKD)
+Untargeted;
+GC-MS
+Urine
+NA
+No
+Higher levels of uric acid, stearic acid,
+palmitic acid, and hippuric acid and
+lower levels of uracil, glycine, aconitic
+acid, isocitric acid, 4-hydroxybutyrate,
+glycolic acid, and 2-deoxyerythritol in
+DKD compared with control or compared
+with T2D group
+No
+[93]; 2017
+The Joslin
+Proteinuria
+Cohort Study;
+America;
+prospective
+158 T1D with proteinuria
+and stage three CKD;
+11 years
+Targeted; LC-MS
+and GC-MS
+Serum
+Incident ESRD: renal
+death or renal
+replacement therapy;
+99
+Blood pressure, BMI,
+smoking status, HbA1C,
+ACR, eGFR, uric acid
+levels, treatment with
+renin-angiotensin system
+inhibitors, other
+antihypertensive treatment,
+and statins
+(+): n-acetylserine, n-acetylthreonine,
+n6-acetyllysine,
+n6-carbamoylthreonyladenosine,
+c-glycosyltryptophan, pseudouridine,
+o-sulfotyrosine
+No
+[94]; 2018
+FinnDiane;
+Finland; nested
+case–control
+200 T1D (102 progressing
+to microalbuminuria,
+98 nonprogressors); 3.2
+and 7.1 years,
+respectively
+Untargeted;
+LC-MS and
+GC-MS
+Serum
+Progression to
+microalbuminuria;
+102
+Age of diabetes onset,
+HbA1C, and AER
+(+): erythritol, 3-phenylpropionate,
+N-trimethyl-5-aminovalerate
+No
+[95]; 2018
+ADVANCE;
+Australia;
+case–cohort
+3587 T2D; 5 years
+Targeted; NMR
+Plasma
+Major microvascular
+events: a composite
+of new or worsening
+nephropathy or
+retinopathy; 342
+Age, sex, region and
+randomized treatment, a
+prior macrovascular
+complication, duration of
+diabetes, current smoking,
+systolic blood pressure,
+BMI, ACR, eGFR, HbA1C,
+plasma glucose, total
+cholesterol,
+HDL-cholesterol,
+triacylglycerols, aspirin or
+other antiplatelet agent,
+statin or other
+lipid-lowering agent,
+β-blocker, ACE inhibitor or
+angiotensin receptor
+blocker, metformin use,
+history of heart failure,
+participation in moderate
+and/or vigorous exercise
+for >15 min at least once
+weekly, and
+high-sensitivity CRP
+(−): alanine, tyrosine
+No
+
+Cells 2021, 10, 2832
+18 of 38
+Table 3. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[96]; 2018
+Macroalbuminuric
+DKD; Brazil;
+prospective
+56 with T2D; 2.5 years
+Untargeted,
+GC-MS
+Plasma
+All-cause death,
+doubling of baseline
+serum creatinine
+and/or dialysis
+initiation; 17
+eGFR
+(−): 1,5-anhydroglucitol, norvaline,
+l-aspartic acid
+No
+[97]; 2018
+GenodiabMar;
+not given;
+TwinsUK;
+Britain; KORA;
+Germany;
+prospective
+655 T2D from
+GenodiabMar; 111 T2D
+from TwinsUK; 160 T2D
+from KORA;
+cross-sectional
+Targeted; NMR
+Serum
+Association with
+baseline eGFR; 926
+Age, gender, and BMI
+(+): apolipoprotein A1, total cholesterol in
+HDL2, total cholesterol in very large HDL,
+total cholesterol in HDL, free cholesterol
+in medium HDL, cholesterol esters in
+very large HDL, concentration of very
+large HDL particles, concentration of
+medium HDL particles, total lipids in
+medium HDL, phospholipids in medium
+HDL, esteriﬁed cholesterol, total
+cholesterol, total cholesterol in large LDL,
+total cholesterol in large LDL, total
+cholesterol in medium LDL, total
+cholesterol in small LDL, total cholesterol
+in LDL, total cholesterol in IDL, free
+cholesterol in large LDL, free cholesterol
+in medium LDL, free cholesterol in small
+LDL, free cholesterol in IDL, cholesterol
+esters in large LDL, cholesterol esters in
+medium LDL, cholesterol esters in small
+LDL, cholesterol esters in IDL,
+concentration of large LDL particles,
+concentration of IDL particles, total lipids
+in large LDL, total lipids in medium LDL,
+total lipids in small LDL, total lipids in
+IDL, phospholipids in large LDL,
+phospholipids in medium LDL,
+phospholipids in small LDL,
+phospholipids in IDL;
+(−): glycine, phenylalanine, citrate,
+glycerol
+No
+
+Cells 2021, 10, 2832
+19 of 38
+Table 3. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[98]; 2019
+The
+Renoprotection
+in Early Diabetic
+Nephropathy in
+Pima Indians
+trial; America;
+prospective
+92 T2D with baseline
+eGFR
+≥90 mL/min/1.73 m2;
+9.6 years
+Untargeted;
+LC-MS
+Serum
+≥40% reduction in
+eGFR compared
+with baseline; 32
+GFR and ACR
+(+): unsaturated PEs;
+(−): unsaturated FFAs
+No
+[99]; 2019
+Denmark;
+prospective
+cohort study
+637 T1D; 5.5 years
+Targeted;
+GC-MS
+Serum
+Combined renal
+endpoint: ≥30%
+decrease in eGFR,
+ESRD, or all-cause
+mortality; 123
+Age, sex, HbA1C, SBP,
+smoking, BMI, statin
+treatment, triglycerides,
+total cholesterol, eGFR, and
+logAER
+(+): ribonic acid;
+(−): isoleucine, leucine, valine
+No
+[100]; 2019
+China; nested
+case–control
+52 T2D with
+macroalbuminuria and
+eGFR >90 mL/min/
+1.73 m2 (25 progressors
+and 27 nonprogressors);
+5–6 years
+Targeted and
+untargeted;
+LC-MS
+Urine
+Early progressive
+renal function
+decline: at least a
+33.3% decline of
+eGFR and eGFR <60
+mL/min/1.73 m2; 25
+No
+(−): 5-hydroxyhexanoic acid
+No
+[101]; 2019
+GoDARTS;
+Scotland; nested
+case–control;
+SDR; Sweden;
+prospective;
+CARDS; Britain;
+clinical trial
+430 T2D from GoDARTS,
+227 T2D from SDR, 183
+from CARDS; 7 years
+MS
+Serum
+>20% eGFR
+reduction compared
+with baseline; 403
+Age, sex, baseline eGFR,
+albuminuria, HbA1C, and
+calendar time
+(+): ADMA, SDMA
+No
+[102]; 2019
+SDRNT1BIO;
+Scotland;
+prospective
+859 T1D with baseline
+eGFR
+30–75 mL/min/1.73 m2;
+5.2 years
+Targeted; LC-MS
+Serum
+Rapid eGFR decline
+during follow-up: >
+3 mL/min/1.72
+m2/year; 194
+Age, sex, duration of
+diabetes, study day eGFR,
+and length of follow-up
+(+): free sialic acid;
+(−): tryptophan/kynurenine, threonine,
+methionine, tryptophan
+No
+[103]; 2020
+Denmark;
+case–control
+211 (50 heathy control,
+161 T1D:
+50 normoalbuminuria,
+50 micoralbuminuria,
+61 macroalbuminuria);
+cross-sectional
+Targeted; MS
+Plasma
+NA
+Use of medication, HbA1C,
+and diabetes duration
+Higher levels of indoxyl sulphate,
+L-citrulline in T1D and macroalbuminuria
+group compared with normo-or
+microalbuminuria group; higher levels of
+homocitrulline, L-kynurenine and lower
+level of tryptophan in macroalbuminuria
+group compared with
+normoalbuminuria group
+No
+
+Cells 2021, 10, 2832
+20 of 38
+Table 3. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[104]; 2020
+KORA;
+Germany;
+population-
+based
+cohort
+385 prediabetes or T2D;
+6.5 years
+Targeted; LC-MS
+Serum
+Incident CKD: eGFR
+<60 mL/mL/min/
+1.73 m2 and/or
+UACR ≥30 mg/g;
+85
+Age, sex, BMI, SBP,
+smoking status,
+triglyceride, total
+cholesterol, HDL
+cholesterol, fasting glucose,
+use of lipid-lowering,
+antihypertensive and
+antidiabetic medications,
+baseline eGFR, and ACR
+(+): PC aa (C38:0, C42:0, C40:6), SM (OH)
+(C14:1, C16:1), SM (C16:0, C16:1, C18:0,
+C18:1, C20:2, C24:1, C26:1);
+(−): PC aa C32:2
+No
+[105]; 2020
+CRIC; America;
+prospective
+cohort study
+1001 diabetes with
+baseline eGFR 20–70
+mL/min/1.73 m2;
+8 years
+Untargeted; MS
+Urine
+ESRD (incident
+kidney failure with
+replacement
+therapy); 359
+Age, race, sex, smoked
+more than 100 cigarettes,
+BMI, HbA1C, mean arterial
+pressure, AER, and
+baseline eGFR
+(+): 3-hydroxypropionate,
+3-hydroxyisobutyrate, glycolic acid
+No
+[106]; 2020
+5 Dutch cohort
+studies: DCS
+West-Friesland,
+the Maastricht
+study, the
+Rotterdam study,
+the Netherlands
+Epidemiology of
+Obesity study,
+the Cohort of
+Diabetes and
+Atherosclerosis
+Maastricht study
+3089 T2D; 4–7 years
+Targeted; NMR
+Plasma
+Cross-sectional
+association with
+baseline eGFR and
+ACR
+Age, sex, use of statins,
+other lipid-modifying
+agents, oral
+glucose-lowering
+medications, insulins,
+RAS-blocking agents and
+other antihypertensives,
+SBP, BMI, smoking,
+diabetes duration, HbA1C,
+and baseline ACR/UAE
+1) For baseline eGFR:
+(+): tyrosine, lactate, glucose, HDL
+particle, HDL cholesterol, apo A1,
+(−): phenylalanine, isoleucine, glutamine,
+histidine, leucine, glycoprotein acetyls,
+citrate, acetoacetate, VLDL particle,
+non-HDL cholesterol, triglycerides, lipid
+components in IDL and LDL
+2) for baseline ACR:
+(+): glucose, glycoprotein acetyls,
+phosphatidylcholine and other cholines,
+free cholesterol in large VLDL;
+(−): very large HDL particle, glutamine
+No
+[107]; 2020
+FinnDiane;
+Finland;
+nationwide
+prospective
+cohort
+1087 T1D; 10.7 years
+Targeted; NMR
+Serum
+Fastest eGFR decline:
+highest quartile of
+eGFR decline over
+follow up
+(−4.4 mL/min/
+1.73 m2) and
+progression from
+macroalbuminuria to
+ESRD
+Age at diabetes onset, sex,
+diabetes duration,
+smoking, SBP, HbA1C, BMI,
+HDL cholesterol, and
+triacylglycerols
+(+): sphingomyelin
+No
+FinnDiane, Finnish Diabetic Nephropathy Study Group; PREVEND, Prevention of Renal and Vascular End-stage Disease; DCCT, Diabetes Control and Complications Trial; GO-DARTS, Genetics of Diabetes
+Audit and Research Tayside Study; ADVANCE, Action in Diabetes and Vascular Disease: Preterax and Diamicron Modiﬁed Release Controlled Evaluation; SDR, Scania Diabetes Registry; CARDS, Collaborative
+Atorvastatin in Diabetes Study; SDRNT1BIO, Scottish Diabetes Research Network Type 1 Bioresource; CRIC, The Chronic Renal Insufﬁciency Cohort; DCS, Hoorn Diabetes Care System; ACE, angiotensin
+converting enzyme; ADMA, asymmetric dimethylarginine; AER, albumin excretion rate; Apo A1, apolipoprotein A1; ARB, angiotensin receptor blocker; Cer, ceramide; CRP, C-reactive protein; DN, diabetic
+nephropathy; FFAs, free fatty acids; GlcCer, glucosylceramide; PC; phosphatidylcholine; Pes, phosphatidylethanolamines; SDMA, symmetric dimethylarginine; SM, sphingomyelin; UAE, urinary albumin excretion.
+
+Cells 2021, 10, 2832
+21 of 38
+5.1. Amino Acids
+5.1.1. Asymmetric Dimethylarginine (ADMA) and Symmetric Dimethylarginine (SDMA)
+ADMA (an inhibitor of nitric oxide [NO] syntheses) and SDMA are arginine metabo-
+lites formed during enzymatic methylation of arginine residuals. SDMA is a structural
+isomer of ADMA and is excreted directly by the kidney without any metabolism. A higher
+serum level of SDMA has been found in people with DKD [82] and SDMA or its ratio to
+ADMA was predictive of rapid kidney function decline in T2D, independent of baseline
+eGFR and albuminuria [89,101]. ADMA is metabolized into citrulline and dimethylamine
+in the kidneys and has been associated with rapid kidney function decline in T2D, possibly
+due to endothelial dysfunction [101].
+5.1.2. Aromatic Amino Acids
+Both tryptophan (an essential amino acid) and its downstream metabolites, such as
+kynurenine, are altered in DKD [88,89,91,93,102,103]. Impaired kidney function upregu-
+lates tryptophan metabolism pathways and results in increased kynurenine production,
+stimulating leukocyte activation, cytokine production, oxidative stress, and inﬂamma-
+tion [108] (Figure 3). Higher serum levels of tryptophan (or tryptophan/kynurenine) have
+been found to be inversely associated with rapid eGFR decline in patients with DKD at
+baseline, independent of baseline renal function [89,102]. Similarly, elevated levels of
+tryptophan downstream metabolites were positively associated with DKD progression
+both in patients with type 1 diabetes (T1D) and T2D [88,91,93].
+ 
+Figure 3. Tryptophan metabolic pathway and development and progression of CKD. Tryptophan is an essential amino
+acid that cannot be synthesized in the body. A minor fraction of tryptophan (<5%) is metabolized by the indole pathway
+to produce indoxyl sulfate. Most tryptophan (around 95%) is metabolized by the kynurenine pathway. Downstream
+metabolites of tryptophan, including indoxyl sulfate, kynurenic acid, picolinic acid, xanthurenic acid, quinolinic acid, and
+NAD, contribute to oxidative stress, inﬂammation, and immune response, which lead to the development and progression
+of CKD. CKD, chronic kidney disease; NAD, nicotinamide adenine dinucleotide.
+Tyrosine and phenylalanine have also been associated with kidney function and al-
+buminuria in patients with diabetes. A meta-analysis of ﬁve cohorts of patients with T2D
+found a strong inverse association between phenylalanine and baseline eGFR after a com-
+
+Cells 2021, 10, 2832
+22 of 38
+prehensive adjustment for confounding variables, including albuminuria [106], in line with
+a study comprising three cohorts of patients with T2D [97]. Analyses from the Action in
+Diabetes and Vascular Disease: Preterax and Diamicron Modiﬁed Release Controlled Eval-
+uation (ADVANCE) trial found a crude association of phenylalanine with macrovascular
+disease and all-cause mortality in T2D, however, adjustment for cardiovascular risk factors
+attenuated the associations, and phenylalanine was not associated with microvascular
+disease prospectively [95]. Tyrosine is synthetized by the hydroxylation of phenylalanine
+through phenylalanine hydroxylase. In the setting of CKD, dysfunctional activity of pheny-
+lalanine hydroxylase leads to impaired conversion of phenylalanine to tyrosine, resulting
+in higher phenylalanine and lower tyrosine [109]. In contrast to phenylalanine, tyrosine
+has been both cross-sectionally [106] and prospectively [93,95] associated with DKD. A
+higher level of tyrosine has been associated with higher baseline eGFR [106] and lower
+risk of microvascular disease in ADVANCE [95]. The downstream metabolite of tyrosine
+(o-sulfotyrosine) has been positively associated with ESKD in a Joslin proteinuria cohort
+including patients with T1D, proteinuria and stage three CKD [93].
+5.1.3. Other Amino Acids
+Leucine and isoleucine have been inversely associated with baseline eGFR in patients
+with T2D using NMR [106]. However, a study from Steno Diabetes Center Copenhagen
+using GC-MS found that BCAAs were associated with lower risk of a combined endpoint
+(kidney dysfunction or all-cause mortality) in patients with T1D [99]. A study from
+ADVANCE also found that leucine and valine were inversely associated with all-cause
+mortality in patients with T2D, while alanine, synthesized from BCAAs, was inversely
+associated with microvascular disease, indicating the complex interactions between BCAAs
+and diabetes and its complications [95]. Threonine, an essential amino acid involved in
+the production of glycine, has been associated with lower risk of rapid eGFR decline in
+patients with T1D [102], and the downstream metabolite of threonine (n-acetylthreonine)
+was predictive of fast eGFR decline in patients with T2D [91] and ESKD in patients with
+T1D [93].
+5.1.4. Organic Acids Involved in Energy Metabolism
+Uracil, a pyrimidine derivative, was altered in urine samples from patients with
+DKD [85,92]. Pseudouridine, synthesized from uracil, showed association with eGFR
+decline and urinary albumin–creatinine ratio (UACR) increase in patients with T2D [91]
+and ESKD in patients with T1D or T2D from studies in Joslin [88,93]. 3-hydroxyisobutyrate,
+a catabolic intermediate of valine which is produced in mitochondria, has been shown
+to be altered in patients with DKD [85] and has been found to be associated with ESKD
+in patients with diabetes in the Chronic Renal Insufﬁciency Cohort (CRIC) Study [105].
+Alpha-hydroxybutyrate, positively associated with insulin resistance and diabetes as men-
+tioned above, however, has been found to be associated with lower risk of ESKD in patients
+with T2D [88]. Glycine has been found to be reduced in urine samples from patients
+with established DKD [92], and glycolic acid, an intermediate of glycine, was also re-
+duced [85,92] and was associated with ESKD in analyses from CRIC [105]. Acetoacetate
+has also been inversely associated with baseline eGFR in patients with T2D [106], and
+2-methylacetoacetate, an intermediate of isoleucine metabolism, was reduced in urine from
+patients with DKD [85]. The abovementioned metabolites are all produced in the mito-
+chondria and are involved in energy metabolism, suggesting that mitochondrial function
+is dysregulated in DKD.
+5.2. Lipids
+5.2.1. Lipoproteins
+HDL particles and their composition (cholesterol and apolipoprotein A1) have been
+found to be cross-sectionally associated with higher baseline eGFR in studies combining
+several T2D cohorts using NMR, whereas triglyceride-rich lipoproteins and their lipid
+
+Cells 2021, 10, 2832
+23 of 38
+components were inversely associated, and HDL particles were also negatively associated
+with albuminuria [97,106]. A two-sample MR study using the Global Lipids Genetics
+Consortium (n = 188,577) and the CKD Genetics Consortium (n = 133,814) suggested a
+causal link between HDL cholesterol and better kidney function: genetically increased
+HDL cholesterol was associated with 0.8% higher eGFR and lower risk of incident CKD,
+and this ﬁnding was robust in all the sensitivity analyses; however, there was no strong
+evidence supporting causal associations of LDL cholesterol and triglycerides with baseline
+eGFR/UACR or incident CKD [110].
+5.2.2. Phospholipids
+Phosphatidylcholine (PC) and phosphatidylethanolamine (PE) are the two most abun-
+dant phospholipids of mammalian cell types, comprising 40–50% and 15–25% of the total
+cellular phospholipids, respectively [111]. A case–control study found lower plasma levels
+of PCs metabolites in patients with T2D and overt DKD (macroalbuminuria or CKD),
+and this ﬁnding was replicated in another group of patients [90]. A prospective analysis
+from the Cooperative Health Research in the Region of Augsburg (KORA) also found that
+serum PCs were predictive of incident CKD in hyperglycemic patients, independent of
+conventional risk factors [104]. Unsaturated PEs have been found to be distinguishable
+between progressors (≥40% eGFR reduction) and nonprogressors in patients with T2D and
+baseline eGFR ≥90 mL/min/1.73 m2 [98]. Sphingolipids are also important constituents
+of cell membranes and have been involved in cell signaling and activation. Ceramides, the
+essential precursors of sphingolipids, and sphingomyelin, the most common sphingolipids,
+were altered in patients with DKD. Higher plasma levels of ceramide metabolites have
+been reported in patients with DKD [90]; studies from the Diabetes Control and Compli-
+cations Trial (DCCT) study found that higher plasma levels of very-long-chain ceramides
+were associated with incident macroalbuminuria in patients with T1D during 14–20 years
+of follow-up [87]. Sphingomyelin level has been found to be elevated in patients with
+DKD [84] and was associated with incident CKD in hyperglycemic patients [104] and
+progression of DKD in patients with T1D [107].
+5.2.3. Fatty Acids and Acylcarnitines
+Apart from the link between insulin resistance and diabetes, FFAs have also been
+found to be predictive of DKD progression. Among patients with T2D and baseline eGFR
+≥90 mL/min/1.73 m2, unsaturated FFAs were associated with lower risk of ≥40% eGFR
+reduction during follow-up [98]. Although associated with macrovascular events and
+death, FAs were however, not associated with microvascular events or onset or worsening
+of nephropathy in the ADVANCE trial [112]. Acylcarnitines, involved in the β-oxidation
+of FAs in the mitochondria and barely detectable in nonpathological conditions, have
+also been found to be elevated in DKD [90]. C16-acylcarnitine was a strong predictor of
+fast eGFR decline in patients with T2D and CKD at baseline, independent of traditional
+risk factors [89]. Disturbed lipid metabolism (remodeling of sphingolipid or impaired
+β-oxidation of FAs) indicates once again the perturbation of energy metabolism and the
+role of mitochondrial dysfunction in the development and progression of DKD.
+5.3. Sodium–Glucose Cotransporter-2 Inhibitors (SGLT2i)
+SGLT2i reduced the risk of albuminuria and progression of DKD in patients with T2D
+in multiple clinical trials [15,113,114], however, its underlying effective pathways remain
+unclear. Metabolomics have been applied to explore potential molecular mechanisms
+mediating the protective effects of SGLT2i on DKD. Dapagliﬂozin has been suggested
+to improve mitochondrial function. Levels of a panel of urinary metabolites previously
+linked to mitochondrial dysfunction were increased after 6-week of treatment using GC-
+MS [115]. A study combining metabolomics (plasma) and transcriptomics (kidney biopsy)
+found three pathways linked with energy metabolism or mitochondrial function have
+been affected by dapagliﬂozin, namely, glycine degradation (mitochondrial function),
+
+Cells 2021, 10, 2832
+24 of 38
+tricarboxylic acid cycle (TCA cycle) II (energy metabolism), and L-carnitine biosynthesis
+(energy metabolism) [116]. The improvement of mitochondrial function by SGLT2i as the
+underlying mechanism to delay the development and progression of DKD further supports
+the observation that mitochondria play a role in DKD.
+5.4. Current Challenges in Metabolomics Studies in DKD
+The kidney itself can modulate the metabolic pathways, which as a result, affects
+the levels of circulating metabolites. Furthermore, the deﬁnition of CKD in most of the
+current studies is based on eGFR rather than the measured glomerular ﬁltration rate, while
+eGFR is insufﬁcient to reﬂect early kidney dysfunction. Although changes in metabolites
+may precede the onset or progression of DKD, they may be resulted from early DKD
+which is not reﬂected by clinical manifestations or the surrogate markers (i.e., eGFR). For
+example, tyrosine is positively associated with baseline eGFR [106], as improved kidney
+function induces increased production of tyrosine from phenylalanine [109]. Tyrosine and
+its downstream metabolites are also predictive of onset or worsening of nephropathy [95]
+and ESKD [93], which may be due to the link between tyrosine and kidney function,
+that tyrosine metabolism as a reﬂection of kidney function can predict renal outcomes
+rather than being a physiological pathway. The complex interplay between the kidney and
+metabolites makes causal inference difﬁcult. However, some metabolites are predictive of
+DKD independent of baseline eGFR and albuminuria, highlighting their value as prognostic
+biomarkers. Moreover, the lack of large, prospective cohort studies and independent
+replications limit the interpretations of these observations and clinical utility of potential
+biomarkers.
+6. Metabolomics in Cardiovascular Disease
+The heart is responsible for around 10% of the fuel consumption of whole body [117]
+and beats around 2.5 to 4 billion times over an average human life, even though myocardial
+energy stores are only enough for several heart beats [118]. To meet these high energy
+need, the heart consumes more than 20 g of carbohydrates and 30 g of fat per day and
+uses 35 L of oxygen to generate adenosine triphosphate (ATP) [117]. The metabolism in
+the heart is highly ﬂexible, such that it can alter the energy utilization rapidly to adapt
+to the changes in environment via using different kinds of energy substrates, including
+glucose, fatty acids, ketone bodies, and amino acids [119]. The perturbations of metabolism
+in the heart can usually be reﬂected by the changes in the involved circulating metabolites.
+Detection and quantiﬁcation of these metabolites provide a way to investigate the under-
+lying pathogenic mechanisms of CVD. Moreover, some of the metabolites have potential
+to be biomarkers (i.e., screening, diagnostic, or prognostic biomarkers). Metabolomics
+have been comprehensively applied in studying CVD in the general population and CVD
+cohorts [119,120]. Table 4 summarizes metabolomics studies in CVD in people with dia-
+betes [95,107,112,121–127].
+
+Cells 2021, 10, 2832
+25 of 38
+Table 4. Circulating metabolites associated with cardiovascular disease in individuals with diabetes.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[121]; 2003
+EDC; America;
+nested case–control
+118 T1D (59 coronary
+artery disease);
+10 years
+Targeted;
+NMR
+Plasma
+Fatal or nonfatal myocardial
+infarction, angina, coronary
+stenosis >50%; 59
+eGDR, smoking, overt
+nephropathy, retinopathy, WHR,
+and blood-pressure lowering
+drugs
+(+): medium HDL particle, VLDL
+particle
+(−): large HDL particle
+No
+[122]; 2006
+Austria;
+cross-sectional
+136 T2D
+Targeted; LC
+Plasma
+Macrovascular disease:
+history of stroke, myocardial
+infarction, coronary heart
+disease or peripheral arterial
+occlusive disease; 55
+L-arginine, AER, homocysteine,
+and eGFR
+(+): ADMA
+No
+[123]; 2007
+SDC; Denmark;
+prospective
+572 T1D (397 with
+overt DN, 175 with
+persistent
+normoalbuminuria);
+11.3 years
+Targeted; LC
+Plasma
+fatal and nonfatal
+cardiovascular disease; 116
+Sex, age, HbA1C, SBP, GFR,
+cholesterol, smoking status,
+previous CVD events,
+antihypertensive treatment,
+NT-proBNP, and CRP
+(+): ADMA
+No
+[124]; 2007
+Austria; prospective
+125 T2D; 21 months
+Targeted; LC
+Plasma
+Cardiovascular events:
+myocardial infarction,
+percutaneous coronary
+intervention, coronary artery
+bypass graft, stroke, carotid
+revascularization, and
+all-cause mortality; 48
+Age, sex, history of
+macrovascular disease, and GFR
+(+): ADMA
+No
+[125]; 2014
+The Shiga
+Prospective
+Observational
+Follow-up Study;
+Japan; prospective
+385 T2D; 10 years
+Targeted;
+LC-MS
+Plasma
+Cardiovascular composite
+endpoints: myocardial
+infarction, angina pectoris,
+worsening of congestive
+heart failure, and stroke; 63
+Age, SBP, hypertension, log (HDL
+cholesterol), log (AER), eGFR,
+and baPWV
+(+): cardiovascular disease-amino
+acid-based index composed of
+ethanolamine, hydroxyproline,
+glutamic acid, 3-methylhistidine,
+tyrosine, tryptophan
+No
+[126]; 2016
+China; case–control
+15 healthy control, 13
+CHD, 15 T2D, 28
+T2D and CHD
+Untargeted;
+NMR
+Plasma
+No
+Higher levels of VLDL/LDL, glucose
+and lower levels of isoleucine, valine,
+isopropanol, alanine, leucine,
+arginine, acetate, proline, glutamine,
+creatine, creatinine, glycine,
+threonine, tyrosine, 3-methylhistidine
+in T2D and CHD compared with
+healthy control
+No
+
+Cells 2021, 10, 2832
+26 of 38
+Table 4. Cont.
+Reference;
+Year
+Study Design
+Number, Follow-Up
+Technique
+Biological
+Matrix
+Outcome, Number
+Adjustments
+Major Findings
+Replication
+[95]; 2018
+ADVANCE;
+Australia;
+case–cohort
+3587 T2D; 5 years
+Targeted;
+NMR
+Plasma
+Macrovascular events:
+cardiovascular death,
+nonfatal myocardial
+infarction or nonfatal
+stroke; 655
+Age, sex, region and randomized
+treatment, a prior macrovascular
+complication, duration of
+diabetes, current smoking,
+systolic blood pressure, BMI,
+ACR, eGFR, HbA1C, plasma
+glucose, total cholesterol,
+HDL-cholesterol, triacylglycerol,
+aspirin or other antiplatelet agent,
+statin or other lipid-lowering
+agent, β-blocker, ACE inhibitor
+or angiotensin receptor blocker,
+metformin use, history of heart
+failure, participation in moderate
+and/or vigorous exercise for
+>15 min at least once weekly, and
+high-sensitivity CRP
+(+): phenylalanine before fully
+adjustment
+(−): glutamine, histidine before full
+adjustment
+No
+[107]; 2020
+FinnDiane; Finland;
+nationwide
+prospective cohort
+1087 T1D; 10.7 years
+Targeted;
+NMR
+Serum
+Coronary heart disease:
+myocardial infarction or
+coronary
+revascularisation; 110
+Age at diabetes onset, sex,
+diabetes duration, and smoking
+(+): sphingomyelin
+No
+[127]; 2020
+SURDIAGENE;
+France; prospective
+1463 T2D; 85 months
+Targeted;
+LC-MS
+Plasma
+Major adverse cardiovascular
+events: a composite of CV
+death, nonfatal MI, nonfatal
+stroke; 403
+Sex, age, MI history, eGFR, ACR,
+and NT-proBNP
+(+): TMAO
+No
+[112]; 2020
+ADVANCE;
+Australia;
+case–cohort
+3576 T2D; 5 years
+Targeted;
+NMR
+Plasma
+Major macrovascular events:
+cardiovascular death, fatal
+myocardial infarction and
+nonfatal stroke; 654
+Age, sex, region and the
+treatments randomly allocated,
+history of macrovascular disease,
+duration of diabetes, current
+smoking status, SBP, BMI, ACR,
+eGFR, HbA1C, HDL-cholesterol,
+triacylglycerol, and use of aspirin
+or other antiplatelet agents,
+statins or other lipid-lowering
+agents, β-blockers and ACE
+inhibitors or angiotensin receptor
+blockers
+(−): n-3 fatty acids, DHA
+No
+EDC, Pittsburgh Epidemiology of Diabetes Complications; SDC, Steno Diabetes Center; SURDIAGENE, SURVIe, DiAbete de type 2 et GENEtique; baPWV, brachial-ankle pulse wave velocity; DHA,
+docosahexaenoic acid; eGDR, estimated glucose disposal rate; NT-proBNP, N-terminal pro b-type natriuretic peptide; TMAO, rimethylamine N-oxide.
+
+Cells 2021, 10, 2832
+27 of 38
+6.1. Amino Acids
+6.1.1. ADMA
+ADMA has been found to be elevated in patients with CVD and associated with
+higher odds of CVD in a cross-sectional study of patients with T2D [122]. ADMA was also
+predictive of cardiovascular events (CVE) in patients with T2D [124] and patients with
+T1D and DKD [123]. Higher risks of faster eGFR decline and ESKD in patients with higher
+ADMA [123] suggest that endothelial dysfunction may be a shared mechanism responsible
+for vascular complications (cardiorenal complications) in diabetes.
+6.1.2. Other Amino Acids
+Besides the link with diabetes, BCAAs, tyrosine, and phenylalanine have been found
+to be associated with intima-media thickness and incident CVD in population-based stud-
+ies [128–130]. Higher phenylalanine was associated with risk of macrovascular outcomes
+and all-cause mortality after adjustment for age, sex, region, and randomized treatment
+in the ADVANCE trial, however, further adjustment for other cardiovascular risk factors
+attenuated the association [95]. Glutamine and histidine, inversely associated with dia-
+betes [39,52], were also inversely associated with macrovascular outcomes in ADVANCE,
+although adjustment for risk factors attenuated the associations [95]. Although negatively
+associated with kidney function [106], phenylalanine has been associated with higher
+risk of incident heart failure and showed added value on the risk-stratiﬁcation of heart
+failure [131]. A CVD index composed of six amino acids (ethanolamine, hydroxyproline,
+glutamic acid, 3-methylhistidine, tyrosine, and tryptophan) was predictive of CVD [125].
+The altered levels of amino acids in diabetes, DKD and CVD might suggest some shared
+pathways or mechanisms leading to diabetes and its complications.
+6.2. Lipids
+6.2.1. HDL
+Despite the inverse association between HDL cholesterol and risk of CVD in epi-
+demiological studies, MR studies and randomized clinical trials to raise HDL cholesterol
+level failed to ﬁnd a protective effect of HDL cholesterol on CVD [132–139]. HDL parti-
+cles are highly heterogeneous in size, structure, composition, and function [140]. Recent
+structural and functional studies suggested that the biological function of HDL particles
+differed in size with small, dense, and protein-rich HDL particles involved in the ﬁrst
+step of reverse cholesterol transport (RCT) by mediating the effect of ATP-binding cassette
+transporter A1 (ABCA1) [141,142]. Besides mediating RCT from macrophages, small HDL
+particles also have anti-inﬂammatory, antioxidant, and endothelial protective functions
+(Figure 4) [143–146]. In line with this, small HDL particles have been found to be inversely
+associated with CVD, stroke, CV death, or all-cause mortality in some well-established
+studies [147–154]. Nevertheless, contrasting ﬁndings have also been reported [155,156].
+There seems to be a bidirectional relationship between T2D and HDL whereby diabetes
+could also modulate the composition and function of HDL [157]. Concentration of large
+HDL particle and HDL particle size have been found to be increased in patients with
+T1D compared with participants without diabetes, while small HDL and total HDL par-
+ticle concentration were reduced [158]. A nested case–control study from the Pittsburgh
+Epidemiology of Diabetes Complications Study found that HDL particle subclasses were
+predictive of incident coronary artery disease in patients with T1D [121]. Large HDL parti-
+cle size was associated with risk of death in the Catheterization Genetics (CATHGEN) study
+and a positive association has been found between higher large HDL particle concentration
+and death in patients with preserved-ejection-fraction heart failure and patients without
+heart failure, even after stringent Bonferroni correction and comprehensive adjustment
+including HDL cholesterol [147]. A nested case–control study from the Prevención con
+Dieta Mediterránea (PREDIMED) cohort measured HDL functional characteristics and
+found that lower levels of HDL function markers were associated with higher odds of
+acute coronary syndrome independent of HDL cholesterol in patients at high CV risk [159].
+
+Cells 2021, 10, 2832
+28 of 38
+Taken together, despite a complex interplay between diabetes and HDL, HDL particles
+or function, rather than simply HDL cholesterol, may be of potential to be prognostic
+biomarkers and therapeutic targets for CVD (Figure 4). More studies are warranted in
+this area.
+Figure 4. Dysfunctional HDL and cardiovascular disease. HDL are highly heterogeneous in size, structure, composition,
+and function. Altered lipid composition, protein components, and sizes result in dysfunctional HDL. Decreased cholesterol
+efﬂux from macrophages, antioxidant and anti-inﬂammatory capacity, and endothelial protective function of HDL induce
+atherosclerosis and cardiovascular disease. HDL, high-density lipoprotein.
+6.2.2. Fatty Acids and Phospholipids
+FAs, including n-3 FAs and docosahexaenoic acid, were inversely associated with
+macrovascular events in a study from ADVANCE, with the associations mainly driven by
+the associations with CV death and nonfatal stroke [112]. An inverse association between
+n-3 FAs and death has also been reported [112], indicating the potential of FAs as prognostic
+biomarkers for CVD in patients with diabetes. Further exploration of the causal role of FAs
+on CVD may help conﬁrm whether FAs may be therapeutic targets. Apart from the link
+with progression of DKD, sphingomyelin has been found to be associated with incident
+coronary heart disease, although further adjustment for CV risk factors attenuated the
+association [107].
+7. Intercorrelation of Metabolomic Biomarkers: Limited Predictive Value
+Although independent of traditional risk factors, the selected biomarkers usually
+provided limited predictive value when added over models comprised of conventional risk
+factors or established risk equations [59,130,131,160]. The highest quantile of a weighted
+multimetabolite score (0.320 × phenylalanine—0.474 × non-esteriﬁed cholesterol in large
+HDL-0.321 × ratio of cholesteryl esters to total lipids in large VLDL) could predict incident
+T2D during 15-year follow-up (OR 5.80 [2.22, 15.1]) compared with the lowest quantile, after
+adjusting for risk factors including BMI, fasting glucose, triglycerides, HDL cholesterol,
+and HOMA-IR [59]. Addition of the metabolite score over a model including the above-
+mentioned predictors improved the discrimination and reclassiﬁcation, with signiﬁcantly
+
+Cells 2021, 10, 2832
+29 of 38
+improved integrated discrimination improvement (IDI) and continuous net reclassiﬁcation
+improvement (NRI), though the increase in c-statistic was modest and not signiﬁcant (0.012,
+p = 0.13) [59]. Despite being predictive of adverse outcomes in patients with diabetes, most
+of the metabolites (sphingomyelin, amino acids and FAs) failed to increase the c-statistic
+on top of established risk factors [95,107,112]. As demonstrated by Wang and colleagues,
+the key determinant of the predictive value of multiple biomarkers was the degree of
+correlation between biomarkers [161,162]. To improve the c-statistic by 0.05, more than
+50 moderately correlated (r = 0.4) biomarkers were needed; while when the biomarkers
+were weakly correlated (r = 0.05), less than 10 biomarkers would be needed to increase the
+c-statistic by 0.05. Metabolites identiﬁed may be enriched in well-recognized pathways
+associated with diabetes and its complications (DKD and CVD), such as insulin resistance,
+energy metabolism, cholesterol biosynthesis and transportation, inﬂammation, and kidney
+function [163]. Although biomarkers from a shared pathway may indicate the mechanistic
+role and therapeutic potential of the pathway, intercorrelation with established risk factors
+can limit their contribution to the predictive value of a model already including those risk
+factors [163].
+8. Systems Biology: Integrating Multidimensional Data
+With advancement in technologies, the availability of multi-omics data such as se-
+quencing data (gene and ribonucleic acid), proteomics, metabolomics, and lipidomics has
+made it possible to investigate diabetes and its complications using a systems biology
+approach [164]. A proportion of interindividual variability of metabolite concentrations
+can be explained by genetics. Variants identiﬁed in a large GWAS can account for up to
+23% of the variance of metabolite concentrations [165]. Analysis performed in a Finnish
+Twin Cohort study found that the heritability estimates ranged between 23–55% for amino
+acids and other small-molecule metabolites and 48–76% for lipids and lipoproteins [166].
+Some loci even explained up to 36% of the variance in circulating metabolites [167]. By
+using genetic variants associated with metabolites identiﬁed in GWAS as instrumental
+variables, MR can be utilized to make causal inferences with observational data. As ge-
+netic variants are randomly assigned during meiosis and ﬁxed at conception, MR can
+overcome issues of residual confounding or reverse causality commonly observed in
+epidemiological studies [168]. If a metabolite is causally associated with diabetes or its
+complications, it may become possible to identify potential drugs targeting the underlying
+mechanism as a new treatment strategy. Moreover, the integration of multi-omics data or
+even clinical data using systems biology approaches may identify previously unappreciated
+inter-relationships between different biological or molecular pathways. For example, by
+combining metabolomics and transcriptomics via a metabolite–protein interaction network,
+four pathways associated with eGFR have been identiﬁed to be affected by dapagliﬂozin,
+which might shine a light on the potential renoprotective mechanisms of SGLT2i [116]. In
+contrast to the rapid development of “omics” technologies, statistical and computational
+techniques required to handle high-dimensional data, however, remain a major challenge
+and bottleneck [169].
+9. Exogenous Metabolites, Gut Microbiota, and Diabetes and Its Progression
+Exogenous inputs, such as food intake, affect the levels of circulating metabolites [170]
+and it has been increasingly appreciated that the gut microbiota play a key role in modify-
+ing the metabolome and metabolic homeostasis. Dietary phosphatidylcholines, including
+betaine, choline, and trimethylamine-N-oxide (TMAO), have been found to be altered in
+individuals with CVD and appear to promote development of atherosclerosis [171]. Higher
+plasma TMAO by LC-MS was also associated with CVE in patients with T2D [127]. A recent
+bidirectional two-sample MR found that genetically predicted TMAO was not associated
+with T2D, CKD, or CVD, whereas T2D and CKD were causally associated with higher
+TMAO, indicating that TMAO may play a mediating role between diabetes/CKD and
+CVD [172]. Using untargeted LC-MS, more microbial metabolites have been found to be
+
+Cells 2021, 10, 2832
+30 of 38
+predictive of incident diabetes in the METSIM study [63]. Studies integrating metabolomics
+with genetics and gut microbiota have been implemented to explore the interplay be-
+tween genetic variants, dietary intake, gut microbiome and metabolites in diabetes and its
+complications [65,103].
+10. Conclusions and Perspectives
+Metabolomic studies present the molecular characterization of diabetes and its com-
+plications and could elucidate underlying pathological pathways that are perturbed in a
+disease state. Metabolomics, especially using the untargeted approach, can provide a global
+metabolic snapshot and may identify previously unknown molecules that are involved in
+the development and progression of diabetes. Metabolomic studies, as mentioned above,
+have identiﬁed biomarkers for the screening, diagnosis, and prediction of diabetes and its
+complications; some metabolites could also be biomarkers for monitoring the therapeutic
+effects of treatment. If being causal of a disease, the associated pathways could even be
+considered therapeutic targets. The integration of genetics, transcriptomics, proteomics,
+metabolomics, or even clinical data in a systems approach may present a comprehensive
+metabolic network of cardiometabolic disease. In this regard, metabolomics is a powerful
+approach which can deepen the molecular understanding of and improve efforts towards
+preventing or improving clinical management of T2D and its complications.
+Author Contributions: Conception or design of the work, Q.J. and R.C.W.M.; acquisition of data and
+review of literature, Q.J.; drafting of manuscript and revising it critically, Q.J. and R.C.W.M.; ﬁnal
+approval of manuscript for publication, Q.J. and R.C.W.M. All authors have read and agreed to the
+published version of the manuscript.
+Funding: R.C.W.M. acknowledges support from the Research Grants Council Research Impact Fund
+(R4012-18), a Direct Grant from the Chinese University of Hong Kong, and the Croucher Foundation
+Senior Medical Research Fellowship.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: Some of the ﬁgures were drawn using artwork from Servier Medical Art
+(http://smart.servier.com/, accessed on 1 September 2021), licensed under a Creative Commons
+Attribution 3.0 Unported License (https://creativecommons.org/licenses/by/3.0/, accessed on
+1 September 2021).
+Conﬂicts of Interest: R.C.W.M. has received research grants for clinical trials from AstraZeneca,
+Bayer, MSD, Novo Nordisk, Sanoﬁ, Tricida Inc. and honoraria for consultancy or lectures from
+AstraZeneca, Bayer, and Boehringer Ingelheim. All proceeds have been donated to the Chinese
+University of Hong Kong to support diabetes research.
+References
+1.
+Saeedi, P.; Petersohn, I.; Salpea, P.; Malanda, B.; Karuranga, S.; Unwin, N.; Colagiuri, S.; Guariguata, L.; Motala, A.A.; Ogurtsova,
+K.; et al. Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the
+International Diabetes Federation Diabetes Atlas, 9th edition. Diabetes Res. Clin. Pract 2019, 157, 107843. [CrossRef]
+2.
+Reutens, A.T. Epidemiology of diabetic kidney disease. Med. Clin. N. Am. 2013, 97, 1–18. [CrossRef]
+3.
+Gregg, E.W.; Li, Y.; Wang, J.; Burrows, N.R.; Ali, M.K.; Rolka, D.; Williams, D.E.; Geiss, L. Changes in diabetes-related
+complications in the United States, 1990–2010. N. Engl. J. Med. 2014, 370, 1514–1523. [CrossRef] [PubMed]
+4.
+Wei, M.; Gaskill, S.P.; Haffner, S.M.; Stern, M.P. Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality.
+The San Antonio Heart Study. Diabetes Care 1998, 21, 1167–1172. [CrossRef]
+5.
+Litwak, L.; Goh, S.Y.; Hussein, Z.; Malek, R.; Prusty, V.; Khamseh, M.E. Prevalence of diabetes complications in people with type
+2 diabetes mellitus and its association with baseline characteristics in the multinational A1chieve study. Diabetol. Metab. Syndr.
+2013, 5, 57. [CrossRef] [PubMed]
+6.
+Ninomiya, T.; Perkovic, V.; de Galan, B.E.; Zoungas, S.; Pillai, A.; Jardine, M.; Patel, A.; Cass, A.; Neal, B.; Poulter, N.; et al.
+Albuminuria and kidney function independently predict cardiovascular and renal outcomes in diabetes. J. Am. Soc. Nephrol.
+2009, 20, 1813–1821. [CrossRef]
+
+Cells 2021, 10, 2832
+31 of 38
+7.
+Toyama, T.; Furuichi, K.; Ninomiya, T.; Shimizu, M.; Hara, A.; Iwata, Y.; Kaneko, S.; Wada, T. The impacts of albuminuria and low
+eGFR on the risk of cardiovascular death, all-cause mortality, and renal events in diabetic patients: Meta-analysis. PLoS ONE
+2013, 8, e71810. [CrossRef] [PubMed]
+8.
+Low Wang, C.C.; Hess, C.N.; Hiatt, W.R.; Goldﬁne, A.B. Clinical Update: Cardiovascular Disease in Diabetes Mellitus: Atheroscle-
+rotic Cardiovascular Disease and Heart Failure in Type 2 Diabetes Mellitus—Mechanisms, Management, and Clinical Considera-
+tions. Circulation 2016, 133, 2459–2502. [CrossRef]
+9.
+Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries
+and territories, 1990–2017: A systematic analysis for the Global Burden of Disease Study 2017. Lancet 2018, 392, 1789–1858.
+[CrossRef]
+10.
+Zhang, P.; Zhang, X.; Brown, J.; Vistisen, D.; Sicree, R.; Shaw, J.; Nichols, G. Global healthcare expenditure on diabetes for 2010
+and 2030. Diabetes Res. Clin. Pract. 2010, 87, 293–301. [CrossRef]
+11.
+Nowlin, S.Y.; Hammer, M.J.; D’Eramo Melkus, G. Diet, inﬂammation, and glycemic control in type 2 diabetes: An integrative
+review of the literature. J. Nutr. Metab. 2012, 2012, 542698. [CrossRef]
+12.
+Ma, R.C.; Lin, X.; Jia, W. Causes of type 2 diabetes in China. Lancet Diabetes Endocrinol. 2014, 2, 980–991. [CrossRef]
+13.
+Lindström, J.; Ilanne-Parikka, P.; Peltonen, M.; Aunola, S.; Eriksson, J.G.; Hemiö, K.; Hämäläinen, H.; Härkönen, P.; Keinänen-
+Kiukaanniemi, S.; Laakso, M.; et al. Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: Follow-up of
+the Finnish Diabetes Prevention Study. Lancet 2006, 368, 1673–1679. [CrossRef]
+14.
+Knowler, W.C.; Barrett-Connor, E.; Fowler, S.E.; Hamman, R.F.; Lachin, J.M.; Walker, E.A.; Nathan, D.M. Reduction in the
+incidence of type 2 diabetes with lifestyle intervention or metformin. N. Engl. J. Med. 2002, 346, 393–403. [CrossRef]
+15.
+Neal, B.; Perkovic, V.; Matthews, D.R. Canagliﬂozin and Cardiovascular and Renal Events in Type 2 Diabetes. N. Engl. J. Med.
+2017, 377, 2099. [CrossRef]
+16.
+Wiviott, S.D.; Raz, I.; Bonaca, M.P.; Mosenzon, O.; Kato, E.T.; Cahn, A.; Silverman, M.G.; Zelniker, T.A.; Kuder, J.F.; Murphy, S.A.;
+et al. Dapagliﬂozin and Cardiovascular Outcomes in Type 2 Diabetes. N. Engl. J. Med. 2019, 380, 347–357. [CrossRef] [PubMed]
+17.
+Zinman, B.; Wanner, C.; Lachin, J.M.; Fitchett, D.; Bluhmki, E.; Hantel, S.; Mattheus, M.; Devins, T.; Johansen, O.E.; Woerle,
+H.J.; et al. Empagliﬂozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes. N. Engl. J. Med. 2015, 373, 2117–2128.
+[CrossRef] [PubMed]
+18.
+Pauling, L.; Robinson, A.B.; Teranishi, R.; Cary, P. Quantitative analysis of urine vapor and breath by gas-liquid partition
+chromatography. Proc. Natl. Acad. Sci. USA 1971, 68, 2374–2376. [CrossRef] [PubMed]
+19.
+Mahajan, A.; Taliun, D.; Thurner, M.; Robertson, N.R.; Torres, J.M.; Rayner, N.W.; Payne, A.J.; Steinthorsdottir, V.; Scott, R.A.;
+Grarup, N.; et al. Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-speciﬁc
+epigenome maps. Nat. Genet. 2018, 50, 1505–1513. [CrossRef] [PubMed]
+20.
+Bory, C.; Boulieu, R.; Chantin, C.; Mathieu, M. Diagnosis of alcaptonuria: Rapid analysis of homogentisic acid by HPLC. Clin.
+Chim. Acta 1990, 189, 7–11. [CrossRef]
+21.
+Wishart, D.S.; Feunang, Y.D.; Marcu, A.; Guo, A.C.; Liang, K.; Vázquez-Fresno, R.; Sajed, T.; Johnson, D.; Li, C.; Karu, N.; et al.
+HMDB 4.0: The human metabolome database for 2018. Nucleic Acids Res. 2018, 46, D608–D617. [CrossRef]
+22.
+Wishart, D.S. Metabolomics for Investigating Physiological and Pathophysiological Processes. Physiol. Rev. 2019, 99, 1819–1875.
+[CrossRef]
+23.
+Jeong, S.; Eskandari, R.; Park, S.M.; Alvarez, J.; Tee, S.S.; Weissleder, R.; Kharas, M.G.; Lee, H.; Keshari, K.R. Real-time quantitative
+analysis of metabolic ﬂux in live cells using a hyperpolarized micromagnetic resonance spectrometer. Sci. Adv. 2017, 3, e1700341.
+[CrossRef] [PubMed]
+24.
+Motta, A.; Paris, D.; Melck, D. Monitoring real-time metabolism of living cells by fast two-dimensional NMR spectroscopy. Anal.
+Chem. 2010, 82, 2405–2411. [CrossRef] [PubMed]
+25.
+Soininen, P.; Kangas, A.J.; Würtz, P.; Suna, T.; Ala-Korpela, M. Quantitative serum nuclear magnetic resonance metabolomics in
+cardiovascular epidemiology and genetics. Circ. Cardiovasc. Genet. 2015, 8, 192–206. [CrossRef] [PubMed]
+26.
+Würtz, P.; Kangas, A.J.; Soininen, P.; Lawlor, D.A.; Davey Smith, G.; Ala-Korpela, M. Quantitative Serum Nuclear Magnetic
+Resonance Metabolomics in Large-Scale Epidemiology: A Primer on −Omic Technologies. Am. J. Epidemiol. 2017, 186, 1084–1096.
+[CrossRef]
+27.
+Letertre, M.P.M.; Dervilly, G.; Giraudeau, P. Combined Nuclear Magnetic Resonance Spectroscopy and Mass Spectrometry
+Approaches for Metabolomics. Anal. Chem. 2021, 93, 500–518. [CrossRef]
+28.
+Trivedi, D.K.; Iles, R.K. Do not just do it, do it right: Urinary metabolomics—Establishing clinically relevant baselines. Biomed.
+Chromatogr. 2014, 28, 1491–1501. [CrossRef]
+29.
+Darshi, M.; Van Espen, B.; Sharma, K. Metabolomics in Diabetic Kidney Disease: Unraveling the Biochemistry of a Silent Killer.
+Am. J. Nephrol 2016, 44, 92–103. [CrossRef]
+30.
+Lopes, A.S.; Cruz, E.C.; Sussulini, A.; Klassen, A. Metabolomic Strategies Involving Mass Spectrometry Combined with Liquid
+and Gas Chromatography. Adv. Exp. Med. Biol. 2017, 965, 77–98. [CrossRef]
+31.
+Iadarola, P.; Fumagalli, M.; Bardoni, A.M.; Salvini, R.; Viglio, S. Recent applications of CE- and HPLC-MS in the analysis of
+human ﬂuids. Electrophoresis 2016, 37, 212–230. [CrossRef] [PubMed]
+32.
+Mil’man, B.; Zhurkovich, I. Mass spectrometric analysis of medical samples and aspects of clinical diagnostics. J. Anal. Chem.
+2015, 70, 1179–1191. [CrossRef]
+
+Cells 2021, 10, 2832
+32 of 38
+33.
+Dunn, W.B. Current trends and future requirements for the mass spectrometric investigation of microbial, mammalian and plant
+metabolomes. Phys. Biol. 2008, 5, 011001. [CrossRef]
+34.
+Shulaev, V. Metabolomics technology and bioinformatics. Brief. Bioinform. 2006, 7, 128–139. [CrossRef]
+35.
+Guasch-Ferré, M.; Hruby, A.; Toledo, E.; Clish, C.B.; Martínez-González, M.A.; Salas-Salvadó, J.; Hu, F.B. Metabolomics in
+Prediabetes and Diabetes: A Systematic Review and Meta-analysis. Diabetes Care 2016, 39, 833–846. [CrossRef]
+36.
+Festa, A.; Williams, K.; Hanley, A.J.; Otvos, J.D.; Goff, D.C.; Wagenknecht, L.E.; Haffner, S.M. Nuclear magnetic resonance
+lipoprotein abnormalities in prediabetic subjects in the Insulin Resistance Atherosclerosis Study. Circulation 2005, 111, 3465–3472.
+[CrossRef]
+37.
+Mora, S.; Otvos, J.D.; Rosenson, R.S.; Pradhan, A.; Buring, J.E.; Ridker, P.M. Lipoprotein particle size and concentration by nuclear
+magnetic resonance and incident type 2 diabetes in women. Diabetes 2010, 59, 1153–1160. [CrossRef]
+38.
+Wang, T.J.; Larson, M.G.; Vasan, R.S.; Cheng, S.; Rhee, E.P.; McCabe, E.; Lewis, G.D.; Fox, C.S.; Jacques, P.F.; Fernandez, C.; et al.
+Metabolite proﬁles and the risk of developing diabetes. Nat. Med. 2011, 17, 448–453. [CrossRef]
+39.
+Stancáková, A.; Civelek, M.; Saleem, N.K.; Soininen, P.; Kangas, A.J.; Cederberg, H.; Paananen, J.; Pihlajamäki, J.; Bonnycastle,
+L.L.; Morken, M.A.; et al. Hyperglycemia and a common variant of GCKR are associated with the levels of eight amino acids in
+9,369 Finnish men. Diabetes 2012, 61, 1895–1902. [CrossRef] [PubMed]
+40.
+Wang-Sattler, R.; Yu, Z.; Herder, C.; Messias, A.C.; Floegel, A.; He, Y.; Heim, K.; Campillos, M.; Holzapfel, C.; Thorand, B.; et al.
+Novel biomarkers for pre-diabetes identiﬁed by metabolomics. Mol. Syst. Biol. 2012, 8, 615. [CrossRef]
+41.
+Ferrannini, E.; Natali, A.; Camastra, S.; Nannipieri, M.; Mari, A.; Adam, K.P.; Milburn, M.V.; Kastenmüller, G.; Adamski, J.; Tuomi,
+T.; et al. Early metabolic markers of the development of dysglycemia and type 2 diabetes and their physiological signiﬁcance.
+Diabetes 2013, 62, 1730–1737. [CrossRef]
+42.
+Floegel, A.; Stefan, N.; Yu, Z.; Mühlenbruch, K.; Drogan, D.; Joost, H.G.; Fritsche, A.; Häring, H.U.; Hrabˇe de Angelis, M.; Peters,
+A.; et al. Identiﬁcation of serum metabolites associated with risk of type 2 diabetes using a targeted metabolomic approach.
+Diabetes 2013, 62, 639–648. [CrossRef] [PubMed]
+43.
+Mahendran, Y.; Vangipurapu, J.; Cederberg, H.; Stancáková, A.; Pihlajamäki, J.; Soininen, P.; Kangas, A.J.; Paananen, J.; Civelek,
+M.; Saleem, N.K.; et al. Association of ketone body levels with hyperglycemia and type 2 diabetes in 9,398 Finnish men. Diabetes
+2013, 62, 3618–3626. [CrossRef] [PubMed]
+44.
+Mahendran, Y.; Cederberg, H.; Vangipurapu, J.; Kangas, A.J.; Soininen, P.; Kuusisto, J.; Uusitupa, M.; Ala-Korpela, M.; Laakso, M.
+Glycerol and fatty acids in serum predict the development of hyperglycemia and type 2 diabetes in Finnish men. Diabetes Care
+2013, 36, 3732–3738. [CrossRef] [PubMed]
+45.
+Tillin, T.; Hughes, A.D.; Wang, Q.; Würtz, P.; Ala-Korpela, M.; Sattar, N.; Forouhi, N.G.; Godsland, I.F.; Eastwood, S.V.; McKeigue,
+P.M.; et al. Diabetes risk and amino acid proﬁles: Cross-sectional and prospective analyses of ethnicity, amino acids and diabetes
+in a South Asian and European cohort from the SABRE (Southall And Brent REvisited) Study. Diabetologia 2015, 58, 968–979.
+[CrossRef] [PubMed]
+46.
+Fizelova, M.; Miilunpohja, M.; Kangas, A.J.; Soininen, P.; Kuusisto, J.; Ala-Korpela, M.; Laakso, M.; Stanˇcáková, A. Associations of
+multiple lipoprotein and apolipoprotein measures with worsening of glycemia and incident type 2 diabetes in 6607 non-diabetic
+Finnish men. Atherosclerosis 2015, 240, 272–277. [CrossRef]
+47.
+Palmer, N.D.; Stevens, R.D.; Antinozzi, P.A.; Anderson, A.; Bergman, R.N.; Wagenknecht, L.E.; Newgard, C.B.; Bowden, D.W.
+Metabolomic proﬁle associated with insulin resistance and conversion to diabetes in the Insulin Resistance Atherosclerosis Study.
+J. Clin. Endocrinol. Metab. 2015, 100, E463–E468. [CrossRef]
+48.
+Fall, T.; Salihovic, S.; Brandmaier, S.; Nowak, C.; Ganna, A.; Gustafsson, S.; Broeckling, C.D.; Prenni, J.E.; Kastenmüller, G.; Peters,
+A.; et al. Non-targeted metabolomics combined with genetic analyses identiﬁes bile acid synthesis and phospholipid metabolism
+as being associated with incident type 2 diabetes. Diabetologia 2016, 59, 2114–2124. [CrossRef]
+49.
+Qiu, G.; Zheng, Y.; Wang, H.; Sun, J.; Ma, H.; Xiao, Y.; Li, Y.; Yuan, Y.; Yang, H.; Li, X.; et al. Plasma metabolomics identiﬁed
+novel metabolites associated with risk of type 2 diabetes in two prospective cohorts of Chinese adults. Int. J. Epidemiol. 2016, 45,
+1507–1516. [CrossRef]
+50.
+Cobb, J.; Eckhart, A.; Motsinger-Reif, A.; Carr, B.; Groop, L.; Ferrannini, E. α-Hydroxybutyric Acid Is a Selective Metabolite
+Biomarker of Impaired Glucose Tolerance. Diabetes Care 2016, 39, 988–995. [CrossRef]
+51.
+Lu, Y.; Wang, Y.; Ong, C.N.; Subramaniam, T.; Choi, H.W.; Yuan, J.M.; Koh, W.P.; Pan, A. Metabolic signatures and risk of type
+2 diabetes in a Chinese population: An untargeted metabolomics study using both LC-MS and GC-MS. Diabetologia 2016, 59,
+2349–2359. [CrossRef]
+52.
+Peddinti, G.; Cobb, J.; Yengo, L.; Froguel, P.; Kravi´c, J.; Balkau, B.; Tuomi, T.; Aittokallio, T.; Groop, L. Early metabolic markers
+identify potential targets for the prevention of type 2 diabetes. Diabetologia 2017, 60, 1740–1750. [CrossRef] [PubMed]
+53.
+Liu, J.; Semiz, S.; van der Lee, S.J.; van der Spek, A.; Verhoeven, A.; van Klinken, J.B.; Sijbrands, E.; Harms, A.C.; Hankemeier, T.;
+van Dijk, K.W.; et al. Metabolomics based markers predict type 2 diabetes in a 14-year follow-up study. Metabolomics 2017, 13, 104.
+[CrossRef] [PubMed]
+54.
+Shi, L.; Brunius, C.; Lehtonen, M.; Auriola, S.; Bergdahl, I.A.; Rolandsson, O.; Hanhineva, K.; Landberg, R. Plasma metabolites
+associated with type 2 diabetes in a Swedish population: A case-control study nested in a prospective cohort. Diabetologia 2018,
+61, 849–861. [CrossRef]
+
+Cells 2021, 10, 2832
+33 of 38
+55.
+Lu, Y.; Wang, Y.; Zou, L.; Liang, X.; Ong, C.N.; Tavintharan, S.; Yuan, J.M.; Koh, W.P.; Pan, A. Serum Lipids in Association With
+Type 2 Diabetes Risk and Prevalence in a Chinese Population. J. Clin. Endocrinol. Metab. 2018, 103, 671–680. [CrossRef] [PubMed]
+56.
+Yang, S.J.; Kwak, S.Y.; Jo, G.; Song, T.J.; Shin, M.J. Serum metabolite proﬁle associated with incident type 2 diabetes in Koreans:
+Findings from the Korean Genome and Epidemiology Study. Sci. Rep. 2018, 8, 8207. [CrossRef]
+57.
+Rebholz, C.M.; Yu, B.; Zheng, Z.; Chang, P.; Tin, A.; Köttgen, A.; Wagenknecht, L.E.; Coresh, J.; Boerwinkle, E.; Selvin, E. Serum
+metabolomic proﬁle of incident diabetes. Diabetologia 2018, 61, 1046–1054. [CrossRef]
+58.
+Merino, J.; Leong, A.; Liu, C.T.; Porneala, B.; Walford, G.A.; von Grotthuss, M.; Wang, T.J.; Flannick, J.; Dupuis, J.; Levy, D.;
+et al. Metabolomics insights into early type 2 diabetes pathogenesis and detection in individuals with normal fasting glucose.
+Diabetologia 2018, 61, 1315–1324. [CrossRef] [PubMed]
+59.
+Ahola-Olli, A.V.; Mustelin, L.; Kalimeri, M.; Kettunen, J.; Jokelainen, J.; Auvinen, J.; Puukka, K.; Havulinna, A.S.; Lehtimäki, T.;
+Kähönen, M.; et al. Circulating metabolites and the risk of type 2 diabetes: A prospective study of 11,896 young adults from four
+Finnish cohorts. Diabetologia 2019, 62, 2298–2309. [CrossRef]
+60.
+Vangipurapu, J.; Stancáková, A.; Smith, U.; Kuusisto, J.; Laakso, M. Nine Amino Acids Are Associated With Decreased Insulin
+Secretion and Elevated Glucose Levels in a 7.4-Year Follow-up Study of 5,181 Finnish Men. Diabetes 2019, 68, 1353–1358.
+[CrossRef]
+61.
+Ottosson, F.; Smith, E.; Gallo, W.; Fernandez, C.; Melander, O. Purine Metabolites and Carnitine Biosynthesis Intermediates Are
+Biomarkers for Incident Type 2 Diabetes. J. Clin. Endocrinol. Metab. 2019, 104, 4921–4930. [CrossRef]
+62.
+Razquin, C.; Ruiz-Canela, M.; Clish, C.B.; Li, J.; Toledo, E.; Dennis, C.; Liang, L.; Salas-Huetos, A.; Pierce, K.A.; Guasch-Ferré, M.;
+et al. Lysine pathway metabolites and the risk of type 2 diabetes and cardiovascular disease in the PREDIMED study: Results
+from two case-cohort studies. Cardiovasc. Diabetol. 2019, 18, 151. [CrossRef] [PubMed]
+63.
+Vangipurapu, J.; Fernandes Silva, L.; Kuulasmaa, T.; Smith, U.; Laakso, M. Microbiota-Related Metabolites and the Risk of Type 2
+Diabetes. Diabetes Care 2020, 43, 1319–1325. [CrossRef]
+64.
+Ouyang, Y.; Qiu, G.; Zhao, X.; Su, B.; Feng, D.; Lv, W.; Xuan, Q.; Wang, L.; Yu, D.; Wang, Q.; et al. Metabolome-Genome-Wide
+Association Study (mGWAS) Reveals Novel Metabolites Associated with Future Type 2 Diabetes Risk and Susceptibility Loci in a
+Case-Control Study in a Chinese Prospective Cohort. Glob. Chall. 2021, 5, 2000088. [CrossRef]
+65.
+Qi, Q.; Li, J.; Yu, B.; Moon, J.Y.; Chai, J.C.; Merino, J.; Hu, J.; Ruiz-Canela, M.; Rebholz, C.; Wang, Z.; et al. Host and gut microbial
+tryptophan metabolism and type 2 diabetes: An integrative analysis of host genetics, diet, gut microbiome and circulating
+metabolites in cohort studies. Gut 2021. [CrossRef]
+66.
+Sokooti, S.; Flores-Guerrero, J.L.; Kieneker, L.M.; Heerspink, H.J.L.; Connelly, M.A.; Bakker, S.J.L.; Dullaart, R.P.F. HDL Particle
+Subspecies and Their Association with Incident Type 2 Diabetes: The PREVEND Study. J. Clin. Endocrinol. Metab. 2021, 106,
+1761–1772. [CrossRef] [PubMed]
+67.
+Newgard, C.B.; An, J.; Bain, J.R.; Muehlbauer, M.J.; Stevens, R.D.; Lien, L.F.; Haqq, A.M.; Shah, S.H.; Arlotto, M.; Slentz, C.A.;
+et al. A branched-chain amino acid-related metabolic signature that differentiates obese and lean humans and contributes to
+insulin resistance. Cell Metab. 2009, 9, 311–326. [CrossRef]
+68.
+Lynch, C.J.; Adams, S.H. Branched-chain amino acids in metabolic signalling and insulin resistance. Nat. Rev. Endocrinol. 2014, 10,
+723–736. [CrossRef] [PubMed]
+69.
+Mahendran, Y.; Jonsson, A.; Have, C.T.; Allin, K.H.; Witte, D.R.; Jørgensen, M.E.; Grarup, N.; Pedersen, O.; Kilpeläinen, T.O.;
+Hansen, T. Genetic evidence of a causal effect of insulin resistance on branched-chain amino acid levels. Diabetologia 2017, 60,
+873–878. [CrossRef] [PubMed]
+70.
+Wang, Q.; Holmes, M.V.; Davey Smith, G.; Ala-Korpela, M. Genetic Support for a Causal Role of Insulin Resistance on Circulating
+Branched-Chain Amino Acids and Inﬂammation. Diabetes Care 2017, 40, 1779–1786. [CrossRef]
+71.
+Neinast, M.; Murashige, D.; Arany, Z. Branched Chain Amino Acids. Annu. Rev. Physiol. 2019, 81, 139–164. [CrossRef]
+72.
+Wang, W.; Wu, Z.; Dai, Z.; Yang, Y.; Wang, J.; Wu, G. Glycine metabolism in animals and humans: Implications for nutrition and
+health. Amino Acids 2013, 45, 463–477. [CrossRef]
+73.
+Wittemans, L.B.L.; Lotta, L.A.; Oliver-Williams, C.; Stewart, I.D.; Surendran, P.; Karthikeyan, S.; Day, F.R.; Koulman, A.; Imamura,
+F.; Zeng, L.; et al. Assessing the causal association of glycine with risk of cardio-metabolic diseases. Nat. Commun. 2019, 10, 1060.
+[CrossRef]
+74.
+Reaven, G.M. Banting lecture 1988. Role of insulin resistance in human disease. Diabetes 1988, 37, 1595–1607. [CrossRef]
+75.
+Otvos, J.D. Measurement of lipoprotein subclass proﬁles by nuclear magnetic resonance spectroscopy. Clin. Lab. 2002, 48, 171–180.
+[PubMed]
+76.
+Ramírez, M.; Amate, L.; Gil, A. Absorption and distribution of dietary fatty acids from different sources. Early Hum. Dev. 2001,
+65, S95–S101. [CrossRef]
+77.
+Yuan, S.; Larsson, S.C. Association of genetic variants related to plasma fatty acids with type 2 diabetes mellitus and glycaemic
+traits: A Mendelian randomisation study. Diabetologia 2020, 63, 116–123. [CrossRef] [PubMed]
+78.
+Zhao, J.V.; Schooling, C.M. Effect of linoleic acid on ischemic heart disease and its risk factors: A Mendelian randomization study.
+BMC Med. 2019, 17, 61. [CrossRef]
+79.
+Lehtovirta, M.; Pahkala, K.; Niinikoski, H.; Kangas, A.J.; Soininen, P.; Lagström, H.; Viikari, J.S.A.; Rönnemaa, T.; Jula, A.;
+Ala-Korpela, M.; et al. Effect of Dietary Counseling on a Comprehensive Metabolic Proﬁle from Childhood to Adulthood. J.
+Pediatr. 2018, 195, 190–198.e193. [CrossRef]
+
+Cells 2021, 10, 2832
+34 of 38
+80.
+Levey, A.S.; Perrone, R.D.; Madias, N.E. Serum creatinine and renal function. Annu. Rev. Med. 1988, 39, 465–490. [CrossRef]
+[PubMed]
+81.
+Xia, J.F.; Liang, Q.L.; Hu, P.; Wang, Y.M.; Li, P.; Luo, G.A. Correlations of six related purine metabolites and diabetic nephropathy
+in Chinese type 2 diabetic patients. Clin. Biochem. 2009, 42, 215–220. [CrossRef] [PubMed]
+82.
+Hirayama, A.; Nakashima, E.; Sugimoto, M.; Akiyama, S.; Sato, W.; Maruyama, S.; Matsuo, S.; Tomita, M.; Yuzawa, Y.; Soga,
+T. Metabolic proﬁling reveals new serum biomarkers for differentiating diabetic nephropathy. Anal. Bioanal. Chem. 2012, 404,
+3101–3109. [CrossRef]
+83.
+van der Kloet, F.M.; Tempels, F.W.; Ismail, N.; van der Heijden, R.; Kasper, P.T.; Rojas-Cherto, M.; van Doorn, R.; Spijksma, G.;
+Koek, M.; van der Greef, J.; et al. Discovery of early-stage biomarkers for diabetic kidney disease using ms-based metabolomics
+(FinnDiane study). Metabolomics 2012, 8, 109–119. [CrossRef] [PubMed]
+84.
+Mäkinen, V.P.; Tynkkynen, T.; Soininen, P.; Forsblom, C.; Peltola, T.; Kangas, A.J.; Groop, P.H.; Ala-Korpela, M. Sphingomyelin is
+associated with kidney disease in type 1 diabetes (The FinnDiane Study). Metabolomics 2012, 8, 369–375. [CrossRef]
+85.
+Sharma, K.; Karl, B.; Mathew, A.V.; Gangoiti, J.A.; Wassel, C.L.; Saito, R.; Pu, M.; Sharma, S.; You, Y.H.; Wang, L.; et al.
+Metabolomics reveals signature of mitochondrial dysfunction in diabetic kidney disease. J. Am. Soc. Nephrol. 2013, 24, 1901–1912.
+[CrossRef] [PubMed]
+86.
+Pena, M.J.; Lambers Heerspink, H.J.; Hellemons, M.E.; Friedrich, T.; Dallmann, G.; Lajer, M.; Bakker, S.J.; Gansevoort, R.T.;
+Rossing, P.; de Zeeuw, D.; et al. Urine and plasma metabolites predict the development of diabetic nephropathy in individuals
+with Type 2 diabetes mellitus. Diabet. Med. 2014, 31, 1138–1147. [CrossRef]
+87.
+Klein, R.L.; Hammad, S.M.; Baker, N.L.; Hunt, K.J.; Al Gadban, M.M.; Cleary, P.A.; Virella, G.; Lopes-Virella, M.F. Decreased
+plasma levels of select very long chain ceramide species are associated with the development of nephropathy in type 1 diabetes.
+Metabolism 2014, 63, 1287–1295. [CrossRef]
+88.
+Niewczas, M.A.; Sirich, T.L.; Mathew, A.V.; Skupien, J.; Mohney, R.P.; Warram, J.H.; Smiles, A.; Huang, X.; Walker, W.; Byun, J.;
+et al. Uremic solutes and risk of end-stage renal disease in type 2 diabetes: Metabolomic study. Kidney Int. 2014, 85, 1214–1224.
+[CrossRef]
+89.
+Looker, H.C.; Colombo, M.; Hess, S.; Brosnan, M.J.; Farran, B.; Dalton, R.N.; Wong, M.C.; Turner, C.; Palmer, C.N.; Nogoceke, E.;
+et al. Biomarkers of rapid chronic kidney disease progression in type 2 diabetes. Kidney Int. 2015, 88, 888–896. [CrossRef]
+90.
+Liu, J.J.; Ghosh, S.; Kovalik, J.P.; Ching, J.; Choi, H.W.; Tavintharan, S.; Ong, C.N.; Sum, C.F.; Summers, S.A.; Tai, E.S.; et al.
+Proﬁling of Plasma Metabolites Suggests Altered Mitochondrial Fuel Usage and Remodeling of Sphingolipid Metabolism in
+Individuals With Type 2 Diabetes and Kidney Disease. Kidney Int. Rep. 2017, 2, 470–480. [CrossRef]
+91.
+Solini, A.; Manca, M.L.; Penno, G.; Pugliese, G.; Cobb, J.E.; Ferrannini, E. Prediction of Declining Renal Function and Albuminuria
+in Patients With Type 2 Diabetes by Metabolomics. J. Clin. Endocrinol. Metab. 2016, 101, 696–704. [CrossRef]
+92.
+Li, L.; Wang, C.; Yang, H.; Liu, S.; Lu, Y.; Fu, P.; Liu, J. Metabolomics reveal mitochondrial and fatty acid metabolism disorders
+that contribute to the development of DKD in T2DM patients. Mol. Biosyst. 2017, 13, 2392–2400. [CrossRef]
+93.
+Niewczas, M.A.; Mathew, A.V.; Croall, S.; Byun, J.; Major, M.; Sabisetti, V.S.; Smiles, A.; Bonventre, J.V.; Pennathur, S.; Krolewski,
+A.S. Circulating Modiﬁed Metabolites and a Risk of ESRD in Patients with Type 1 Diabetes and Chronic Kidney Disease. Diabetes
+Care 2017, 40, 383–390. [CrossRef] [PubMed]
+94.
+Haukka, J.K.; Sandholm, N.; Forsblom, C.; Cobb, J.E.; Groop, P.H.; Ferrannini, E. Metabolomic Proﬁle Predicts Development of
+Microalbuminuria in Individuals with Type 1 Diabetes. Sci. Rep. 2018, 8, 13853. [CrossRef] [PubMed]
+95.
+Welsh, P.; Rankin, N.; Li, Q.; Mark, P.B.; Würtz, P.; Ala-Korpela, M.; Marre, M.; Poulter, N.; Hamet, P.; Chalmers, J.; et al.
+Circulating amino acids and the risk of macrovascular, microvascular and mortality outcomes in individuals with type 2 diabetes:
+Results from the ADVANCE trial. Diabetologia 2018, 61, 1581–1591. [CrossRef]
+96.
+Tavares, G.; Venturini, G.; Padilha, K.; Zatz, R.; Pereira, A.C.; Thadhani, R.I.; Rhee, E.P.; Titan, S.M.O. 1,5-Anhydroglucitol predicts
+CKD progression in macroalbuminuric diabetic kidney disease: Results from non-targeted metabolomics. Metabolomics 2018, 14,
+39. [CrossRef]
+97.
+Barrios, C.; Zierer, J.; Würtz, P.; Haller, T.; Metspalu, A.; Gieger, C.; Thorand, B.; Meisinger, C.; Waldenberger, M.; Raitakari, O.
+Circulating metabolic biomarkers of renal function in diabetic and non-diabetic populations. Sci. Rep. 2018, 8, 15249. [CrossRef]
+[PubMed]
+98.
+Afshinnia, F.; Nair, V.; Lin, J.; Rajendiran, T.M.; Soni, T.; Byun, J.; Sharma, K.; Fort, P.E.; Gardner, T.W.; Looker, H.C.; et al.
+Increased lipogenesis and impaired β-oxidation predict type 2 diabetic kidney disease progression in American Indians. JCI
+Insight 2019, 4, e130317. [CrossRef] [PubMed]
+99.
+Tofte, N.; Suvitaival, T.; Trost, K.; Mattila, I.M.; Theilade, S.; Winther, S.A.; Ahluwalia, T.S.; Frimodt-Møller, M.; Legido-Quigley,
+C.; Rossing, P. Metabolomic Assessment Reveals Alteration in Polyols and Branched Chain Amino Acids Associated with Present
+and Future Renal Impairment in a Discovery Cohort of 637 Persons with Type 1 Diabetes. Front. Endocrinol. 2019, 10, 818.
+[CrossRef] [PubMed]
+100. Tang, X.; You, J.; Liu, D.; Xia, M.; He, L.; Liu, H. 5-Hydroxyhexanoic Acid Predicts Early Renal Functional Decline in Type 2
+Diabetes Patients with Microalbuminuria. Kidney Blood Press. Res. 2019, 44, 245–263. [CrossRef]
+101. Colombo, M.; Looker, H.C.; Farran, B.; Hess, S.; Groop, L.; Palmer, C.N.A.; Brosnan, M.J.; Dalton, R.N.; Wong, M.; Turner, C.;
+et al. Serum kidney injury molecule 1 and β(2)-microglobulin perform as well as larger biomarker panels for prediction of rapid
+decline in renal function in type 2 diabetes. Diabetologia 2019, 62, 156–168. [CrossRef]
+
+Cells 2021, 10, 2832
+35 of 38
+102. Colombo, M.; Valo, E.; McGurnaghan, S.J.; Sandholm, N.; Blackbourn, L.A.K.; Dalton, R.N.; Dunger, D.; Groop, P.H.; McKeigue,
+P.M.; Forsblom, C.; et al. Biomarker panels associated with progression of renal disease in type 1 diabetes. Diabetologia 2019, 62,
+1616–1627. [CrossRef]
+103. Winther, S.A.; Henriksen, P.; Vogt, J.K.; Hansen, T.H.; Ahonen, L.; Suvitaival, T.; Hein Zobel, E.; Frimodt-Møller, M.; Hansen, T.W.;
+Hansen, T.; et al. Gut microbiota proﬁle and selected plasma metabolites in type 1 diabetes without and with stratiﬁcation by
+albuminuria. Diabetologia 2020, 63, 2713–2724. [CrossRef]
+104. Huang, J.; Huth, C.; Covic, M.; Troll, M.; Adam, J.; Zukunft, S.; Prehn, C.; Wang, L.; Nano, J.; Scheerer, M.F.; et al. Machine
+Learning Approaches Reveal Metabolic Signatures of Incident Chronic Kidney Disease in Individuals with Prediabetes and Type
+2 Diabetes. Diabetes 2020, 69, 2756–2765. [CrossRef]
+105. Kwan, B.; Fuhrer, T.; Zhang, J.; Darshi, M.; Van Espen, B.; Montemayor, D.; de Boer, I.H.; Dobre, M.; Hsu, C.Y.; Kelly, T.N.; et al.
+Metabolomic Markers of Kidney Function Decline in Patients With Diabetes: Evidence From the Chronic Renal Insufﬁciency
+Cohort (CRIC) Study. Am. J. Kidney Dis. 2020, 76, 511–520. [CrossRef] [PubMed]
+106. Tofte, N.; Vogelzangs, N.; Mook-Kanamori, D.; Brahimaj, A.; Nano, J.; Ahmadizar, F.; van Dijk, K.W.; Frimodt-Møller, M.; Arts, I.;
+Beulens, J.W.J.; et al. Plasma Metabolomics Identiﬁes Markers of Impaired Renal Function: A Meta-analysis of 3089 Persons with
+Type 2 Diabetes. J. Clin. Endocrinol. Metab. 2020, 105, 2275–2287. [CrossRef]
+107. Pongrac Barlovic, D.; Harjutsalo, V.; Sandholm, N.; Forsblom, C.; Groop, P.H. Sphingomyelin and progression of renal and
+coronary heart disease in individuals with type 1 diabetes. Diabetologia 2020, 63, 1847–1856. [CrossRef] [PubMed]
+108. Pawlak, D.; Tankiewicz, A.; Matys, T.; Buczko, W. Peripheral distribution of kynurenine metabolites and activity of kynurenine
+pathway enzymes in renal failure. J. Physiol. Pharmacol. 2003, 54, 175–189. [PubMed]
+109. Kopple, J.D. Phenylalanine and tyrosine metabolism in chronic kidney failure. J. Nutr. 2007, 137, 1586S–1590S; discussion
+1597S–1598S. [CrossRef]
+110. Lanktree, M.B.; Thériault, S.; Walsh, M.; Paré, G. HDL Cholesterol, LDL Cholesterol, and Triglycerides as Risk Factors for CKD: A
+Mendelian Randomization Study. Am. J. Kidney Dis. 2018, 71, 166–172. [CrossRef]
+111. van der Veen, J.N.; Kennelly, J.P.; Wan, S.; Vance, J.E.; Vance, D.E.; Jacobs, R.L. The critical role of phosphatidylcholine and
+phosphatidylethanolamine metabolism in health and disease. Biochim. Biophys. Acta Biomembr. 2017, 1859, 1558–1572. [CrossRef]
+[PubMed]
+112. Harris, K.; Oshima, M.; Sattar, N.; Würtz, P.; Jun, M.; Welsh, P.; Hamet, P.; Harrap, S.; Poulter, N.; Chalmers, J.; et al. Plasma fatty
+acids and the risk of vascular disease and mortality outcomes in individuals with type 2 diabetes: Results from the ADVANCE
+study. Diabetologia 2020, 63, 1637–1647. [CrossRef] [PubMed]
+113. Perkovic, V.; Jardine, M.J.; Neal, B.; Bompoint, S.; Heerspink, H.J.L.; Charytan, D.M.; Edwards, R.; Agarwal, R.; Bakris, G.; Bull, S.;
+et al. Canagliﬂozin and Renal Outcomes in Type 2 Diabetes and Nephropathy. N. Engl. J. Med. 2019, 380, 2295–2306. [CrossRef]
+[PubMed]
+114. Wanner, C.; Inzucchi, S.E.; Zinman, B. Empagliﬂozin and Progression of Kidney Disease in Type 2 Diabetes. N. Engl. J. Med. 2016,
+375, 1801–1802. [CrossRef] [PubMed]
+115. Mulder, S.; Heerspink, H.J.L.; Darshi, M.; Kim, J.J.; Laverman, G.D.; Sharma, K.; Pena, M.J. Effects of dapagliﬂozin on urinary
+metabolites in people with type 2 diabetes. Diabetes Obes. Metab. 2019, 21, 2422–2428. [CrossRef] [PubMed]
+116. Mulder, S.; Hammarstedt, A.; Nagaraj, S.B.; Nair, V.; Ju, W.; Hedberg, J.; Greasley, P.J.; Eriksson, J.W.; Oscarsson, J.; Heerspink,
+H.J.L. A metabolomics-based molecular pathway analysis of how the sodium-glucose co-transporter-2 inhibitor dapagliﬂozin
+may slow kidney function decline in patients with diabetes. Diabetes Obes. Metab. 2020, 22, 1157–1166. [CrossRef]
+117. Taegtmeyer, H.; Young, M.E.; Lopaschuk, G.D.; Abel, E.D.; Brunengraber, H.; Darley-Usmar, V.; Des Rosiers, C.; Gerszten, R.;
+Glatz, J.F.; Grifﬁn, J.L.; et al. Assessing Cardiac Metabolism: A Scientiﬁc Statement from the American Heart Association. Circ.
+Res. 2016, 118, 1659–1701. [CrossRef]
+118. McGarrah, R.W.; Crown, S.B.; Zhang, G.F.; Shah, S.H.; Newgard, C.B. Cardiovascular Metabolomics. Circ. Res. 2018, 122,
+1238–1258. [CrossRef]
+119. Ussher, J.R.; Elmariah, S.; Gerszten, R.E.; Dyck, J.R. The Emerging Role of Metabolomics in the Diagnosis and Prognosis of
+Cardiovascular Disease. J. Am. Coll. Cardiol. 2016, 68, 2850–2870. [CrossRef]
+120. Iliou, A.; Mikros, E.; Karaman, I.; Elliott, F.; Grifﬁn, J.L.; Tzoulaki, I.; Elliott, P. Metabolic phenotyping and cardiovascular disease:
+An overview of evidence from epidemiological settings. Heart 2021, 107, 1123–1129. [CrossRef] [PubMed]
+121. Soedamah-Muthu, S.S.; Chang, Y.F.; Otvos, J.; Evans, R.W.; Orchard, T.J. Lipoprotein subclass measurements by nuclear magnetic
+resonance spectroscopy improve the prediction of coronary artery disease in Type 1 diabetes. A prospective report from the
+Pittsburgh Epidemiology of Diabetes Complications Study. Diabetologia 2003, 46, 674–682. [CrossRef]
+122. Krzyzanowska, K.; Mittermayer, F.; Krugluger, W.; Schnack, C.; Hofer, M.; Wolzt, M.; Schernthaner, G. Asymmetric dimethylargi-
+nine is associated with macrovascular disease and total homocysteine in patients with type 2 diabetes. Atherosclerosis 2006, 189,
+236–240. [CrossRef] [PubMed]
+123. Lajer, M.; Tarnow, L.; Jorsal, A.; Teerlink, T.; Parving, H.H.; Rossing, P. Plasma concentration of asymmetric dimethylarginine
+(ADMA) predicts cardiovascular morbidity and mortality in type 1 diabetic patients with diabetic nephropathy. Diabetes Care
+2008, 31, 747–752. [CrossRef] [PubMed]
+124. Krzyzanowska, K.; Mittermayer, F.; Wolzt, M.; Schernthaner, G. Asymmetric dimethylarginine predicts cardiovascular events in
+patients with type 2 diabetes. Diabetes Care 2007, 30, 1834–1839. [CrossRef] [PubMed]
+
+Cells 2021, 10, 2832
+36 of 38
+125. Kume, S.; Araki, S.; Ono, N.; Shinhara, A.; Muramatsu, T.; Araki, H.; Isshiki, K.; Nakamura, K.; Miyano, H.; Koya, D.; et al.
+Predictive properties of plasma amino acid proﬁle for cardiovascular disease in patients with type 2 diabetes. PLoS ONE 2014, 9,
+e101219. [CrossRef] [PubMed]
+126. Liu, X.; Gao, J.; Chen, J.; Wang, Z.; Shi, Q.; Man, H.; Guo, S.; Wang, Y.; Li, Z.; Wang, W. Identiﬁcation of metabolic biomarkers
+in patients with type 2 diabetic coronary heart diseases based on metabolomic approach. Sci. Rep. 2016, 6, 30785. [CrossRef]
+[PubMed]
+127. Croyal, M.; Saulnier, P.J.; Aguesse, A.; Gand, E.; Ragot, S.; Roussel, R.; Halimi, J.M.; Ducrocq, G.; Cariou, B.; Montaigne, D.; et al.
+Plasma Trimethylamine N-Oxide and Risk of Cardiovascular Events in Patients with Type 2 Diabetes. J. Clin. Endocrinol. Metab
+2020, 105. [CrossRef]
+128. Magnusson, M.; Lewis, G.D.; Ericson, U.; Orho-Melander, M.; Hedblad, B.; Engström, G.; Ostling, G.; Clish, C.; Wang, T.J.;
+Gerszten, R.E.; et al. A diabetes-predictive amino acid score and future cardiovascular disease. Eur. Heart J. 2013, 34, 1982–1989.
+[CrossRef]
+129. Ruiz-Canela, M.; Toledo, E.; Clish, C.B.; Hruby, A.; Liang, L.; Salas-Salvadó, J.; Razquin, C.; Corella, D.; Estruch, R.; Ros, E.; et al.
+Plasma Branched-Chain Amino Acids and Incident Cardiovascular Disease in the PREDIMED Trial. Clin. Chem. 2016, 62, 582–592.
+[CrossRef]
+130. Würtz, P.; Havulinna, A.S.; Soininen, P.; Tynkkynen, T.; Prieto-Merino, D.; Tillin, T.; Ghorbani, A.; Artati, A.; Wang, Q.; Tiainen,
+M.; et al. Metabolite proﬁling and cardiovascular event risk: A prospective study of 3 population-based cohorts. Circulation 2015,
+131, 774–785. [CrossRef]
+131. Delles, C.; Rankin, N.J.; Boachie, C.; McConnachie, A.; Ford, I.; Kangas, A.; Soininen, P.; Trompet, S.; Mooijaart, S.P.; Jukema, J.W.;
+et al. Nuclear magnetic resonance-based metabolomics identiﬁes phenylalanine as a novel predictor of incident heart failure
+hospitalisation: Results from PROSPER and FINRISK 1997. Eur. J. Heart Fail. 2018, 20, 663–673. [CrossRef]
+132. Voight, B.F.; Peloso, G.M.; Orho-Melander, M.; Frikke-Schmidt, R.; Barbalic, M.; Jensen, M.K.; Hindy, G.; Hólm, H.; Ding, E.L.;
+Johnson, T.; et al. Plasma HDL cholesterol and risk of myocardial infarction: A mendelian randomisation study. Lancet 2012, 380,
+572–580. [CrossRef]
+133. Holmes, M.V.; Asselbergs, F.W.; Palmer, T.M.; Drenos, F.; Lanktree, M.B.; Nelson, C.P.; Dale, C.E.; Padmanabhan, S.; Finan,
+C.; Swerdlow, D.I.; et al. Mendelian randomization of blood lipids for coronary heart disease. Eur. Heart J. 2015, 36, 539–550.
+[CrossRef]
+134. Barter, P.J.; Caulﬁeld, M.; Eriksson, M.; Grundy, S.M.; Kastelein, J.J.; Komajda, M.; Lopez-Sendon, J.; Mosca, L.; Tardif, J.C.; Waters,
+D.D.; et al. Effects of torcetrapib in patients at high risk for coronary events. N. Engl. J. Med. 2007, 357, 2109–2122. [CrossRef]
+135. Schwartz, G.G.; Olsson, A.G.; Abt, M.; Ballantyne, C.M.; Barter, P.J.; Brumm, J.; Chaitman, B.R.; Holme, I.M.; Kallend, D.; Leiter,
+L.A.; et al. Effects of dalcetrapib in patients with a recent acute coronary syndrome. N. Engl. J. Med. 2012, 367, 2089–2099.
+[CrossRef] [PubMed]
+136. Lincoff, A.M.; Nicholls, S.J.; Riesmeyer, J.S.; Barter, P.J.; Brewer, H.B.; Fox, K.A.A.; Gibson, C.M.; Granger, C.; Menon, V.;
+Montalescot, G.; et al. Evacetrapib and Cardiovascular Outcomes in High-Risk Vascular Disease. N. Engl. J. Med. 2017, 376,
+1933–1942. [CrossRef]
+137. Bowman, L.; Hopewell, J.C.; Chen, F.; Wallendszus, K.; Stevens, W.; Collins, R.; Wiviott, S.D.; Cannon, C.P.; Braunwald, E.;
+Sammons, E.; et al. Effects of Anacetrapib in Patients with Atherosclerotic Vascular Disease. N. Engl. J. Med. 2017, 377, 1217–1227.
+[CrossRef] [PubMed]
+138. Boden, W.E.; Probstﬁeld, J.L.; Anderson, T.; Chaitman, B.R.; Desvignes-Nickens, P.; Koprowicz, K.; McBride, R.; Teo, K.; Weintraub,
+W. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy. N. Engl. J. Med. 2011, 365, 2255–2267.
+[CrossRef] [PubMed]
+139. Nissen, S.E.; Tardif, J.C.; Nicholls, S.J.; Revkin, J.H.; Shear, C.L.; Duggan, W.T.; Ruzyllo, W.; Bachinsky, W.B.; Lasala, G.P.; Tuzcu,
+E.M. Effect of torcetrapib on the progression of coronary atherosclerosis. N. Engl. J. Med. 2007, 356, 1304–1316. [CrossRef]
+140. Rader, D.J.; Hovingh, G.K. HDL and cardiovascular disease. Lancet 2014, 384, 618–625. [CrossRef]
+141. Oram, J.F.; Heinecke, J.W. ATP-binding cassette transporter A1: A cell cholesterol exporter that protects against cardiovascular
+disease. Physiol. Rev. 2005, 85, 1343–1372. [CrossRef] [PubMed]
+142. Du, X.M.; Kim, M.J.; Hou, L.; Le Goff, W.; Chapman, M.J.; Van Eck, M.; Curtiss, L.K.; Burnett, J.R.; Cartland, S.P.; Quinn, C.M.;
+et al. HDL particle size is a critical determinant of ABCA1-mediated macrophage cellular cholesterol export. Circ. Res. 2015, 116,
+1133–1142. [CrossRef] [PubMed]
+143. Camont, L.; Chapman, M.J.; Kontush, A. Biological activities of HDL subpopulations and their relevance to cardiovascular
+disease. Trends Mol. Med. 2011, 17, 594–603. [CrossRef] [PubMed]
+144. Kingwell, B.A.; Chapman, M.J.; Kontush, A.; Miller, N.E. HDL-targeted therapies: Progress, failures and future. Nat. Rev. Drug
+Discov. 2014, 13, 445–464. [CrossRef] [PubMed]
+145. Kontush, A.; Chantepie, S.; Chapman, M.J. Small, dense HDL particles exert potent protection of atherogenic LDL against
+oxidative stress. Arterioscler. Thromb. Vasc. Biol. 2003, 23, 1881–1888. [CrossRef] [PubMed]
+146. Camont, L.; Lhomme, M.; Rached, F.; Le Goff, W.; Nègre-Salvayre, A.; Salvayre, R.; Calzada, C.; Lagarde, M.; Chapman, M.J.;
+Kontush, A. Small, dense high-density lipoprotein-3 particles are enriched in negatively charged phospholipids: Relevance to
+cellular cholesterol efﬂux, antioxidative, antithrombotic, anti-inﬂammatory, and antiapoptotic functionalities. Arterioscler. Thromb.
+Vasc. Biol. 2013, 33, 2715–2723. [CrossRef]
+
+Cells 2021, 10, 2832
+37 of 38
+147. Hunter, W.G.; McGarrah, R.W., 3rd; Kelly, J.P.; Khouri, M.G.; Craig, D.M.; Haynes, C.; Felker, G.M.; Hernandez, A.F.; Velazquez,
+E.J.; Kraus, W.E.; et al. High-Density Lipoprotein Particle Subfractions in Heart Failure with Preserved or Reduced Ejection
+Fraction. J. Am. Coll. Cardiol. 2019, 73, 177–186. [CrossRef]
+148. Chei, C.L.; Yamagishi, K.; Kitamura, A.; Kiyama, M.; Imano, H.; Ohira, T.; Cui, R.; Tanigawa, T.; Sankai, T.; Ishikawa, Y.;
+et al. High-density lipoprotein subclasses and risk of stroke and its subtypes in Japanese population: The Circulatory Risk in
+Communities Study. Stroke 2013, 44, 327–333. [CrossRef]
+149. Otvos, J.D.; Collins, D.; Freedman, D.S.; Shalaurova, I.; Schaefer, E.J.; McNamara, J.R.; Bloomﬁeld, H.E.; Robins, S.J. Low-density
+lipoprotein and high-density lipoprotein particle subclasses predict coronary events and are favorably changed by gemﬁbrozil
+therapy in the Veterans Affairs High-Density Lipoprotein Intervention Trial. Circulation 2006, 113, 1556–1563. [CrossRef]
+150. Silbernagel, G.; Pagel, P.; Pfahlert, V.; Genser, B.; Scharnagl, H.; Kleber, M.E.; Delgado, G.; Ohrui, H.; Ritsch, A.; Grammer,
+T.B.; et al. High-Density Lipoprotein Subclasses, Coronary Artery Disease, and Cardiovascular Mortality. Clin. Chem. 2017, 63,
+1886–1896. [CrossRef]
+151. McGarrah, R.W.; Craig, D.M.; Haynes, C.; Dowdy, Z.E.; Shah, S.H.; Kraus, W.E. High-density lipoprotein subclass measurements
+improve mortality risk prediction, discrimination and reclassiﬁcation in a cardiac catheterization cohort. Atherosclerosis 2016, 246,
+229–235. [CrossRef]
+152. Martin, S.S.; Khokhar, A.A.; May, H.T.; Kulkarni, K.R.; Blaha, M.J.; Joshi, P.H.; Toth, P.P.; Muhlestein, J.B.; Anderson, J.L.; Knight,
+S.; et al. HDL cholesterol subclasses, myocardial infarction, and mortality in secondary prevention: The Lipoprotein Investigators
+Collaborative. Eur. Heart J. 2015, 36, 22–30. [CrossRef]
+153. Parish, S.; Offer, A.; Clarke, R.; Hopewell, J.C.; Hill, M.R.; Otvos, J.D.; Armitage, J.; Collins, R. Lipids and lipoproteins and risk of
+different vascular events in the MRC/BHF Heart Protection Study. Circulation 2012, 125, 2469–2478. [CrossRef]
+154. Joshi, P.H.; Toth, P.P.; Lirette, S.T.; Griswold, M.E.; Massaro, J.M.; Martin, S.S.; Blaha, M.J.; Kulkarni, K.R.; Khokhar, A.A.;
+Correa, A.; et al. Association of high-density lipoprotein subclasses and incident coronary heart disease: The Jackson Heart and
+Framingham Offspring Cohort Studies. Eur. J. Prev. Cardiol. 2016, 23, 41–49. [CrossRef]
+155. Mora, S.; Otvos, J.D.; Rifai, N.; Rosenson, R.S.; Buring, J.E.; Ridker, P.M. Lipoprotein particle proﬁles by nuclear magnetic
+resonance compared with standard lipids and apolipoproteins in predicting incident cardiovascular disease in women. Circulation
+2009, 119, 931–939. [CrossRef]
+156. Akinkuolie, A.O.; Paynter, N.P.; Padmanabhan, L.; Mora, S. High-density lipoprotein particle subclass heterogeneity and incident
+coronary heart disease. Circ. Cardiovasc. Qual. Outcomes 2014, 7, 55–63. [CrossRef]
+157. Xepapadaki, E.; Nikdima, I.; Sagiadinou, E.C.; Zvintzou, E.; Kypreos, K.E. HDL and type 2 diabetes: The chicken or the egg?
+Diabetologia 2021, 64, 1917–1926. [CrossRef] [PubMed]
+158. Ahmed, M.O.; Byrne, R.E.; Pazderska, A.; Segurado, R.; Guo, W.; Gunness, A.; Frizelle, I.; Sherlock, M.; Ahmed, K.S.; McGowan,
+A.; et al. HDL particle size is increased and HDL-cholesterol efﬂux is enhanced in type 1 diabetes: A cross-sectional study.
+Diabetologia 2021, 64, 656–667. [CrossRef] [PubMed]
+159. Soria-Florido, M.T.; Castañer, O.; Lassale, C.; Estruch, R.; Salas-Salvadó, J.; Martínez-González, M.; Corella, D.; Ros, E.; Arós, F.;
+Elosua, R.; et al. Dysfunctional High-Density Lipoproteins Are Associated With a Greater Incidence of Acute Coronary Syndrome
+in a Population at High Cardiovascular Risk: A Nested Case-Control Study. Circulation 2020, 141, 444–453. [CrossRef] [PubMed]
+160. Holmes, M.V.; Millwood, I.Y.; Kartsonaki, C.; Hill, M.R.; Bennett, D.A.; Boxall, R.; Guo, Y.; Xu, X.; Bian, Z.; Hu, R.; et al. Lipids,
+Lipoproteins, and Metabolites and Risk of Myocardial Infarction and Stroke. J. Am. Coll. Cardiol. 2018, 71, 620–632. [CrossRef]
+161. Wang, T.J. Assessing the role of circulating, genetic, and imaging biomarkers in cardiovascular risk prediction. Circulation 2011,
+123, 551–565. [CrossRef]
+162. Wang, T.J.; Gona, P.; Larson, M.G.; Toﬂer, G.H.; Levy, D.; Newton-Cheh, C.; Jacques, P.F.; Rifai, N.; Selhub, J.; Robins, S.J.; et al.
+Multiple biomarkers for the prediction of ﬁrst major cardiovascular events and death. N. Engl. J. Med. 2006, 355, 2631–2639.
+[CrossRef]
+163. Roberts, L.D.; Gerszten, R.E. Toward new biomarkers of cardiometabolic diseases. Cell Metab. 2013, 18, 43–50. [CrossRef]
+164. Joshi, A.; Rienks, M.; Theoﬁlatos, K.; Mayr, M. Systems biology in cardiovascular disease: A multiomics approach. Nat. Rev.
+Cardiol. 2021, 18, 313–330. [CrossRef]
+165. Lotta, L.A.; Pietzner, M.; Stewart, I.D.; Wittemans, L.B.L.; Li, C.; Bonelli, R.; Rafﬂer, J.; Biggs, E.K.; Oliver-Williams, C.; Auyeung,
+V.P.W.; et al. A cross-platform approach identiﬁes genetic regulators of human metabolism and health. Nat. Genet. 2021, 53, 54–64.
+[CrossRef] [PubMed]
+166. Kettunen, J.; Tukiainen, T.; Sarin, A.P.; Ortega-Alonso, A.; Tikkanen, E.; Lyytikäinen, L.P.; Kangas, A.J.; Soininen, P.; Würtz, P.;
+Silander, K.; et al. Genome-wide association study identiﬁes multiple loci inﬂuencing human serum metabolite levels. Nat. Genet.
+2012, 44, 269–276. [CrossRef]
+167. Illig, T.; Gieger, C.; Zhai, G.; Römisch-Margl, W.; Wang-Sattler, R.; Prehn, C.; Altmaier, E.; Kastenmüller, G.; Kato, B.S.; Mewes,
+H.W.; et al. A genome-wide perspective of genetic variation in human metabolism. Nat. Genet. 2010, 42, 137–141. [CrossRef]
+[PubMed]
+168. Davies, N.M.; Holmes, M.V.; Davey Smith, G. Reading Mendelian randomisation studies: A guide, glossary, and checklist for
+clinicians. BMJ 2018, 362, k601. [CrossRef] [PubMed]
+169. Choobdar, S.; Ahsen, M.E.; Crawford, J.; Tomasoni, M.; Fang, T.; Lamparter, D.; Lin, J.; Hescott, B.; Hu, X.; Mercer, J. Assessment
+of network module identiﬁcation across complex diseases. Nat. Methods 2019, 16, 843–852. [CrossRef] [PubMed]
+
+Cells 2021, 10, 2832
+38 of 38
+170. O’Sullivan, A.; Gibney, M.J.; Brennan, L. Dietary intake patterns are reﬂected in metabolomic proﬁles: Potential role in dietary
+assessment studies. Am. J. Clin. Nutr. 2011, 93, 314–321. [CrossRef]
+171. Wang, Z.; Klipfell, E.; Bennett, B.J.; Koeth, R.; Levison, B.S.; DuGar, B.; Feldstein, A.E.; Britt, E.B.; Fu, X.; Chung, Y.-M. Gut ﬂora
+metabolism of phosphatidylcholine promotes cardiovascular disease. Nature 2011, 472, 57–63. [CrossRef] [PubMed]
+172. Jia, J.; Dou, P.; Gao, M.; Kong, X.; Li, C.; Liu, Z.; Huang, T. Assessment of Causal Direction Between Gut Microbiota-Dependent
+Metabolites and Cardiometabolic Health: A Bidirectional Mendelian Randomization Analysis. Diabetes 2019, 68, 1747–1755.
+[CrossRef] [PubMed]
+

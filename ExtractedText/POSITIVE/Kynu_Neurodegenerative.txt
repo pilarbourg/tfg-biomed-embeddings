@@ -1,0 +1,943 @@
+Citation: Pathak, S.; Nadar, R.; Kim,
+S.; Liu, K.; Govindarajulu, M.; Cook,
+P.; Watts Alexander, C.S.;
+Dhanasekaran, M.; Moore, T. The
+Inﬂuence of Kynurenine Metabolites
+on Neurodegenerative Pathologies.
+Int. J. Mol. Sci. 2024, 25, 853. https://
+doi.org/10.3390/ijms25020853
+Academic Editor: Alvaro Galli
+Received: 30 November 2023
+Revised: 7 January 2024
+Accepted: 8 January 2024
+Published: 10 January 2024
+Copyright:
+© 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+ 
+International Journal of 
+Molecular Sciences
+Review
+The Influence of Kynurenine Metabolites on Neurodegenerative
+Pathologies
+Suhrud Pathak 1,†, Rishi Nadar 1,†, Shannon Kim 1, Keyi Liu 1, Manoj Govindarajulu 2
+, Preston Cook 1,
+Courtney S. Watts Alexander 3
+, Muralikrishnan Dhanasekaran 1,*
+and Timothy Moore 1
+1
+Department of Drug Discovery and Development, Harrison College of Pharmacy, Auburn University,
+Auburn, AL 36849, USA
+2
+Blast-Induced Neurotrauma Branch, Center for Military Psychiatry and Neuroscience, Walter Reed Army
+Institute of Research, Silver Spring, MD 20910, USA
+3
+Department of Pharmacy Practice, Harrison College of Pharmacy, Auburn University, Auburn, AL 36849, USA
+*
+Correspondence: dhanamu@auburn.edu
+†
+These authors contributed equally to this work.
+Abstract: As the kynurenine pathway’s links to inﬂammation, the immune system, and neurological
+disorders became more apparent, it attracted more and more attention. It is the main pathway through
+which the liver breaks down Tryptophan and the initial step in the creation of nicotinamide adenine
+dinucleotide (NAD+) in mammals. Immune system activation and the buildup of potentially neuro-
+toxic substances can result from the dysregulation or overactivation of this pathway. Therefore, it is
+not shocking that kynurenines have been linked to neurological conditions (Depression, Parkinson’s,
+Alzheimer’s, Huntington’s Disease, Schizophrenia, and cognitive deﬁcits) in relation to inﬂammation.
+Nevertheless, preclinical research has demonstrated that kynurenines are essential components of the
+behavioral analogs of depression and schizophrenia-like cognitive deﬁcits in addition to mediators
+associated with neurological pathologies due to their neuromodulatory qualities. Neurodegenerative
+diseases have been extensively associated with neuroactive metabolites of the kynurenine pathway
+(KP) of tryptophan breakdown. In addition to being a necessary amino acid for protein synthesis,
+Tryptophan is also transformed into the important neurotransmitters tryptamine and serotonin in
+higher eukaryotes. In this article, a summary of the KP, its function in neurodegeneration, and the
+approaches being used currently to target the route therapeutically are discussed.
+Keywords: kynurenine pathway; neurological pathologies; inﬂammation; tryptophan; Alzheimer’s
+disease; Parkinson’s disease
+1. Kynurenine Pathway and Tryptophan Metabolism
+The production of nicotinamide adenine dinucleotide (NAD+), which is the source of
+cellular energy, depends signiﬁcantly on the kynurenine pathway (KP) [1]. As its relation-
+ship to inﬂammation, the immune system, and neurological diseases became evident, the
+KP intrigued more and more interest. It is the main pathway for tryptophan degradation in
+the liver and the beginning of NAD+ production in mammals. Tryptophan is an α-amino
+acid that is essential for the synthesis of proteins and is a biosynthetic precursor to various
+neurologically active compounds. Tryptophan research encompasses several disciplines,
+including both the basic sciences (biochemistry, behavioral science, immunology, phar-
+macology, and physiology) as well as healthcare (cardiology, diabetes, gastroenterology,
+hepatology), psychology (alcoholism, anxiety, depression, and schizophrenia), and neu-
+rological diseases (Alzheimer’s disease, Huntington’s Disease, and stroke). This research
+demonstrates the inﬂuence and adaptability of this pathway in a wide range of disorders [2].
+The administration of Tryptophan has already been shown to increase oxidative stress
+levels and cause an imbalance between the number of free radicals present and the ability of
+cellular scavenging systems. The cerebral cortex is where this inﬂuence is most pronounced.
+Int. J. Mol. Sci. 2024, 25, 853. https://doi.org/10.3390/ijms25020853
+https://www.mdpi.com/journal/ijms
+
+Int. J. Mol. Sci. 2024, 25, 853
+2 of 15
+It can be brought on both directly by excessive Tryptophan and indirectly by the buildup of
+its active metabolites. As a result, it appears that the mechanisms of brain damage seen
+in patients with hypertryptophanemia and neurodegenerative pathologies are inﬂuenced
+by abundant Tryptophan levels in the brain [3]. The most well-known bioactive chemical
+formed from Tryptophan is serotonin. Only a small trace of Tryptophan gets converted
+into serotonin, nevertheless. The production of NAD+ results from the conversion of
+more than 95% of Tryptophan into Kynurenine and its degradation products in the liver,
+involving the enzyme tryptophan dioxygenase 2, and in the cells of the immune system
+and in neurons, where indoleamine 2,3-dioxygenase (IDO) catalyzes the conversion of
+Tryptophan to kynurenines [1]. The neuroinﬂammatory process is signiﬁcantly inﬂuenced
+by an imbalance in the KP metabolism [4]. The immune system gets activated, and el-
+ements with possible neurotoxic properties accumulate as a result of the dysregulation
+or overactivation of the KP [5]. For instance, excessive activation of the KP may cause
+active microglia, perivascular, and invading macrophages to produce large amounts of
+the excitotoxin quinolinic acid (QA). Cinnabarinic acid (CA) can act as a neuroprotective
+agent at low concentrations, although it can be degraded by 3-hydroxyanthranilic acid
+(3-HANA), a byproduct of the KP, into the well-known endogenous neurotoxins hydrogen
+peroxide and the free radical superoxide anion. In contrast, picolinic acid (PA) can reduce
+the excitatory toxicity of QA and has a dual role in immunological modulation [4].
+Tryptophan is primarily metabolized by the KP (Figure 1), which produces the neu-
+rotoxic metabolites 3-hydroxykynurenine and QA and the neuroprotective metabolites
+kynurenic acid and PA. The IDO in human brains oxidizes Tryptophan to N-formyl-
+kynurenine, which then undergoes hydrolysis to produce the ﬁrst stable metabolite of the
+KP, Kynurenine. Kynurenine is metabolized by the enzymes kynureninase, kynurenine
+aminotransferase, and kynurenine 3-monooxygenase to anthranilic acid (AA), kynurenic
+acid, or 3-hydroxykynurenine, respectively. Kynurenine is located at a branch point of the
+KP [6].
+Due to the effects of kynurenine metabolites on excitotoxic neurotransmission, ox-
+idative stress, neurotransmitter uptake, the modulation of neuroinﬂammation, amyloid
+aggregation, microtubule disruption, and their capacity to cause a state of dysbiosis, the
+KP is intricately linked to many neurodegenerative pathogenesis. Positive results from
+the pharmacological regulation of KP pathways suggest that it could be a feasible and
+explorable target for the treatment of neurodegenerative etiology [7]. In speciﬁc ROS-
+producing networks, Kynurenine can scavenge hydrogen peroxide and superoxide. Acti-
+vated neutrophils produce less ROS when their levels of Kynurenine are higher. Kynurenine
+turns into Kynurenic Acid in interactions with the hydroxyl radical and peroxynitrite. In
+simple terms, it slows down the radicals’ effect on DNA and protein breakdown. Ad-
+ditionally, in rat brain homogenates, KYN can reduce the formation of ROS and lipid
+peroxidation brought on by pro-oxidant substances such as iron(II) sulfate, peroxynitrite,
+and 3-nitropropionic acid. Although Kynurenine has been used as a neuroprotective drug
+in numerous neurological models, the effects were thoroughly triggered by its metabolite,
+Kynurenic Acid [3]. Research indicates that while levels of kynurenic acid in cerebral ﬂuid
+stagnate with age, they increase in blood. The ﬁndings also indicate that whereas blood and
+cerebrospinal ﬂuid levels of Kynurenine and the kynurenine–tryptophan ratio are higher
+in older people, tryptophan levels in their blood are often lower [8].
+
+Int. J. Mol. Sci. 2024, 25, 853
+3 of 15
+Tryptophan
+Serotonin
+Melatonin
+Tryptamine
+Protein Synthesis
+Indoleamine 2,3‐dioxygenase 1
+Indoleamine 2,3‐dioxygenase 2
+Tryptophan 2,3-dioxygenase 
+N′-formylkynurenine 
+Kynurenine 
+3-hydroxykynurenine
+3-hydroxyanthranilic acid
+α-amino-β-carboxymuconate-ε-semialddehyde
+Quinolinic acid 
+α-aminomuconate-ε-semialddehyde
+Glutaryl CoA
+Picolinic Acid
+Nicotinamide Adenine Dinucleotide (NAD+)
+Anthranilic acid 
+Kynurenic Acid 
+Quinaldic Acid
+Xanthurenic acid 
+8-hydroquinaldic Acid
+Kynurenine 3-monooxygenase
+Quinolinate phosphoribosyltransferase
+Kynurenine aminotransferase
+Formamidaselarylformamidase
+Kynureninase
+Kynureninase
+Figure 1. Kynurenine pathway: Diagram illustrating the kynurenine pathway (KP), which in higher
+eukaryotes is responsible for approximately 95% of tryptophan metabolism. The pathway has a crucial
+branch point in the context of neurodegeneration at the metabolism of Kynurenine. Kynurenine
+3-monooxygenase (KMO) converts Kynurenine into the neurotoxic free-radical generator 3-hydroxy-
+L-kynurenine (3-HK), which then advances to the synthesis of the neurotoxic metabolites quinolinic
+acid (QA) and 3-hydroxyanthranilic acid (3-HANA). The kynurenine aminotransferase (KAT) family
+of enzymes can additionally metabolize Kynurenine, resulting in kynurenic acid (KYNA), which has
+neuroprotective properties.
+2. Kynurenine Pathway and Inﬂammation
+Many neurological, neurodegenerative, and neuropsychiatric disorders have been
+linked to neuroinﬂammation over the years. Genetics, infections, physical trauma, and
+psychosocial factors like stress and trauma are among the processes that can lead to neu-
+roinﬂammatory conditions. Dysregulation in the kynurenine pathway (KP) of tryptophan
+metabolism is closely linked to these processes as a potential pathophysiological factor that
+could “fuel the ﬁre” in CNS diseases [9]. Certain inﬂammatory stimuli cause IDO to be
+induced at the transcriptional level in the majority of cell types. The main IDO inducer, both
+in vivo and in vitro, is IFN-γ. In myeloid cells (monocyte/macrophages and dendritic cells),
+ﬁbroblasts, endothelial cells, epithelial cells, smooth muscle cells, and numerous tumor cell
+lines, exposure to IFN-γ increases IDO transcription. To a lesser extent than IFN-γ, other
+inﬂammatory stimuli that also cause IDO include lipopolysaccharide [10], IFN-α, IFN-β,
+and cytotoxic T lymphocyte-associated antigen [11]. Numerous studies have demonstrated
+a connection between KP disregulation and microglial neuroinﬂammation in depression,
+schizophrenia, and Parkinson’s disease. A histological characteristic of neurodegenerative
+diseases is the abnormal buildup of protein deposits in and around neurons, including
+tau protein, α-synuclein, amyloid-β protein, transactive response DNA-binding protein-43,
+and myelin debris. In a study, in the hippocampus and prefrontal cortex in depressive
+individuals, there was aberrant microglial activation and increased microglial proliferation,
+
+Int. J. Mol. Sci. 2024, 25, 853
+4 of 15
+which resulted in the production of pro-inﬂammatory cytokines such as IL-6, TNF-α, and
+interleukin-1β (IL-1β). Pro-inﬂammatory cytokines activate IDO, which in turn stimulates
+TDO, converting Tryptophan to Kynurenine. An increase in IDO activity is correlated
+with a corresponding increase in the conversion of available Tryptophan into Kynurenine.
+Pro-inﬂammatory cytokines also activate the QA transformation chain enzymes in mi-
+croglia. A greater conversion of Kynurenine into its ultimate product, QA, is encouraged by
+increased activity from kynureninase (KYNU), kynurenine 3-monooxygenase (KMO), and
+3-hydroxyanthranilic acid oxygenase (3-HAO). This neurotoxic metabolite increases the
+production of reactive oxygen species (ROS), which in turn damage surrounding tissues and
+cause neuroinﬂammation—likely the major process leading to neurodegeneration [3,12]
+(Figure 2). The overabundance of pro-inﬂammatory cytokines produced by microglia is in-
+timately linked to KP failure. Speciﬁcally, pro-inﬂammatory cytokines activated microglial
+IDO, leading to an excess of the KP’s neurotoxic component [13]. The clinical ﬁndings
+indicate that in healthy women, the activation of the central kynurenine pathway increases
+with age, possibly due to elevated inﬂammation. Additionally, they found an increase in
+quinaldic acid with aging [14].
+Figure 2. Pro-inﬂammatory cytokines, including TNF-α, IFN-γ, and IL-6, activate IDO, which in
+consequence activates TDO, converting Tryptophan to Kynurenine. The conversion of accessible Tryp-
+tophan into Kynurenine increases proportionately with increased IDO activation. Pro-inﬂammatory
+cytokines also stimulate the activity of the microglia’s QA transformation chain enzymes. Increased
+activity from Kynureninase (KYNU), kynurenine 3-monooxygenase (KMO), and 3-hydroxyanthranilic
+acid oxygenase (3-HAO) encourages a higher conversion of Kynurenine into its ﬁnal product, QA.
+This neurotoxic metabolite can enhance oxidative stress by favorably inﬂuencing the generation of
+ROS. Neuroinﬂammation and oxidative stress result in neurodegeneration.
+3. Kynurenine Pathway Dysfunction in Alzheimer’s Disease (AD)
+An important factor contributing to neuroinﬂammation is an imbalance in KP
+metabolism [15–17]. Neuroinﬂammation and KP metabolite imbalance are interacting.
+Metabolic proﬁling was achieved in a case–control study using paired plasma and cere-
+brospinal ﬂuid (CSF) samples from both clinically and biomarker-conﬁrmed AD patients
+as well as cognitively healthy controls. The results indicated a speciﬁc association between
+amino acids and L-TRP catabolites with AD CSF biomarkers, suggesting a close relation-
+ship with core AD pathology [18]. One important amino acid that is received from diet is
+L-tryptophan (L-TRP). The necessary amino acid L-TRP is supplied by food. Critical down-
+stream metabolites, including 5-hydroxytryptophan (5-HT, serotonin), melatonin (MT), and
+
+Int. J. Mol. Sci. 2024, 25, 853
+5 of 15
+Kynurenine (KYN), are synthesized from L-TRP, a cross-kingdom starting material. In the
+blood, L-TRP exists in both bound and unbound forms at a ratio of roughly nine to one.
+For both the central and peripheral catabolism of L-TRP, the KP is essential
+(Figure 1). In serum from healthy adult humans, L-TRP concentrations range from 1000
+to 50,000 ng/mL. In general, KYN concentrations are only a tenth of those of L-TRP [19].
+Merely 2% of L-TRP is transformed into 5-HT and MT, which are essential for controlling
+mood, appetite, sleep patterns, and metabolism [20]. Kynureninase (KYNU), kynurenine
+3-monooxygenase (KMO), and kynurenine aminotransferase I–IV (KAT I–IV) catabolize
+KYN, the central metabolite of the KP, to anthranilic acid (AA), 3-hydroxy-L-kynurenine
+(3-HK), and kynurenic acid (KYNA), respectively. KYNU and KAT I–IV convert 3-HK
+to 3-hydroxyanthranilic acid (3-HANA), which is the precursor to QA, and xanthurenic
+acid (XA), the neurotoxic metabolite, respectively. In humans, PA is neuroprotective and
+produced in glial cells and neurons. A prime example of a biochemical double-edged
+sword is QA, which serves as a strong neurotoxin in addition to being an important
+metabolite [21–23].
+Certain known factors, like molecular signals (like APOE ε4), are contentious targets
+for Alzheimer’s disease patients [24,25]. A multitude of pathways, including immune and
+inﬂammatory responses [26]; lipid, uric acid, and amino acid metabolism [27]; BBB dys-
+function; and metal ion homeostasis, can inﬂuence Alzheimer’s disease. Since Alzheimer’s
+disease is a diverse neurodegenerative disease linked to aging, an accurate diagnosis
+that distinguishes it from normal aging is necessary. Therefore, establishing Alzheimer’s
+disease-related biomarkers is essential for treating, diagnosing, and preventing Alzheimer’s
+disease. Alzheimer’s disease patients are frequently diagnosed with serum, CSF, and imag-
+ing tests. Nonetheless, pathological portions of brain tissue and CSF are typically utilized
+in animal research to identify known pathological products and potential biomarkers.
+In the year 2018, biomarkers were classiﬁed into three groups: A (amyloid), T (p-
+tau), and N (neurodegeneration, as indicated by total tau (t-tau) when appropriate) [10].
+Different metabolite functions in the pathway are reﬂected in the differences between
+KP peripheral and central metabolism. In order to identify biomarkers to assist in the
+diagnosis of Alzheimer’s disease, serum and CSF were examined. When compared to
+normal controls, Alzheimer’s disease patients’ CSF contains signiﬁcantly higher levels
+of KYNA [18,28]. Other neurodegenerative diseases like frontotemporal dementia (FTD),
+amyotrophic lateral sclerosis, and progressive supranuclear palsy lack increased KYNA
+concentrations in the CSF, unlike in patients with Alzheimer’s disease. In Alzheimer’s
+disease, KYNA may be notably elevated.
+L-TRP has two metabolites: 5-HT and KYN. The primary byproduct of KP activation
+is KYN. A clinical study was conducted to evaluate Aβ, tau, and KYN in the CSF, as
+well as KYN, L-TRP, and 5-HT in serum, in patients with normal cognition, MCI, and
+Alzheimer’s disease. Because of the rise in KYN, an inﬂammatory signal cascade could
+occur during Alzheimer’s disease [29]. Because of the rise in KYN, an inﬂammatory signal
+cascade could occur during AD. Reduced functional independence and memory scores,
+as well as a number of inﬂammatory markers, were linked to higher K/T ratios. Aβ and
+complement systems could have been important elements that contributed to this process.
+Compared to controls, Alzheimer’s disease patients had reduced plasma concentrations
+of KYN, 3-HANA, XA, QA, and L-TRP. In particular, poor cognitive function in elderly
+Alzheimer’s disease patients was linked to elevated QA. According to another study,
+peripheral KP activation in Alzheimer’s disease was demonstrated by the decrease in
+plasma concentrations of L-TRP and KYNA and the increase in QA [30].
+In Alzheimer’s disease patients, there was an inverse correlation between CSF p-
+tau and t-tau and plasma KYN and PA. Furthermore, in the CSF of Alzheimer’s disease
+patients, elevated 3-HK/KYN ratios correlated with t-tau [31]. Moreover, the CSF of
+Alzheimer’s disease patients exhibited noticeably greater concentrations of the L-TRP
+catabolites QA and KYNA. These increased concentrations showed correlations with tau
+and p-tau-181 or with CSF Aβ1-42, similar to what other L-TRP pathway intermediates
+
+Int. J. Mol. Sci. 2024, 25, 853
+6 of 15
+accomplished. Patients with Alzheimer’s disease had lower concentrations of KYNA in
+their CSF. Additionally, there was a negative correlation found between the severity of
+Alzheimer’s disease and serum KYN and QA levels, as well as a strong correlation between
+the two variables’ contents in the CSF. It has been proposed that rather than QA levels alone,
+changes in the ratio of KYNA to QA are connected with the development of inﬂammatory-
+mediated neuropathology [32]. In both Alzheimer’s disease patients and control subjects,
+KYN metabolites accumulated in serum and CSF in a manner consistent with aging. In
+contrast, Alzheimer’s disease patients’ CSF had a marked decrease in KYNA. Reduced
+neurogenesis and increased excitotoxicity in neurodegenerative diseases may be caused
+by age- and disease-speciﬁc alterations in cerebral KP activity [33]. These results validate
+the role of the KP in Alzheimer’s disease pathogenesis and the idea of therapeutic KP
+regulation in Alzheimer’s disease treatment. Moreover, it was discovered that the severity
+of Alzheimer’s disease was correlated with the following tests: 3-HANA (plasma), XA
+(plasma), QA (plasma and CSF), L-TRP (plasma, serum, and urine), and KYN (plasma,
+serum, and CSF). KP metabolites such as QA and KYN might be helpful biomarkers for the
+early diagnosis of Alzheimer’s disease.
+The KP’s metabolism of L-TRP controls tumor growth, immunity, and inﬂammation.
+Numerous metabolic variables, including inﬂammatory ones, alter KP signaling. Therefore,
+early identiﬁcation of metabolites can aid in the early diagnosis and treatment of AD.
+Research ﬁndings indicate that peripheral inﬂammatory factors were crucial in the initial
+development of the blood–cerebrospinal ﬂuid barrier [34,35]. Since peripheral inﬂammation
+is linked to neuroinﬂammation, we should approach inﬂammation systemically. Second,
+the majority of the intricate molecular mechanisms underlying KP metabolites are yet
+unknown. When considering molecular pathways and the state of biomarker exploration,
+distinct biomarkers are the most suitable. The anti-neuroinﬂammatory properties of KYN,
+3-HANA, and CA help prevent Alzheimer’s disease. It has been discovered that KYNA may
+cause cognitive impairment. The neurotoxicity of 3-HK, QA, and PA facilitates Alzheimer’s
+disease. Additionally, QA has been suggested to cause neuroinﬂammation and have a close
+relationship with the production of p-tau and Aβ [15,36,37].
+Based on current research, increased QA in Alzheimer’s disease leads to pathogenic
+alterations and neuroinﬂammation. However, in comparable investigations, KYN may
+be a more useful biomarker. This could be a result of KYN’s ability to traverse the BBB
+via the large neutral amino acid transporter, whereas QA mostly diffuses weakly over the
+BBB and is found in the central nervous system [4]. Researchers suggest that QA may
+be a better therapeutic target than KYN while KYN may be more useful as a biomarker.
+Subsequent research endeavors should meticulously examine the biological roles of diverse
+signiﬁcant KP metabolites. In order to connect KP metabolites with AD, more mechanistic
+research is required. Nonetheless, it is probably advantageous to alter the KP at different
+locations along the pathway. Future treatment approaches for neurological disorders
+include neutralizing antibodies, enzyme inhibitors, and KP metabolites [4].
+4. Kynurenine Pathway Dysfunction in Parkinson’s Disease (PD)
+The KP of tryptophan catabolism is a key regulator of the immune response and is
+believed to be involved in inﬂammatory and neurotoxic processes in Parkinson’s disease.
+The KP produces a number of neuroactive chemicals that can be neurotoxic, neuroprotective,
+or immunomodulatory. KYNA, one of these metabolites generated by astrocytes, is thought
+to be neuroprotective. Some KP metabolites may be employed as prognostic biomarkers,
+and the use of pharmacological modulators of the KP enzymes may constitute a potential
+treatment method for Parkinson’s disease [38]. The KP is one of the key immune-response-
+regulating systems. The induction of the KP regulating enzyme IDO-1, KP activation, and
+TRP depletion are all implicated in the establishment of pregnancy-related immunological
+tolerance and tumor tenacity. IDO-1 activation in dendritic cells totally inhibits T-cell clonal
+growth [39].
+
+Int. J. Mol. Sci. 2024, 25, 853
+7 of 15
+The cellular manifestation of KP in the brain is currently poorly known. While
+cellular KP enzymes are completely expressed in monocytic cells such as macrophages and
+microglia [40], we discovered that the KP is only partially expressed (i.e., some particular
+enzymes of the route are not produced) in human astrocytes, neurons, oligodendrocytes,
+and endothelial cells. Neurons and astrocytes have neuroprotective KP proﬁles whereas
+activated microglia and invading macrophages are neurotoxic. Different KP compounds
+can be neurotoxic, neuroprotective, or immunomodulatory [41]. Among these, excitotoxin
+quinolinic acid (QUIN) appears to be the most signiﬁcant, causing severe neuronal cell
+death and persistent malfunction via at least nine distinct pathways.
+The KP is only activated by IDO-1 during a neuroinﬂammatory state, which can be
+acute, low-grade, or progressive. IDO-1 is known to be activated by a variety of inﬂamma-
+tory mediators, including IFN-γ, TNF-α, TLRs 1–6 and 9, Lipopolysaccharides [10], amy-
+loid, and viral proteins. IDO-1 is the primary TRP catabolic enzyme in the brain [42]. The
+KP is known to have a role in a variety of neuroinﬂammatory illnesses such as Alzheimer’s
+disease, Huntington’s Disease, amyotrophic lateral sclerosis, multiple sclerosis, infections,
+brain tumors, brain trauma, and neuropsychiatric disorders such as depression, suicide,
+schizophrenia, and autism [42]. The ﬁrst description of KP impairment in Parkinson’s dis-
+ease was published in the early 1990s. TRP/KYN and KYNA/TRP ratios were considerably
+elevated in the frontal cortex, putamen, and putamen and pars compacta of the SN (SNpc)
+in Parkinson’s disease patients, according to Ogawa et al., while 3-HK levels were greater
+in the putamen and SNpc.
+KYN and KYNA concentrations in the frontal brain were dramatically lowered in
+Parkinson’s disease patients who took L-dopa. Similarly, in L-dopa-treated Parkinson’s
+disease patients, the KYN/3-HK ratio was considerably reduced in the frontal cortex
+and SNpc but only in the putamen. Another group discovered a drop in KYNA levels
+in the cortical areas, caudate, and cerebellum in Parkinson’s disease patients [43]. The
+decreased capacity to prevent excitotoxicity via the NMDA receptors, caused by QUIN
+and/or glutamate excess, is a direct result of this reduced level of endogenous KYNA [44].
+In the SNpc in MPTP-treated animals, the expression of kynurenine aminotransferase-I
+(KAT-I), the KP enzyme that leads to KYNA production, is reduced. The same group
+discovered that KAT-I and tyrosine hydroxylase (TH) are co-expressed in the same SNpc
+neurons and that 6-OHDA injection into the lateral ventricle of adult rats resulted in the
+death of most nigral neurons.
+The investigators also discovered that astrocytes in the SNpc express KAT-I under
+normal settings and increase after 6-OHDA administration, but microglia only became
+immunoreactive to KAT-I after 6-OHDA administration. KYN/TRP ratios have also been
+shown to be higher in the CSF and serum in Parkinson’s disease patients when compared to
+age- and gender-matched healthy controls [45,46]. According to evidence from post-mortem
+PD brain tissue and MPTP-treated animals, KAT-I and KAT-II activity were dramatically
+decreased, which corresponded to lower plasma KYNA levels [47]. There have also been
+reports of KP alterations in peripheral organs in Parkinson’s disease. These studies offer
+convincing proof that TRP catabolism is shifting in favor of 3-HK and QUIN, which lowers
+KYNA concentrations and causes neurotoxicity and cell death.
+In the past ten years, psychoneuroimmunology and neurodegeneration in a variety of
+neurological conditions—Parkinson’s disease, speciﬁcally—have been directly linked by
+metabolomics of the KP [48,49]. This holds signiﬁcant importance in comprehending the in-
+terconnected structure between neuroinﬂammation and neurodegeneration, wherein innate
+immunity plays a pivotal role in pathobiology and the advancement of illness. It is now well
+documented that aged individuals with impaired TRP and tyrosine metabolism are also
+associated with chronic low-grade inﬂammation, which concurrently activates the KP [50].
+Protein synthesis, KP metabolism, and the well-established serotonin (5-HT)/melatonin
+pathway all depend on TRP, whose regulation is strictly regulated. Nevertheless, this
+equilibrium may be upset by immunological activation, particularly in cases of persistent
+low-grade inﬂammation.
+
+Int. J. Mol. Sci. 2024, 25, 853
+8 of 15
+Translational validity in the development of Parkinson’s disease has been proven by
+immune dysregulation and poor neurological function. In fact, a pathogenetic connection
+has been shown between immunological activation and neuropsychiatric conditions such
+as Alzheimer’s disease, Parkinson’s disease, anxiety, and schizophrenia [51].
+The elevation of signiﬁcant pro-inﬂammatory markers like IL-6, CRP, and MCP-1 in
+the CSF of Parkinson’s disease patients was initially demonstrated by Lindqvist D (2012).
+These increases may trigger the emergence of non-motor symptoms in Parkinson’s disease
+(PD), which are linked to non-motor symptoms such as fatigue, depression, and cognitive
+impairment [52]. This phenomenon is intimately linked to illness behavior that is brought
+on by protracted-immunity-induced elevated KP activation. Thus, it is quite likely that PD
+also involves IFN-γ-mediated activation of IDO-1, which can be further enhanced by other
+cytokines like IL-1β and toll-like receptor agonists like LPS. Furthermore, it was shown
+by Widner et al. (2002a and 2002b) [45,46] that in both the peripheral and central nervous
+systems (CRS) in Parkinson’s disease (PD) patients, elevated TRP catabolism, as indicated
+by the KYN/TRP ratio, positively corresponds to the inﬂammatory marker neopterin. This
+offers more proof that immunological mediators support the elevation of KP-activation in
+Parkinson’s disease [46].
+5. Kynurenine Pathway Dysfunction in Other Neurodegenerative Diseases
+The metabolites of KP have deﬁned potential relationships with various neurological
+disorders based on their effects on several neurotransmitter pathways. QA functions as an
+NMDA receptor agonist, leading to synaptic excitotoxicity [53]. The synaptic dysfunction
+caused by QA is not only implicated in AD and PD but is also considered a contributing fac-
+tor to other cognitive impairment conditions [54]. KYNA signiﬁcantly acts as a recognized
+NMDA receptor antagonist and performs a neuroprotective effect in the CNS. Research has
+also suggested that KYNA results in a downregulation of the dopaminergic neuron system
+activity [55,56]; an inhibitory effect when it comes to α7nAChR, the Nicotinic receptor in
+the CNS [57,58]; and negative impacts on CNS GABAergic activity [59]. Except for the men-
+tioned neurodegeneration diseases, various pieces of research report a connection with KP,
+including Huntington’s Disease (HD), Lewy body Dementia (LBD), Amyotrophic lateral
+sclerosis (ALS), frontotemporal dementia (FTD), and multiple system atrophy (MSA).
+Huntington’s Disease (HD) is a single-gene genetic disease that suggests GABAergic
+activity degeneration as the major hypothesis for its pathology. Although there is a lack
+of evidence for PK getting involved in HD processes [60], downstream metabolites of KP,
+including QA, 3-HK, and QUIN, exhibit identical biological activity to HD. Typically, QA-
+induced excitotoxicity and neuroinﬂammation were noted in QA-lesioned rodents applied
+as the major experimental model for HD before the causative gene was identiﬁed [61].
+With the development of the theoretical study of HD pathology, scientists found a
+signiﬁcant difference in the 3-HK level in the CSF [62], whereas the QA shows a stable
+level as compared to the control group. An increased level of 3-HK was demonstrated in
+the striatum and the cortex in HD and was implicated in neuron loss as they prompted
+apoptosis [62]. The enzyme kynurenine 3-monooxygenase (KMO) is the critical enzyme
+that mediates the transamination from KA to 3-HK, taking QUIN as a ﬁnal metabolite.
+In contrast, the kynurenine aminotransferase (KAT) enzymes catalyze the irreversible
+transamination from KA to KYNA. Scientists suggest that inhibiting KMO could aid HD
+patients in lowering 3-HK and QUIN levels in neurons, promoting the conversion of KA
+into its neuroprotective metabolite [63].
+Lewy body Dementia (LBD) is another major cause of dementia. The abnormal ag-
+gregate of the alpha-synuclein protein caused an accumulation of Lewy body deposits
+and induced the pathology change in cognitive ability in one study [64]. The level of
+Kynurenine (KYN) and Kynurenic acid (KA) was believed to have a similar effect on LBD
+patients with Alzheimer’s disease. A study conducted by Solvang SH in 2019 collected
+ﬁve-year data related to the kynurenine pathway (KP) from 65 LBD patients. The study
+suggested a non-linear relationship between the ratios between KYN and TRP and between
+
+Int. J. Mol. Sci. 2024, 25, 853
+9 of 15
+KA and KYN and the Mini-Mental State Examination (MMSE) result. Neither high nor
+low levels of IDO-generated KYN exhibited an excellent performance when it came to the
+MMSE. Higher levels of KKR indicated a signiﬁcant association with increasing neuropsy-
+chiatric symptoms, especially hallucinations [65]. Additionally, LBD is demonstrated to
+have a considerable association with the apolipoprotein E ε4 gene variant (APOEε4). APOE
+expression is suppressed by pro-inﬂammatory cytokines in monocytes, which affects the
+activation of the kynurenine pathway [66–68]. There have been no differences between the
+KYN, KA, and QA levels observed in patients with different alleles of APOE. However, the
+absence of the ε4 allele indicates a higher possibility of cognition problems induced by the
+disordered kynurenine-pathway-related chemical level [66].
+Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) are both early-
+onset neurodegenerative disorders with a risk of death. Although there is a considerable
+difference in clinical performance between ALS and FTD, more and more evidence shows
+a mixed disease phenotype and genomic changes are present in both [69]. However, there
+is a lack of further understanding to distinguish early onset neurodegenerative disorders
+from other diseases and offer precise diagnosis and treatment. At present, the diagnosis
+of FTD is highly dependent on the presence of behavioral and cognitive symptoms in
+combination with neuroimaging without the assistance of liquid biomarkers. On the
+other hand, El Escorial criteria speciﬁed the diagnostic criteria from the perspective of
+movement disorders for ALS [70]. The current obstacle of ALS and FTD has inspired
+scientists to start following the KP that induces the neuroinﬂammation response as a novel
+strategy for investigation [71]. The consistency of the biochemical phenomena caused by the
+neurotoxicity of QUIN and the pathology of ALS and FTD have suggested a possible causal
+relationship. The hypotheses related to the pathogenesis of the two diseases include QUIN-
+inducing neuroinﬂammation, QUIN-inducing iNOS synthesis, QUIN-inducing NMDAR
+activation and Glutamate Excitotoxicity, and QUIN-inducing mitochondrial dysfunction
+and ATP death among others [72].
+Overall, multiple mechanisms of the KP have given its metabolisms (KPM) very
+potential as biological markers in clinical settings, especially for ALS. KPM is a group
+of small molecules within a stable state and widely distributed in the CSF, blood, and
+urine. Unlike TRP and KYN, which has a higher permeability through the blood–brain
+barrier (BBB), QUIN and KA are produced locally in situ from Kynurenine, and the higher
+level of QUIN and KA in the CSF reﬂects a higher neuroinﬂammation response [73].
+Research conducted by Alarcan H in 2021 recruited 42 ALS patients and forty controllers
+to study the early disorder of KP in the CSF. KYNA, KYN, and QUIN were expected
+to be most relevant, with a tendency to decrease in ALS subjects, and in contrast, the 3-
+HK/KYNA and QUIN/KYNA ratios tended to be higher in ALS subjects [73]. The observed
+variations in KPM also suggest a potential association with age or courses of disease for
+ALS [65]. However, the neuroinﬂammation response induced by the KP commonly occurs
+in several neuron diseases. Thus, the KPM assessment is more valuable when applied as a
+prognostic/progression marker and differentiates the disease subtypes instead of using
+them for diagnosis.
+Multiple system atrophy is a neurological disorder primarily symptomized by the
+loss of neurons and the presence of overabundant or enlarged glial cells within multi-
+ple locations of a patient’s central nervous system. Although strongly indicated by the
+histopathological hallmark that comprises oligodendroglial cytoplasmic inclusions, which
+contain accumulated, improperly folded α-synuclein, a deﬁnitive clinical diagnosis for
+the condition can only be reached through the presence of autonomic dysfunction and
+Parkinsonism in the patient [74]. The mechanisms involved in the kynurenine pathway
+have been implicated in a number of neurodegenerative conditions. Kynurenines, which
+are, as previously elucidated, metabolites produced within the kynurenine pathway, play a
+signiﬁcant role in the development of chronic inﬂammation. Kynurenines negatively im-
+pact glutamatergic neurotransmission and exhibit direct toxic effects on neurons and glial
+cells, both of which are known to be damaged in the pathophysiology of multiple sclerosis.
+
+Int. J. Mol. Sci. 2024, 25, 853
+10 of 15
+Furthermore, another intermediate metabolite of the kynurenine pathway, quinolinic acid,
+is considered an established neurotoxic agent [75].
+Multiple sclerosis (MS) is a complex and debilitating autoimmune disease that affects
+the central nervous system, leading to a wide range of neurological symptoms. Phys-
+iological symptoms include the degeneration of myelin sheaths surrounding neurons,
+chronic inﬂammation of neural tissues, and formation of CNS lesions, leading to various
+neurological symptoms [76]. The pathogenesis is not entirely understood, but genetic
+and environmental elements contribute to disease presentation. After the ﬁrst enzymatic
+rate-limiting step, the KP pathway metabolizes Tryptophan in three distinct branches. IDO
+catalyzes this ﬁrst step. Research has supported that the link between the KP and the
+immune system lies in IDO activity since IDO appears to have some connection to anti-
+inﬂammatory properties and the effect on T helper and regulatory cells when considering
+its activation by cytokines [5]. KP metabolites are directly toxic to glia and neurons [77].
+The activation of the KP pathway results in changing levels of kynurenine metabolites,
+and elevated levels of these metabolites have been found in the cerebrospinal ﬂuid (CSF)
+of patients presenting with all types of MS [75]. When it comes to understanding the
+intricate connections between types of multiple sclerosis, the kynurenine pathway provides
+valuable insights into the underlying mechanisms of the disease, offering potential avenues
+for therapeutic interventions and the development of targeted treatments to alleviate the
+impact of MS on affected individuals.
+6. Therapeutic Targets Modulate the Kynurenine Pathway
+Due to the sheer variety of neurodegenerative diseases that can develop in the body,
+there is an immense range of pathophysiological factors behind the symptoms associated
+with neurodegeneration. This, in turn, means that there are a great many therapeutic
+targets in the body that can be altered to modulate the severity of these neurodegenerative
+conditions. A therapeutic target is deﬁned as a biochemical factor—typically a molecule,
+pathway, or physiological reaction—that is affected by a speciﬁc therapeutic drug, resulting
+in the beneﬁcial effects associated with that drug [78,79]. One metabolic process that
+has been implicated heavily in the mechanisms of many neurodegenerative disorders is
+the kynurenine pathway, which functions primarily as the body’s means to degrade the
+essential amino acid tryptophan [80]. The pathway’s considerable involvement in disease
+pathology means that it is also a viable target for various therapeutic processes.
+It has been noted in many studies that kynurenic acid, one of the many byproducts
+of the kynurenine pathway, displays an increased concentration in the brain tissue or
+the cerebrospinal ﬂuid of individuals with schizophrenia—a condition symptomized al-
+most entirely by its reduction of cognitive function in patients. This increase has been
+observed to be several-fold and especially prominent within the prefrontal cortex in dis-
+eased individuals, leading to the development of hypo-frontality in that area of their brains.
+Hypo-frontality, deﬁned as a slowing of EEG activity localized frontally [81], coincides
+with decreased metabolic function and is one of the indicators of schizophrenia along with
+various other neurological conditions. It has been hypothesized that a reduction in the
+quantity and activity of the enzymes kynurenine 3-monooxygenase (KMO) and 3-hydroxy-
+anthranilic acid oxidase (3HAO), along with a reduction in the quantity and activity of
+their corresponding mRNA, is the reason for the association between increased levels of
+kynurenic acid and schizophrenia. Furthermore, a correlation between levels of kynurenic
+acid in the cerebrospinal ﬂuid and the KMO single nucleotide polymorphism rs1053230
+has been documented, supporting the notion that greater amounts of kynurenic acid pro-
+duction can be caused by simple genetic alternations. Finally, kynurenic acid is known to
+decrease extracellular glutamate levels, leading to the observation of impaired cognitive
+function in rat models [82]. One of the clinical studies on the vagus nerve stimulation (VNS)
+mechanism of action in recurrent epileptic seizures showed that the neuroprotective and
+anticonvulsant tryptophan metabolite anthranilic acid is consistently elevated in response
+to vagus nerve stimulation. Furthermore, a decrease in the frequency of seizures and an
+
+Int. J. Mol. Sci. 2024, 25, 853
+11 of 15
+improvement in mood are linked to elevated anthranilic acid levels [83]. An analysis of
+clinical studies involving patients diagnosed with Alzheimer’s-type dementia indicated
+that the kynurenine pathway is impaired in Alzheimer’s-type dementia patients. The study
+also found that after citalopram treatment, there was a signiﬁcant correlation between
+the levels of Kynurenine and Tryptophan for Alzheimer’s-type dementia patients and an
+increase in serotonin (5-HT)/Tryptophan [84]. Acute tryptophan depletion signiﬁcantly
+reduces cognitive function in patients with Alzheimer-type dementia, according to a study
+by R. J. Porter [85].
+The KMO enzyme has also been directly and considerably implicated in the pathology
+of neurodegenerative diseases. One study of mice models observed that the targeted
+deletion of KMO-related genes, which had the effect of preventing KMO production,
+resulted in a signiﬁcant decrease in the enzymatic product of KMO, 3-hydroxykynurenine
+(3-HK) [86]. This is signiﬁcant as 3-HK is considered a neurotoxin due to both its generation
+of free radicals as well as its functionality as an agonist for N-methyl-d-aspartic acid [87].
+3-HK exhibits particularly toxic effects on cortical and striatal neurons [88] and is also
+known to prevent cytokine-induced apoptosis, a mechanism of cellular regulation, within
+them [87]. One method by which to alleviate the effects of 3-HK is inhibiting its uptake into
+the cell, as uptake has been shown to be a critical factor in its toxicity [88]. Huntington’s
+Disease is a primary example of a neurodegenerative disorder with a pathology that
+correlates to the action of KMO. Brain regions with the strongest associations to HD-related
+neurodegeneration have been observed to contain aggregations of reactive microglia [87],
+which are the central nervous system’s immune cells involved in processes such as brain
+homeostasis and the development of neurological disorders [89]. Upon induction from
+pro-inﬂammatory stimuli, microglia have been known to express KMO, which leads to
+their production of quinolinic acid [87], another neurotoxin known to play a large role
+in neurodegenerative disease pathology. While typically present in the human brain and
+cerebrospinal ﬂuid in only nanomolar concentrations, abnormally increased amounts of
+quinolone acid may have considerable consequences. Like 3-HK, quinolone acid is an
+N-methyl-D-aspartic acid receptor, but it can also exhibit effects on transcription factors,
+cell death, presynaptic receptors, oxidative stress, and energy dysfunction [17]. Notably,
+in patients with Huntington’s Disease, the central nervous system has been known to
+favor the KMO branch of the kynurenine pathway. This shift eventually results in the
+accumulation of quinolinic acid and the occurrence of the toxic effects that it can have
+in elevated amounts. Further supporting the association of KMO in neurodegenerative
+diseases is the fact that the KMO inhibitor drug, JM6, has been noted for its ability to
+inhibit the loss of synapses, lower microglial activation, and increase life span in an HD
+mouse model [87]. The clinical trial showed that the Indole-3-propionic acid (IPA), which
+is formed by the gut microbiota, helps prevent damage to microglia from inﬂammation
+and promotes neuronal function. Peptostreptococcus anaerobius and Clostridium sporogenes
+are the only bacteria that can synthesize IPA from dietary Tryptophan. An animal model of
+steatohepatitis has demonstrated the anti-inﬂammatory properties of circulating IPA, and it
+has also been demonstrated that it mitigates ischemia-induced cerebral lesions by lowering
+lipid peroxidation and DNA damage [90]. Oats, bananas, dried prunes, milk, tuna ﬁsh,
+cheese, bread, chicken, turkey, peanuts, and chocolate are a few foods that often contain
+Tryptophan [91].
+7. Conclusions
+Evaluating the precise mechanism behind a neurological condition is challenging
+yet crucial due to the intricacy of neurodegenerative disorders. Because neurological
+pathologies are associated with increased morbidity and mortality, clinical research in this
+ﬁeld is conducted on animals rather than human beings. Clinical trials on humans are
+nonetheless required to fully understand the impact of therapeutic targets and how they
+might help mitigate disease. An increasing amount of research links the pathophysiology of
+several neurocognitive and neurodegenerative pathologies to metabolites of the kynurenine
+
+Int. J. Mol. Sci. 2024, 25, 853
+12 of 15
+pathway. In order to support earlier metabolic research in patients, new genetic and
+pharmacological methods in model organisms have been used to imply that normalizing
+circulation via the KP may be a viable treatment strategy for various pathologies.
+Funding: This research received no external funding.
+Data Availability Statement: Not applicable.
+Acknowledgments: We would like to thank Rajesh H. Amin, Department of Drug Discovery and
+Development, Harrison College of Pharmacy, for providing the Biorender License and helping create
+the ﬁgure.
+Conﬂicts of Interest: All the authors declare no conﬂict of interest.
+References
+1.
+Savitz, J. The kynurenine pathway: A ﬁnger in every pie. Mol. Psychiatry 2020, 25, 131–147. [CrossRef] [PubMed]
+2.
+Badawy, A.A. Tryptophan Metabolism: A Versatile Area Providing Multiple Targets for Pharmacological Intervention. Egypt. J.
+Basic Clin. Pharmacol. 2019, 9. [CrossRef] [PubMed]
+3.
+Mor, A.; Tankiewicz-Kwedlo, A.; Krupa, A.; Pawlak, D. Role of Kynurenine Pathway in Oxidative Stress during Neurodegenera-
+tive Disorders. Cells 2021, 10, 1603. [CrossRef] [PubMed]
+4.
+Liang, Y.; Xie, S.; He, Y.; Xu, M.; Qiao, X.; Zhu, Y.; Wu, W. Kynurenine Pathway Metabolites as Biomarkers in Alzheimer’s Disease.
+Dis Markers. 2022, 2022, 9484217. [CrossRef] [PubMed]
+5.
+Davis, I.; Liu, A. What is the tryptophan kynurenine pathway and why is it important to neurotherapeutics? Expert Rev. Neurother.
+2015, 15, 719–721. [CrossRef]
+6.
+Garcez, M.L.; Jacobs, K.R.; Guillemin, G.J. Microbiota Alterations in Alzheimer’s Disease: Involvement of the Kynurenine
+Pathway and Inﬂammation. Neurotox. Res. 2019, 36, 424–436. [CrossRef] [PubMed]
+7.
+Sharma, V.K.; Singh, T.G.; Prabhakar, N.K.; Mannan, A. Kynurenine Metabolism and Alzheimer’s Disease: The Potential Targets
+and Approaches. Neurochem. Res. 2022, 47, 1459–1476. [CrossRef]
+8.
+Bakker, L.; Choe, K.; Eussen, S.J.P.M.; Ramakers, I.H.G.B.; van den Hove, D.L.A.; Kenis, G.; Rutten, B.P.F.; Verhey, F.R.J.; Köhler, S.
+Relation of the kynurenine pathway with normal age: A systematic review. Mech. Ageing Dev. 2024, 217, 111890. [CrossRef]
+9.
+Mithaiwala, M.N.; Santana-Coelho, D.; Porter, G.A.; O’Connor, J.C. Neuroinﬂammation and the Kynurenine Pathway in CNS
+Disease: Molecular Mechanisms and Therapeutic Implications. Cells 2021, 10, 1548. [CrossRef]
+10.
+Jack, C.R., Jr.; Bennett, D.A.; Blennow, K.; Carrillo, M.C.; Dunn, B.; Haeberlein, S.B.; Holtzman, D.M.; Jagust, W.; Jessen, F.;
+Karlawish, J.; et al. NIA-AA Research Framework: Toward a biological deﬁnition of Alzheimer’s disease. Alzheimers Dement.
+2018, 14, 535–562. [CrossRef]
+11.
+Wang, Q.; Liu, D.; Song, P.; Zou, M.H. Tryptophan-kynurenine pathway is dysregulated in inﬂammation, and immune activation.
+Front. Biosci. Landmark Ed. 2015, 20, 1116–1143. [PubMed]
+12.
+Mingoti, M.; Bertollo, A.; Simões, J.; Francisco, G.; Bagatini, M.; Ignácio, Z.M. COVID-19, Oxidative Stress and Neuroinﬂammation
+in the Depression Route. J. Mol. Neurosci. 2022, 72, 1166–1181. [CrossRef] [PubMed]
+13.
+Cheng, D.; Qin, Z.S.; Zheng, Y.; Xie, J.Y.; Liang, S.S.; Zhang, J.L.; Feng, Y.B.; Zhang, Z.J. Minocycline, a classic antibiotic, exerts
+psychotropic effects by normalizing microglial neuroinﬂammation-evoked tryptophan-kynurenine pathway dysregulation in
+chronically stressed male mice. Brain Behav. Immun. 2023, 107, 305–318. [CrossRef] [PubMed]
+14.
+Kurian, M.A.; Gissen, P.; Smith, M.; Heales, S.J.R.; Clayton, P.T. The monoamine neurotransmitter disorders: An expanding range
+of neurological syndromes. Lancet Neurol. 2011, 10, 721–733. [CrossRef] [PubMed]
+15.
+Guillemin, G.J. Quinolinic acid, the inescapable neurotoxin. FEBS J. 2012, 279, 1356–1365. [CrossRef] [PubMed]
+16.
+Stone, T.W. Endogenous neurotoxins from Tryptophan. Toxicon 2001, 39, 61–73. [CrossRef]
+17.
+Lugo-Huitrón, R.; Ugalde Muñiz, P.; Pineda, B.; Pedraza-Chaverrí, J.; Ríos, C.; Pérez-de la Cruz, V. Quinolinic Acid: An
+Endogenous Neurotoxin with Multiple Targets. Oxidative Med. Cell. Longev. 2013, 2013, 104024. [CrossRef]
+18.
+van der Velpen, V.; Teav, T.; Gallart-Ayala, H.; Mehl, F.; Konz, I.; Clark, C.; Oikonomidi, A.; Peyratout, G.; Henry, H.; Delorenzi,
+M.; et al. Systemic and central nervous system metabolic alterations in Alzheimer’s disease. Alzheimers Res. Ther. 2019, 11, 93.
+[CrossRef]
+19.
+Hu, L.J.; Li, X.F.; Hu, J.Q.; Ni, X.J.; Lu, H.Y.; Wang, J.J.; Huang, X.N.; Lin, C.X.; Shang, D.W.; Wen, Y.G. A Simple HPLC-MS/MS
+Method for Determination of Tryptophan, Kynurenine and Kynurenic Acid in Human Serum and its Potential for Monitoring
+Antidepressant Therapy. J. Anal. Toxicol. 2017, 41, 37–44. [CrossRef]
+20.
+Grifka-Walk, H.M.; Jenkins, B.R.; Kominsky, D.J. Amino Acid Trp: The Far Out Impacts of Host and Commensal Tryptophan
+Metabolism. Front. Immunol. 2021, 12, 653208. [CrossRef]
+21.
+Brouns, R.; Verkerk, R.; Aerts, T.; De Surgeloose, D.; Wauters, A.; Scharpé, S.; De Deyn, P.P. The role of tryptophan catabolism
+along the kynurenine pathway in acute ischemic stroke. Neurochem. Res. 2010, 35, 1315–1322. [CrossRef] [PubMed]
+22.
+Amori, L.; Guidetti, P.; Pellicciari, R.; Kajii, Y.; Schwarcz, R. On the relationship between the two branches of the kynurenine
+pathway in the rat brain in vivo. J. Neurochem. 2009, 109, 316–325. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 853
+13 of 15
+23.
+Jacobs, K.R.; Castellano-Gonzalez, G.; Guillemin, G.J.; Lovejoy, D.B. Major Developments in the Design of Inhibitors along the
+Kynurenine Pathway. Curr. Med. Chem. 2017, 24, 2471–2495. [CrossRef]
+24.
+Ma, Y.; Yu, L.; Olah, M.; Smith, R.; Oatman, S.R.; Allen, M.; Pishva, E.; Zhang, B.; Menon, V.; Ertekin-Taner, N.; et al. Epigenomic
+features related to microglia are associated with attenuated effect of APOE ε4 on Alzheimer’s disease risk in humans. Alzheimers
+Dement. 2022, 18, 688–699. [CrossRef] [PubMed]
+25.
+Katzourou, I.; Leonenko, G.; Ivanov, D.; Meggy, A.; Marshall, R.; Sims, R.; Williams, J.; Holmans, P.; Escott-Price, V. Cognitive
+Decline in Alzheimer’s Disease Is Not Associated with APOE. J. Alzheimers Dis. 2021, 84, 141–149. [CrossRef] [PubMed]
+26.
+Xin, Y.; Zhang, L.; Hu, J.; Gao, H.; Zhang, B. Correlation of early cognitive dysfunction with inﬂammatory factors and metabolic
+indicators in patients with Alzheimer’s disease. Am. J. Transl. Res. 2021, 13, 9208–9215. [PubMed]
+27.
+de Leeuw, F.A.; Peeters, C.F.W.; Kester, M.I.; Harms, A.C.; Struys, E.A.; Hankemeier, T.; van Vlijmen, H.W.T.; van der Lee, S.J.; van
+Duijn, C.M.; Scheltens, P.; et al. Blood-based metabolic signatures in Alzheimer’s disease. Alzheimers Dement. 2017, 8, 196–207.
+[CrossRef]
+28.
+Jacobs, K.R.; Lim, C.K.; Blennow, K.; Zetterberg, H.; Chatterjee, P.; Martins, R.N.; Brew, B.J.; Guillemin, G.J.; Lovejoy, D.B.
+Correlation between plasma and CSF concentrations of kynurenine pathway metabolites in Alzheimer’s disease and relationship
+to amyloid-β and tau. Neurobiol. Aging 2019, 80, 11–20. [CrossRef]
+29.
+Willette, A.A.; Pappas, C.; Hoth, N.; Wang, Q.; Klinedinst, B.; Willette, S.A.; Larsen, B.; Pollpeter, A.; Li, T.; Le, S.; et al.
+Inﬂammation, negative affect, and amyloid burden in Alzheimer’s disease: Insights from the kynurenine pathway. Brain Behav.
+Immun. 2021, 95, 216–225. [CrossRef]
+30.
+Giil, L.M.; Midttun, Ø.; Refsum, H.; Ulvik, A.; Advani, R.; Smith, A.D.; Ueland, P.M. Kynurenine Pathway Metabolites in
+Alzheimer’s Disease. J. Alzheimers Dis. 2017, 60, 495–504. [CrossRef]
+31.
+Gracia-Ramos, A.E.; Cruz-Domínguez, M.P.; Madrigal-Santillán, E.O. Incretin-based therapy for glycemic control of hospitalized
+patients with type 2 diabetes: A systematic review. Rev. Clín. Esp. Engl. Ed. 2022, 222, 180–189. [CrossRef] [PubMed]
+32.
+Braidy, N.; Grant, R. Kynurenine pathway metabolism and neuroinﬂammatory disease. Neural Regen. Res. 2017, 12, 39–42.
+[CrossRef] [PubMed]
+33.
+Sorgdrager, F.J.H.; Vermeiren, Y.; Van Faassen, M.; van der Ley, C.; Nollen, E.A.A.; Kema, I.P.; De Deyn, P.P. Age- and disease-
+speciﬁc changes of the kynurenine pathway in Parkinson’s and Alzheimer’s disease. J. Neurochem. 2019, 151, 656–668. [CrossRef]
+34.
+Shen, X.N.; Niu, L.D.; Wang, Y.J.; Cao, X.P.; Liu, Q.; Tan, L.; Zhang, C.; Yu, J.T. Inﬂammatory markers in Alzheimer’s disease
+and mild cognitive impairment: A meta-analysis and systematic review of 170 studies. J. Neurol. Neurosurg. Psychiatry 2019, 90,
+590–598. [CrossRef]
+35.
+DiSabato, D.J.; Quan, N.; Godbout, J.P. Neuroinﬂammation: The devil is in the details. J. Neurochem. 2016, 139 (Suppl. S2),
+136–153. [CrossRef] [PubMed]
+36.
+Bendheim, P.E.; Poeggeler, B.; Neria, E.; Ziv, V.; Pappolla, M.A.; Chain, D.G. Development of indole-3-propionic acid (OXIGON)
+for Alzheimer’s disease. J. Mol. Neurosci. 2002, 19, 213–217. [CrossRef]
+37.
+Wu, W.; Nicolazzo, J.A.; Wen, L.; Chung, R.; Stankovic, R.; Bao, S.S.; Lim, C.K.; Brew, B.J.; Cullen, K.M.; Guillemin, G.J.
+Expression of tryptophan 2,3-dioxygenase and production of kynurenine pathway metabolites in triple transgenic mice and
+human Alzheimer’s disease brain. PLoS ONE 2013, 8, e59749. [CrossRef] [PubMed]
+38.
+Moffett, J.R.; Namboodiri, M.A. Tryptophan and the immune response. Immunol. Cell Biol. 2003, 81, 247–265. [CrossRef]
+39.
+Mellor, A.L.; Munn, D.H. IDO expression by dendritic cells: Tolerance and tryptophan catabolism. Nat. Rev. Immunol. 2004, 4,
+762–774. [CrossRef]
+40.
+Guillemin, G.J.; Smith, D.G.; Smythe, G.A.; Armati, P.J.; Brew, B.J. Expression of the kynurenine pathway enzymes in human
+microglia and macrophages. Adv. Exp. Med. Biol. 2003, 527, 105–112.
+41.
+Vécsei, L.; Szalárdy, L.; Fülöp, F.; Toldi, J. Kynurenines in the CNS: Recent advances and new questions. Nat. Rev. Drug Discov.
+2013, 12, 64–82. [CrossRef] [PubMed]
+42.
+Lim, C.K.; Fernández-Gomez, F.J.; Braidy, N.; Estrada, C.; Costa, C.; Costa, S.; Bessede, A.; Fernandez-Villalba, E.; Zinger, A.;
+Herrero, M.T.; et al. Involvement of the kynurenine pathway in the pathogenesis of Parkinson’s disease. Progress Neurobiol. 2017,
+155, 76–95. [CrossRef] [PubMed]
+43.
+Beal, M.F.; Matson, W.R.; Storey, E.; Milbury, P.; Ryan, E.A.; Ogawa, T.; Bird, E.D. Kynurenic acid concentrations are reduced in
+Huntington’s disease cerebral cortex. J. Neurol. Sci. 1992, 108, 80–87. [CrossRef] [PubMed]
+44.
+Zinger, A.; Barcia, C.; Herrero, M.T.; Guillemin, G.J. The involvement of neuroinﬂammation and kynurenine pathway in
+Parkinson’s disease. Parkinsons Dis. 2011, 2011, 716859. [CrossRef] [PubMed]
+45.
+Widner, B.; Laich, A.; Sperner-Unterweger, B.; Ledochowski, M.; Fuchs, D. Neopterin production, tryptophan degradation, and
+mental depression—What is the link? Brain Behav. Immun. 2002, 16, 590–595. [CrossRef]
+46.
+Widner, B.; Leblhuber, F.; Fuchs, D. Increased neopterin production and tryptophan degradation in advanced Parkinson’s disease.
+J. Neural Transm. 2002, 109, 181–189. [CrossRef] [PubMed]
+47.
+Hartai, Z.; Klivenyi, P.; Janaky, T.; Penke, B.; Dux, L.; Vecsei, L. Kynurenine metabolism in plasma and in red blood cells in
+Parkinson’s disease. J. Neurol. Sci. 2005, 239, 31–35. [CrossRef]
+48.
+Bao, Y.; Wang, L.; Liu, H.; Yang, J.; Yu, F.; Cui, C.; Huang, D. A Diagnostic Model for Parkinson’s Disease Based on Anoikis-Related
+Genes. Mol. Neurobiol. 2023. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 853
+14 of 15
+49.
+Anderson, G.; Maes, M. TRYCAT pathways link peripheral inﬂammation, nicotine, somatization and depression in the etiology
+and course of Parkinson’s disease. CNS Neurol. Disord. Drug Targets 2014, 13, 137–149. [CrossRef]
+50.
+Capuron, L.; Miller, A.H. Immune system to brain signaling: Neuropsychopharmacological implications. Pharmacol. Ther. 2011,
+130, 226–238. [CrossRef]
+51.
+Kubesova, A.; Tejkalova, H.; Syslova, K.; Kacer, P.; Vondrousova, J.; Tyls, F.; Fujakova, M.; Palenicek, T.; Horacek, J. Biochemical,
+histopathological and morphological proﬁling of a rat model of early immune stimulation: Relation to psychopathology. PLoS
+ONE 2015, 10, e0115439. [CrossRef]
+52.
+Zhang, T.M.; Yu, S.Y.; Guo, P.; Du, Y.; Hu, Y.; Piao, Y.S.; Zuo, L.J.; Lian, T.H.; Wang, R.D.; Yu, Q.J.; et al. Nonmotor symptoms in
+patients with Parkinson disease: A cross-sectional observational study. Medicine 2016, 95, e5400. [CrossRef]
+53.
+Bai, M.Y.; Lovejoy, D.B.; Guillemin, G.J.; Kozak, R.; Stone, T.W.; Koola, M.M. Galantamine-Memantine Combination and
+Kynurenine Pathway Enzyme Inhibitors in the Treatment of Neuropsychiatric Disorders. Complex Psychiatry 2021, 7, 19–33.
+[CrossRef]
+54.
+Sun, C.; Armstrong, M.J. Treatment of Parkinson’s Disease with Cognitive Impairment: Current Approaches and Future Directions.
+Behav. Sci. 2021, 11, 54. [CrossRef]
+55.
+Wu, H.Q.; Rassoulpour, A.; Schwarcz, R. Kynurenic acid leads, dopamine follows: A new case of volume transmission in the
+brain? J. Neural Transm. 2007, 114, 33–41. [CrossRef]
+56.
+Jentsch, J.D.; Roth, R.H. The neuropsychopharmacology of phencyclidine: From NMDA receptor hypofunction to the dopamine
+hypothesis of schizophrenia. Neuropsychopharmacology 1999, 20, 201–225. [CrossRef]
+57.
+Hilmas, C.; Pereira, E.F.; Alkondon, M.; Rassoulpour, A.; Schwarcz, R.; Albuquerque, E.X. The brain metabolite kynurenic acid
+inhibits alpha7 nicotinic receptor activity and increases non-alpha7 nicotinic receptor expression: Physiopathological implications.
+J. Neurosci. 2001, 21, 7463–7473. [CrossRef]
+58.
+Obara-Michlewska, M.; Tuszy´nska, P.; Albrecht, J. Ammonia upregulates KKynurenine aminotransferase II mRNA expression in
+rat brain: A role for astrocytic NMDA receptors? Metab. Brain Dis. 2013, 28, 161–165. [CrossRef]
+59.
+Yoon, J.H.; Maddock, R.J.; DongBo Cui, E.; Minzenberg, M.J.; Niendam, T.A.; Lesh, T.; Solomon, M.; Ragland, J.D.; Carter, C.
+Reduced in vivo visual cortex GABA in schizophrenia, a replication in a recent onset sample. Schizophr. Res. 2020, 215, 217–222.
+[CrossRef]
+60.
+Rodrigues, F.B.; Byrne, L.M.; Lowe, A.J.; Tortelli, R.; Heins, M.; Flik, G.; Johnson, E.B.; De Vita, E.; Scahill, R.I.; Giorgini, F.; et al.
+Kynurenine pathway metabolites in cerebrospinal ﬂuid and blood as potential biomarkers in Huntington’s disease. J. Neurochem.
+2021, 158, 539–553. [CrossRef]
+61.
+Byrne, L.M.; Wild, E.J. Cerebrospinal Fluid Biomarkers for Huntington’s Disease. J. Huntingt. Dis. 2016, 5, 1–13. [CrossRef]
+62.
+Fathi, M.; Vakili, K.; Yaghoobpoor, S.; Tavasol, A.; Jazi, K.; Hajibeygi, R.; Shool, S.; Sodeiﬁan, F.; Klegeris, A.; McElhinney, A.;
+et al. Dynamic changes in metabolites of the kynurenine pathway in Alzheimer’s disease, Parkinson’s disease, and Huntington’s
+disease: A systematic Review and meta-analysis. Front. Immunol. 2022, 13, 997240. [CrossRef]
+63.
+Thevandavakkam, M.A.; Schwarcz, R.; Muchowski, P.J.; Giorgini, F. Targeting kynurenine 3-monooxygenase (KMO): Implications
+for therapy in Huntington’s disease. CNS Neurol. Disord. Drug Targets 2010, 9, 791–800. [CrossRef]
+64.
+NIH National Institute on Aging (NIA). What Is Lewy Body Dementia? Causes, Symptoms, and Treatments. 2021. Available
+online: https://www.nia.nih.gov/health/lewy-body-dementia/what-lewy-body-dementia-causes-symptoms-and-treatments
+(accessed on 29 July 2021).
+65.
+Solvang, S.H.; Nordrehaug, J.E.; Aarsland, D.; Lange, J.; Ueland, P.M.; McCann, A.; Midttun, Ø.; Tell, G.S.; Giil, L.M.
+Kynurenines, Neuropsychiatric Symptoms, and Cognitive Prognosis in Patients with Mild Dementia. Int. J. Tryptophan Res. 2019,
+12, 1178646919877883.
+66.
+Jones, S.P.; Franco, N.F.; Varney, B.; Sundaram, G.; Brown, D.A.; de Bie, J.; Lim, C.K.; Guillemin, G.J.; Brew, B.J. Expression of the
+Kynurenine Pathway in Human Peripheral Blood Mononuclear Cells: Implications for Inﬂammatory and Neurodegenerative
+Disease. PLoS ONE 2015, 10, e0131389. [CrossRef]
+67.
+Braesch-Andersen, S.; Paulie, S.; Smedman, C.; Mia, S.; Kumagai-Braesch, M. ApoE production in human monocytes and its
+regulation by inﬂammatory cytokines. PLoS ONE 2013, 8, e79908. [CrossRef]
+68.
+Yamazaki, Y.; Painter, M.M.; Bu, G.; Kanekiyo, T. Apolipoprotein E as a Therapeutic Target in Alzheimer’s Disease: A Review of
+Basic Research and Clinical Evidence. CNS Drugs 2016, 30, 773–789. [CrossRef]
+69.
+Heylen, A.; Vermeiren, Y.; Kema, I.P.; van Faassen, M.; van der Ley, C.; Van Dam, D.; De Deyn, P.P. Brain Kynurenine Pathway
+Metabolite Levels May Reﬂect Extent of Neuroinﬂammation in ALS, FTD and Early Onset AD. Pharmaceuticals 2023, 16, 615.
+[CrossRef]
+70.
+Rascovsky, K.; Hodges, J.R.; Knopman, D.; Mendez, M.F.; Kramer, J.H.; Neuhaus, J.; van Swieten, J.C.; Seelaar, H.; Dopper, E.G.;
+Onyike, C.U.; et al. Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia. Brain 2011,
+134 Pt 9, 2456–2477. [CrossRef]
+71.
+González-Sánchez, M.; Jiménez, J.; Narváez, A.; Antequera, D.; Llamas-Velasco, S.; Martín, A.H.; Arjona, J.A.M.; Munain, A.L.;
+Bisa, A.L.; Marco, M.P.; et al. Kynurenic Acid Levels are Increased in the CSF of Alzheimer’s Disease Patients. Biomolecules 2020,
+10, 571. [CrossRef]
+72.
+Lee, J.-M.; Tan, V.; Lovejoy, D.; Braidy, N.; Rowe, D.B.; Brew, B.J.; Guillemin, G.J. Involvement of quinolinic acid in the
+neuropathogenesis of amyotrophic lateral sclerosis. Neuropharmacology 2017, 112, 346–364.
+
+Int. J. Mol. Sci. 2024, 25, 853
+15 of 15
+73.
+Alarcan, H.; Chaumond, R.; Emond, P.; Benz-De Bretagne, I.; Lefèvre, A.; Bakkouche, S.E.; Veyrat-Durebex, C.; Vourc’h, P.; Andres,
+C.; Corcia, P.; et al. Some CSF Kynurenine Pathway Intermediates Associated with Disease Evolution in Amyotrophic Lateral
+Sclerosis. Biomolecules 2021, 11, 691. [CrossRef]
+74.
+Poewe, W.; Stankovic, I.; Halliday, G.; Meissner, W.G.; Wenning, G.K.; Pellecchia, M.T.; Seppi, K.; Palma, J.A.; Kaufmann, H.
+Multiple system atrophy. Nat. Rev. Dis. Primers 2022, 8, 56.
+75.
+Fathi, M.; Vakili, K.; Yaghoobpoor, S.; Tavasol, A.; Jazi, K.; Mohamadkhani, A.; Klegeris, A.; McElhinney, A.; Maﬁ, Z.; Hajiesmaeili,
+M.; et al. Dynamic changes in kynurenine pathway metabolites in multiple sclerosis: A systematic review. Front. Immunol. 2022,
+13, 1013784. [CrossRef]
+76.
+Tafti, D.; Ehsan, M.; Xixis, K.L. Multiple Sclerosis; StatPearls Publishing: Treasure Island, FL, USA, 2023.
+77.
+Tan, V.X.; Guillemin, G.J. Kynurenine Pathway Metabolites as Biomarkers for Amyotrophic Lateral Sclerosis. Front. Neurosci.
+2019, 13, 1013.
+78.
+Hanson, J. Novel drug targets and therapeutic perspectives. Towards a precision medicine. Rev. Med. Liege 2020, 75, 460–465.
+79.
+Therapeutic Target: National Center for Advancing Translational Sciences (NCATS). 2017. Available online: https://registries.
+ncats.nih.gov/glossary/therapeutic-target/ (accessed on 7 January 2024).
+80.
+Solvang, S.H.; Hodge, A.; Watne, L.O.; Cabral-Marques, O.; Nordrehaug, J.E.; Giles, G.G.; Dugué, P.A.; Nygård, O.; Ueland, P.M.;
+McCann, A.; et al. Kynurenine Pathway Metabolites in the Blood and Cerebrospinal Fluid Are Associated with Human Aging.
+Oxidative Med. Cell. Longev. 2022, 2022, 5019752. [CrossRef]
+81.
+Wuebben, Y.; Winterer, G. Hypofrontality—A risk-marker related to schizophrenia? Schizophr. Res. 2001, 48, 207–217.
+82.
+Stone, T.W.; Darlington, L.G. The kynurenine pathway as a therapeutic target in cognitive and neurodegenerative disorders. Br. J.
+Pharmacol. 2013, 169, 1211–1227. [CrossRef]
+83.
+Klinkenberg, S.; van den Borne, C.J.; Aalbers, M.W.; Verschuure, P.; Kessels, A.G.; Leenen, L.; Rijkers, K.; Aldenkamp, A.P.; Vles,
+J.S.; Majoie, H.J. The effects of vagus nerve stimulation on tryptophan metabolites in children with intractable epilepsy. Epilepsy
+Behav. 2014, 37, 133–138.
+84.
+Tohgi, H.; Abe, T.; Takahashi, S.; Saheki, M.; Kimura, M. Indoleamine concentrations in cerebrospinal ﬂuid from patients with
+Alzheimer type and Binswanger type dementias before and after administration of citalopram, a synthetic serotonin uptake
+inhibitor. J. Neural Transm. Park. Dis. Dement. Sect. 1995, 9, 121–131. [CrossRef] [PubMed]
+85.
+Porter, R.J.; Lunn, B.S.; Walker, L.L.; Gray, J.M.; Ballard, C.G.; O’Brien, J.T. Cognitive deﬁcit induced by acute tryptophan depletion
+in patients with Alzheimer’s disease. Am. J. Psychiatry 2000, 157, 638–640. [CrossRef] [PubMed]
+86.
+Fujigaki, H.; Yamamoto, Y.; Saito, K. L-Tryptophan-kynurenine pathway enzymes are therapeutic target for neuropsychiatric
+diseases: Focus on cell type differences. Neuropharmacology 2017, 112, 264–274. [PubMed]
+87.
+Krause, D.; Suh, H.S.; Tarassishin, L.; Cui, Q.L.; Durafourt, B.A.; Choi, N.; Bauman, A.; Cosenza-Nashat, M.; Antel, J.P.; Zhao,
+M.L.; et al. The tryptophan metabolite 3-hydroxyanthranilic acid plays anti-inﬂammatory and neuroprotective roles during
+inﬂammation: Role of hemeoxygenase-1. Am. J. Pathol. 2011, 179, 1360–1372. [CrossRef] [PubMed]
+88.
+Okuda, S.; Nishiyama, N.; Saito, H.; Katsuki, H. 3-Hydroxykynurenine, an Endogenous Oxidative Stress Generator, Causes
+Neuronal Cell Death with Apoptotic Features and Region Selectivity. J. Neurochem. 1998, 70, 299–307. [CrossRef] [PubMed]
+89.
+Mendes, M.S.; Majewska, A.K. An overview of microglia ontogeny and maturation in the homeostatic and pathological brain.
+Eur. J. Neurosci. 2021, 53, 3525–3547. [CrossRef]
+90.
+Kim, C.S.; Jung, S.; Hwang, G.S.; Shin, D.M. Gut microbiota indole-3-propionic acid mediates neuroprotective effect of probiotic
+consumption in healthy elderly: A randomized, double-blind, placebo-controlled, multicenter trial and in vitro study. Clin. Nutr.
+2023, 42, 1025–1033. [CrossRef]
+91.
+Richard, D.M.; Dawes, M.A.; Mathias, C.W.; Acheson, A.; Hill-Kapturczak, N.; Dougherty, D.M. L-Tryptophan: Basic Metabolic
+Functions, Behavioral Research and Therapeutic Indications. Int. J. Tryptophan Res. 2009, 2, 45–60. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+

@@ -1,0 +1,4336 @@
+Citation: Eicher, T.P.; Mohajeri, M.H.
+Overlapping Mechanisms of Action
+of Brain-Active Bacteria and Bacterial
+Metabolites in the Pathogenesis of
+Common Brain Diseases. Nutrients
+2022, 14, 2661. https://doi.org/
+10.3390/nu14132661
+Academic Editor: Rosa Casas
+Received: 29 May 2022
+Accepted: 23 June 2022
+Published: 27 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+nutrients
+Review
+Overlapping Mechanisms of Action of Brain-Active Bacteria
+and Bacterial Metabolites in the Pathogenesis of Common
+Brain Diseases
+Tanja Patricia Eicher
+and M. Hasan Mohajeri *
+Department of Anatomy, University of Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland;
+tanjapatricia.eicher@uzh.ch
+* Correspondence: mhasan.mohajeri@uzh.ch; Tel.: +41-79-938-1203
+Abstract: The involvement of the gut microbiota and the metabolites of colon-residing bacteria in
+brain disease pathogenesis has been covered in a growing number of studies, but comparative litera-
+ture is scarce. To ﬁll this gap, we explored the contribution of the microbiota–gut–brain axis to the
+pathophysiology of seven brain-related diseases (attention deﬁcit hyperactivity disorder, autism spec-
+trum disorder, schizophrenia, Alzheimer’s disease, Parkinson’s disease, major depressive disorder,
+and bipolar disorder). In this article, we discussed changes in bacterial abundance and the metabolic
+implications of these changes on disease development and progression. Our central ﬁndings indicate
+that, mechanistically, all seven diseases are associated with a leaky gut, neuroinﬂammation, and
+over-activated microglial cells, to which gut-residing bacteria and their metabolites are important
+contributors. Patients show a pro-inﬂammatory shift in their colon microbiota, harbouring more
+Gram-negative bacteria containing immune-triggering lipopolysaccharides (LPS) in their cell walls.
+In addition, bacteria with pro-inﬂammatory properties (Alistipes, Eggerthella, Flavonifractor) are found
+in higher abundances, whereas lower abundances of anti-inﬂammatory bacteria (Biﬁdobacterium,
+Coprococcus, Eucbacterium, Eubacterium rectale, Faecalibacterium, Faecalibacterium prasunitzii, Lactobacillus,
+Prevotella, Roseburia) are reported, when compared to healthy controls. On the metabolite level, aber-
+rant levels of short-chain fatty acids (SCFAs) are involved in disease pathogenesis and are mostly
+found in lower quantities. Moreover, bacterial metabolites such as neurotransmitters (acetylcholine,
+dopamine, noradrenaline, GABA, glutamate, serotonin) or amino acids (phenylalanine, tryptophan)
+also play an important role. In the future, deﬁned aberrations in the abundance of bacteria strains
+and altered bacterial metabolite levels could likely be possible markers for disease diagnostics and
+follow-ups. Moreover, they could help to identify novel treatment options, underlining the necessity
+for a deeper understanding of the microbiota–gut–brain axis.
+Keywords:
+bacteria; metabolites; dysbiosis; therapy; microbiota–gut–brain axis; leaky gut;
+neuroinﬂammation; neurodegeneration; neurodevelopment; neuropsychiatric disorder
+1. Introduction
+Neuropsychiatric diseases cover a wide spectrum of diseases affecting the brain, be-
+haviour, and mood, affecting people of any age. Neurodevelopmental disorders such
+as attention deﬁcit hyperactivity disorder and autistic disorder are prevalent in children
+and adolescents [1–4]. Affective disorders such as bipolar disorder or major depressive
+disorder mainly affect young adults in their second to third life decade [5,6]. Neurode-
+generative disorders, on the other hand, are present in the elderly (60–80 years) [7–10].
+Worldwide, neuropsychiatric disorders are among the most disabling diseases causing
+major impairments of life quality. Especially in schizophrenia, Alzheimer’s disease, and
+bipolar disorder, life expectancy is massively reduced by as much as 10–20 years [7,8,11,12].
+This highlights the importance of a profound understanding of the pathophysiological
+mechanisms involved in disease development.
+Nutrients 2022, 14, 2661. https://doi.org/10.3390/nu14132661
+https://www.mdpi.com/journal/nutrients
+
+Nutrients 2022, 14, 2661
+2 of 51
+In recent years, the contribution of the gut microbiota and its metabolites in disease
+development has become the centre of attention in science. Research focusing on the
+microbiota–gut–brain axis has experienced a dramatic rise in recent decades, uncover-
+ing several pathways connecting the residing intestinal bacteria and different somatic,
+neurological, and psychiatric diseases. Disruptions in microbial compositions have been
+implicated in diseases such as asthma, diabetes, inﬂammatory bowel disease, obesity, and
+autism [13].
+Microbial communities’ inﬂuence on the brain is complex, and the bidirectional com-
+munication between the brain and the microorganisms relies on the bacteria’s ability to
+produce various metabolites to interact with the hosts’ immune system and neurochem-
+istry [14]. Many studies aiming at deciphering these interactions have been performed on
+animal model organisms. Only recently, more human clinical studies have been conducted,
+with the ultimate goal to use the newly gained knowledge to identify future treatment
+options [14,15].
+Existing literature primarily focuses on the relationship between the intestinal mi-
+crobiome and individual diseases. There is still a lack of more comparative approaches.
+In this review, we highlight the potential common characteristics of the involvement of
+the microbiota–gut–brain axis in the pathogenesis of a wide variety of neuropsychiatric
+diseases, covering a broad spectrum of pathologies, ranging from neurodevelopment to
+neurodegeneration, psychiatric and affective disorders.
+2. Materials and Methods
+The goal of this literature review is to answer the following research questions: What
+are potential overlapping changes in the gut microbiome in terms of bacterial strains
+and bacterial metabolites in people suffering from common neurodevelopmental, neu-
+rodegenerative, or mental/neuropsychiatric disorders? The discussed disorders include
+attention deﬁcit hyperactivity disorder, autistic disorder, schizophrenia, Alzheimer’s dis-
+ease, Parkinson’s disease, depression, and bipolar disorder. The literature research was
+run on the databases PubMed and Scopus until the 31 January 2022 using the follow-
+ing search and MeSH terms: “microbiota-gut-brain-axis”, “Gastrointestinal Microbiome”
+[Mesh], “Schizophrenia” [Mesh], “Alzheimer Disease” [Mesh], “Parkinson Disease” [Mesh],
+“Depression” [Mesh], “Bipolar Disorder” [Mesh], “Attention Deﬁcit Disorder with Hyper-
+activity” [Mesh], “Autistic Disorder” [Mesh].
+Within the intestinal microbiota, our primary interest was in bacteria rather than fungi,
+viruses, or protozoa.
+The papers included had to fulﬁl the listed inclusion criteria below:
+a.
+Discussing bacteria or bacterial metabolites and at least one of the diseases of choice;
+b.
+Including ﬁndings from human studies with the support of preclinical data;
+c.
+Published in a peer-reviewed journal;
+d.
+Available in full-text;
+e.
+Written in English.
+f.
+Published within the time frame of January 2017–January 2022. Papers published
+before January 2017 were included if they were referred to in another paper.
+3. Evidence of Linking the Microbiome–Gut–Brain Axis to Brain Disorders
+3.1. Microbiome
+The human body is densely populated with microbes, where each body site has an
+individual ﬂora. The microbiota in the gut is the biggest, with approximately 1014 living
+microorganisms, including bacteria, viruses, archaea, eukaryotes, and fungi [14,16], which
+is equivalent to the number of human cells in the body [17]. Altogether these microorgan-
+isms are estimated to weigh around 2 kg. They encode over 232 million genes, suggesting
+that they may be able to exhibit a huge metabolic capacity [14,17].
+In this review, “microbiome” will solely refer to the bacteria residing in the colon.
+Most bacteria of the intestinal microbiome are situated in the colon. Only relatively few
+
+Nutrients 2022, 14, 2661
+3 of 51
+can be found in the stomach or the small intestine due to unfavourable living conditions
+in these parts of the gastrointestinal (GI) tract (fast passage, gastric acid, bile, pancreas
+juices) [16,17]. Over the human lifespan, the microbiome continues to evolve: it ﬁrst starts
+developing in the womb and during birth, stabilises and increases in diversity during
+childhood and adolescence [16,17], and is inﬂuenced by the ageing processes later on in
+life [15]. Furthermore, it is also highly susceptible to environmental and lifestyle factors
+such as drugs, antibiotics, toxins, stress, and diet [14,18–20], resulting in big interindividual
+and temporal differences [15,16,21].
+Even though gut bacteria populations are highly dynamic, the mature microbiome
+after the age of three years is dominated by two phyla, namely Bacteroidetes and Firmi-
+cutes [15,17]. In addition, looking at the most abundant genus, three enterotypes could
+be distinguished: (i) Bacteroides, (ii) Prevotella, and (iii) Ruminococcus [22]. These en-
+terotypes have been linked to different dietary patterns. Bacteroides enterotype, which
+has only little Pretovella, is found in individuals with Western diets (high in saturated fats,
+high in animal protein). Pretovella enterotype, in contrast, is present in people consuming
+a plant-based diet (high in ﬁbres and carbohydrates) [21,23]. In addition to environmental
+inﬂuences, twin studies have shown that the composition of the microbiome may also be
+determined by genetic components [16,19].
+A balance in the microbial composition is known as a state of eubiosis [18]. Bacteria
+and humans have evolved together, forming a symbiotic host–microbiome relationship [16].
+Gut microbes are important for gut motility, barrier homeostasis, maintenance of gut
+integrity, regulation of the host immune system, absorption, and production of nutri-
+ents [13,16]. If the bacterial composition is altered, also recognised as dysbiosis, those
+beneﬁcial mechanisms might be disrupted [16]. In dysbiosis, potentially harmful and
+inﬂammatory bacteria take overhand, leading to an imbalance in immune homeostasis
+and increased permeability in the gut. This, in turn, allows the migration of bacteria from
+the gut into blood circulation, which is a risk factor for systemic inﬂammation [18]. As a
+result, intestinal dysbiosis has been linked to the pathogenesis of different diseases and
+unfavourable health conditions such as obesity, asthma, diabetes, autism, and inﬂamma-
+tory bowel disease [13]. A disrupted microbiome has also been associated with different
+neuropsychiatric diseases, including depression, autistic disorder, Parkinson’s disease,
+and schizophrenia [19]. Extensive research, especially during the last decade, has been
+instrumental in revealing the importance of gut microbiota for host health. The question of
+whether dysbiosis is the underlying root cause of those diseases or the effect of the disease
+pathologies still needs to be understood [17].
+3.2. Microbiota–Gut–Brain Axis (MGBA)
+The microbiota–gut–brain axis (MGBA) is a bidirectional communication pathway
+between the gut bacteria and the central nervous system (CNS) [14,15]. It is an extension of
+the gut–brain axis, in which the enteric nervous system (ENS), CNS, and the GI-tract work
+together to affect physiological aspects of the gut: motility, secretion, and acid and mucus
+production [24].
+Within this complex communication network (Figure 1), several different routes of
+interaction have been described. The bacteria may inﬂuence the brain via the production of
+neurotransmitters and bacterial metabolites via stimulation of the vagal nerve, the immune
+system, or the hypothalamic–pituitary–adrenal axis (HPA-axis) [13,14]. On the other hand,
+the brain’s effects on the gut in terms of secretion, peristalsis, and sensory are mainly
+transferred via the vagus nerve [25]. Due to the complexity of the system further work is
+still required to understand the details of the bidirectional communication pathways [21].
+Nonetheless, we will highlight some major ways of communication here.
+
+Nutrients 2022, 14, 2661
+4 of 51
+Figure 1. Schematic overview of the bidirectional communication pathways between the gut-
+microbiota and the brain (Microbiome–Gut–Brain Axis (MGBA)). The colon is inhabited by many
+different bacteria strains, which directly or indirectly interact with the nerve cells and the brain.
+The direct pathway includes cytokine signalling after recognition of bacteria through immune cells.
+Cytokines may also stimulate the body’s stress response via upregulating the hypothalamic–pituitary–
+adrenal axis (HPA-axis). Indirectly, the bacteria can communicate with their metabolites: utilising
+dietary ﬁbres, they produce short-chain fatty acids (SCFAs), which are important for epithelium
+cells and enter the systemic blood circulation. Certain strains of bacteria can produce amino acids or
+neuroactive metabolites, such as neurotransmitters, which gain access to the brain through blood
+circulation. Furthermore, bacteria can stimulate enteroendocrine cells, which themselves release
+hormones into the bloodstream. The bacterial metabolites can also send afferent signals to the brain
+through enteric nerve cells belonging to the ENS and the vagus nerve. On the other hand, the
+brain inﬂuences important aspects (e.g., motility and mucus secretion) of gut physiology through
+efferent signals travelling along the vagus nerve and ENS cells. The arrows show the direction of the
+individual communication pathways and the different signalling stations involved.
+3.2.1. Chemical Signalling
+Certain types of bacteria can produce small molecules which inﬂuence the metabolism
+of the nervous system, either directly or indirectly. This path is referred to as chemical
+signalling [14].
+Short-Chain Fatty Acids (SCFAs)
+Short-chain fatty acids (SCFAs) are saturated fatty acids with a maximal chain length of
+six carbon atoms synthesised by colonic bacteria [26]. SCFAs derive from polysaccharides
+found in dietary ﬁbres, which cannot be broken down by our own digestive enzymes. In
+contrast, bacteria in the intestines digest those through a process of anaerobic fermentation.
+The two most important bacteria in this SCFA production are Bacteroides spp. and Clostridiae
+spp. [27–29]. Acetate, propionate, and butyrate are the most abundant SCFAs in the
+colon [20,26].
+After their synthesis, SCFAs might exert a direct impact on the gut and support local
+gut health, or they may be distributed by systemic blood circulation throughout the body,
+affecting other organs, including the brain. In the gut itself, SCFAs are quickly absorbed
+
+Nutrients 2022, 14, 2661
+5 of 51
+by colonocytes and act as the main source of energy for the intestinal lining. Absorbed
+SCFAs inﬂuence the cell’s metabolism. They play an important role in increasing mucous
+production within the GI tract and enhance the integrity of the gut barrier by upregulating
+the expression of tight junction proteins. Tight junctions are speciﬁc connections between
+cells (here gastrointestinal epithelial cells), contributing to a physical barrier. A functional
+gut barrier is crucial for preventing the entrance of pathogens and waste products into the
+body whilst enabling the uptake of important molecules and nutrients. It also prevents the
+body from systemic inﬂammation, which is associated with numerous diseases. Prevention
+of such systemic inﬂammation further reduces the risk for subsequent neuroinﬂammation
+because through systemic inﬂammation, the blood–brain barrier (BBB) might be impaired.
+Neuroinﬂammation, in turn, leads to compromised brain health [18,26,29]. This sums up
+the immune pathway of SCFA–brain interaction. In addition, tight junctions are an integral
+component of the BBB. A regulatory effect of SCFAs on the permeability of this barrier was
+shown in animal models [29].
+Systemically, SCFAs can have direct or indirect effects on the MGBA. The indirect
+pathway is mediated by affecting the immune or the endocrine system, while direct sig-
+nalling is the result of the neuroactive characteristics of SCFAs. Once SCFAs reach the brain
+through systemic circulation, they can cross the BBB and bind to speciﬁc G-protein-coupled
+receptors (GPCRs) expressed in CNS tissue. GPCR-activation may then inﬂuence the gene
+expression (epigenetic modulation) in the correspondent nerve cells. For example, the
+inhibition of histone deacetylation results in more transcriptionally active chromatin (hyper-
+acetylated histones). The inhibited enzymes, histone deacetylases (HDACs), are thought to
+be associated with brain development and also with a variety of neuropsychiatric disorders
+such as depression, Alzheimer’s disease, or schizophrenia [18,20,26].
+In addition to the two abovementioned examples, other possible mechanisms by
+which SCFAs affect the brain include their impact on modulating the levels of neurotrophic
+factors such as brain-derived neurotrophic factor (BDNF), the synthesis of serotonin, and
+the production of enteroendocrine cell-derived hormones such as GLP1 or PYY [26].
+Amino Acids and Neurotransmitters
+Some gut bacteria possess the ability to produce neuroactive substances, including
+amino acids and neurotransmitters [14]. As exemplarily shown in Table 1, the inhibitory
+neurotransmitter GABA can be produced by Lactobacillus spp. or Biﬁdobacterium spp.
+Acetylcholine is synthesised by Lactobacillus spp. Noradrenaline is produced by Bacil-
+lus spp., Escherichia spp., and Saccharomyces spp. Serotonin is produced by Streptococcus
+spp., Candida spp., Enterococcus spp., and Escherichia spp. Dopamine is produced by Bacil-
+lus spp. [18,20].
+Table 1. A non-exhaustive list of major brain neurotransmitters and bacterial strains producing
+these neurotransmitters.
+Neurotransmitter
+Bacteria
+GABA
+Lactobacillus spp. [18,20]
+Biﬁdobacterium spp. [18,20]
+Acetylcholine
+Lactobacillus spp. [18,20]
+Noradrenaline
+Bacillus spp. [18,20]
+Escherichia spp. [18,20]
+Saccharomyces spp. [18,20]
+Serotonin
+Streptococcus spp. [18,20]
+Candida spp. [18,20]
+Enterococcus spp. [18,20]
+Escherichia spp. [18,20]
+Dopamine
+Bacillus spp. [18,20]
+
+Nutrients 2022, 14, 2661
+6 of 51
+Those microbial neurotransmitters are thought to have a more local than peripheral
+effect. They might cross the intestinal epithelial cells, but their area of action is limited to
+the surrounding ENS. Even upon reaching the bloodstream, they will be unable to cross
+the BBB and therefore cannot enter the brain and are unable to inﬂuence brain chemistry.
+Indirect inﬂuences on the brain, by acting on the ENS, are possible. For comprehensive
+reviews, see [14,20].
+In contrast, certain precursors of neurotransmitters, namely amino acids, are capable
+of crossing the BBB [30]. The levels of circulating tryptophan, the precursor for serotonin
+(5-HT), can be elevated by Biﬁdobacterium infantis [20]. Within the brain, tryptophan can
+then be further the bolized into 5-HT and impact brain chemistry [20,28],[30]. Similarly,
+the genus Biﬁdobacterium increases the level of phenylalanine, the precursor for the amino
+acid tyrosine, which itself again is a precursor for the two neurotransmitters dopamine
+and noradrenaline in the brain [27]. Increased or decreased abundance of such precursor-
+producing bacteria shifts the availability of monoamine neurotransmitters in the brain and
+paves the way for related diseases and behavioural changes [30].
+3.2.2. Immune System Signalling
+Intestines harbour the largest number of immune cells in the human body, allowing
+the body to scan all the transitioning food and also the symbiotic gut-residing bacteria for
+potential pathogens or toxins [21]. With the help of pathogen-associated molecular pattern
+(PAMP) recognition receptors, intestinal cells can detect certain parts of bacteria such as
+lipopolysaccharide (LPS). LPS is a characteristic cell wall component of Gram-negative
+bacteria. Innate immune cells are equipped with Toll-like receptors (TLRs), which are
+the most studied family of PAMP recognition receptors. LPS activates TLRs. Through
+this activation, Gram-negative bacterial invasion is identiﬁed, and an innate immune
+response is triggered, which involves many signalling molecules, including cytokines
+and the recruitment of inﬂammatory cells [21,31]. Immune signalling (production and
+peripheral secretion of cytokines) is also mediated to the brain via the bloodstream. Recent
+research has suggested that in the area of the hypothalamus, cytokines can cross the
+locally more permeable BBB, although they are generally incapable of crossing the BBB.
+In the hypothalamus, the major physiological stress response system, the hypothalamus–
+pituitary–adrenal (HPA) axis, has its starting point. Originally from the gut-derived pro-
+inﬂammatory cytokines, interleukin (IL)-1 and IL-6 can activate the HPA axis. Subsequently,
+body cortisol levels rise, and the body enters the stress response mode [20,21]. Multiple
+neuropsychiatric diseases and pathological conditions have been linked to a dysregulated
+stress axis and altered immune signalling within the brain, of which depression and
+autism spectrum disorder are just two examples [14]. Peripheral systemic inﬂammation,
+which is driven by circulating immune signalling molecules such as cytokines, is also a
+major factor in the pathophysiology of many diseases, including brain disorders. Through
+systemic inﬂammation, the BBB becomes disrupted and more permeable for bacterial
+metabolic products. It is not surprising that the condition of a disrupted BBB facilitates
+the development of different neuropathologies due to the compromised protective barrier
+against toxic substances [14].
+Another important aspect of the intertwining of the gut microbiome and the immune
+system is found in microglia cells. Microglia cells are the major component of the brain’s
+immune system and belong to the group of innate immune cells. They register changes in
+the molecular milieu in the brain. Activated microglia cells trigger an immune response by
+producing different cytokines and chemokines. Therefore, they are key players in neuroin-
+ﬂammatory processes and in the regulation of brain homeostasis [21]. Their development
+and maturation highly depend on gut bacteria, as a wide diversity in bacteria strains is
+important [14,21]. As a result, dysfunction of microglial cells due to reduced complexity
+in the microbiome could be linked to neurodegenerative or behavioural disorders, where
+neuroinﬂammation and disturbed tissue homeostasis act as driving aetiological factors [14].
+
+Nutrients 2022, 14, 2661
+7 of 51
+3.2.3. Neural Signalling
+The intestines are innervated by both ENS and the autonomic nervous system (ANS),
+of which the vagus nerve (10th cranial nerve) is known to be the most direct connection
+between the CNS and the gut. Approximately 80% of all nerve ﬁbres in the vagus nerve
+are afferent; the remaining 20% carry efferent signals from the CNS to the periphery. With
+both efferent and afferent ﬁbres, the basis for bidirectional communication is already given,
+either bottom-up (gut to the brain via afferent ﬁbres) or top-down (efferent ﬁbres from the
+brain to the gut) [14,21]. ANS and ENS are both implicated in the physiological homeostasis
+of the gut and regulate motility, mucous production, and transition time [21]. The initial
+formation of the ENS takes place during embryogenesis, but differentiation and maturation
+processes occur later on after birth. These processes are thought to be inﬂuenced by
+gut microbial development, which takes place simultaneously [14,15,21]. ENS and CNS
+are functionally interconnected through the use of the same signalling molecules [15,21].
+Hence, the identiﬁed effects that gut microbiota has on local neurons resemble those
+discussed earlier in the above paragraphs discussing chemical and immune signalling.
+Those mechanisms include activation of PAMP recognition receptors such as TLRs through
+LPS, SCFA signalling, and stimulation of mechanoreceptors or chemoreceptors, which sense
+neurotransmitters, hormones, or metabolic products. Local neuronal stimulation on the
+ENS level by bacterial metabolites is thought to be then transmitted to the brain via vagal
+nerve conduction [14]. Metabolites and neurotransmitters can either be directly produced
+by gut bacteria or secreted by enteroendocrine cells (EECs), which are also affected by gut
+microbes [14,21].
+In addition, the very physical link from the gut to the brain is seemingly important for
+some neurodegenerative pathogeneses. In Parkinson’s disease, for example, the accumula-
+tion of α-synuclein protein within the brain and neurons is the prime disease hallmark. It
+is suggested that certain gut bacteria promote α-synuclein accumulation in intestinal nerve
+ﬁbres, which are hypothesised to be then transported along the axons of the vagus nerve to
+the CNS, where they spread even further from neuron to neuron through trans-synaptic
+transport [20,32]. This hypothesis is backed by the fact that α-synuclein aggregations were
+detected in the ENS neurons of the submucosal and myenteric plexuses much earlier than
+they could be found in the brain [20,32] and highlights the importance of the communi-
+cation between the ENS, CNS, and the gut microbiome in the pathophysiology of brain
+disorders [21].
+4. Changes in Gut Microbiota and Metabolites in Brain-Related Pathologies
+4.1. Attention Deﬁcit Disorder with Hyperactivity
+Attention deﬁcit hyperactivity disorder (ADHD) is a neurodevelopmental disease
+with an early onset consisting of the three main symptoms inattentiveness, impulsivity,
+and/or hyperactivity [1,27]. With a worldwide prevalence of 5.29%, ADHD is one of the
+most common mental illnesses amongst children and adolescents [1,2]. In total, 70–80% of
+the risk for developing ADHD is made up of genetic components, whereas the remaining
+20–30% has been linked to environmental risk factors such as premature birth, toxins, diet,
+and psychosocial distress [1,18,33,34]. The exact underlying mechanisms of aetiopatho-
+genesis remain unclear [35]. Several known pathomechanisms in ADHD, both direct and
+indirect, have been linked to the gastrointestinal microbiota by three possible ways of
+interaction: (i) direct production of neuroactive metabolites/neurotransmitters, (ii) vagal
+nerve stimulation, (iii) interactions via the immune system [28,33,36].
+One widely accepted hypothesis on the ADHD pathophysiology highlights the dys-
+function of the monoamine neurotransmitters dopamine (DA), noradrenaline (NE), and
+serotonin (5-HT), which are involved in the rewarding and motivational processes in the
+brain. This hypothesis is further supported by the fact that the current medications treating
+ADHD target the monoaminergic system and increase the concentration of the neurotrans-
+mitters in the synaptic cleft by blocking their re-uptake [18,27,35,37]. The production of
+those neurotransmitters can be inﬂuenced by gut bacteria.
+
+Nutrients 2022, 14, 2661
+8 of 51
+Biﬁdobacterium of the phylum Actinobacteria, for example, encodes an enzyme known
+as arogenate dehydratase (ADT), which is important for the production of phenylalanine
+an essential amino acid. The latter can pass the BBB and is metabolised into the amino acid
+tyrosine, which can further be turned into DA and then NE in the brain [27,30]. Aarts et al.
+compared faeces samples of ADHD patients (n = 19) to samples of a healthy control group
+(n = 66). They found that the relative abundance of Actinobacteria was increased in ADHD
+patients, whereas Firmicutes were slightly reduced compared to the control group. No
+changes in the phylum Bacteroidetes were observed. Within the phylum, Actinobacterium,
+especially the genus Biﬁdobacterium, marked a signiﬁcant increase [30]. As mentioned above,
+Biﬁdobacterium is equipped with ADT and thus involved in dopamine synthesis, which is
+an important neurotransmitter within the brain reward response, which is dysfunctional
+in patients with ADHD. Therefore, these ﬁndings suggest that there is a link between the
+microbiome and ADHD [28,30].
+Whereas the work conducted by Aarts et al. displays a potential mode of interaction
+between intestinal dysbiosis and neurotransmitter disturbance, similar research is needed
+focusing on the involvement of gut bacteria and precursors of NE or 5-HT (i.e., tyrosine and
+tryptophan) in the pathophysiology of ADHD, as no such studies could be identiﬁed. It is
+suggested that a similar mode of action applies and that the precursors produced by bacteria
+are absorbed by the gut epithelium and carried to the brain via blood circulation, where
+they can cross the BBB and potentially inﬂuence the brain chemistry and the monoamine-
+induced functioning [18,30].
+ADHD patients exhibited a lower level of circulating 5-HT in comparison with
+healthy individuals in a clinical study. A preclinical study with germ-free (GF) mice
+conﬁrmed these [28,36]. The precursor of 5-HT, amino acid tryptophan, can be syn-
+thesised by Biﬁdobacterium spp., Lactobacilli spp., Clostridium sporogenes, and Clostridium
+bartettii [28], and 5-HT itself can be produced by other bacteria namely Streptococcus spp.,
+Enterococcus spp., and Escherichia spp. [27], of which Biﬁdobacteria [27,30,33], Lactobacilli [33],
+and Clostridia [30] were altered in patients with ADHD (see Table 2).
+Table 2. Bacteria (with taxonomic level) that were found in higher (↑) or lower (↓) abundance
+in attention deﬁcit hyperactivity disorder (ADHD) patients. Arrows of signiﬁcant results in at
+least one study are represented with a grey background. (p < 0.05 or LDA values > 2). “-” in the
+signiﬁcance column indicate that no statements regarding the signiﬁcance of the results were made
+in the corresponding studies. Empty cells mean that no signiﬁcant differences could be identiﬁed.
+For the studies’ demographic characteristics, sample size and mean age were included. Sample size
+numbers are split into females and males for patients and healthy controls. The mean age is given for
+the patient group and the healthy control group, as a further breakdown for the gender groups was
+not consistently provided. The relevant source is shown in bold numbers.
+Bacteria in ADHD Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p = 0.002
+96 (♀42; ♂54)
+ADHD: 19
+Control: 77
+ADHD: 19.5
+Control: 27,1
+[27],[30]
+Bacteroidaceae (family)
+↑
+-
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[28],[38]
+Bacteroides (genus)
+↑
+-
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[28],[38]
+Bacteroides coprocola (species)
+↓
+p = 0.028
+60 (♀19; ♂41)
+ADHD: 30
+Control: 30
+ADHD: 8.4
+Control: 9.3
+[28],[39]
+Bacteroides ovatus (species)
+↑
+p = 0.023
+60 (♀19; ♂41)
+ADHD: 30
+Control: 30
+ADHD: 8,4
+Control: 9.3
+[28],[39]
+Bacteroides uniformis (species)
+↑
+p = 0.021
+60 (♀19; ♂41)
+ADHD: 30
+Control: 30
+ADHD: 8.4
+Control: 9.3
+[28],[39]
+
+Nutrients 2022, 14, 2661
+9 of 51
+Table 2. Cont.
+Bacteria in ADHD Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Bacteroidetes (phylum)
+p = 0.166
+96 (♀42; ♂54)
+ADHD: 19
+Control: 77
+ADHD: 19.5
+Control: 27,1
+[30]
+Biﬁdobacterium (genus)
+↑
+p = 0.002
+96 (♀42; ♂54)
+ADHD: 19
+Control: 77
+ADHD: 19.5
+Control: 27.1
+[27,28],[30]
+Clostridiales (order)
+↓
+p = 0.003
+96 (♀42; ♂54)
+ADHD: 19
+Control: 77
+ADHD: 19.5
+Control: 27.1
+[30]
+Dialister (genus)
+↓
+-
+-
+-
+[33]
+Faecalibacterium (genus)
+↓
+LDA value > 2
+83 (♀23; ♂60)
+ADHD: 51
+Control: 32
+ADHD: 8.47
+Control: 8.5
+[28,33],[40]
+Firmicutes (phylum)
+↓
+p = 0.001
+96 (♀42; ♂54)
+ADHD: 19
+Control: 77
+ADHD: 19.5
+Control: 27.1
+[30]
+Lactobacillus (genus)
+↓
+-
+-
+-
+[33]
+Neisseria (genus)
+↑
+p < 0.05
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[28],[38]
+Neisseriaceae (family)
+↑
+p < 0.05
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[28],[38]
+Parabacteroides (genus)
+↓
+-
+-
+-
+[33]
+Prevotella (genus)
+↓
+p < 0.05
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[33],[38]
+Proteobacteria (phylum)
+-
+31 (♀0; ♂31)
+ADHD: 14
+Control: 17
+ADHD: 11.9
+Control: 13.1
+[28],[38]
+Sutterella stercoricanis (species)
+↑
+p = 0.001
+60 (♀19; ♂41)
+ADHD: 30
+Control: 30
+ADHD: 8,4
+Control: 9.3
+[28],[39]
+BDNF is a neurotrophic factor important for the survival of neurons as well as neu-
+rogenesis. The gut microbes are capable of regulating BDNF levels via the production of
+SCFAs. In ADHD, an increase in SCFAs through a ﬁbre-rich diet was positively correlated
+with raising BDNF levels, which ultimately might improve ADHD symptoms [27].
+Other studies, which compared faeces of ADHD patients and healthy controls, did not
+report any clear differences in bacteria strains between the two groups and could not draw
+a clear correlation between Biﬁdobacterium, higher phenylalanine levels, and subsequently
+dysfunctional dopamine signalling in the rewarding response [27,30].
+Overall, only a few studies on changes in gut microbiota in ADHD patients have
+been published, and further work needs to be conducted to obtain more data and less
+divergent results [28,33]. Generally, ADHD is associated with a reduction in microbiota
+diversity, although the ﬁndings were relatively heterogenous [28,33]. Moreover, the genera
+Bacteroides and Biﬁdobacterium were identiﬁed as possible biomarkers for ADHD in children
+and adolescents by two research groups. In particular, a decrease in Biﬁdobacterium has
+been mentioned as a risk factor [28,30]. The ﬁndings of the different studies regarding
+microbial changes in ADHD patients are listed down below in Table 2 and in Figure 2.
+Additionally, the altered microbiome could induce gut barrier permeability and bac-
+terial leakage, which leads to a systemic increase in LPS and pro-inﬂammatory cytokine
+levels. As mentioned earlier, those cytokines are potent activators for the HPA axis, creating
+a state of chronic stress [33]. In ADHD patients, such HPA-hyperactivation is detected
+by measuring morning cortisol levels. In addition, pro-inﬂammatory cytokines are also
+involved in microglial activation and neuroinﬂammation, which have been linked to the
+pathogenesis of ADHD [27]. Lastly, the ANS with the vagus nerve showed alterations in
+ADHD patients. To which extent the vagus nerve is involved in the pathogenesis remains
+unclear, but studies have shown that patients suffer from an underactive parasympathetic
+
+Nutrients 2022, 14, 2661
+10 of 51
+and overactive sympathetic nervous system, although the ﬁndings were not consistent
+throughout all research groups [27,36]. As the vagus nerve is also involved in the re-
+warding system, which is known to be altered in ADHD patients, the hypothesis seems
+plausible [27,36].
+Figure 2. Visual representation of the changes in microbiota composition in ADHD patients from
+Table 2. The pedigree design highlights the taxonomic classiﬁcation of the dysbiotic bacteria. Light
+green cells stand for an increase and the light red cells for a decrease, respectively. Signiﬁcant
+changes are shown in bold letters (p < 0.05 or LDA values > 2). White cells indicate that no changes
+were reported. The last two columns contain additional, non-exhaustive information on how the
+bacteria are thought to impact the pathogenesis. The second last column to the right depicts bacterial
+molecular factors, which may be components of the bacteria or bacterial metabolites. Finally, the
+last column lists possible mechanisms by which these molecular factors may interfere with disease
+development. The colours summarise factors or mechanisms that are repetitive. Bacterial production
+of GABA (light blue, [36]), tryptophan (turquoise, [28]), acetylcholine (emerald colour, [18,20]),
+phenylalanine (dark orange, [27]), or 5-HT (salmon colour, [28]) may lead to an imbalance in central
+nervous system neurotransmitters (yellow). Gram-negative bacteria’s cell wall containing LPS (light
+purple) can stimulate TLRs located on immune cells (lilac, [21,31]). TLR-mediated immune activation
+is eventually leading to systemic inﬂammation, BBB disturbance, and neuroinﬂammation [14]. SCFAs
+deriving from bacteria are involved in microglia maturation and activation, BDNF-production,
+tight junction regulation in the gut barrier as well as in the BBB, epigenetic and inﬂammatory
+processes (light orange, [18,20,26,29]). 5-HT = serotonin; ADHD = attention deﬁcit hyperactivity
+disorder; BBB = blood–brain barrier; BDNF = brain-derived neurotrophic factor; GABA = gamma-
+Aminobutyric acid; LPS = lipopolysaccharide; SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+4.2. Autistic Spectrum Disorder
+Autism spectrum disorder (ASD) describes a heterogenous group of neurodevel-
+opmental disorders, mainly affecting children [3,4]. The diagnosis is based on clinical
+observation of behavioural aberrations and diagnostic interviews [4,41]. The key charac-
+teristics of ASD are deﬁcits in social interaction and communication, along with repetitive
+
+Nutrients 2022, 14, 2661
+11 of 51
+patterns of behaviours and cognitive difﬁculties [3,4]. ASD prevalence has increased in
+recent years, and 1–1.5% of the world’s population is affected [4]. Current estimations
+predict that 1 in 68 up to 1 in 36 children suffer from ASD [41,42]. Interestingly, compared
+to girls, boys show a four- to ﬁve-fold higher prevalence [3,42]. Brain development and
+reorganisation are altered in ASD patients [4]. Some of the ﬁndings are increased brain
+volume, which could be seen in neuroimages, and changes in brain connectivity compared
+to neurotypical children [4,42,43]. Aetiology is thought to be an interplay of genetics and
+environmental factors. Approximately 10–20% of ASD cases are attributed to genetic mech-
+anisms [3,41]. Polluted air, maternal infections, high parental age, pesticides, preterm birth,
+and certain drug exposures during pregnancy are some of the environmental factors which
+have been associated with an increased risk for ASD [3,4].
+Autistic patients often also suffer from GI symptoms such as diarrhoea, bloating,
+constipation, and abdominal pain. They appear more often in ASD patients than in healthy
+children, and constipation was found to be the most common GI symptom among them [44].
+Thus, it is not surprising that researchers started investigating the role of the MGBA in
+ASD pathogenesis. Even more so, because the brain’s development, including synapse
+formation and growth, timely coincides with the maturation of the gut’s microbiome. Both
+processes mainly happen within a critical developmental time window until the age of two
+to three years [44].
+Many studies revealed that the microbiome of ASD patients is different from those of
+healthy individuals. Some changes could be proven repeatedly by independent researchers,
+but also inconsistent and contradictory results were collected. Possible reasons for the
+discrepancy could lie in the patient’s origin, diet, lifestyle but also methodological differ-
+ences [45]. Nevertheless, the data has shown that autistic children harbour a shifted ratio
+between the two phyla Bacteroidetes and Firmicutes in faecal and biopsy samples. Levels
+of Firmicutes were mostly increased, and those of Bacteroidetes decreased [3,44–46]. Addi-
+tionally, several researchers measured a higher abundance of Clostridium spp. and lower
+levels of Biﬁdobacterium spp. and Enterococcus spp. [3,44]. SCFA-producing bacteria such as
+Bacteroides spp., Clostridia spp., and Desulfovibrio spp. could be found in higher abundance,
+which is consistent with higher SCFA levels in blood and stool of ASD patients [3,45].
+Phylum Actinobacterium, class Betaproteobacteria, genera Dialister, Faecalibacterium, Lacto-
+bacillus, and Ruminococcus also marked an increased presence [45,46]. ASD patients had
+decreased levels of bacteria involved in degenerating and fermenting carbohydrates such
+as Coprococcus, Prevotella, and Veilonella [43,46]. In contrast, Suturella could be found in
+higher abundance, which is important for the regulation of mucosa metabolism and the
+integrity of the intestinal epithelium [43]. In the future, screening for such bacterial com-
+position aberrations could be helpful in ASD diagnosis and a potential target for novel
+therapeutic approaches, including faecal microbiota transplantation (FMT) or beneﬁcial
+probiotic bacteria supplementation [44]. A more detailed list of the studies’ can be found
+in Table 3 and a visual representation in Figures 3 and 4.The lack of consensus among the
+studies indicates that further research is needed to describe microbiome characteristics in
+ASD patients.
+The changed microbiome and bacterial metabolites inﬂuence the permeability of the
+intestinal lining. Increased permeability in the gut is linked to reduced tight junctions
+in the epithelium. A lower abundance of Lactobacillus strains, as seen in ASD patients,
+could be a possible cause for increased permeability regarding their role in tight junction
+maintenance [44]. Additionally, the levels of tight junction component zonulin were seen to
+be altered in children with ASD [3]. Hence, bacterial metabolites can cross the gut barrier
+more easily. Higher levels of circulating LPS were found in ASD patients [44,45]. Its leakage
+can stimulate the immune system. Indeed, elevated pro-inﬂammatory cytokine levels,
+including IL-1β, IL-4, IL-6, IL-8, IFN-γ, TGF-β, and TNF-α, were measured in autistic pa-
+tients. This subsequently triggers systemic inﬂammation and compromises the function of
+the BBB, eventually leading to neuroinﬂammation [43,45,47]. Post-mortem studies of ASD
+patients’ brains conﬁrmed BBB impairment and revealed increased microglial activation as
+
+Nutrients 2022, 14, 2661
+12 of 51
+a sign of neuroinﬂammation [44,45]. In living ASD patients, positron emission tomography
+(PET) scans were performed and indirectly showed increased microglia activation [43].
+Synapse malfunction is regarded as a potential result of CNS inﬂammation [44]. Thus,
+gut dysbiosis and associated neuroinﬂammation in early life stages may interfere with
+neurodevelopment [46].
+Table 3. Bacteria (with taxonomic level) were found in higher (↑) or lower (↓) abundance in patients
+suffering from autistic spectrum disorder (ASD). Included were bacteria strains that were named in at
+least two different papers. Arrows of the signiﬁcant results of at least one study are represented with
+a grey background (p < 0.05 or LDA values > 2). p-values marked with “*” stem from meta-analyses.
+“-” in the signiﬁcance column indicate that no statements regarding the signiﬁcance of the results
+were made in the corresponding studies. Empty cells mean that no signiﬁcant differences could be
+identiﬁed. For the studies’ demographic characteristics, sample size and mean age were included
+when available. Sample size numbers are split into females and males for patients and healthy
+controls. The mean age is given for the patient group and the healthy control group, as a further
+breakdown for the gender groups was not consistently provided. The relevant source is shown in
+bold numbers.
+Bacteria in ASD Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p = 0.360 *
+-
+-
+[45,47],[48]
+Alistipes (genus)
+↓
+p< 0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,44],[49]
+Alistipes (genus)
+↑
+p = 0.07
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[47],[50]
+Bacteroides (genus)
+↑
+p < 0.001 *
+-
+-
+[45],[48]
+Bacteroides vulgatus (species)
+↑
+p = 0.007
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[3,47],[50],[51]
+Bacteroidetes (phylum)
+↑
+p = 0.001
+41 (♀12; ♂29)
+ASD: 33
+Control: 8
+ASD: 2–13
+Control: 2–13
+[46,51],[52]
+Bacteroidetes (phylum)
+↓
+p = 0.002 *
+-
+-
+[3,43–47],[48]
+Betaproteobacteria (class)
+↑
+-
+-
+-
+[44,45,47]
+Biﬁdobacterium (genus)
+↓
+p < 0.001 *
+-
+-
+[3,44–47],[48]
+Bilophila (genus)
+↓
+p < 0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,44],[49]
+Burkholderia (genus)
+↑
+p = 0.03
+40 (♀11; ♂29)
+ASD: 21
+Control: 19
+ASD: 14.43
+Control: 16.05
+[3,44],[53]
+Clostridium (genus)
+↑
+p < 0.001 *
+-
+-
+[3,43–
+47],[48],[51]
+Clostridium bolteae (species)
+↑
+p = 0.01
+23 (♀-; ♂-)
+ASD: 15
+Control: 8
+ASD: -
+Control: -
+[3,47],[54]
+Clostridium perfringens
+(species)
+↑
+p = 0.031
+46 (♀-; ♂-)
+ASD: 33
+Control: 13
+ASD: 2–9
+Control: 2–9
+[44,45],[55]
+Coprococcus (genus)
+↓
+p < 0.001 *
+-
+-
+[3,43,44,47],[48]
+Corynebacterium (genus)
+↑
+p < 0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,44],[49]
+Desulfovibrio (genus)
+↑
+p = 0.011
+41 (♀12; ♂29)
+ASD: 33
+Control: 8
+ASD: 2–13
+Control: 2–13
+[3,43–
+45,47,51],[52]
+Dialister (genus)
+↓
+p = 0.760 *
+-
+-
+[3,44],[48]
+Dialister (genus)
+↑
+-
+-
+-
+[45]
+Dorea (genus)
+↑
+p < 0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,44],[49]
+
+Nutrients 2022, 14, 2661
+13 of 51
+Table 3. Cont.
+Bacteria in ASD Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Enterobacteriaceae (family)
+↑
+p = 0.21
+54 (♀11; ♂43)
+ASD: 30
+Control: 24
+ASD: 9.5
+Control: 9.5
+[44,47],[56]
+Enterococcus (genus)
+↓
+-
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44,45,47],[50]
+Escherichia coli (species)
+↓
+p = 0.03
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44],[50]
+Eubacterium (genus)
+↓
+LDA > 2.0
+50 (♀9; ♂41)
+ASD: 30
+Control: 20
+ASD: 4.43
+Control: 4.28
+[45],[57]
+Faecalibacterium (genus)
+↑
+p < 0.001 *
+-
+-
+[44,45],[48]
+Firmicutes (phylum)
+↓
+p = 0.001
+41 (♀12; ♂29)
+ASD: 33
+Control: 8
+ASD: 2–13
+Control: 2–13
+[44,46],[52]
+Firmicutes (phylum)
+↑
+p < 0.001 *
+-
+-
+[3,43–
+45,47],[48]
+Fusobacteria (phylum)
+↓
+p = 0.430 *
+-
+-
+[44],[48]
+Lachnospiraceae (family)
+↓
+p = 0.1023
+50 (♀9; ♂41)
+ASD: 30
+Control: 20
+ASD: 4.43
+Control: 4.28
+[45],[57]
+Lachnospiraceae (family)
+↑
+-
+-
+-
+[44]
+Lactobacillaceae (family)
+↑
+p = 0.018
+54 (♀11; ♂43)
+ASD: 30
+Control: 24
+ASD: 9.5
+Control: 9.5
+[51],[56]
+Lactobacillus (genus)
+↓
+-
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44,47],[50]
+Lactobacillus (genus)
+↑
+p < 0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,43–
+45],[49],[51]
+Neisseria (genus)
+↓
+p = 0.01
+40 (♀11; ♂29)
+ASD: 21
+Control: 19
+ASD: 14.43
+Control: 16.05
+[3,44],[53]
+Parabacteroides (genus)
+↑
+p < 0.001 *
+-
+-
+[44],[48]
+Parabacteroides (genus)
+↓
+p <0.01
+80 (♀21; ♂59)
+ASD: 40
+Control: 40
+ASD: 10
+Control: 7
+[3,44],[49]
+Prevotella (genus)
+↓
+p < 0.05
+40 (♀5; ♂35)
+ASD: 20
+Control: 20
+ASD: 6.7
+Control: 8.3
+[3,43,44,46,
+47],[58]
+Prevotella copri (species)
+↑
+p = 0.04
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44],[50]
+Roseburia (genus)
+↑
+p = 0.003
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44],[50]
+Ruminococcaceae (family)
+↓
+p < 0.001
+50 (♀9; ♂41)
+ASD: 30
+Control: 20
+ASD: 4.43
+Control: 4.28
+[45],[57]
+Ruminococcus (genus)
+↑
+p = 0.170 *
+-
+-
+[45],[48]
+Ruminococcus torques
+(species)
+↑
+p = 0.08
+54 (♀-; ♂-)
+ASD: 23
+Control: 9
+ASD: -
+Control: -
+[3],[59]
+Streptococcus (genus)
+↓
+p = 0.04
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[44],[50]
+Sutterella (genus)
+↓
+p = 0.480 *
+-
+-
+[44],[48]
+Sutterella (genus)
+↑
+p = 0.05
+54 (♀-; ♂-)
+ASD: 23
+Control: 9
+ASD: -
+Control: -
+[3,43,44],[59]
+
+Nutrients 2022, 14, 2661
+14 of 51
+Table 3. Cont.
+Bacteria in ASD Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Sutterellaceae (family)
+↑
+-
+30 (♀16; ♂14)
+ASD: 10
+Control: 10
+ASD: 4–10
+Control: 4–10
+[47],[50]
+Veillonella (genus)
+↓
+p = 0.460 *
+-
+-
+[3,44],[48]
+Veillonellaceae (family)
+↑
+p = 0.008
+54 (♀11; ♂43)
+ASD: 30
+Control: 24
+ASD: 9.5
+Control: 9.5
+[51],[56]
+Veillonellaceae (unclassiﬁed
+genus of this family)
+↓
+p = 0.04
+40 (♀5; ♂35)
+ASD: 20
+Control: 20
+ASD: 6.7
+Control: 8.3
+[3,43,44],[58]
+Figure 3. Part 1 of visual representation of the changes in microbiota composition in autism spectrum
+disorder patients from Table 3. For an explanation, see the legend of Part 2 in Figure 4.
+Concentrations of free aromatic amino acids phenylalanine, tryptophan, and tyrosine
+were increased in faeces of ASD individuals [46]. Different bacterial metabolites showed
+altered patterns in ASD children compared to healthy controls. Two of them are the
+metabolic by-product of Clostridia: 3-(3-hydroxyphenyl)-3-hydroxypropionic acid (HPHPA)
+(an abnormal phenylalanine metabolite) and para-cresol (p-cresol) (which derives from
+tyrosine metabolism). Increased HPHPA and p-cresol were consistent with the higher
+Clostridium abundance [3,47]. HPHPA can potentially deplete catecholamines in the brain,
+such as dopamine, adrenaline, and noradrenaline produced by the adrenal gland. This is
+believed to contribute to typical ASD symptoms such as hyperactivity and stereotypical
+behaviour [46,47]. P-cresol has also been associated with repetitive behaviour patterns [3].
+
+Nutrients 2022, 14, 2661
+15 of 51
+It can inhibit the enzyme dopamine-beta-hydroxylase, which converts dopamine into nora-
+drenaline and therefore regulates dopamine metabolism in the brain [44,46]. Furthermore,
+p-cresol acts as a marker for a leaky gut once it is found in the systemic circulation because
+the GI tract is the only production site [44]. P-cresol is further associated with processes
+such as apoptosis, DNA damage, and inﬂammation [46].
+Figure 4. Part 2 of visual representation of the changes in microbiota composition in ASD patients
+from Table 3. For Figures 3 and 4: The pedigree design highlights the taxonomic classiﬁcation of
+the dysbiotic bacteria. Light green cells stand for an increase and the light red cells for a decrease,
+respectively. Signiﬁcant changes are shown in bold letters (p < 0.05 or LDA values > 2). White cells
+indicate that no changes were reported. The last two columns contain additional, non-exhaustive
+information on how the bacteria are thought to impact the pathogenesis. The second last column to
+the right depicts bacterial molecular factors, which may be components of the bacteria or bacterial
+metabolites. Finally, the last column lists possible mechanisms by which these molecular factors may
+interfere with disease development. The colours summarise factors or mechanisms that are repetitive.
+Bacterial production or involvement in the metabolism of GABA (light blue, [44]), tryptophan
+(turquoise, [45]), acetylcholine (emerald colour, [18,20]), noradrenaline (light yellow, [18,20,44]),
+phenylalanine (dark orange, [27]), 5-HT (salmon colour, [18,20,44]) tyrosine and phenylalanine (dark
+yellow, [45]) may lead to an imbalance in central nervous system neurotransmitters (yellow). Bacterial
+toxins such as β2-toxin or hydrogen sulfide are cytotoxic for epithelium cells and contribute to GI
+
+Nutrients 2022, 14, 2661
+16 of 51
+inﬂammation (brown) [3,44]. Clostridium spp. can further synthesise p-cresol and HPHPA, which both
+interfere with neurotransmitter balance [3,47]. Prevotella copri produces vitamin B1, but its involve-
+ment in pathophysiology remains unknown [44]. Gram-negative bacteria’s cell wall containing LPS
+(light purple) can stimulate TLRs located on immune cells (lilac, [21,31]). TLR-mediated immune acti-
+vation is eventually leading to systemic inﬂammation, BBB disturbance, and neuroinﬂammation [14].
+SCFAs deriving from bacteria are involved in microglia maturation and activation, BDNF-production,
+tight junction regulation in the gut barrier as well as in the BBB, epigenetic and inﬂammatory
+processes (light orange, [18,20,26,29]). If the involvement of the bacterial strain in the disease patho-
+genesis remains elusive, the last two columns are labelled as unknown, respectively. 5-HT = serotonin;
+ASD = autism spectrum disorder; BBB = blood–brain barrier; BDNF = brain-derived neurotrophic
+factor; GABA = gamma-Aminobutyric acid; GI = gastrointestinal; HPHPA = 3-(3-hydroxyphenyl)-
+3-hydroxypropionic acid; LPS = lipopolysaccharide; NE = noradrenaline; p-cresol = para-cresol;
+SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+Elevated concentrations of the neurotransmitters serotonin and GABA were registered
+in autistic children [44]. An abnormal serotonergic system within the brain is involved
+in ASD pathogenesis, considering the pivotal role of this neurotransmitter in the CNS
+development throughout the foetal period and early stages of life [45]. Tryptophan is the
+precursor of serotonin, and in autistic individuals, Burkholderia spp. and Pseudomonas spp.,
+which belong to the phylum Proteobacteria, are thought to be involved with the reinforced
+tryptophan pathway and the promotion of disordered neurobehaviour [45]. Abnormal
+GABA and glutamate levels found in ASD patients might also be connected to microbiota
+changes as some Biﬁdobacterium spp. and Lactobacillus are recognised GABA producers [44,
+45]. Excess glutamate has neurotoxic properties and may induce neuronal apoptosis [44].
+The exact mechanism of GABA and glutamate involvement in ASD pathogenesis remains
+unclear [46].
+Finally, in most studies, SCFAs were found in lower concentrations in ASD children
+compared to healthy control children [44,46]. Their synthesis depends on anaerobic bac-
+teria such as Biﬁdobacterium, Prevotella, and Ruminococcus, which were decreased in ASD
+patients [46]. They have the potential to inﬂuence early brain development after crossing
+the BBB since they are involved in the modulation of dopamine and serotonin produc-
+tion [3,44]. The expression of tryptophan 5-hydroxylase, an enzyme in serotonin synthesis,
+is inﬂuenced by SCFAs, as well as the expression of tyrosine hydroxylase, which is of impor-
+tance in the biosynthesis of dopamine, adrenaline, and noradrenaline [45]. SCFAs further
+regulate CNS physiology by inﬂuencing microglial maturation, neuronal signalling, and
+epigenetics [45]. Epigenetic alterations are mainly attributed to butyrate, which modulates
+HDAC activity. HDAC inhibition might impact ASD genesis by changing gene expression.
+One of the genes affected by these epigenetic processes is the transcription factor cAMP
+response element-binding protein (CREB), which is known to be implicated in neurodevel-
+opment and brain function processes [29,46]. Furthermore, apoptosis and inﬂammation
+processes have been linked to epigenetic alterations mediated by SCFAs [46]. Therefore, it
+is plausible that SCFA disturbances originating from intestinal dysbiosis are involved in
+ASD pathogenesis, even though the mechanisms need to be further investigated [45].
+4.3. Schizophrenia
+Schizophrenia is a psychiatric syndrome with a worldwide prevalence of 1% and is
+rated among the 10 most common causes of disability on a global level [11,60]. The psy-
+chotic symptoms range from delusions and hallucinations to disorganised speech. Other
+symptoms are a decrease in motivation, a diminishment in expressivity, and grossly disor-
+ganised or catatonic behaviour. Schizophrenic patients might also suffer from cognitive
+deﬁcits such as reduced speed in mental processes or memory problems [11,60]. Usually,
+schizophrenia is ﬁrstly diagnosed in early adulthood (late teens or early twenties) but
+might be preceded by a prodromal phase with minor changes in behaviour and cogni-
+tive function [60]. Because of the early onset and the potential for life-long impairments,
+schizophrenia is associated with a huge burden for both the health care system and the
+
+Nutrients 2022, 14, 2661
+17 of 51
+economy. Furthermore, the personal burden of disease should not be neglected as, in
+addition to the life-long impairments, the mean life expectancy is reduced by 15 years
+compared to the general population [11]. Twin and family studies concluded that 80% of
+the risk for schizophrenia could be explained by genetics. No single disease-causing gene
+could be identiﬁed, so it is thought to be a polygenic disorder [11,60]. The remaining 20%
+are made up of environmental factors such as birth complications, childhood adversity
+(emotional or physical abuse, neglect, family dysfunction), urban area upbringing, alcohol,
+drugs, malnutrition, infections, or stress [60,61].
+Over the last three decades, research has started to focus on the role of immune
+functions in schizophrenia pathogenesis. It has been suggested that schizophrenia is a
+low-grade chronic inﬂammatory disease. Neuroinﬂammation in the CNS and the periphery
+could be associated with schizophrenia, in which overly activated neuroimmune microglia
+cells play a crucial role [62]. Schizophrenia patients had altered activation of microglia
+compared to a healthy control group. Alterations in the microbiome, especially in early
+life, act as a predisposition to immune dysfunction, which has been associated with the
+development of schizophrenia [62,63]. As discussed earlier, microglial development partly
+depends on gut microbial inﬂuences, a fact that supports a potential involvement of
+microbiome-derived cues in the pathophysiology of schizophrenia.
+An altered microbiome and dysbiosis, along with a disrupted gut barrier and bacterial
+translocation (leaky gut), have been linked to schizophrenia. Several research groups
+detected elevated levels of serum biomarkers for microbial translocation, such as circu-
+lating LPS, LPS-binding protein (LBP), and soluble CD14 (sCD14) in patients’ blood sam-
+ples [61–65]. These factors activate the immune system by binding to TLRs. TLR4, which
+recognises LPS, has been found in higher abundance in patients with schizophrenia [63],
+possibly leading to the impairment of BBB, neuroinﬂammation, microglial activation, and
+neuronal damage with deleterious consequences for cognitive functions [62]. Altogether,
+these data emphasise a correlation between schizophrenia and the elevated levels of pro-
+inﬂammatory cytokines involved in the immune response [61].
+Various studies evaluated key changes in microbiome composition in schizophrenia.
+Only a limited number of ﬁndings overlapped. Even the question of whether the overall
+diversity in gut microbiota was increased or decreased in schizophrenia patients cannot be
+answered beyond any doubt since the ﬁndings regarding alpha- and beta-diversity were in-
+consistent [63–66]. A compilation of the bacteria analyses can be found in Table 4, as well as
+in Figures 5 and 6.The diverse ﬁndings suggest that further studies with bigger sample sizes
+and eradication of cofounding factors are necessary to identify schizophrenia-related bacte-
+ria. Even for the bacteria that have been associated more clearly, their biological mechanism
+and role in the pathophysiology of schizophrenia remain largely unknown [63,66].
+Associations between changes in bacterial metabolites found in schizophrenia patients
+and the disease development are clearer. The impact of translocation biomarkers and
+cytokines on the pathology of schizophrenia has already been discussed above. Studying
+faecal samples revealed that schizophrenia patients show alterations in their gut glutamate
+metabolism. In the gut, the activity of glutamine oxoglutarate aminotransferase (GOGAT),
+which is involved in glutamate synthesis, was signiﬁcantly higher than in healthy con-
+trols. This results in elevated levels of glutamate [65,66]. The neurotransmitter dopamine
+is seemingly important for psychosis symptoms such as delusions and hallucinations.
+In schizophrenia, overstimulation of dopamine receptors D2 in the striatum leading to
+these symptoms has been postulated. On a pharmacological level, these D2 receptors are
+blocked by antipsychotic drugs, reducing psychotic symptoms. Dopamine levels in the
+brain depend at least partly on gut microbiome metabolism, as discussed earlier [61,63].
+Furthermore, changes in tryptophan metabolism could be identiﬁed, which are also thought
+to emerge from bacterial metabolism. In addition to being turned into serotonin, trypto-
+phan can also be metabolised through the kynurenine pathway. In Schizophrenia, higher
+levels of kynurenine metabolites could be measured [61,63,66]. Within the brain, astrocytes
+metabolise kynurenine into kynurenic acid, which is an antagonist to acetylcholine and
+
+Nutrients 2022, 14, 2661
+18 of 51
+glutamate receptors. Those receptors are involved in brain development, behaviour, and
+cognition. Altered levels of kynurenine and kynurenic acid have therefore been linked to
+the pathophysiology of schizophrenia [63]. SCFAs are also thought to be of importance.
+Research ﬁndings suggest that their epigenetic modulation potential via decreasing HDAC
+activity could be crucial in the development of schizophrenia, keeping in mind that 80% of
+the risk for schizophrenia is attributed to genetics [61,66].
+Table 4. Bacteria (with taxonomic level) were found in higher (↑) or lower (↓) abundance in patients
+suffering from schizophrenia. Arrows of the signiﬁcant results in at least one study are represented
+with a grey background (p < 0.05). “-” in the signiﬁcance column indicate that no statements regarding
+the signiﬁcance of the results were made in the corresponding studies. Empty cells mean that no
+signiﬁcant differences could be identiﬁed. For the studies’ demographic characteristics, sample size
+and mean age were included when available. Sample size numbers are split into females and males
+for patients and healthy controls. The mean age is given for the patient group and the healthy control
+group, as a further breakdown for the gender groups was not consistently provided. The relevant
+source is shown in bold numbers. SCZ = schizophrenia.
+Bacteria in Schizophrenia Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p = 0.0478
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Actinomycetales (order)
+↑
+p = 0.0025
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Akkermansia muciniphila (species)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65],[66]
+Alcaligenaceae (family)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Alkaliphilus oremlandii (species)
+↑
+p = 0.008
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Anaerococcus (genus)
+↑
+p = 0.007
+50 (♀21; ♂29)
+SCZ: 25
+Control: 25
+SCZ: 52.9
+Control: 54.7
+[64]
+Bacteroides plebeius (species)
+↑
+p = 0.0038
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Biﬁdobacterium adolescentis (species)
+↑
+p = 0.003
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65],[66]
+Biﬁdobacterium longum (species)
+↑
+p = 0.0075
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Biﬁdobacterium (genus)
+↑
+p = 0.0062
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Biﬁdobacterium (genus)
+↓
+p = 0.006
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[62],[66]
+Clostridium (genus)
+↓
+p = 0.0002
+50 (♀21; ♂29)
+SCZ: 25
+Control: 25
+SCZ: 52.9
+Control: 54.7
+[64]
+Clostridium coccoides (species)
+↑
+p < 0.001
+-
+-
+[62]
+Clostridium perfringens (species)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Clostridium symbiosum (species)
+↑
+p = 0.0166
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Cronobacter sakazakii/turicensis
+(species)
+↑
+p = 0.0387
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+
+Nutrients 2022, 14, 2661
+19 of 51
+Table 4. Cont.
+Bacteria in Schizophrenia Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (years)
+Source
+Deltaproteobacteria (class)
+↑
+p = 0.002
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Eggerthella (genus)
+↑
+p = 0.00307
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Enterococcaceae (family)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Enterococcus (genus)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Enterococcus faecium (species)
+↑
+p = 0.0035
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Escherichia coli (species)
+↓
+p < 0.001
+-
+-
+[62],[66]
+Eubacterium siraeum (species)
+↑
+p = 0.0008
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Haemophilus (genus)
+↓
+p = 0.004
+50 (♀21; ♂29)
+SCZ: 25
+Control: 25
+SCZ: 52.9
+Control: 54.7
+[64]
+Lactobacillus fermentum (species)
+↑
+p = 0.0026
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Lactobacillus gasseri (species)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Lactobacillus (genus)
+↑
+p = 0.027
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[62],[66]
+Leuconostocaceae (family)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Megasphaera (genus)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Megasphaera elsdeniis (species)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Proteobacteria (phylum)
+↓
+-
+50 (♀21; ♂29)
+SCZ: 25
+Control: 25
+SCZ: 52.9
+Control: 54.7
+[64]
+Rhodocyclaceae (family)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Rhodocyclales (order)
+↓
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Rikenellaceae (family)
+↓
+p = 0.011
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Streptococcus vestibularis (species)
+↑
+p = 0.0036
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+Sphingomonadaceae (family)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Sphingomonadales (oder)
+↑
+p < 0.001
+168 (♀72; ♂89)
+SCZ: 84
+Control: 84
+SCZ: 35
+Control: 35
+[65]
+Sutterella (genus)
+↓
+p = 0.004
+50 (♀21; ♂29)
+SCZ: 25
+Control: 25
+SCZ: 52.9
+Control: 54.7
+[64]
+Veillonella parvula (species)
+↑
+p = 0.004
+171 (♀84; ♂87)
+SCZ: 90
+Control: 81
+SCZ: 28.6
+Control: 32.8
+[66]
+
+Nutrients 2022, 14, 2661
+20 of 51
+Figure 5. Part 1 of visual representation of the changes in microbiota composition in schizophrenia
+patients from Table 4. For an explanation, see the legend of Part 2 in Figure 6.
+4.4. Alzheimer’s Disease
+Alzheimer’s disease (AD) is the single most common cause of dementia, making up
+approximately 60–70% of all dementia cases [7,8]. As it is strongly associated with ageing,
+it is thought to become even more prevalent in the future with the general population
+ageing due to increasing life expectancy. Currently, already more than 44 million people
+are affected on a global level, and therefore it is a rising global health problem [7,8]. AD
+ﬁrstly presents itself with a progression in cognitive impairment, starting with difﬁculties in
+episodic memory and remembering new information, further affecting spatial orientation
+and executive functions. In later stages of the disease, personality changes may occur,
+and activities of daily life are affected; dressing, eating, and mobility become impossible.
+This leads to patients’ dependence and disability with a high need for care. AD further
+reduces life expectancy, as death occurs about 8–10 years after the initial presentation of the
+disease [7,8].
+Ageing and genetic proﬁle are the non-modiﬁable risk factors for AD [7]. AD is
+sporadic in most cases (sAD). Rarely is it inherited in an autosomal-dominant way, where
+symptoms develop as early as the age of 30 to 50 years. Genetic factors are also involved in
+sporadic AD, contributing to approximately 70% of the risk of developing sAD. Variations
+in the apolipoprotein E (APOE) gene are the single biggest genetic risk factor for sAD [8,70].
+The remaining 30% of the risk is modiﬁable and connected to environmental and lifestyle
+factors, including cardiovascular risk factors (hypertension, physical inactivity, obesity,
+smoking, diabetes) and reduced cognitive activity [7].
+The cognitive impairment in AD is caused by irreversible neuronal death and synaptic
+loss. The accumulation of insoluble and misfolded amyloid-beta (Aβ) proteins is caused
+by a different secretase cleavage of the amyloid precursor protein (APP) or by reduced
+
+Nutrients 2022, 14, 2661
+21 of 51
+clearance of Aβ, where APOE is involved. Aβ then forms extracellular amyloid plaques
+and accelerates the hyperphosphorylation of tau protein, which forms intraneuronal neu-
+roﬁbrillary tangles (NFTs). Aβ and NFT activate a neurotoxic pathway leading to a loss
+of neurons and synapses, in which microglia activation and neuroinﬂammation are cru-
+cial [7,8]. At ﬁrst, the acute neuroinﬂammatory response helps with Aβ-clearance, but the
+continuous microglial activation leads to a neurotoxic pathway [71]. In post-mortem AD
+brains, Aβ-plaques, NFTs, and brain atrophy can be observed with accentuation in the
+temporal lobe (including hippocampus) and parietal lobe [8].
+Figure 6. Part 2 of visual representation of the changes in microbiota composition in schizophrenia
+patients from Table 4. For Figures 5 and 6: The pedigree design highlights the taxonomic classiﬁcation
+of the dysbiotic bacteria. Light green cells stand for an increase and the light red cells for a decrease,
+respectively. Signiﬁcant changes are shown in bold letters (p < 0.05). White cells indicate that no
+changes were reported or, in the case of Biﬁdobacterium, both signiﬁcant increases and decreases were
+found. The last two columns contain additional, non-exhaustive information on how the bacteria are
+
+Nutrients 2022, 14, 2661
+22 of 51
+thought to impact the pathogenesis. The second last column to the right depicts bacterial molec-
+ular factors, which may be components of the bacteria or bacterial metabolites. Finally, the last
+column lists possible mechanisms by which these molecular factors may interfere with disease de-
+velopment. The colours summarise factors or mechanisms that are repetitive. Bacterial production
+or involvement in the metabolism of GABA (light blue, [18,20,66]), tryptophan (turquoise, [66]),
+acetylcholine (emerald colour, [18,20]), noradrenaline (light yellow, [18,20]), phenylalanine (dark
+orange, [27]), and 5-HT (salmon colour, [18,20]) may lead to an imbalance in central nervous sys-
+tem neurotransmitters (yellow). Clostridium perfringens synthesises various exotoxins harming
+the intestinal epithelium lining and causing GI inﬂammation (brown) [65]. Biﬁdobacterium spp.
+produces folate, which contributes to changes in DNA methylation [61]. Gram-negative bacteria’s
+cell wall containing LPS (light purple) can stimulate TLRs located on immune cells (lilac, [21,31]).
+TLR-mediated immune activation is eventually leading to systemic inﬂammation, BBB disturbance,
+and neuroinﬂammation [14]. SCFAs deriving from bacteria are involved in microglia maturation
+and activation, BDNF-production, tight junction regulation in the gut barrier as well as in the BBB,
+epigenetic and inﬂammatory processes (light orange, [18,20,26,29,67–69]). If the involvement of the
+bacterial strain in the disease pathogenesis remains elusive, the last two columns are labelled as
+unknown, respectively. 5-HT = serotonin; BBB = blood–brain barrier; BDNF = brain-derived neu-
+rotrophic factor; GABA = gamma-Aminobutyric acid; GI = gastrointestinal; LPS = lipopolysaccharide;
+NE = noradrenaline; SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+Increasing evidence shows that the gut microbiota may be contributing to the patho-
+genesis of AD. As we age, our microbiome undergoes fundamental changes. In the elderly,
+a decrease in microbial diversity could be found, and they host more pro-inﬂammatory
+bacteria and less anti-inﬂammatory bacteria (Bacteroidetes, Biﬁdobacteria, Lactobacillus). Ad-
+ditionally, SCFA-producing bacteria species were found to be less abundant in the elderly.
+Decreased SCFA levels are thought to facilitate activation of microglial cells by inducing
+inﬂammatory processes, ﬁrst on the gut leading to a leaky gut, but also on a systemic
+level, including the brain, as the inﬂammation signalling molecules spread throughout the
+body. In fact, elevated levels of circulating pro-inﬂammatory cytokines were found in AD
+patients [70,72–76]. This, in turn, also affects the permeability of the BBB [70,71,74,76]. The
+interrupted BBB facilitates neuroinﬂammation in the brain and neuronal death, as seen in
+AD [70,74].
+Further, the gut microbiota is a source of amyloid proteins. Many bacteria strains are ca-
+pable
+of
+producing
+amyloid.
+Bacillus
+subtilis,
+Escherichia
+coli,
+Mycobacterium
+tuberculosis, Salmonella enterica, Salmonella typhimurium, and Staphylococcus aureus are a
+few examples [29,70,76]. Those bacterial amyloids are thought to inﬂuence AD pathogene-
+sis in three different ways. Firstly, they may act as an inducer of inﬂammation response
+against Aβ. Even though bacterial amyloids and Aβ differ in their amino acid sequence,
+they resemble each other in their folding structure. Therefore, they are recognised by the
+same TLRs [29,74–76]. TLR activation triggers the inﬂammatory immune response, which
+in turn might lead to further neuronal amyloid production inside the brain and reinforces
+the process of chronic neuroinﬂammation [74,76]. Secondly, through the concept of molecu-
+lar mimicry, microbial amyloids could show a prion-like behaviour and cross-seed to the
+brain, where they promote the formation and accumulation of pathogenic β-sheet structure
+in other proteins, which leads to misfolded Aβ, as in AD [70,74,77]. Thirdly, an additional
+hypothesis suggests that bacterial amyloids might be leaking from the gut and ﬁnd their
+way to the brain, where they contribute to the brain amyloid load. However, so far, this
+translocation has only been observed in animal studies with mice [70,76].
+In addition to amyloids, (Gram-negative) bacteria also excrete LPS, which has easy
+access to the brain in aged people with compromised gut barrier and BBB. Plasma LPS
+levels of AD patients were identiﬁed to be up to three times as high as in healthy controls.
+These elevated levels may contribute to low-grade chronic inﬂammation, and once LPS
+comes into contact with microglia cells in the brain, neuroinﬂammation is triggered by
+TLR activation [70,76]. Additionally, in AD patients, the presence of LPS, especially in the
+
+Nutrients 2022, 14, 2661
+23 of 51
+hippocampus and neocortex (important centres for memory and executive function), has
+been demonstrated [76,77].
+The Association of gut bacteria to AD is being extensively researched, both in animal
+models and AD patients. Overall, a decreased bacteria diversity within each patient (alpha
+diversity) and among AD patients (beta diversity) has been observed in comparison to
+healthy controls [72,76]. The most overlapping ﬁndings were an increase in the phylum
+Bacteroidetes [74,76,78] and a decrease in Biﬁdobacteria and Firmicutes [74,76,77]. In general,
+decreased numbers of anti-inﬂammatory bacteria (Bacillus/Bacteroides fragilis, Eubacterium
+rectale, Eubacterium hallii, and Faecalibacterium prasunitzii) were detected in AD patients’
+stool samples [74]. The detailed list can be seen in Table 5. The data is further visually
+represented in Figure 7.
+4.5. Parkinson Disease
+Parkinson’s Disease (PD) is, after Alzheimer’s disease, the most prevailing neurode-
+generative disease [82]. There is a strong association with age. Approximately 2–3% of
+people older than 65 are affected by PD, whereas, in the general population, the prevalence
+is approximately 0.3% [9]. With the increase in worldwide life expectancy, a dramatic
+increase in prevalence is expected in the future [10]. PD is the most common cause of
+clinical parkinsonism syndrome, which consists of brady-/hypokinesia, resting tremor,
+rigidity, and postural instability [82]. In addition to these motor symptoms, there is also
+a large variety of non-motor symptoms, which might occur much earlier than the motor
+manifestations. Some of these non-motor symptoms are hyposmia, REM–sleep behavioural
+disorder, pain, depression, and obstipation [9,10,82]. Aetiology is multifactorial. PD’s
+heritability lies at 30%. Environmental and lifestyle factors are the major contributors to the
+overall PD risk [10]. The modiﬁable risk-increasing factors include exposure to toxic chemi-
+cals such as pesticides and head injuries. Caffeine, exercise, and nicotine, on the other hand,
+seem to have a protective effect [10]. The pathologic hallmarks of PD are the degeneration
+of dopaminergic neurons in the substantia nigra located in the midbrain and intracellular
+protein aggregations of misfolded α-synuclein, also known as Lewy bodies [82]. This
+results in a dopamine deﬁciency in substantia nigra, a functional component of the basal
+ganglia, which is instrumental for motor function [10]. Motor symptoms manifest once
+50–70% of all dopaminergic neurons have been lost [10]. The tangible mechanisms by
+which PD is triggered remain elusive, and the pathogenesis appears complex. Oxidative
+stress, mitochondrial dysfunction, neuroinﬂammation, impaired autophagy, and protein
+aggregation are shown to contribute to PD pathogenesis [10,83,84].
+During the past two decades, the GI tract and the microbiome have become a major
+area of research regarding PD aetiopathogenesis. Gut microbial dysbiosis and its effects on
+the MGBA contribute to PD pathogenesis and progression on various pathways. Changes
+in bacteria and metabolite abundance, lost gut integrity, deﬁciency in BBB, and neuroin-
+ﬂammation are important players [51,84].
+According to the most popular hypothesis connecting the gut and PD, the aggregation
+of misfolded α-synuclein might be initiated in the ENS and further propagated to the
+CNS via retrograde axonal transport, especially through the vagus nerve. Through this
+cell-to-cell transmission, α-synuclein could ﬁnally reach the pars compacta of the substantia
+nigra [85]. This hypothesis goes back to Braak and colleagues and is supported by the
+early neuropathological detection of α-synuclein inclusions in the ENS of PD patients.
+Such inclusions could be found in neurons of the submucosal and myenteric plexus, which
+are part of the ENS before they could be detected in the brain [32,51]. These early ENS
+aggregations could, at least partially, explain why gastrointestinal symptoms often precede
+the onset of the neurological PD symptoms [29]. Animal models have further conﬁrmed the
+involvement of the vagus nerve in PD pathogenesis [86]. Additionally, population-based
+studies have shown that people with truncal vagotomy had a reduced risk after >5 years for
+PD compared to matched controls [83–86]. It is postulated that once misfolded α-synuclein
+is formed, it could act as a template for additional misfolding and lead to protein inclusions
+
+Nutrients 2022, 14, 2661
+24 of 51
+that can spread from neuron to neuron (prion-like behaviour) [32,84,86]. Accumulating
+α-synuclein forms oligomers, which can then build ﬁbrils, which can eventually turn
+into Lewy bodies [32]. These protein aggregates are potent activators of microglial cells
+and can therefore provoke inﬂammatory processes, resulting in neuroinﬂammation and
+neurodegeneration [84,87]. Additionally, TLRs are also stimulated by α-synuclein [87].
+Braak et al. suggested that unknown environment toxins or microbial pathogens may
+trigger the initial protein aggregation in the gut [84–86]. Recent studies have been focusing
+on the role of gut microbiota in the initiation of α-synuclein aggregation. In PD patients, an
+increase in intestinal α-synuclein showed a strong correlation with microbial alterations,
+which lead to inﬂammation and loss of gut integrity [85]. Additionally, the bacterial
+inﬂammatory metabolite, LPS, facilitates α-synuclein accumulation and aggregations, as
+well as the formation of ﬁbrils [85]. PD patients exhibit elevated levels of serum LPS and
+decreased levels of LBP, which helps with the elimination of the endotoxin secreted by
+Gram-negative bacteria [51,88]. Through TLRs, LPS activates the innate immune system,
+including microglia cells, and leads to inﬂammation–locally, systemically, as well as in the
+ENS and CNS. Eventually, this can result in a loss of dopaminergic neurons [83,85,88].
+Table 5. Bacteria (with taxonomic level) were found in signiﬁcantly higher (↑) or lower (↓) abundance
+in patients suffering from Alzheimer’s disease (AD). Arrows of the signiﬁcant results in at least one
+study are represented with a grey background (p < 0.05). “-” in the signiﬁcance column indicate
+that no statements regarding the signiﬁcance of the results were made in the corresponding studies.
+Empty cells mean that no signiﬁcant differences could be identiﬁed. For the studies’ demographic
+characteristics, sample size and mean age were included. Sample size numbers are split into females
+and males, as well as patients and healthy controls. The mean age is given for the patient group
+and the healthy control group, as a further breakdown for the gender groups was not consistently
+provided. The relevant source is shown in bold numbers.
+Bacteria in Alzheimer’s
+Disease Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[75],[79]
+Alistipes (genus)
+↑
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79],[80]
+Bacillus subtilis (species)
+↑
+-
+-
+-
+[76]
+Bacteroidaceae (family)
+↑
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79]
+Bacteroides (genus)
+↑
+-
+-
+-
+[80]
+Bacteroides/Bacillus fragilis
+(species)
+↓
+-
+-
+-
+[74],[76]
+Bacteroidetes (phylum)
+↑
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[74,76,
+78],[79],[80]
+Biﬁdobacteriaceae (family)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79],[80]
+Biﬁdobacterium (genus)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[74,
+76],[79],[80]
+Clostridiaceae (family)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79]
+Clostridium (genus)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79]
+
+Nutrients 2022, 14, 2661
+25 of 51
+Table 5. Cont.
+Bacteria in Alzheimer’s
+Disease Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Dialister (genus)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[79]
+Escherichia (genus)
+↑
+p < 0.001
+83 (♀44; ♂39)
+AD: 73
+Control: 10
+AD: 70.5
+Control: 68
+[76],[81]
+Escherichia coli (species)
+↑
+-
+-
+-
+[76]
+Eubacterium hallii (species)
+↓
+Not signiﬁcant
+83 (♀44; ♂39)
+AD: 73
+Control: 10
+AD: 70.5
+Control: 68
+[74],[81]
+Eubacterium rectale (species)
+↓
+p < 0.001
+83 (♀44; ♂39)
+AD: 73
+Control: 10
+AD: 70.5
+Control: 68
+[74,76],[81]
+Faecalibacterium prausnitzii
+(species)
+↓
+Not signiﬁcant
+83 (♀44; ♂39)
+AD: 73
+Control: 10
+AD: 70.5
+Control: 68
+[74],[81]
+Firmicutes (phylum)
+↓
+p < 0.05
+50 (♀35; ♂15)
+AD: 25
+Control: 25
+AD: 71.3
+Control: 69.3
+[74,76],[79]
+Fusobacteriaceae (family)
+↓
+-
+-
+-
+[76]
+Prevotellaceae (family)
+↑
+-
+-
+-
+[76]
+Figure 7. Visual representation of the changes in microbiota composition in Alzheimer’s disease (AD)
+patients from Table 5. The pedigree design highlights the taxonomic classiﬁcation of the dysbiotic
+bacteria. Light green cells stand for an increase and the light red cells for a decrease, respectively.
+
+Nutrients 2022, 14, 2661
+26 of 51
+Signiﬁcant changes are shown in bold letters (p < 0.05). White cells indicate that no changes were re-
+ported. The last two columns contain additional, non-exhaustive information on how the bacteria are
+thought to impact the pathogenesis. The second last column to the right depicts bacterial molecular
+factors, which may be components of the bacteria or bacterial metabolites. Finally, the last column lists
+possible mechanisms by which these molecular factors may interfere with disease development. The
+colours summarise factors or mechanisms that are repetitive. Bacterial production or involvement in
+the metabolism of GABA (light blue, [18,20,70]), noradrenaline (light yellow, [18,20]), dopamine (olive
+green, [18,20]), phenylalanine (dark orange, [27]), and 5-HT (salmon colour, [18,20]) may lead to an
+imbalance in central nervous system neurotransmitters (yellow). Bacterial strains such as Escherichia
+coli and Bacillus subtilis can synthesise bacterial amyloid proteins and are therefore potential con-
+tributors to AD amyloid pathology. Bacterial amyloid may induce a (neuro-)inﬂammatory response,
+trigger misfolding of neuronal proteins through molecular mimicry and cross-seeding to the brain, or
+leak from the gut to the brain, where they might accumulate (light and dark blue–grey) [70,74,76,77].
+Biﬁdobacterium spp. maintain the integrity of the gut barrier through their colonisation and anti-
+inﬂammatory properties. Thereby they prevent toxins from entering the systemic circulation [70].
+Gram-negative bacteria’s cell wall containing LPS (light purple) can stimulate TLRs located on
+immune cells (lilac, [21,31]). TLR-mediated immune activation is eventually leading to systemic
+inﬂammation, BBB disturbance, and neuroinﬂammation [14]. SCFAs deriving from bacteria are
+involved in microglia maturation and activation, BDNF-production, tight junction regulation in the
+gut barrier as well as in the BBB, epigenetic and inﬂammatory processes (light orange, [21,29,67–69]).
+5-HT = serotonin; AD = Alzheimer’s disease; BBB = blood–brain barrier; BDNF = brain-derived neu-
+rotrophic factor; GABA = gamma-Aminobutyric acid; LPS = lipopolysaccharide; NE = noradrenaline;
+SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+SCFAs are also relevant for PD pathogenesis. In multiple clinical studies, faecal
+samples of PD patients generally contained a reduced amount of SCFAs compared to
+healthy individuals [29,51]. This reduction is consistent with the lower abundance of
+SCFA-producing bacteria (including Bacteroides, Blautia, Coprococcus, Faecalibacterium
+prausnitzii, Lachnospiraceae, and Roseburia) in PD patients [29,51,84,85]. SCFA deﬁcien-
+cies may lead to intestinal and neuronal inﬂammation, gut leakage, microglial activation,
+and also Lewy body formation in the ENS, which are all important factors in PD pathogen-
+esis [83–85].
+Both intestinal inﬂammation and increased gut permeability could be observed in
+PD patients [84]. Speciﬁc alterations of gut bacteria in PD patients lead to increased
+gut permeability accompanied by intestinal inﬂammation and neuroinﬂammation [87].
+In colonic biopsies, PD patients expressed a higher level of pro-inﬂammatory cytokines
+such as IF-γ, IL-1β, IL-6, and TNF-α, as well as glial cell markers such as GFAP and
+Sox-10. Furthermore, stool samples of PD patients also measured elevated cytokines
+and chemokines [85]. A marker for the impaired gut barrier, the tight junction-associated
+cytoplasmatic protein zonulin, was signiﬁcantly elevated in faecal samples of a case–control
+study on PD patients [86]. Moreover, the elevated LPS and reduced LBP in patients’ serum
+suggested increased gut permeability [83]. Endotoxins such as LPS and microbes can
+enter the gut lumen and circulation and induce inﬂammation and oxidative stress, which
+supports the formation of ENS and CNS synucleinopathy after activating enteric neurons
+and glia cells [10,84,87]. This is supported by reports of increased expression of TLR4, a
+receptor for LPS, in the colon of PD patients [84]. Systemic inﬂammation can be observed
+through increased pro-inﬂammatory cytokine levels and is tearing down the integrity
+of the BBB. Subsequently, pro-inﬂammatory factors gain access to the brain, where they
+create a molecular environment for neuroinﬂammation and neuronal death [83–85,87].
+As a consequence, CNS microglial cellsare overactivated. That seemingly affects the
+dopaminergic neurons in the substantia nigra pars compacta [83,87]. In fact, in the post-
+mortem midbrains of PD patients, a higher number of immune T-cells could be found,
+which are suggested to be involved in neuronal death after recognising certain antigen
+epitopes on α-synuclein molecules [83].
+
+Nutrients 2022, 14, 2661
+27 of 51
+Due to these different intertwined pathways, the gut and its microbes are considered
+predisposing factors for PD pathogenesis [85]. The question remains which changes in
+microbiome composition are in common among PD patients. Emerging literature has
+shown some general features and trends of PD microbiomes, although the variety in
+research ﬁndings is wide. The inconsistencies across different studies could be explained by
+differences in methodology, geography, age, diet, and cross-sectional study design [83,84].
+In general, the bacterial phenotype is shifted towards a pro-inﬂammatory phenotype,
+with a higher abundance of bacteria of the genus Ralstonia. Conversely, bacteria with
+anti-inﬂammatory properties such as genera Blautia, Coprococcus, Faecalibacterium, and
+Roseburia were found in lower quantities in PD patients’ stool samples [51]. Overall,
+genus Faecalibacterium, genus Prevotella, and family Lachnospiraceae were decreased in
+PD patients compared to healthy controls. Generea Akkermansia, Biﬁdobacteriacea, and
+families Christenalleaceae, Lactobacillaceae, Ruminococcaceae, and Verrucomicrobiaceae were
+increased [84,86,88]. The results of the different studies are shown in Table 6, as well as in
+Figures 8 and 9.
+Table 6. Bacteria (with taxonomic level) were found in higher (↑) or lower (↓) abundance in patients
+suffering from Parkinson’s disease (PD). Arrows of the signiﬁcant results in at least one study are
+represented with a grey background (p < 0.05 or LDA values > 2). “-” in the signiﬁcance column
+indicate that no statements regarding the signiﬁcance of the results were made in the corresponding
+studies. Empty cells mean that no signiﬁcant differences could be identiﬁed. For the studies’
+demographic characteristics, sample size and mean age were included. Sample size numbers are split
+into females and males for patients and healthy controls. The mean age is given for the patient group
+and the healthy control group, as a further breakdown for the gender groups was not consistently
+provided. The relevant source is shown in bold numbers.
+Bacteria in Parkinson’s
+Disease Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p < 0.001
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[80],[89]
+Akkermansia (genus)
+↑
+p = 0.0001
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[51,83,84,86,
+88],[90]
+Anaerotruncus (genus)
+↑
+p = 0.047
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Aquabacterium (genus)
+↑
+p < 0.0001
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Bacteroides (genus)
+↑
+p = 0.05
+72 (♀30; ♂42)
+PD: 38
+Control: 34
+PD: 61.6
+Control: 45.1
+[83],[92]
+Bacteroidetes (phylum)
+↓
+p = 0.045
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[84],[89],[93]
+Biﬁdobacteriaceae (family)
+↑
+p < 0.0001
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[84],[90]
+Blautia (genus)
+↓
+p = 0.018
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[51],[89]
+Butyricicoccus (genus)
+↑
+p = 0.034
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Christensenellaceae (family)
+↑
+p < 0.0001
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[84],[90]
+Clostridium IV (genus)
+↑
+p < 0.0001
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+
+Nutrients 2022, 14, 2661
+28 of 51
+Table 6. Cont.
+Bacteria in Parkinson’s
+Disease Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Clostridium XVIII (genus)
+↑
+p = 0.03
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Coprococcus (genus)
+↓
+p = 0.03
+72 (♀30; ♂42)
+PD: 38
+Control: 34
+PD: 61.6
+Control: 45.1
+[51],[92]
+Enterococcaceae (family)
+↓
+-
+68 (♀26; ♂42)
+PD: 34
+Control: 34
+PD: 67.7
+Control: 64.6
+[51],[93]
+Enterococcus (genus)
+↑
+p = 0.006
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[51],[89]
+Escherichia-Shigella (genus)
+↑
+p = 0.038
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[51],[89]
+Faecalibacterium (genus)
+↓
+p < 0.05
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[51,84,86,
+88],[90]
+Firmicutes (phylum)
+↓
+p = 0.03
+72 (♀30; ♂42)
+PD: 38
+Control: 34
+PD: 61.6
+Control: 45.1
+[84],[92]
+Holdemania (genus)
+↑
+p = 0.004
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Lachnospiraceae (family)
+↓
+p = 0.02
+72 (♀30; ♂42)
+PD: 38
+Control: 34
+PD: 61.6
+Control: 45.1
+[84,86,
+88],[92]
+Lactobacillaceae (family)
+↑
+p < 0.0001
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[83–
+85,87],[90]
+Lactobacillus (genus)
+↑
+p < 0.0001
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[84],[90]
+Lactobacillus (genus)
+↓
+LDA > 2
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51,85],[91]
+Prevotella (genus)
+↓
+p = 0.28
+88 (♀46; ♂42)
+PD: 52
+Control: 36
+PD: 68.9
+Control: 68.4
+[51,84–
+86,88],[94]
+Prevotellaceae (family)
+↓
+Not signiﬁcant
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[84],[89],[93]
+Proteus (genus)
+↑
+p = 0.022
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[51,85],[89]
+Roseburia (genus)
+↓
+p < 0.05
+327 (♀144; ♂183)
+PD: 197
+Control: 130
+PD: 68.4
+Control: 70.3
+[51,83],[90]
+Ruminococcaceae (family)
+↑
+p < 0.05
+20 (♀8; ♂12)
+PD: 10
+Control: 10
+PD: 79.5
+Control: 76.5
+[84],[95]
+Ruminococcus (species)
+↓
+p = 0.019
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[89]
+Sediminibacterium (genus)
+↓
+LDA > 2
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Sphingomonas (genus)
+↑
+p < 0.05
+90 (♀45; ♂45)
+PD: 45
+Control: 45
+PD: 68.1
+Control: 67.9
+[51],[91]
+Streptococcus (genus)
+↑
+p = 0.01
+38 (♀16; ♂22)
+PD: 24
+Control: 14
+PD: 73.75
+Control: 74.64
+[51],[89]
+Verrucomicrobiaceae (family)
+↑
+p = 0.05
+72 (♀30; ♂42)
+PD: 38
+Control: 34
+PD: 61.6
+Control: 45.1
+[51],[92]
+
+Nutrients 2022, 14, 2661
+29 of 51
+Figure 8. Part 1 of visual representation of the changes in microbiota composition in Parkinson’s
+disease patients from Table 6. For an explanation, see the legend of Part 2 in Figure 9.
+4.6. Depression
+Major depressive disorder (MDD), or simply (major) depression, is a disease imposing
+a tremendous health burden with a lifetime risk of 15–18%. Approximately every ﬁfth per-
+son gets diagnosed with MDD at least once in life. Around the globe estimated 350 million
+people are suffering from depression. In a World Health Organisation Report of 2017, major
+depression was listed as the biggest contributor to worldwide disability and suicide [96].
+Women are affected twice as much as men [5,97]. In most people, the ﬁrst episode of
+a major depression happens between the age of 20 to 40 years. The key symptoms of
+MDD are persistent sadness, loss of pleasure (anhedonia) and interest, listlessness, and low
+energy levels. Additionally, a set of side symptoms such as insomnia or loss of appetite
+are possible [5]. Genetic predisposition contributes one-third to MDD risk. Environmental
+inﬂuences, including epigenetic mechanisms, account for the remaining two-thirds [97].
+Various factors are involved in the pathogenesis of depression. Chronic stress exposure is a
+well-known cause of MDD. It leads to dysregulations of the HPA-axis with elevated plasma
+cortisol levels [5,97,98]. Subsequently, the body’s internal homeostasis is disrupted [97].
+Moreover, changed CNS neurotransmitter levels are thought to be important contributors
+
+Nutrients 2022, 14, 2661
+30 of 51
+to MDD pathology. Synaptic concentrations of monoamines (serotonin (5-HT), dopamine,
+noradrenaline), and GABA are lower in depressive patients [97,98]. Established pharmaco-
+logical therapies are also targeting these neurotransmitter imbalances [5,97]. In addition,
+reduced neuroplasticity (including BDNF depletion) and chronic inﬂammation processes,
+with pro-inﬂammatory cytokine and microglia involvement, are also associated with MDD
+pathogenesis [97].
+Figure 9. Part 2 of visual representation of the changes in microbiota composition in Parkinson’s
+disease (PD) patients from Table 6. For Figures 8 and 9: The pedigree design highlights the taxonomic
+classiﬁcation of the dysbiotic bacteria. Light green cells stand for an increase and the light red cells
+for a decrease, respectively. Signiﬁcant changes are shown in bold letters (p < 0.05 or LDA values > 2).
+White cells indicate that no changes were reported or, in the case of Lactobacillus, both signiﬁcant
+increases and decreases were found. The last two columns contain additional, non-exhaustive
+information on how the bacteria are thought to impact the pathogenesis. The second last column to
+the right depicts bacterial molecular factors, which may be components of the bacteria or bacterial
+metabolites. Finally, the last column lists possible mechanisms, by which these molecular factors
+may interfere with disease development. The colours summarise factors or mechanisms that are
+repetitive. Bacterial production or involvement in the metabolism of GABA (light blue, [18,20,83,87]),
+
+Nutrients 2022, 14, 2661
+31 of 51
+acetylcholine (emerald colour, [18,20]), noradrenaline (light yellow, [18,20]), and 5-HT (salmon
+colour, [18,20,83]) may lead to an imbalance in central nervous system neurotransmitters (yellow).
+Streptococcus spp. can produce neurotoxins such as streptokinase and streptomycin. These neurotoxins
+might irreversibly damage neurons, including dopaminergic neurons relevant for PD pathogene-
+sis [51]. Roseburia spp. has anti-inﬂammatory properties since they upregulate a row of genes
+involved in the innate immune response (antimicrobial peptides, TLR, intestinal barrier). A reduction
+in Roseburia spp. thereby contributes to an inﬂammatory milieu [83]. Prevotella spp. are potent
+producers of hydrogen sulphide (H2S). H2S can act as a neuroprotective factor, potentially also for
+dopaminergic neurons relevant for PD [51,84]. Certain Escherichia spp. might affect the α-synuclein
+aggregation by synthesising bacterial amyloid proteins (e.g., E. coli and curli amyloid). Bacterial
+amyloid can possibly trigger an immune response and the accumulation of neuronal proteins (α-
+synuclein, amyloid-β, tau) [83]. Gram-negative bacteria’s cell wall containing LPS (light purple) can
+stimulate TLRs located on immune cells (lilac, [21,31]). TLR-mediated immune activation is eventu-
+ally leading to systemic inflammation, BBB disturbance, and neuroinflammation [14,51]. SCFAs
+deriving from bacteria are involved in microglia maturation and activation, BDNF-production,
+tight junction regulation in the gut barrier as well as in the BBB, epigenetic and inflammatory
+processes (light orange, [18,20,26,29,67–69,85–87,92]). If the involvement of the bacterial strain
+in the disease pathogenesis remains elusive, the last two columns are labelled as unknown,
+respectively. 5-HT = serotonin; BBB = blood–brain barrier; BDNF = brain-derived neurotrophic
+factor; GABA = gamma-Aminobutyric acid; GI = gastrointestinal; H2S = hydrogen sulphide;
+LPS = lipopolysaccharide; NE = noradrenaline; PD = Parkinson’s disease; SCFA = short-chain
+fatty acid; TLR = Toll-like receptor.
+Currently, several potential connections between gut microbiota and depression are
+being discussed. Most human studies have been focusing on the composition of microbiota
+in depressive patients. Studies of possible mechanistic pathways are relatively scarce.
+Nevertheless, a few ways of interaction were identiﬁed.
+In general, the taxonomic changes in bacteria were connected to a pro-inﬂammatory
+state, with a reduction in anti-inﬂammatory bacteria (Faecalibacterium, Firmicutes, and
+Subdoligranulum) and an increase in pro-inﬂammatory ones (Alistipes, Bacteroidetes, Eg-
+gerthella, Flavonifractor, and Gammaproteobacteria). These changes go hand in hand with
+metabolite alterations. Within the group of anti-inﬂammatory bacteria, SCFA-producing
+bacteria were reduced (e.g., Faecalibacterium and Prevotella) [99–102]. Accordingly, faecal
+samples of MDD patients contained lower levels of total SCFAs compared to healthy con-
+trols [29]. SCFAs are known to have various interactions with the host’s physiology. In
+the pathophysiology of depression, their inﬂuence ranges from epigenetic mechanisms
+via HDAC inhibition to downregulation of pro-inﬂammatory cytokine production, vagus
+nerve stimulation, microglia maturation, and BDNF production [97,99]. The neurotrophic
+factor BDNF, which stimulates neurogenesis, was found to be reduced in patients with
+MDD [5]. The importance of SCFAs is further supported by different clinical trials, where
+after the intake of probiotics, including SCFA-producing strains, MDD patients experienced
+a reduction in depressive symptoms, and healthy individuals reported improved mood
+and cognition [99].
+Altogether, the above-mentioned factors lead to local inﬂammation, which impairs the
+gut epithelial integrity. This is followed by an increase in systemic inﬂammation [100,102].
+LPS from Gram-negative bacteria could translocate and, via PAMP-activation, stimulate
+microglia cells and cytokine production in depressive patients [97]. In animals, such an
+inﬂammation-associated MDD model could be conﬁrmed. Intravenous LPS injections in
+rats promoted depression-like behaviour [99]. Additionally, in patients with MDD, an
+upregulated genetic pathway for the metabolism of LPS was found [99]. Meta-analyses
+reported elevated cytokine levels in MDD patients, including IL-1β, IL-6, and TNF-α. The
+low-grade systemic inﬂammation can also be seen in elevated levels of C-reactive protein
+(CRP) [51,97,99,100]. Post-mortem studies of depressive patients’ brains found evidence
+for increased microglial activation and neuroinﬂammation [5].
+
+Nutrients 2022, 14, 2661
+32 of 51
+Furthermore, disturbances in gut microbiota are thought to affect the production of
+neurotransmitters, including glutamate and tryptophan metabolism [100]. Changes in
+GABA metabolism and signalling have been associated with an increased risk for depres-
+sion and anxiety. In MMD patients, elevated blood levels of GABA were shown. Addition-
+ally, its precursor glutamate was found in higher abundance in depressive patients [100].
+A depletion in Bacteroides in MDD patients might be a contributing factor to GABA alter-
+ations [100]. In the future, more studies looking into the interplay of neurotransmitters and
+gut bacteria are sought to be performed.
+It has become clear that stress disturbs the gut microbiome. The intraindividual α-
+diversity decreases in individuals frequently exposed to stress. Moreover, the microbiota
+plays a role in the function of the HPA-axis through bacteria metabolites, and stress re-
+sponses can be mediated by certain bacteria strains through the vagus nerve, affecting
+central nervous function [101–103].
+In addition to a shift towards a pro-inﬂammatory composition as described above,
+researchers trying to classify taxonomic changes in depressive patients identiﬁed the fol-
+lowing trends: On the phylum level, Actinobacteria, Bacteroidetes, and Proteobacteria
+were enriched, whereas Firmicutes decreased. Generally, MDD patients marked a decrease
+in Coprococcus, Dialister, Escheria, Faecalibacterium, Prevotellaceae, Ruminococcus, Sutterel-
+laceae, and Veillonellaceae. An increase was found in Actinomycetaceae, Alistipes, Atopium,
+Blautia, Clostridium, Eggerthella, and Paraprevotella. Interestingly, for Biﬁdobacterium, the
+literature was especially heterogeneous, and both increases and decreases have been
+reported [99–104]. Although inconsistent ﬁndings were made, the α-diversity in MDD pa-
+tients is assumingly lower [101,102]. More details on the most common bacterial alterations
+in MDD patients can be found in Table 7 and in Figures 10 and 11.
+Table 7. Bacteria (with taxonomic level) were found in higher (↑) or lower (↓) abundance in patients
+suffering from major depressive disorder (MDD). Arrows of the signiﬁcant results in at least one
+study are represented with a grey background (p < 0.05 or LDA values > 2). “-” in the signiﬁcance
+column indicate that no statements regarding the signiﬁcance of the results were made in the
+corresponding studies. Empty cells mean that no signiﬁcant differences could be identiﬁed. For the
+studies’ demographic characteristics, sample size and mean age were included. Sample size numbers
+are split into females and males for patients and healthy controls. The mean age is given for the
+patient group and the healthy control group, as a further breakdown for the gender groups was not
+consistently provided. The relevant source is shown in bold numbers.
+Bacteria in Major Depressive
+Disorder Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[102],[105]
+Actinomycetaceae (family)
+↑
+-
+-
+-
+[100],[104]
+Alistipes (genus)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[51,100,
+102],[105]
+Atopobium (genus)
+↑
+-
+-
+-
+[99],[100]
+Bacteroides (genus)
+↑
+p = 0.007
+-
+-
+[102],[106]
+Bacteroidetes (phylum)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[101,
+103],[105]
+Biﬁdobacteriaceae (family)
+↑
+p = 0.004
+382 (♀228; ♂154)
+MDD: 165
+Control: 217
+MDD: 45.1
+Control: 36.1
+[102],[107]
+Biﬁdobacterium (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[99,102],[108]
+Biﬁdobacterium (genus)
+↓
+p = 0.012
+100 (♀53; ♂47)
+MDD: 43
+Control: 57
+MDD: 39.4
+Control: 42.8
+[51,100,103,
+104],[109]
+
+Nutrients 2022, 14, 2661
+33 of 51
+Table 7. Cont.
+Bacteria in Major Depressive
+Disorder Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Blautia (genus)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[100],[105]
+Christensenellaceae (family)
+↓
+p = 0.0395
+90 (♀72; ♂18)
+MDD: 43
+Control: 47
+MDD: 21.9
+Control: 22.1
+[102],[110]
+Clostridium (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[100],[108]
+Coprococcus (genus)
+↓
+p = 0.101
+121 (♀76; ♂45)
+MDD: 58
+Control: 63
+MDD: 40.6
+Control: 41.8
+[100,102,
+104],[111]
+Dialister (genus)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[99],[105]
+Eggerthella (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[99],[108]
+Enterobacteriaceae (family)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[51],[105]
+Escherichia (genus)
+↓
+-
+-
+-
+[100],[104]
+Eubacterium (genus)
+↑
+p = 0.065
+121 (♀76; ♂45)
+MDD: 58
+Control: 63
+MDD: 40.6
+Control: 41.8
+[111]
+Eubacterium rectale (species)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[108]
+Faecalibacterium (genus)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[51,99,100,
+102–
+104],[105]
+Firmicutes (phylum)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[101,
+103],[105]
+Flavonifractor (genus)
+↑
+LDA > 2
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[102],[105]
+Lactobacillus (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[108]
+Oscillibacter (genus)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[100],[105]
+Parabacteroides (genus)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[102,105]
+Paraprevotella (genus)
+↑
+p = 0.041
+67 (♀27; ♂40)
+MDD: 34
+Control: 33
+MDD: 45.8
+Control: 45.8
+[100,
+104],[112]
+Prevotella (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[103],[108]
+Prevotellaceae (family)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[100,103,
+104],[105]
+Proteobacteria (phylum)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[103],[105]
+
+Nutrients 2022, 14, 2661
+34 of 51
+Table 7. Cont.
+Bacteria in Major Depressive
+Disorder Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Roseburia (genus)
+↑
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[105],[111]
+Ruminococcaceae (family)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[102],[105]
+Ruminococcus (genus)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[100,103,
+104],[105]
+Streptococcus (genus)
+↑
+p < 0.01
+61 (♀38; ♂23)
+MDD: 31
+Control: 30
+MDD: 41.58
+Control: 39.47
+[102],[108],[111,
+113]
+Sutterella (genus)
+↓
+-
+73 (♀51; ♂22)
+MDD: 36
+Control: 37
+MDD: 45.83
+Control: 41.19
+[102],[113]
+Sutterellaceae (family)
+↓
+-
+-
+-
+[100,
+102],[104]
+Veillonellaceae (family)
+↓
+p < 0.05
+76 (♀34; ♂42)
+MDD: 46
+Control: 30
+MDD: 26.2
+Control: 26.8
+[100,
+104],[105]
+Figure 10. Part 1 of visual representation of the changes in microbiota composition in major depressive
+disorder (MDD) patients from Table 7. For an explanation, see the legend of Part 2 in Figure 11.
+
+Nutrients 2022, 14, 2661
+35 of 51
+4.7. Bipolar Disorder
+Bipolar disorders (BD) are a group of chronic affective disorders and include bipolar
+disorders I and II. BD I can be diagnosed if recurring manic episodes are present, which
+may be alternating with depressive episodes. Manic symptoms should be present for a
+minimum of one week and include reduced need for sleep, general disinhibition, elevated
+mood, logorrhoea, grandiosity, increased conﬁdence, increased energy, and activity. The
+depressive episodes fulﬁl the criteria of a major depressive episode for at least two weeks
+(depressed mood, loss of interest, anhedonia, fatigue). If the diagnostic threshold for a
+manic episode is not reached, the episode is classiﬁed as hypomania. Recurring hypomanic
+episodes with or without depressive episodes deﬁne BD II [6,12]. Typically, BD starts
+around the age of 20 years, and it has a lifetime prevalence of 2.4% [6]. BD often leads to
+disability and impairs patients on a psychosocial level. Overall, BD patients’ life expectancy
+is reduced by up to 10–20 years due to higher suicide rates and comorbidities such as car-
+diovascular diseases [6,12]. Twin studies showed a high heritability in BD of approximately
+70%, and in genome-wide association studies, various genes could be identiﬁed, which are
+thought to contribute to BD pathogenesis with small effect sizes each [6,12]. The pathogen-
+esis of BD remains unknown. Nevertheless, processes such as inﬂammation (elevated IL-6
+levels in BD patients), increased oxidative and nitrosative stress, epigenetic mechanisms,
+monoaminergic signalling, disturbance in neuronal and glial plasticity (including BDNF),
+HPA-dysregulation, and mitochondrial function are associated with the development of
+BD [6,12,114].
+In recent years, possible interactions between BD pathogenesis and the MGBA have
+been identiﬁed. Firstly, some studies observed a reduction in SCFA-producing bacteria in
+BD patients’ microbiota composition. Especially butyrate-producing bacteria, including
+Coproccus, Faecalibacterium, and Roseburia, were found in lower abundance. Butyrate
+is thought to have a crucial impact on brain plasticity because it can stimulate BDNF
+production in the CNS. Lower BDNF levels, in turn, could contribute to BD develop-
+ment [115,116]. Serum levels of BDNF were lower compared to healthy controls during
+depressive episodes [114].
+Secondly, inﬂammation in the periphery and the CNS seems to be connected to BD
+pathogenesis. In BD patients, elevated levels of inﬂammatory markers such as C-reactive
+protein (CRP), IL-1, IL-6, and TNF-α were reported [12,117]. The elevation was further
+accentuated during mood episodes [117,118]. There are multiple factors contributing to
+this pro-inﬂammatory state: microglial activation, leaky gut, and HPA-axis activation
+being three of them [117]. A leaky gut is a result of intestinal inﬂammation deriving from
+pro-inﬂammatory microbiota (e.g., a reduction in Faecalibacterium and Ruminococcaceae).
+As already discussed, the combination of a leaky gut and pro-inﬂammatory bacteria can
+promote systemic and central inﬂammation through bacteria migration, LPS increase, TLR-
+activation, and cytokine release [115–118]. As a result, the BBB permeability increases
+and the inﬂammation can spread to the CNS [115]. Bipolar patients showed higher levels
+of soluble CD14, which is a marker for translocating bacteria in the context of a leaky
+gut [117,118]. Furthermore, changes in the tight junction proteins claudin-5 and zonulin in
+BD patients are an indication of increased intestinal permeability [115]. The inﬂammatory
+cytokines IL-1α, IL-1β, IL-6, and TNF-α, were repeatedly measured in increased amounts
+in BD patients, especially during active mood episodes [115,117,118]. They stimulate the
+HPA-axis and increase microglial activation in the CNS. The latter effects further contribute
+to inﬂammatory processes. Ultimately, the inﬂammation shows effects on cognition and
+behaviour, as it is shown that the inﬂammation mediators may inﬂuence neurotransmitter
+levels (dopamine, noradrenaline, and serotonin) [117].
+
+Nutrients 2022, 14, 2661
+36 of 51
+Figure 11. Part 2 of visual representation of the changes in microbiota composition in major depres-
+sive disorder (MDD) patients from Table 7. For Figures 10 and 11: The pedigree design highlights
+the taxonomic classiﬁcation of the dysbiotic bacteria. Light green cells stand for an increase and the
+light red cells for a decrease, respectively. Signiﬁcant changes are shown in bold letters (p < 0.05 or
+LDA values > 2). White cells indicate that no changes were reported or, in the case of Biﬁdobacterium,
+both signiﬁcant increases and decreases were found. The last two columns contain additional, non-
+exhaustive information on how the bacteria are thought to impact the pathogenesis. The second last
+column to the right depicts bacterial molecular factors, which may be components of the bacteria or
+bacterial metabolites. Finally, the last column lists possible mechanisms by which these molecular fac-
+tors may interfere with disease development. The colours summarise factors or mechanisms that are
+repetitive. Bacterial production or involvement in the metabolism of GABA (light blue, [18,20,100]),
+acetylcholine (emerald colour, [18,20]), phenylalanine (dark orange, [27]), noradrenaline (light yel-
+low, [18,20]), and 5-HT (salmon colour, [18,20]) may lead to an imbalance in central nervous sys-
+tem neurotransmitters (yellow). Eggerthella spp. and Flavonifractor spp. have pro-inﬂammatory
+properties (red) and are linked to inﬂammatory conditions present in MDD (brown) [100]. Addi-
+tionally, Eggerthella spp. are thought to interfere with bile acid signalling pathways because certain
+strains can facilitate the oxidation of bile acids, which eventually leads to disturbances in BDNF
+production. BDNF has been found in lower quantities in MDD patients [99]. Some Streptococcus spp. and
+
+Nutrients 2022, 14, 2661
+37 of 51
+Clostridium spp. strains are potential pathogens (purple) and, therefore, contributors to the in-
+ﬂammation component of MDD pathogenesis (brown) [100]. A reduction in Faecalibacterium spp.,
+known for their anti-inﬂammatory properties (dark green), is also associated with inﬂammatory
+mechanisms in MDD (beige) [100]. Oscillibacter spp. might interfere with GABA signalling through
+their synthesis of valeric acid, which mimics the molecular structure of GABA and can bind to
+GABA receptors [100]. Gram-negative bacteria’s cell wall containing LPS (light purple) can stim-
+ulate TLRs located on immune cells (lilac, [21,31,99]). TLR-mediated immune activation is even-
+tually leading to systemic inﬂammation, BBB disturbance, and neuroinﬂammation [14]. SCFAs
+deriving from bacteria are involved in microglia maturation and activation, BDNF-production,
+tight junction regulation in the gut barrier as well as in the BBB, epigenetic and inﬂammatory
+processes (light orange, [18,20,26,29,67–69,99–102,104]). If the involvement of the bacterial strain
+in the disease pathogenesis remains elusive, the last two columns are labelled as unknown,
+respectively. 5-HT = serotonin; BBB = blood–brain barrier; BDNF = brain-derived neurotrophic factor;
+GABA = gamma-Aminobutyric acid; GI = gastrointestinal; LPS = lipopolysaccharide; MDD = major
+depressive disorder; NE = noradrenaline; SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+Microglia cells are involved in synaptic pruning, deﬁned by processes of synapse
+elimination that occur between early childhood and the onset of puberty. The gut mi-
+crobiota can interfere in this process. Hence, the function of neuronal circuits might be
+changed. In bipolar patients, abnormal neuronal connectivity in the limbic and prefrontal
+cortex could be identiﬁed, which originate from dysfunctional pruning processes during
+development [115].
+Analyses of bipolar patients’ microbiota were performed, trying to map characteristic
+differences in microbial communities. Among the heterogeneous results, some trends could
+be identiﬁed. Most studies agreed on a decrease in α-diversity in comparison to healthy
+controls [116,118]. BD individuals harboured a decreased amount of Faecalibacterium, a
+Gram-positive bacterium showing anti-inﬂammatory properties [118]. Researchers also
+measured an increase in the phyla Actinobacteria and Proteobacteria, the genus Bacteroides,
+as well as a reduction of Coprococcus and Rumicococcaceae [102,115,116,118]. The results can
+be found in Table 8, as well as in Figures 12 and 13.
+Table 8. Bacteria (with taxonomic level) were found in higher (↑) or lower (↓) abundance in patients
+suffering from bipolar disease (BD). Arrows of the signiﬁcant results in at least one study are
+represented with a grey background (p < 0.05 or LDA values > 2). Empty cells mean that no
+signiﬁcant differences could be identiﬁed. For the studies’ demographic characteristics, sample size
+and mean age were included. Sample size numbers are split into females and males for patients
+and healthy controls. The mean age is given for the patient group and the healthy control group, as
+a further breakdown for the gender groups was not consistently provided. The relevant source is
+shown in bold numbers.
+Bacteria in Bipolar Disorder
+Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Actinobacteria (phylum)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[102],[108],[116,
+118]
+Atopobium Cluster (genus)
+↑
+p < 0.001
+63 (♀27; ♂36)
+BD: 36
+Control: 27
+BD: 32.64
+Control: 28.89
+[115,
+116],[119]
+Bacteroides (genus)
+↓
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+Bacteroides (genus)
+↑
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[116],[120]
+
+Nutrients 2022, 14, 2661
+38 of 51
+Table 8. Cont.
+Bacteria in Bipolar Disorder
+Patients
+Increase
+Decrease
+Signiﬁcance
+Sample Size (n)
+Mean Age (Years)
+Source
+Bacteroidetes (phylum)
+↑
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[116],[120]
+Bacteroidetes (phylum)
+↓
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108]
+Biﬁdobacterium (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+Clostridium Cluster IV (genus)
+↑
+p < 0.001
+63 (♀27; ♂36)
+BD: 36
+Control: 27
+BD: 32.64
+Control: 28.89
+[115,
+116],[119]
+Clostridium (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+Coprococcus (genus)
+↓
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[115,
+116],[120]
+Desulfovibrio (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+Enterobacter (genus)
+↑
+p < 0.001
+63 (♀27; ♂36)
+BD: 36
+Control: 27
+BD: 32.64
+Control: 28.89
+[115,
+116],[119]
+Escherichia (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[115,
+116]
+Faecalibacterium (genus)
+↓
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[115–
+118],[120]
+Faecalibacterium prausnitzii
+(species)
+↑
+p = 0.030
+63 (♀27; ♂36)
+BD: 36
+Control: 27
+BD: 32.64
+Control: 28.89
+[115,
+116],[119]
+Firmicutes (phylum)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108]
+Flavonifractor (genus)
+↑
+p < 0.05
+190 (♀117; ♂73)
+BD: 113
+Control: 77
+BD: 31
+Control: 28
+[115,
+116],[121]
+Halomonas (genus)
+↑
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[116],[120]
+Klebsiella (genus)
+↑
+p < 0.05
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[115,
+116]
+Oscillibacter (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+Parabacteroides (genus)
+↑
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[116],[120]
+Prevotella (genus)
+↓
+Not signiﬁcant
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108]
+Proteobacteria (phylum)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[102],[108]
+Roseburia (genus)
+↓
+p < 0.05
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[115,
+116],[120]
+Ruminococcaceae (family)
+↓
+LDA > 2
+97 (♀47; ♂50)
+BD: 52
+Control: 45
+BD: 24.15
+Control: 36.29
+[115–
+118],[120]
+Streptococcus (genus)
+↑
+p < 0.01
+60 (♀31; ♂29)
+BD: 30
+Control: 30
+BD: 38.40
+Control: 39.47
+[108],[116]
+
+Nutrients 2022, 14, 2661
+39 of 51
+Figure 12. Part 1 of visual representation of the changes in microbiota composition in bipolar disorder
+(BD) patients from Table 8. For an explanation, see the legend of Part 2 in Figure 13.
+
+Nutrients 2022, 14, 2661
+40 of 51
+Figure 13. Part 2 of visual representation of the changes in microbiota composition in bipolar
+disorder (BD) patients from Table 8. For Figures 12 and 13: The pedigree design highlights the
+taxonomic classiﬁcation of the dysbiotic bacteria. Light green cells stand for an increase and the
+light red cells for a decrease, respectively. Signiﬁcant changes are shown in bold letters (p < 0.05
+or LDA values > 2). White cells indicate that no changes were reported or, in the case of phylum
+Bacteroidetes and genus Bacteroides, both signiﬁcant increases and decreases were found. The last
+two columns contain additional, non-exhaustive information on how the bacteria are thought to
+impact the pathogenesis. The second last column to the right depicts bacterial molecular factors,
+which may be components of the bacteria or bacterial metabolites. Finally, the last column lists
+possible mechanisms by which these molecular factors may interfere with disease development. The
+colours summarise factors or mechanisms that are repetitive. Bacterial production or involvement
+in the metabolism of GABA (light blue, [18,20]), noradrenaline (light yellow, [18,20]), phenylalanine
+(dark orange, [27]), and 5-HT (salmon colour, [18,20]) may lead to an imbalance in central nervous
+system neurotransmitters (yellow) [100]. A reduction in Faecalibacterium spp., known for their
+anti-inﬂammatory properties (dark green), is associated with inﬂammatory mechanisms in BD
+(beige) [115,116,118]. Flavonifractor spp. can break down the ﬂavonoid quercetin. Flavonoids are
+polyphenols and secondary metabolites of plants. They are known for their anti-inﬂammatory and
+antioxidant effects. The breakdown of quercetin through Flavonifractor could contribute to increasing
+oxidative stress and inﬂammation [115]. Gram-negative bacteria’s cell wall containing LPS (light
+purple) can stimulate TLRs located on immune cells (lilac, [21,31]). TLR-mediated immune activation
+is eventually leading to systemic inflammation, BBB disturbance, and neuroinflammation [14].
+
+Nutrients 2022, 14, 2661
+41 of 51
+SCFAs deriving from bacteria are involved in microglia maturation and activation, BDNF-production,
+tight junction regulation in the gut barrier as well as in the BBB, epigenetic and inﬂammatory pro-
+cesses (light orange, [18,20,26,29,67–69,115,116]). If the involvement of the bacterial strain in the
+disease pathogenesis remains elusive, the last two columns are labelled as unknown, respectively.
+5-HT = serotonin; BBB = blood–brain barrier; BD = bipolar disorder; BDNF = brain-derived neu-
+rotrophic factor; GABA = gamma-Aminobutyric acid; LPS = lipopolysaccharide; NE = noradrenaline;
+SCFA = short-chain fatty acid; TLR = Toll-like receptor.
+5. Discussion
+Numerous studies have been performed on individual diseases trying to link the
+MGBA to the respective pathologies. In this paper, we analysed the characteristic changes
+in colonic bacteria and their metabolites overlapping between the selected neuropsychiatric
+disorders or within a certain patient subgroup. The seven diseases included can be split up
+into the following subgroups: (i) neurodevelopmental disorders (ADHD and ASD), (ii) neu-
+rodegenerative disorders (AD and PD), and (iii) psychiatric disorders (schizophrenia),
+(iv) affective disorders (MDD and BD).
+Dysbiosis was a characteristic of all seven diseases discussed. However, research
+results appear heterogeneous. Quite often, the results of one paper are contradictory to the
+ﬁndings of another. Thus, general statements about pathologic changes in the microbiota
+are difﬁcult to make. In the future, further studies are needed to clarify the controversial
+data. Nevertheless, as summarised in Tables 2–8, some changes seem to be overlapping
+(see Table 9).
+On the phylum level, Actinobacteria are increased in all diseases except AD, where a
+decrease was reported. Anti-inﬂammatory phylum Firmicutes is also decreased in most
+pathologies. For the pro-inﬂammatory phylum Bacteroidetes, the results were heteroge-
+neous, with a trend towards a general increase. Since many classes of bacteria with contrary
+characteristics are subordinated to one phylum, unambiguous results on the phylum level
+are scarce.
+On the genus level, the shift towards a pro-inﬂammatory gut microbiome becomes es-
+pecially clear. Pro-inﬂammatory genera Alistipes, Eggerthella, and Flavonifractor, are generally
+more abundant, whereas anti-inflammatory genera are less present (Bifidobacterium, Coprococcus,
+Eubacterium, Faecalibacterium, Lactobacillus, Prevotella, Roseburia). The anti-inﬂammatory
+species
+Faecalibacterium
+prasunitzii
+and
+Eubacterium
+rectale
+are
+also
+reduced [51,70,71,74,76,99–102,115,117,118].
+Another common pattern among the seven diseases is the involvement of SCFAs. Their
+overall role in (patho)physiology of brain diseases seems to be beneﬁcial, meaning that the
+relative absence of SCFAs contributes to disease development and progression [21,29]. In
+our literature review, SCFA alterations were described as a potential driver for the pathogen-
+esis in all seven diseases. Their mode of interaction is broad and ranges from tight junction
+modulation to anti-inﬂammatory effects, epigenetic mechanisms (HDAC), regulation of
+microglia maturation, and inﬂuence on BDNF and neurotransmitter production [26,68,122].
+The question arises whether some SCFAs have a more pivotal role than others and
+whether certain bacteria alterations can be associated with those SCFA changes. Despite
+often generalised statements regarding SCFA levels, a more detailed breakdown could be
+identiﬁed for most diseases (Table 10). Especially for ADHD, BD, and schizophrenia, the
+available data is sparse, calling for additional future studies to close this information gap.
+
+Nutrients 2022, 14, 2661
+42 of 51
+Table 9. Arrangement of the data collected for the individual disorders, allowing to compare the
+changes in bacteria strains found. The list contains the strains of bacteria along with their taxonomic
+level in brackets, where an overlap could be observed. An increase in abundance is depicted by light
+green cells containing “↑”. Light red cells with “↓” mark a decrease in the corresponding bacteria
+strain. “↑↓” means that data pointing in both directions could be found. The bacterial strains were
+included in this table regardless of the level of signiﬁcance in the original literature. For the sources
+and levels of signiﬁcance, please consult the corresponding bacteria tables in the previous chapters.
+ADHD = attention deﬁcit hyperactivity disorder; ASD = autism spectrum disorder; AD = Alzheimer’s
+disease; PD = Parkinson’s disease; MDD = major depressive disorder; BD = bipolar disorder.
+ADHD
+ASD
+Schizophrenia
+AD
+PD
+MDD
+BD
+Actinobacteria (phylum)
+↑
+↑
+↑
+↓
+↑
+↑
+↑
+Alistipes (genus)
+↑↓
+↑
+↑
+Atopobium (genus)
+↑
+↑
+Bacteroides (genus)
+↑
+↑
+↑
+↑
+↑
+↑↓
+Bacteroidetes (phylum)
+↑↓
+↑
+↓
+↑
+↑↓
+Biﬁdobacteriaceae (family)
+↓
+↑
+↑
+Biﬁdobacterium (genus)
+↑
+↓
+↑↓
+↓
+↑↓
+↑
+Blautia (genus)
+↓
+↑
+Christensenellaceae (family)
+↑
+↓
+Clostridium (genus)
+↑
+↓
+↓
+↑
+↑
+Coprococcus (genus)
+↓
+↓
+↓
+↓
+Desulfovibrio (genus)
+↑
+↑
+Dialister (genus)
+↓
+↓
+↓
+↓
+Eggerthella (genus)
+↑
+↑
+Enterobacteriaceae (family)
+↑
+↑
+Enterococcaceae (family)
+↓
+↓
+Enterococcus (genus)
+↓
+↓
+↑
+Escherichia (genus)
+↑
+↓
+↑
+Escherichia coli (species)
+↓
+↓
+↑
+Eubacterium (genus)
+↓
+↑
+Eubacterium rectale (species)
+↓
+↑
+Faecalibacterium (genus)
+↓
+↑
+↓
+↓
+↓
+Faecalibacterium prausnitzii
+(species)
+↓
+↑
+Firmicutes (phylum)
+↓
+↑↓
+↓
+↓
+↓
+↑
+Flavonifractor (genus)
+↑
+↑
+Lachnospiraceae (family)
+↑↓
+↓
+Lactobacillaceae (family)
+↑
+↑
+Lactobacillus (genus)
+↓
+↑↓
+↑
+↑↓
+↑
+Neisseria (genus)
+↑
+↓
+Oscillibacter (genus)
+↑
+↑
+Parabacteroides (genus)
+↓
+↑↓
+↑
+↑
+Prevotella (genus)
+↓
+↓
+↓
+↑
+↓
+Prevotellaceae (family)
+↑
+↓
+↓
+Proteobacteria (phylum)
+↓
+↑
+↑
+Roseburia (genus)
+↑
+↓
+↑
+↓
+Ruminococcaceae (family)
+↓
+↑
+↓
+↓
+Ruminococcus (genus)
+↑
+↓
+↓
+Streptococcus (genus)
+↓
+↑
+↑
+↑
+Sutterella (genus)
+↑↓
+↓
+↓
+Sutterellaceae (family)
+↑
+↓
+Veillonellaceae (family)
+↑
+↓
+
+Nutrients 2022, 14, 2661
+43 of 51
+Table 10. A compilation of the literature on SCFA level aberrations in the different diseases when
+compared to healthy individuals. “↑” on a light green background symbolises an increase in the
+corresponding SCFA. A light red background with “↓” stands for a decrease, respectively. Cells
+containing “↑↓” imply that the ﬁndings were inconsistent and changes in patients suffering from
+the disease went in both directions. If no literature could be found, the cells remained empty.
+ADHD = attention deﬁcit hyperactivity disorder; ASD = autism spectrum disorder; AD = Alzheimer’s
+disease; PD = Parkinson’s disease; MDD = major depressive disorder; BD = bipolar disorder.
+ADHD
+ASD
+Schizophrenia
+AD
+PD
+MDD
+BD
+↑[3,29,45]
+General SCFA levels
+↓[27]
+↓[29,44,46]
+↑[68]
+↓[71,123]
+↓[29,51,68,124]
+↓[29]
+Butyrate
+↑↓[29]
+↓[29,68,124]
+↓[115,116]
+Acetate
+↑↓[29]
+↑[68]
+↓[125]
+↓[29,68]
+↓[29]
+Valerate
+↑↓[29]
+↓[125]
+Isovaleric Acid
+↑[29]
+↓[125]
+↓[29]
+↑↓[29]
+Propionate
+↑[68]
+↑[68]
+↓[125]
+↓[29,68,124]
+↓[29]
+Isocaproic acid
+↑[29]
+Isobutyric acid
+↑[29]
+SCFAs are mainly produced through the fermentation of carbohydrates such as re-
+sistant starch and dietary ﬁbres. In much smaller amounts, SCFA production might also
+be generated from amino acid fermentation [69]. The level and type of SCFA produced
+highly depend on the daily ﬁbre intake as well as on the bacterial colonisation in the large
+intestine [68]. For acetate production, the bacteria are not highly specialised, and many
+bacteria strains, including Akkermansia muciniphila, Bacteroides spp., Bacteroidetes, Biﬁ-
+dobacterium spp., Lactobacillus spp., Prevotella spp., Ruminococcus spp., and Streptococcus spp.,
+are potent acetate producers [29,67,69]. In contrast, butyrate and propionate, for example,
+can only be produced by a relatively small number of different bacteria [69]. For propi-
+onate synthesis, Akkermansia municiphilla, Bacteroides spp., Bacteroidetes, Dialister spp.,
+Firmicutes, and Veillonella spp., are crucial [67–69]. Anaerostipes, Clostridium butyricum,
+Coprococcus, Eubacterium, Eubacterium hallii, Eubacterium rectale, Faecalibacterium praus-
+nitzii, Firmicutes, Lachnospiraceae, Roseburia spp., and Ruminococcus bromii are important
+players in butyrate production [21,29,67–69].
+Human studies of BD patients revealed lower levels of butyrate, which was consistent
+with the microbiota analysis of reduced butyrate-producing bacteria (Coproccus, Faecal-
+ibacterium, Roseburia) [115,116]. As outlined in Tables 9 and 10, it is tempting to conclude
+that in PD, a deﬁciency in Coprococcus, Faecalibacterium, Lachnospiraceae, and Roseburia
+could be associated with a decrease in butyrate. A reduction of the phylum Firmicutes
+in MDD might be corresponding to the lower levels of acetate in depressive patients. Re-
+duced levels of propionate in MDD patients might be caused by a decrease in Dialister
+and Coprococcus. In AD, reduced amounts of Eubacterium rectale and Faecalibacterium
+prausnitzii could explain lower butyrate levels. Decreased levels of butyrate in ASD could
+be explained by a reduction in butyrate-producing Eubacterium.
+Regarding the disorder subgroups, hardly any clear conclusions can be drawn, except
+that the changes in colon bacteria in MDD and BD are mostly congruent. Since depressive
+episodes are part of the BD, these matching results could be expected and may point to
+a common role of gut microbiota in both pathologies. A comparison between the two
+neurodegenerative diseases, AD and PD, is not quite feasible as the bacteria analysed only
+partly overlap. The same applies to the neurodevelopmental disorders ADHD and ASD.
+When comparing the seven diseases on the level of bacterial metabolites, a general
+decrease in SCFAs can be seen. Only in ASD and schizophrenia does there seems to be
+an increase in overall SCFAs. Because of missing data, it is considerably difﬁcult to make
+a comparison between the disease subgroups. Furthermore, there are certain technical
+limitations to the data. In different studies, SCFA levels were measured in blood serum
+
+Nutrients 2022, 14, 2661
+44 of 51
+or plasma, faeces, or urine, which makes a direct comparison of the ﬁndings harder [29].
+Moreover, faecal SCFA measurements only reﬂect the part of SCFAs that has not been
+absorbed. However, it is the absorbed fraction of SCFAs that holds the biological interaction
+potential with human physiology [26,69]. Additionally, we have seen the large dependence
+of SCFA production on certain bacteria strains. Furthermore, several other confounding
+factors in study design (e.g., age, diet, geography, physical activity, medication) make a
+direct comparison between the studies a challenging task [14,21].
+For other bacterial metabolites such as tyrosine, tryptophan, GABA, or 5-HT, no such
+consistent patterns as in SCFAs could be identiﬁed. Glutamate excess was reported in
+autism spectrum disorder, schizophrenia, and major depressive disorder [44,45,65,66,100].
+Reduced glutamate levels contribute to cognitive impairment in AD [126]. Glutamate
+is known as the main excitatory neurotransmitter in the CNS and acts as a neuroactive
+communication molecule within the MGBA with involvements in memory and learning
+processes, ENS sensitivity, and motility [127]. The exact mechanism, however, by which gut
+bacteria act upon glutamate levels in humans remains unclear. Corynebacterium as well as
+Lactobacillus strains (Lactobacillus paracasei, Lactobacillus plantarum) have been associated
+with glutamate production [126,127]. Glutamate produced by gut bacteria might interfere
+with glutamate signalling in pathologies such as AD [126]. Furthermore, gut bacteria may
+be involved in glutamate modulation. In ASD, lower abundances of Campylobacter jejuni
+strains have been associated with alterations in glutamate metabolism since Campylobacter
+jejuni might activate glutamate synthesis [126].
+Together, the pro-inﬂammatory bacterial shift and decrease in SCFA may lead to a dis-
+ruption of the intestinal immune and metabolic homeostasis and local inﬂammation, which
+can expand throughout the entire body, eventually reaching the brain. First, reduced levels
+of SCFAs and dysbiosis loosen the gut barrier, enabling bacteria to translocate. LPS from
+Gram-negative bacteria gain access to the systemic circulation and activate the immune
+pathway of the MGBA via TLRs [14,18,21,26,29,31]. LPS and their recognition through the
+immune system are involved in all seven diseases. Moreover, higher levels of circulating
+LPS were measured in ASD [44,45], schizophrenia [62], AD [70], and PD [83]. The thereby
+triggered inﬂammation response is manifested in all seven diseases with increased levels
+of pro-inﬂammatory cytokines, such as IL-1, IL-6, and TNF-α. The primarily local inﬂam-
+mation can spread to a systemic level, which can compromise the BBB integrity. Finally,
+the same pro-inﬂammatory molecules can reach the brain and induce neuroinﬂammation
+and neuronal death [18,26,29,43,45,47]. Within this central inﬂammation process, CNS
+microglia cells are important actors. These residing innate immune cells belong to the
+macrophage group and may be activated through different mechanisms [128]. Prevalent
+activating stimuli across the seven diseases of interest are: (i) direct activation through
+LPS–TLR interaction inside the brain (especially TLR4) [128], (ii) activation through pro-
+inﬂammatory cytokines [129], and (iii) facilitated activation and changed maturation due to
+the absence of SCFAs [68,122]. In AD and PD, resting microglia can be activated through an
+additional pathological stimulus. The aberrant proteins amyloid-β in AD and α-synuclein
+in PD are potent inducers of a classical microglial activation [128].
+The seven diseases seem to share a ﬁnal common pathway with excessively active
+microglial cells [130], chronic neuroinﬂammation, and the consequent neuronal death.
+Depending on where in the brain the inﬂammation happens and which cells are affected,
+patients may present different symptoms, affecting mood, cognition, and behaviour. There-
+fore, all the diseases discussed could be summarised as nervous inﬂammatory diseases,
+where the MGBA markedly contributes to the disease development and progression [68].
+Our review has several limitations. The unavailability of raw data did not allow us
+to verify the results ourselves. Furthermore, not all the reviewed research papers were
+of the same quality: Different sample sizes, unbalanced age- and sex-matched sample
+populations, and methodological heterogeneity of analysis and sample collection made it at
+times difﬁcult to directly compare the ﬁndings of the studies. Age [14,15] and sex [131,132]
+are known to inﬂuence the microbiota population. In particular, the effect of sex hormones
+
+Nutrients 2022, 14, 2661
+45 of 51
+on the gut microbiota has been extensively researched in recent years [132]. Although these
+inﬂuences are apparent, some reviewed studies did not fully take them into account by
+either including only one sex or using unmatched controls. In other studies, the groups
+were fully matched for sex and age, but in the analysis, gender-driven differences were not
+further looked into. Therefore, we cannot draw any conclusions on sex-speciﬁc changes in
+relation to the investigated diseases. Other confounding factors which have an inﬂuence
+on the microbiome composition, such as differences in diet and lifestyle behaviour, were
+not respected in all the studies analysed.
+6. Conclusions and Future Prospects
+In this paper, we attempted to outline overlapping colon microbiota features in patients
+suffering from different neurodevelopmental, neuropsychiatric, and neurodegenerative
+diseases (attention deﬁcit hyperactivity disorder, autism spectrum disorder, schizophrenia,
+Alzheimer’s disease, Parkinson’s disease, major depressive disorder, and bipolar disorder).
+We have reported that the microbiota–gut–brain axis contributes to the pathophysiology
+of all these diseases. A consistent feature observed in all seven diseases studied is a shift
+towards an inﬂammatory gut microbiome phenotype containing more pro-inﬂammatory
+and less anti-inﬂammatory bacteria strains. The changes on a more detailed level hardly
+overlap, and results were sometimes contradictory due to confounding factors in the study
+designs. Future standardised studies will be urgently needed to clarify bacterial changes on
+lower taxonomic levels and their exact roles in the pathophysiology of these diseases. This
+will help to establish potential biomarkers for early disease diagnosis. Among the various
+bacterial metabolites, we highlighted the important role of SCFAs in disease pathogenesis.
+SCFAs were decreased in most diseases discussed, which is generally associated with a
+negative effect on the host.
+In conclusion, the pathological hallmark underlying the pathophysiology of all dis-
+cussed diseases is a neuroinﬂammatory process leading to neuronal cell death. The identi-
+ﬁed microbiota-gut-brain-axis interactions, including altered SCFA production, are strongly
+associated with the observed microglia-associated inﬂammation. We, therefore, propose
+that these seven diseases can be subsumed under neuroinﬂammatory diseases.
+In the future, the knowledge about microbiome–brain interactions could be used for
+new treatment approaches. So far, few clinical studies have been performed, experimenting
+with treatment options ranging from faecal microbiota transplant (FMT) to probiotic sup-
+plementation and change of diet. They all have the goal of enhancing useful bacteria strains
+and reducing the number of harmful bacteria, respectively. Further research is needed to
+explore the interdependencies between intestinal microbiota and disease pathogenesis to
+incorporate these novel treatment approaches into clinical practice.
+Author Contributions: Conceptualisation, T.P.E. and M.H.M.; methodology, T.P.E. and M.H.M.;
+validation, M.H.M.; formal analysis, T.P.E. and M.H.M.; investigation, T.P.E.; resources, T.P.E.; data
+curation, T.P.E.; writing—original draft preparation, T.P.E.; writing—review and editing, T.P.E. and
+M.H.M.; visualization, T.P.E.; supervision, M.H.M.; project administration, M.H.M. and T.P.E. All
+authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: We thank David Wolfer for his useful comments and the review of this paper.
+Conﬂicts of Interest: The authors declare there is no conﬂict of interest.
+
+Nutrients 2022, 14, 2661
+46 of 51
+Abbreviations
+5-HT
+serotonin
+AD
+Alzheimer’s disease
+ADHD
+attention deﬁcit hyperactivity disorder
+ADT
+arogenate dehydratase
+ANS
+autonomic nervous system
+APOE
+apolipoprotein E
+APP
+amyloid precursor protein
+ASD
+autism spectrum disorder
+Aβ
+amyloid-beta
+BBB
+blood–brain barrier
+BD
+bipolar disorder
+BDNF
+brain-derived neurotrophic factor
+CNS
+central nervous system
+CREB
+cAMP response element-binding protein
+CRP
+C-reactive protein
+DA
+dopamine
+EEC
+enteroendocrine cell
+ENS
+enteric nervous system
+FMT
+faecal microbiota transplant
+GABA
+gamma-Aminobutyric acid
+GF
+germ-free
+GFAP
+glial ﬁbrillary acidic protein
+GI
+gastrointestinal
+GLP1
+glucagon-like peptide-1
+GOGAT
+oxoglutarate aminotransferase
+GPCR
+G-protein-coupled receptor
+HDAC
+histone deacetylase
+HPA-axis
+hypothalamic-pituitary-adrenal axis
+HPHPA
+3-(3-hydroxyphenyl)-3-hydroxypropionic acid
+IFN-γ
+Interferon gamma
+IL
+interleukin
+LBP
+lipopolysaccharide binding protein
+LDA
+linear discriminant analysis
+LPS
+lipopolysaccharide
+MDD
+major depressive disorder
+MGBA
+Microbiota–Gut–Brain Axis
+NE
+noradrenaline
+NFTs
+neuroﬁbrillary tangles
+PAMP
+pathogen-associated molecular pattern
+p-cresol
+para-cresol
+PD
+Parkinson’s Disease
+PET
+positron emission tomography
+PYY
+peptide YY
+REM-sleep
+rapid eye movement sleep
+sAD
+sporadic Alzheimer’s disease
+sCD14
+soluble cluster of differentiation 14
+SCFA
+short-chain fatty acid
+SCZ
+schizophrenia
+TGF-β
+transforming growth factor beta
+TLR
+Toll-like receptor
+TNF-α
+tumour necrosis factor alpha
+
+Nutrients 2022, 14, 2661
+47 of 51
+References
+1.
+Banaschewski, T.; Becker, K.; Döpfner, M.; Holtmann, M.; Rösler, M.; Romanos, M. Attention-Deﬁcit/Hyperactivity Disorder.
+Dtsch. Arztebl. Int. 2017, 114, 149–159. [CrossRef] [PubMed]
+2.
+Polanczyk, G. The Worldwide Prevalence of ADHD: A Systematic Review and Metaregression Analysis. Am. J. Psychiatry 2007,
+164, 942. [CrossRef] [PubMed]
+3.
+Hughes, H.K.; Rose, D.; Ashwood, P. The Gut Microbiota and Dysbiosis in Autism Spectrum Disorders. Curr. Neurol. Neurosci. Rep.
+2018, 18, 81. [CrossRef] [PubMed]
+4.
+Lord, C.; Elsabbagh, M.; Baird, G.; Veenstra-Vanderweele, J. Autism spectrum disorder. Lancet 2018, 392, 508–520. [CrossRef]
+5.
+Malhi, G.S.; Mann, J.J. Depression. Lancet 2018, 392, 2299–2312. [CrossRef]
+6.
+Carvalho, A.F.; Firth, J.; Vieta, E. Bipolar Disorder. N. Engl. J. Med. 2020, 383, 58–66. [CrossRef]
+7.
+Grøntvedt, G.R.; Schroder, T.N.; Sando, S.B.; White, L.; Brathen, G.; Doeller, C.F. Alzheimer’s disease. Curr. Biol. 2018, 28,
+R645–R649. [CrossRef]
+8.
+Lane, C.A.; Hardy, J.; Schott, J.M. Alzheimer’s disease. Eur. J. Neurol. 2018, 25, 59–70. [CrossRef]
+9.
+Raza, C.; Anjum, R.; Shakeel, N.U.A. Parkinson’s disease: Mechanisms, translational models and management strategies. Life Sci.
+2019, 226, 77–90. [CrossRef]
+10.
+Simon, D.K.; Tanner, C.M.; Brundin, P. Parkinson Disease Epidemiology, Pathology, Genetics, and Pathophysiology.
+Clin. Geriatr. Med. 2019, 36, 1–12. [CrossRef]
+11.
+McCutcheon, R.A.; Reis Marques, T.; Howes, O.D. Schizophrenia-An Overview. JAMA Psychiatry 2020, 77, 201–210. [CrossRef]
+[PubMed]
+12.
+McIntyre, R.S.; Berk, M.; Brietzke, E.; Goldstein, B.I.; López-Jaramillo, C.; Kessing, L.V.; Malhi, G.S.; Nierenberg, A.A.; Rosenblat,
+J.D.; Majeed, A.; et al. Bipolar disorders. Lancet 2020, 396, 1841–1856. [CrossRef]
+13.
+Rieder, R.; Wisniewski, P.J.; Alderman, B.L.; Campbell, S.C. Microbes and mental health: A review. Brain Behav. Immun. 2017, 66,
+9–17. [CrossRef] [PubMed]
+14.
+Morais, L.H.; Schreiber, H.L.; Mazmanian, S.K. The gut microbiota–brain axis in behaviour and brain disorders. Nat. Rev. Microbiol.
+2021, 19, 241–255. [CrossRef] [PubMed]
+15.
+Quigley, E.M.M. Microbiota-Brain-Gut Axis and Neurodegenerative Diseases. Curr. Neurol. Neurosci. Rep. 2017, 17, 94. [CrossRef]
+16.
+Thursby, E.; Juge, N. Introduction to the human gut microbiota. Biochem. J. 2017, 474, 1823–1836. [CrossRef]
+17.
+Sidhu, M.; van der Poorten, D. The gut microbiome. Aust. Fam. Physician 2017, 46, 206–211.
+18.
+Cenit, M.C.; Nuevo, I.C.; Codoñer-Franch, P.; Dinan, T.G.; Sanz, Y. Gut microbiota and attention deﬁcit hyperactivity disorder:
+New perspectives for a challenging condition. Eur. Child Adolesc. Psychiatry 2017, 26, 1081–1092. [CrossRef]
+19.
+Capuco, A.; Urits, I.; Hasoon, J.; Chun, R.; Gerald, B.; Wang, J.K.; Kassem, H.; Ngo, A.L.; Abd-Elsayed, A.; Simopoulos, T.; et al.
+Current Perspectives on Gut Microbiome Dysbiosis and Depression. Adv. Ther. 2020, 37, 1328–1346. [CrossRef]
+20.
+Dinan, T.G.; Cryan, J.F. The Microbiome-Gut-Brain Axis in Health and Disease. Gastroenterol. Clin. N. Am. 2017, 46, 77–89.
+[CrossRef]
+21.
+Cryan, J.F.; O’Riordan, K.J.; Cowan, C.S.; Sandhu, K.V.; Bastiaanssen, T.F.; Boehme, M.; Codagnone, M.G.; Cussotto, S.; Fulling, C.;
+Golubeva, A.V.; et al. The Microbiota-Gut-Brain Axis. Physiol. Rev. 2019, 99, 1877–2013. [CrossRef] [PubMed]
+22.
+Costea, P.I.; Hildebrand, F.; Arumugam, M.; Bäckhed, F.; Blaser, M.J.; Bushman, F.D.; De Vos, W.M.; Ehrlich, S.D.; Fraser, C.M.;
+Hattori, M.; et al. Enterotypes in the landscape of gut microbial community composition. Nat. Microbiol. 2017, 3, 8–16. [CrossRef]
+[PubMed]
+23.
+Hills, R.D., Jr.; Pontefract, B.A.; Mishcon, H.R.; Black, C.A.; Sutton, S.C.; Theberge, C.R. Gut Microbiome: Profound Implications
+for Diet and Disease. Nutrients 2019, 11, 1613. [CrossRef] [PubMed]
+24.
+Kim, Y.K.; Shin, C. The Microbiota-Gut-Brain Axis in Neuropsychiatric Disorders: Pathophysiological Mechanisms and Novel
+Treatments. Curr. Neuropharmacol. 2018, 16, 559–573. [CrossRef] [PubMed]
+25.
+Iannone, L.F.; Preda, A.; Blottière, H.M.; Clarke, G.; Albani, D.; Belcastro, V.; Carotenuto, M.; Cattaneo, A.; Citraro, R.;
+Ferraris, C.; et al. Microbiota-gut brain axis involvement in neuropsychiatric disorders. Expert Rev. Neurother. 2019, 19, 1037–1050.
+[CrossRef]
+26.
+Dalile, B.; Van Oudenhove, L.; Vervliet, B.; Verbeke, K. The role of short-chain fatty acids in microbiota-gut-brain communication.
+Nat. Rev. Gastroenterol. Hepatol. 2019, 16, 461–478. [CrossRef]
+27.
+Bull-Larsen, S.; Mohajeri, M.H. The Potential Inﬂuence of the Bacterial Microbiome on the Development and Progression of
+ADHD. Nutrients 2019, 11, 2805. [CrossRef]
+28.
+Boonchooduang, N.; Louthrenoo, O.; Chattipakorn, N.; Chattipakorn, S.C. Possible links between gut–microbiota and attention-
+deﬁcit/hyperactivity disorders in children and adolescents. Eur. J. Nutr. 2020, 59, 3391–3403. [CrossRef]
+29.
+Tran, S.M.-S.; Mohajeri, M.H. The Role of Gut Bacterial Metabolites in Brain Development, Aging and Disease. Nutrients 2021,
+13, 732. [CrossRef]
+30.
+Aarts, E.; Ederveen, T.; Naaijen, J.; Zwiers, M.P.; Boekhorst, J.; Timmerman, H.M.; Smeekens, S.P.; Netea, M.G.; Buitelaar,
+J.K.; Franke, B.; et al. Gut microbiome in ADHD and its relation to neural reward anticipation. PLoS ONE 2017, 12, e0183509.
+[CrossRef]
+31.
+Yoo, J.Y.; Groer, M.; Dutra, S.V.O.; Sarkar, A.; McSkimming, D.I. Gut Microbiota and Immune System Interactions. Microorganisms
+2020, 8, 2046. [CrossRef] [PubMed]
+
+Nutrients 2022, 14, 2661
+48 of 51
+32.
+Liddle, R.A. Parkinson’s disease from the gut. Brain Res. 2018, 1693 Pt B, 201–206. [CrossRef]
+33.
+Bundgaard-Nielsen, C.; Knudsen, J.; Leutscher, P.D.C.; Lauritsen, M.B.; Nyegaard, M.; Hagstrøm, S.; Sørensen, S. Gut microbiota
+proﬁles of autism spectrum disorder and attention deﬁcit/hyperactivity disorder: A systematic literature review. Gut Microbes
+2020, 11, 1172–1187. [CrossRef] [PubMed]
+34.
+Posner, J.; Polanczyk, G.V.; Sonuga-Barke, E. Attention-deﬁcit hyperactivity disorder. Lancet 2020, 395, 450–462. [CrossRef]
+35.
+Sharma, A.; Couture, J. A review of the pathophysiology, etiology, and treatment of attention-deﬁcit hyperactivity disorder
+(ADHD). Ann. Pharmacother. 2014, 48, 209–225. [CrossRef]
+36.
+Dam, S.A.; Mostert, J.C.; Szopinska-Tokov, J.W.; Bloemendaal, M.; Amato, M.; Arias-Vasquez, A. The Role of the Gut-Brain Axis
+in Attention-Deﬁcit/Hyperactivity Disorder. Gastroenterol. Clin. N. Am. 2019, 48, 407–431. [CrossRef]
+37.
+Drechsler, R.; Brem, S.; Brandeis, D.; Grünblatt, E.; Berger, G.; Walitza, S. ADHD: Current Concepts and Treatments in Children
+and Adolescents. Neuropediatrics 2020, 51, 315–335. [CrossRef]
+38.
+Prehn-Kristensen, A.; Zimmermann, A.; Tittmann, L.; Lieb, W.; Schreiber, S.; Baving, L.; Fischer, A. Reduced microbiome alpha
+diversity in young patients with ADHD. PLoS ONE 2018, 13, e0200728. [CrossRef]
+39.
+Wang, L.-J.; Yang, C.-Y.; Chou, W.-J.; Lee, M.-J.; Chou, M.-C.; Kuo, H.-C.; Yeh, Y.-M.; Lee, S.-Y.; Huang, L.-H.; Li, S.-C. Gut
+microbiota and dietary patterns in children with attention-deﬁcit/hyperactivity disorder. Eur. Child Adolesc. Psychiatry 2020, 29,
+287–297. [CrossRef]
+40.
+Jiang, H.-Y.; Zhou, Y.-Y.; Zhou, G.-L.; Li, Y.-C.; Yuan, J.; Li, X.-H.; Ruan, B. Gut microbiota proﬁles in treatment-naïve children
+with attention deﬁcit hyperactivity disorder. Behav. Brain Res. 2018, 347, 408–413. [CrossRef]
+41.
+Masi, A.; DeMayo, M.M.; Glozier, N.; Guastella, A.J. An Overview of Autism Spectrum Disorder, Heterogeneity and Treatment
+Options. Neurosci. Bull. 2017, 33, 183–193. [CrossRef] [PubMed]
+42.
+Sharma, S.R.; Gonda, X.; Tarazi, F.I. Autism Spectrum Disorder: Classiﬁcation, diagnosis and therapy. J. Pharmacol. Ther. 2018,
+190, 91–104. [CrossRef] [PubMed]
+43.
+Vuong, H.E.; Hsiao, E.Y. Emerging Roles for the Gut Microbiome in Autism Spectrum Disorder. Biol. Psychiatry 2017, 81, 411–423.
+[CrossRef] [PubMed]
+44.
+Srikantha, P.; Mohajeri, M.H. The Possible Role of the Microbiota-Gut-Brain-Axis in Autism Spectrum Disorder. Int. J. Mol. Sci.
+2019, 20, 2115. [CrossRef] [PubMed]
+45.
+Settanni, C.R.; Bibbò, S.; Ianiro, G.; Rinninella, E.; Cintoni, M.; Mele, M.C.; Cammarota, G.; Gasbarrini, A. Gastrointestinal
+involvement of autism spectrum disorder: Focus on gut microbiota. Expert Rev. Gastroenterol. Hepatol. 2021, 15, 599–622.
+[CrossRef]
+46.
+Peralta-Marzal, L.N.; Prince, N.; Bajic, D.; Roussin, L.; Naudon, L.; Rabot, S.; Garssen, J.; Kraneveld, A.D.; Perez-Pardo, P. The
+Impact of Gut Microbiota-Derived Metabolites in Autism Spectrum Disorders. Int. J. Mol. Sci. 2021, 22, 10052. [CrossRef]
+47.
+Pulikkan, J.; Mazumder, A.; Grace, T. Role of the Gut Microbiome in Autism Spectrum Disorders. Adv. Exp. Med. Biol. 2019, 1118,
+253–269. [CrossRef]
+48.
+Iglesias-Vázquez, L.; Riba, G.V.G.; Arija, V.; Canals, J. Composition of Gut Microbiota in Children with Autism Spectrum Disorder:
+A Systematic Review and Meta-Analysis. Nutrients 2020, 12, 792. [CrossRef]
+49.
+Strati, F.; Cavalieri, D.; Albanese, D.; De Felice, C.; Donati, C.; Hayek, J.; Jousson, O.; Leoncini, S.; Renzi, D.; Calabrò, A.; et al.
+New evidences on the altered gut microbiota in autism spectrum disorders. Microbiome 2017, 5, 24. [CrossRef]
+50.
+De Angelis, M.; Piccolo, M.; Vannini, L.; Siragusa, S.; De Giacomo, A.; Serrazzanetti, D.I.; Cristofori, F.; Guerzoni, M.E.; Gobbetti,
+M.; Francavilla, R. Fecal Microbiota and Metabolome of Children with Autism and Pervasive Developmental Disorder Not
+Otherwise Speciﬁed. PLoS ONE 2013, 8, e76993. [CrossRef]
+51.
+Sun, M.-F.; Shen, Y.-Q. Dysbiosis of gut microbiota and microbial metabolites in Parkinson’s Disease. Ageing Res. Rev. 2018, 45,
+53–61. [CrossRef] [PubMed]
+52.
+Finegold, S.M.; Dowd, S.E.; Gontcharova, V.; Liu, C.; Henley, K.E.; Wolcott, R.D.; Youn, E.; Summanen, P.H.; Granpeesheh, D.;
+Dixon, D.; et al. Pyrosequencing study of fecal microﬂora of autistic and control children. Anaerobe 2010, 16, 444–453. [CrossRef]
+[PubMed]
+53.
+Kushak, R.I.; Winter, H.S.; Buie, T.M.; Cox, S.B.; Phillips, C.; Ward, N.L. Analysis of the Duodenal Microbiome in Autistic
+Individuals: Association with Carbohydrate Digestion. J. Pediatr. Gastroenterol. Nutr. 2017, 64, e110–e116. [CrossRef] [PubMed]
+54.
+Song, Y.; Liu, C.; Finegold, S.M. Real-Time PCR Quantitation of Clostridia in Feces of Autistic Children. Appl. Environ. Microbiol.
+2004, 70, 6459–6465. [CrossRef] [PubMed]
+55.
+Finegold, S.M.; Summanen, P.H.; Downes, J.; Corbett, K.; Komoriya, T. Detection of Clostridium perfringens toxin genes in the gut
+microbiota of autistic children. Anaerobe 2017, 45, 133–137. [CrossRef] [PubMed]
+56.
+Pulikkan, J.; Maji, A.; Dhakan, D.B.; Saxena, R.; Mohan, B.; Anto, M.M.; Agarwal, N.; Grace, T.; Sharma, V.K. Gut Microbial
+Dysbiosis in Indian Children with Autism Spectrum Disorders. Microb. Ecol. 2018, 76, 1102–1114. [CrossRef]
+57.
+Liu, S.; Li, E.; Sun, Z.; Fu, D.; Duan, G.; Jiang, M.; Yu, Y.; Mei, L.; Yang, P.; Tang, Y.; et al. Altered gut microbiota and short chain
+fatty acids in Chinese children with autism spectrum disorder. Sci. Rep. 2019, 9, 287. [CrossRef]
+58.
+Kang, D.-W.; Park, J.G.; Ilhan, Z.E.; Wallstrom, G.; LaBaer, J.; Adams, J.B.; Krajmalnik-Brown, R. Reduced Incidence of Prevotella
+and Other Fermenters in Intestinal Microﬂora of Autistic Children. PLoS ONE 2013, 8, e68322. [CrossRef]
+59.
+Wang, L.; Christophersen, C.T.; Sorich, M.J.; Gerber, J.P.; Angley, M.T.; Conlon, M.A. Increased abundance of Sutterella spp. and
+Ruminococcus torques in feces of children with autism spectrum disorder. Mol. Autism 2013, 4, 42. [CrossRef]
+
+Nutrients 2022, 14, 2661
+49 of 51
+60.
+Marder, S.R.; Cannon, T.D. Schizophrenia. N. Engl. J. Med. 2019, 381, 1753–1761. [CrossRef]
+61.
+Rodrigues-Amorim, D.; Rivera-Baltanás, T.; Regueiro, B.; Spuch, C.; Heras, M.E.D.L.; Méndez, R.V.-N.; Nieto-Araujo, M.; Barreiro-
+Villar, C.; Olivares, J.M.; Agís-Balboa, R.C. The role of the gut microbiota in schizophrenia: Current and future perspectives.
+World J. Biol. Psychiatry 2018, 19, 571–585. [CrossRef] [PubMed]
+62.
+Yuan, X.; Kang, Y.; Zhuo, C.; Huang, X.-F.; Song, X. The gut microbiota promotes the pathogenesis of schizophrenia via multiple
+pathways. Biochem. Biophys. Res. Commun. 2019, 512, 373–380. [CrossRef] [PubMed]
+63.
+Kelly, J.R.; Minuto, C.; Cryan, J.F.; Clarke, G.; Dinan, T.G. The role of the gut microbiome in the development of schizophrenia.
+Schizophr. Res. 2021, 234, 4–23. [CrossRef] [PubMed]
+64.
+Nguyen, T.T.; Kosciolek, T.; Maldonado, Y.; Daly, R.E.; Martin, A.S.; McDonald, D.; Knight, R.; Jeste, D.V. Differences in gut
+microbiome composition between persons with chronic schizophrenia and healthy comparison subjects. Schizophr. Res. 2019, 204,
+23–29. [CrossRef]
+65.
+Xu, R.; Wu, B.; Liang, J.; He, F.; Gu, W.; Li, K.; Luo, Y.; Chen, J.; Gao, Y.; Wu, Z.; et al. Altered gut microbiota and mucosal
+immunity in patients with schizophrenia. Brain Behav. Immun. 2020, 85, 120–127. [CrossRef]
+66.
+Zhu, F.; Ju, Y.; Wang, W.; Wang, Q.; Guo, R.; Ma, Q.; Sun, Q.; Fan, Y.; Xie, Y.; Yang, Z.; et al. Metagenome-wide association of gut
+microbiome features for schizophrenia. Nat. Commun. 2020, 11, 1612. [CrossRef]
+67.
+Feng, W.; Ao, H.; Peng, C. Gut Microbiota, Short-Chain Fatty Acids, and Herbal Medicines. Front Pharmacol. 2018, 9, 1354.
+[CrossRef]
+68.
+Mirzaei, R.; Bouzari, B.; Hosseini-Fard, S.R.; Mazaheri, M.; Ahmadyouseﬁ, Y.; Abdi, M.; Jalalifar, S.; Karimitabar, Z.; Teimoori, A.;
+Keyvani, H.; et al. Role of microbiota-derived short-chain fatty acids in nervous system disorders. Biomed. Pharmacother. 2021,
+139, 111661. [CrossRef]
+69.
+Morrison, D.J.; Preston, T. Formation of short chain fatty acids by the gut microbiota and their impact on human metabolism. Gut
+Microbes 2016, 7, 189–200. [CrossRef]
+70.
+Jiang, C.; Li, G.; Huang, P.; Liu, Z.; Bin Zhao, B. The Gut Microbiota and Alzheimer’s Disease. J. Alzheimer’s Dis. 2017, 58, 1–15.
+[CrossRef]
+71.
+Sochocka, M.; Donskow-Łysoniewska, K.; Diniz, B.S.; Kurpas, D.; Brzozowska, E.; Leszek, J. The Gut Microbiome Alterations and
+Inﬂammation-Driven Pathogenesis of Alzheimer’s Disease—A Critical Review. Mol. Neurobiol. 2019, 56, 1841–1851. [CrossRef]
+[PubMed]
+72.
+Bostanciklio˘glu, M. The role of gut microbiota in pathogenesis of Alzheimer’s disease. J. Appl. Microbiol. 2019, 127, 954–967.
+[CrossRef] [PubMed]
+73.
+De la Fuente, M. The Role of the Microbiota-Gut-Brain Axis in the Health and Illness Condition: A Focus on Alzheimer’s Disease.
+J. Alzheimers Dis. 2021, 81, 1345–1360. [CrossRef]
+74.
+Kesika, P.; Suganthy, N.; Sivamaruthi, B.S.; Chaiyasut, C. Role of gut-brain axis, gut microbial composition, and probiotic
+intervention in Alzheimer’s disease. Life Sci. 2021, 264, 118627. [CrossRef]
+75.
+Leblhuber, F.; Ehrlich, D.; Steiner, K.; Geisler, S.; Fuchs, D.; Lanser, L.; Kurz, K. The Immunopathogenesis of Alzheimer’s Disease
+Is Related to the Composition of Gut Microbiota. Nutrients 2021, 13, 361. [CrossRef]
+76.
+Megur, A.; Baltriukien˙e, D.; Bukelskien˙e, V.; Burokas, A. The Microbiota-Gut-Brain Axis and Alzheimer’s Disease: Neuroinﬂam-
+mation Is to Blame? Nutrients 2020, 13, 37. [CrossRef] [PubMed]
+77.
+Liu, S.; Gao, J.; Zhu, M.; Liu, K.; Zhang, H.-L. Gut Microbiota and Dysbiosis in Alzheimer’s Disease: Implications for Pathogenesis
+and Treatment. Mol. Neurobiol. 2020, 57, 5026–5043. [CrossRef]
+78.
+Benakis, C.; Martin-Gallausiaux, C.; Trezzi, J.-P.; Melton, P.; Liesz, A.; Wilmes, P. The microbiome-gut-brain axis in acute and
+chronic brain diseases. Curr. Opin. Neurobiol. 2020, 61, 1–9. [CrossRef]
+79.
+Vogt, N.M.; Kerby, R.L.; Dill-McFarland, K.A.; Harding, S.J.; Merluzzi, A.P.; Johnson, S.C.; Carlsson, C.M.; Asthana, S.; Zetterberg,
+H.; Blennow, K.; et al. Gut microbiome alterations in Alzheimer’s disease. Sci. Rep. 2017, 7, 13537. [CrossRef]
+80.
+Gerhardt, S.; Mohajeri, M.H. Changes of Colonic Bacterial Composition in Parkinson’s Disease and Other Neurodegenerative
+Diseases. Nutrients 2018, 10, 708. [CrossRef]
+81.
+Cattaneo, A.; Cattane, N.; Galluzzi, S.; Provasi, S.; Lopizzo, N.; Festari, C.; Ferrari, C.; Guerra, U.P.; Paghera, B.; Muscio, C.; et al.
+Association of brain amyloidosis with pro-inﬂammatory gut bacterial taxa and peripheral inﬂammation markers in cognitively
+impaired elderly. Neurobiol. Aging 2017, 49, 60–68. [CrossRef] [PubMed]
+82.
+Reich, S.G.; Savitt, J.M. Parkinson’s Disease. Med. Clin. N. Am. 2019, 103, 337–350. [CrossRef]
+83.
+Wang, Q.; Luo, Y.; Chaudhuri, K.R.; Reynolds, R.; Tan, E.-K.; Pettersson, S. The role of gut dysbiosis in Parkinson’s disease:
+Mechanistic insights and therapeutic options. Brain 2021, 144, 2571–2593. [CrossRef] [PubMed]
+84.
+Zheng, S.-Y.; Li, H.-X.; Xu, R.-C.; Miao, W.-T.; Dai, M.-Y.; Ding, S.-T.; Liu, H.-D. Potential roles of gut microbiota and microbial
+metabolites in Parkinson’s disease. Ageing Res. Rev. 2021, 69, 101347. [CrossRef]
+85.
+Rani, L.; Mondal, A.C. Unravelling the role of gut microbiota in Parkinson’s disease progression: Pathogenic and therapeutic
+implications. Neurosci. Res. 2021, 168, 100–112. [CrossRef]
+86.
+Menozzi, E.; Macnaughtan, J.; Schapira, A.H.V. The gut-brain axis and Parkinson disease: Clinical and pathogenetic relevance.
+Ann. Med. 2021, 53, 611–625. [CrossRef] [PubMed]
+
+Nutrients 2022, 14, 2661
+50 of 51
+87.
+Kaur, G.; Behl, T.; Bungau, S.; Kumar, A.; Uddin, M.S.; Mehta, V.; Zengin, G.; Mathew, B.; Shah, M.A.; Arora, S. Dysregula-
+tion of the Gut-Brain Axis, Dysbiosis and Inﬂuence of Numerous Factors on Gut Microbiota Associated Parkinson’s Disease.
+Curr. Neuropharmacol. 2021, 19, 233–247. [CrossRef]
+88.
+Gallop, A.; Weagley, J.; Paracha, S.-U.; Grossberg, G. The Role of The Gut Microbiome in Parkinson’s Disease. J. Geriatr. Psychiatry
+Neurol. 2021, 34, 253–262. [CrossRef]
+89.
+Li, W.; Wu, X.; Hu, X.; Wang, T.; Liang, S.; Duan, Y.; Jin, F.; Qin, B. Structural changes of gut microbiota in Parkinson’s disease and
+its correlation with clinical features. Sci. China Life Sci. 2017, 60, 1223–1233. [CrossRef]
+90.
+Hill-Burns, E.M.; Debelius, J.W.; Morton, J.T.; Wissemann, W.T.; Lewis, M.R.; Wallen, Z.D.; Peddada, S.D.; Factor, S.A.; Molho, E.;
+Zabetian, C.P.; et al. Parkinson’s disease and Parkinson’s disease medications have distinct signatures of the gut microbiome.
+Mov. Disord. 2017, 32, 739–749. [CrossRef]
+91.
+Qian, Y.; Yang, X.; Xu, S.; Wu, C.; Song, Y.; Qin, N.; Chen, S.-D.; Xiao, Q. Alteration of the fecal microbiota in Chinese patients
+with Parkinson’s disease. Brain Behav. Immun. 2018, 70, 194–202. [CrossRef] [PubMed]
+92.
+Keshavarzian, A.; Green, S.J.; Engen, P.A.; Voigt, R.M.; Naqib, A.; Forsyth, C.B.; Mutlu, E.; Shannon, K.M. Colonic bacterial
+composition in Parkinson’s disease. Mov. Disord. 2015, 30, 1351–1360. [CrossRef] [PubMed]
+93.
+Unger, M.M.; Spiegel, J.; Dillmann, K.U.; Grundmann, D.; Philippeit, H.; Bürmann, J.; Faßbender, K.; Schwiertz, A.; Schäfer,
+K.H. Short chain fatty acids and gut microbiota differ between patients with Parkinson’s disease and age-matched controls.
+Parkinsonism Relat. Disord. 2016, 32, 66–72. [CrossRef]
+94.
+Hasegawa, S.; Goto, S.; Tsuji, H.; Okuno, T.; Asahara, T.; Nomoto, K.; Shibata, A.; Fujisawa, Y.; Minato, T.; Okamoto, A.; et al.
+Intestinal Dysbiosis and Lowered Serum Lipopolysaccharide-Binding Protein in Parkinson’s Disease. PLoS ONE 2015, 10, e0142164.
+[CrossRef]
+95.
+Li, F.; Wang, P.; Chen, Z.; Sui, X.; Xie, X.; Zhang, J. Alteration of the fecal microbiota in North-Eastern Han Chinese population
+with sporadic Parkinson’s disease. Neurosci. Lett. 2019, 707, 134297. [CrossRef] [PubMed]
+96.
+World Health Organization. Depression and Other Common Mental Disorders: Global Health Estimates; World Health Organization:
+Geneva, Switzerland, 2017.
+97.
+Athira, K.V.; Bandopadhyay, S.; Samudrala, P.K.; Naidu, V.; Lahkar, M.; Chakravarty, S. An Overview of the Heterogeneity of
+Major Depressive Disorder: Current Knowledge and Future Prospective. Curr. Neuropharmacol. 2020, 18, 168–187. [CrossRef]
+[PubMed]
+98.
+Boku, S.; Nakagawa, S.; Toda, H.; Hishimoto, A. Neural basis of major depressive disorder: Beyond monoamine hypothesis.
+Psychiatry Clin. Neurosci. 2017, 72, 3–12. [CrossRef] [PubMed]
+99.
+Knudsen, J.K.; Bundgaard-Nielsen, C.; Hjerrild, S.; Nielsen, R.E.; Leutscher, P.; Sørensen, S. Gut microbiota variations in patients
+diagnosed with major depressive disorder—A systematic review. Brain Behav. 2021, 11, e02177. [CrossRef]
+100. Łoniewski, I.; Misera, A.; Skonieczna- ˙Zydecka, K.; Kaczmarczyk, M.; Ka´zmierczak-Siedlecka, K.; Misiak, B.; Marlicz, W.;
+Samochowiec, J. Major Depressive Disorder and gut microbiota—Association not causation. A scoping review. Prog. Neuro-
+Psychopharmacol. Biol. Psychiatry 2021, 106, 110111. [CrossRef]
+101. Bastiaanssen, T.F.S.; Cussotto, S.; Claesson, M.; Clarke, G.; Dinan, T.G.; Cryan, J.F. Gutted! Unraveling the Role of the Microbiome
+in Major Depressive Disorder. Harv. Rev. Psychiatry 2020, 28, 26–39. [CrossRef]
+102. Knuesel, T.; Mohajeri, M.H. The Role of the Gut Microbiota in the Development and Progression of Major Depressive and Bipolar
+Disorder. Nutrients 2021, 14, 37. [CrossRef] [PubMed]
+103. Liang, S.; Wu, X.; Hu, X.; Wang, T.; Jin, F. Recognizing Depression from the Microbiota-Gut-Brain Axis. Int. J. Mol. Sci. 2018,
+19, 1592. [CrossRef] [PubMed]
+104. Sanada, K.; Nakajima, S.; Kurokawa, S.; Barceló-Soler, A.; Ikuse, D.; Hirata, A.; Yoshizawa, A.; Tomizawa, Y.; Salas-Valero, M.;
+Noda, Y.; et al. Gut microbiota and major depressive disorder: A systematic review and meta-analysis. J. Affect. Disord. 2020, 266,
+1–13. [CrossRef] [PubMed]
+105. Jiang, H.; Ling, Z.; Zhang, Y.; Mao, H.; Ma, Z.; Yin, Y.; Wang, W.; Tang, W.; Tan, Z.; Shi, J.; et al. Altered fecal microbiota
+composition in patients with major depressive disorder. Brain Behav. Immun. 2015, 48, 186–194. [CrossRef] [PubMed]
+106. Cheng, S.; Han, B.; Ding, M.; Wen, Y.; Ma, M.; Zhang, L.; Qi, X.; Cheng, B.; Li, P.; Kaﬂe, O.P.; et al. Identifying psychiatric
+disorder-associated gut microbiota using microbiota-related gene set enrichment analysis. Brief. Bioinform. 2020, 21, 1016–1022.
+[CrossRef]
+107. Zheng, P.; Yang, J.; Li, Y.; Wu, J.; Liang, W.; Yin, B.; Tan, X.; Huang, Y.; Chai, T.; Zhang, H.; et al. Gut Microbial Signatures Can
+Discriminate Unipolar from Bipolar Depression. Adv. Sci. 2020, 7, 1902862. [CrossRef]
+108. Rong, H.; Xie, X.-H.; Zhao, J.; Lai, W.-T.; Wang, M.-B.; Xu, D.; Liu, Y.-H.; Guo, Y.-Y.; Xu, S.-X.; Deng, W.-F.; et al. Similarly in
+depression, nuances of gut microbiota: Evidences from a shotgun metagenomics sequencing study on major depressive disorder
+versus bipolar disorder with current major depressive episode patients. J. Psychiatr. Res. 2019, 113, 90–99. [CrossRef]
+109. Aizawa, E.; Tsuji, H.; Asahara, T.; Takahashi, T.; Teraishi, T.; Yoshida, S.; Ota, M.; Koga, N.; Hattori, K.; Kunugi, H. Possible
+association of Biﬁdobacterium and Lactobacillus in the gut microbiota of patients with major depressive disorder. J. Affect. Disord.
+2016, 202, 254–257. [CrossRef]
+110. Liu, R.T.; Rowan-Nash, A.D.; Sheehan, A.E.; Walsh, R.F.; Sanzari, C.M.; Korry, B.J.; Belenky, P. Reductions in anti-inﬂammatory
+gut bacteria are associated with depression in a sample of young adults. Brain Behav. Immun. 2020, 88, 308–324. [CrossRef]
+
+Nutrients 2022, 14, 2661
+51 of 51
+111. Zheng, P.; Zeng, B.; Zhou, C.; Liu, M.; Fang, Z.; Xu, X.; Zeng, L.; Chen, J.-J.; Fan, S.-H.; Du, X.; et al. Gut microbiome remodeling
+induces depressive-like behaviors through a pathway mediated by the host’s metabolism. Mol. Psychiatry 2016, 21, 786–796.
+[CrossRef]
+112. Kelly, J.R.; Borre, Y.; O’Brien, C.; Patterson, E.; El Aidy, S.; Deane, J.; Kennedy, P.J.; Beers, S.; Scott, K.; Moloney, G.; et al.
+Transferring the blues: Depression-associated gut microbiota induces neurobehavioural changes in the rat. J. Psychiatr. Res. 2016,
+82, 109–118. [CrossRef] [PubMed]
+113. Chung, Y.-C.E.; Chen, H.-C.; Chou, H.-C.L.; Chen, I.-M.; Lee, M.-S.; Chuang, L.-C.; Liu, Y.-W.; Lu, M.-L.; Chen, C.-H.;
+Wu, C.-S.; et al. Exploration of microbiota targets for major depressive disorder and mood related traits. J. Psychiatr. Res.
+2019, 111, 74–82. [CrossRef] [PubMed]
+114. Freund, N.; Juckel, G. Bipolar Disorder: Its Etiology and How to Model in Rodents. Methods Mol. Biol. 2019, 2011, 61–77.
+[CrossRef] [PubMed]
+115. Lucidi, L.; Pettorruso, M.; Vellante, F.; Di Carlo, F.; Ceci, F.; Santovito, M.; Di Muzio, I.; Fornaro, M.; Ventriglio, A.;
+Tomasetti, C.; et al. Gut Microbiota and Bipolar Disorder: An Overview on a Novel Biomarker for Diagnosis and Treatment.
+Int. J. Mol. Sci. 2021, 22, 3723. [CrossRef]
+116. Sublette, M.E.; Cheung, S.; Lieberman, E.; Hu, S.; Mann, J.J.; Uhlemann, A.; Miller, J.M. Bipolar disorder and the gut microbiome:
+A systematic review. Bipolar Disord. 2021, 23, 544–564. [CrossRef]
+117. Fries, G.R.; Walss-Bass, C.; Bauer, M.E.; Teixeira, A.L. Revisiting inﬂammation in bipolar disorder. Pharmacol. Biochem. Behav.
+2019, 177, 12–19. [CrossRef]
+118. Flowers, S.A.; Ward, K.M.; Clark, C.T. The Gut Microbiome in Bipolar Disorder and Pharmacotherapy Management.
+Neuropsychobiology 2019, 79, 43–49. [CrossRef]
+119. Lu, Q.; Lai, J.; Lu, H.-F.; Ng, C.; Huang, T.; Zhang, H.; Ding, K.; Wang, Z.; Jiang, J.; Hu, J.; et al. Gut Microbiota in Bipolar
+Depression and Its Relationship to Brain Function: An Advanced Exploration. Front. Psychiatry 2019, 10, 784. [CrossRef]
+120. Hu, S.; Li, A.; Huang, T.; Lai, J.; Li, J.; Sublette, M.E.; Lu, H.; Lu, Q.; Du, Y.; Hu, Z.; et al. Gut Microbiota Changes in Patients with
+Bipolar Depression. Adv. Sci. 2019, 6, 1900752. [CrossRef]
+121. Coello, K.; Hansen, T.; Sørensen, N.; Munkholm, K.; Kessing, L.V.; Pedersen, O.; Vinberg, M. Gut microbiota composition in
+patients with newly diagnosed bipolar disorder and their unaffected ﬁrst-degree relatives. Brain Behav. Immun. 2019, 75, 112–118.
+[CrossRef]
+122. Xiao, S.; Jiang, S.; Qian, D.; Duan, J. Modulation of microbially derived short-chain fatty acids on intestinal homeostasis,
+metabolism, and neuropsychiatric disorder. Appl. Microbiol. Biotechnol. 2020, 104, 589–601. [CrossRef] [PubMed]
+123. Chen, H.; Meng, L.; Shen, L. Multiple roles of short-chain fatty acids in Alzheimer disease. Nutrition 2022, 93, 111499. [CrossRef]
+[PubMed]
+124. Aho, V.T.; Houser, M.C.; Pereira, P.A.; Chang, J.; Rudi, K.; Paulin, L.; Hertzberg, V.; Auvinen, P.; Tansey, M.G.; Scheperjans, F. Rela-
+tionships of gut microbiota, short-chain fatty acids, inﬂammation, and the gut barrier in Parkinson’s disease. Mol. Neurodegener.
+2021, 16, 6. [CrossRef]
+125. Wu, L.; Han, Y.; Zheng, Z.; Peng, G.; Liu, P.; Yue, S.; Zhu, S.; Chen, J.; Lv, H.; Shao, L.; et al. Altered Gut Microbial Metabolites
+in Amnestic Mild Cognitive Impairment and Alzheimer’s Disease: Signals in Host–Microbe Interplay. Nutrients 2021, 13, 228.
+[CrossRef]
+126. Chang, C.-H.; Lin, C.-H.; Lane, H.-Y. d-glutamate and Gut Microbiota in Alzheimer’s Disease. Int. J. Mol. Sci. 2020, 21, 2676.
+[CrossRef]
+127. Baj, A.; Moro, E.; Bistoletti, M.; Orlandi, V.; Crema, F.; Giaroni, C. Glutamatergic Signaling Along The Microbiota-Gut-Brain Axis.
+Int. J. Mol. Sci. 2019, 20, 1482. [CrossRef]
+128. Subhramanyam, C.S.; Wang, C.; Hu, Q.; Dheen, S.T. Microglia-mediated neuroinﬂammation in neurodegenerative diseases.
+Semin. Cell Dev. Biol. 2019, 94, 112–120. [CrossRef] [PubMed]
+129. Boche, D.; Perry, V.H.; Nicoll, J.A.R. Review: Activation patterns of microglia and their identiﬁcation in the human brain.
+Neuropathol. Appl. Neurobiol. 2013, 39, 3–18. [CrossRef]
+130. Shabab, T.; Khanabdali, R.; Moghadamtousi, S.Z.; Kadir, H.A.; Mohan, G. Neuroinﬂammation pathways: A general review. Int. J.
+Neurosci. 2017, 127, 624–633. [CrossRef]
+131. Manosso, L.M.; Lin, J.; Carlessi, A.S.; Recco, K.C.; Quevedo, J.; Gonçalves, C.L.; Réus, G.Z. Sex-related patterns of the gut-
+microbiota-brain axis in the neuropsychiatric conditions. Brain Res. Bull. 2021, 171, 196–208. [CrossRef]
+132. Valeri, F.; Endres, K. How biological sex of the host shapes its gut microbiota. Front. Neuroendocr. 2021, 61, 100912. [CrossRef]
+[PubMed]
+

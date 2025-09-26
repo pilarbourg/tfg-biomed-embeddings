@@ -1,0 +1,1001 @@
+Evaluation of change in metabolome caused by
+comprehensive diabetes treatment: A
+prospective observational study of diabetes
+inpatients with gas chromatography/mass
+spectrometry-based non-target metabolomic
+analysis
+Naohiro Taya1, Naoto Katakami1,2,*
+, Kazuo Omori1, Shoya Arakawa3, Shigero Hosoe1, Hirotaka Watanabe1,
+Mitsuyoshi Takahara1,4
+, Kazuyuki Miyashita1
+, Hitoshi Nishizawa1
+, Taka-Aki Matsuoka1, Masahiro Furuno3,
+Takeshi Bamba5, Junko Iida6,7, Eiichiro Fukusaki3, Iichiro Shimomura1
+1Department of Metabolic Medicine, Osaka University Graduate School of Medicine, Osaka, Japan, 2Department of Metabolism and Atherosclerosis, Osaka University Graduate
+School of Medicine, Osaka, Japan, 3Laboratory of Bioresource Engineering, Department of Biotechnology, Graduate School of Engineering, Osaka University, Osaka, Japan,
+4Department of Diabetes Care Medicine, Graduate School of Medicine, Osaka University, Osaka, Japan, 5Division of Metabolomics, Research Center for Transomics Medicine,
+Medical Institute of Bioregulation, Kyushu University, Fukuoka, Japan, 6Shimadzu Corporation, Kyoto, Japan, and 7Osaka University Shimadzu Omics Innovation Research
+Laboratories, Graduate School of Engineering, Osaka University, Osaka, Japan
+Keywords
+Amino acids, Diabetes treatment,
+Metabolomics
+*Correspondence:
+Naoto Katakami
+Tel.: +81-6-6879-3743
+Fax: +81-6-6879-3739
+E-mail address:
+katakami@endmet.med.osaka-u.ac.jp
+J Diabetes Investig 2021; 12: 2232–
+2241
+doi: 10.1111/jdi.13600
+ABSTRACT
+Aims/Introduction: Diabetes patients develop a variety of metabolic abnormalities in
+addition to hyperglycemia. However, details regarding change in various metabolites after
+comprehensive diabetes treatment remain unknown. This study aimed to identify the
+short-term change in metabolome in inpatients who were subject to comprehensive dia-
+betes treatment, using gas chromatography/mass spectrometry-based non-target metabo-
+lomics techniques.
+Materials and Methods: Participants of the present study were randomly recruited
+from the patients with type 2 diabetes hospitalized due to problems with glycemic con-
+trol (n = 31) and volunteers without diabetes (n = 30), both of whom were aged
+between 20 and 75 years. A metabolomic analysis of fasting plasma samples on the 2nd
+(pre-treatment) and 16th hospital (post-treatment) day with gas chromatography/mass
+spectrometry using a multiple reaction monitoring mode was carried out.
+Results: A principal component analysis showed that metabolome of fasting plasma
+was different between individuals with and without diabetes. The metabolome of fasting
+plasma in diabetes patients after treatment was different from that of pre-treatment, as
+well as individuals without diabetes. Many amino acids (proline, glycine, serine, threonine,
+methionine, pyroglutamic acid, glutamine and lysine) were significantly increased by >10%
+after administering the inpatient diabetes treatment. A hierarchical clustering analysis
+showed that in the case of patients with markedly decreased monosaccharide levels and
+increased 1,5-anhydroglucitol, the levels of amino acids increased more significantly.
+Conclusions: After a 2-week comprehensive treatment, the plasma levels of various
+amino acids increased in conjunction with the reduction in monosaccharide levels in
+poorly controlled type 2 diabetes patients.
+Received 9 November 2020; revised 17 April 2021; accepted 20 May 2021
+2232
+J Diabetes Investig Vol. 12 No. 12 December 2021 ª 2021 The Authors. Journal of Diabetes Investigation published by Asian Association for the Study of Diabetes (AASD) and John Wiley & Sons Australia, Ltd
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution
+in any medium, provided the original work is properly cited, the use is non-commercial and no modiﬁcations or adaptations are made.
+ORIGINAL ARTICLE
+
+INTRODUCTION
+Diabetes mellitus, which is caused by relative or absolute deﬁ-
+ciency of insulin, is a group of chronic metabolic disorders
+characterized by hyperglycemia. Diabetes patients also develop
+a variety of metabolic abnormalities, such as amino acid and
+lipid metabolic disorders, in addition to hyperglycemia.
+Metabolomics attempts to identify and quantify small mole-
+cule metabolites1. Recently, improvements in the metabolomics
+analytical platform have enabled the identiﬁcation of the patho-
+physiology of diabetes2 and its complication3, and many clinical
+studies examining patients with diabetes have been carried out.
+In metabolomics studies, a variety of analytical platforms, such
+as nuclear magnetic resonance, gas chromatography/mass spec-
+trometry (GC/MS) and liquid chromatography/mass spectrome-
+try, are used. GC/MS is a highly sensitive and speciﬁc method,
+and we identiﬁed metabolites related to atherosclerosis in
+patients with type 2 diabetes, using this platform4.
+Several metabolomics analyses have evaluated the temporal
+change in metabolism of diabetes patients5-12. Most of such
+analyses were related to the long-term (several months to years)
+changes brought about by a speciﬁc antidiabetic agent. Never-
+theless, diabetes patients often receive not only glycemic treat-
+ment, but also treatment to control other risk factors, such as
+lipid level, blood pressure and bodyweight. However, details
+regarding short-term change in metabolism caused by real-
+world diabetes treatment, which is not limited to glycemic con-
+trol, remain unknown. In the present study, we aimed to iden-
+tify the short-term change in metabolism in inpatients who
+were subject to comprehensive diabetes treatment, using GC/
+MS-based non-target metabolomics techniques.
+MATERIALS AND METHODS
+Study population
+This is a prospective observational study of diabetes patients
+hospitalized due to problems with glycemic control. Participants
+were randomly recruited from the patients with type 2 diabetes
+who were admitted in Osaka University Hospital, Osaka, Japan,
+to improve glycemic control and aged between 20 and 75 years.
+Patients who did not receive intensive glycemic control, such as
+those with severe retinopathy, patients with serum creatinine
+>176.80 lmol/L (2.0 mg/dL), severe infection or severe trauma,
+and patients in the pre- and postoperative period were
+excluded. Volunteers without diabetes aged between 20 and
+75 years were also recruited on the website of the Department
+of Metabolic Medicine, Osaka University Graduate School of
+Medicine. Overall, 33 diabetes patients and 30 adults without
+diabetes were enrolled in the study during 2017 to 2019.
+This study was approved by the Ethics Committee of the
+Osaka University Hospital, Japan (approval number: 16374),
+and was carried out in accordance with the principals of the
+Declaration of Helsinki and current legal regulations in Japan.
+Written informed consent was obtained from all participants
+after a full explanation of the study.
+Study protocol
+For all participants, patients’ medical history was obtained and
+height was measured. Diabetes patients received a comprehen-
+sive diabetes treatment, including intensive glycemic control, as
+well as blood pressure, dyslipidemia and bodyweight control, in
+the hospital. Fasting blood and urine samples were taken, and
+vital signs and weight were measured on the 2nd and 16th hos-
+pital day (hereinafter, referred to pre-treatment and post-
+treatment period, respectively). For participants without dia-
+betes, their fasting blood and urine samples were obtained, and
+vital signs and weight were measured only once. The estimated
+glomerular ﬁltration rate (mL/min 1.73 m-2) was calculated
+according to the Statement of the Japanese Society of Nephrol-
+ogy13. C-peptide immunoreactivity index was calculated as
+100 9 C-peptide immunoreactivity (ng/mL) / fasting plasma
+glucose (mg/dL)14.
+Some portions of the blood samples, for metabolomics analy-
+sis, were cooled in a freezer at 4C immediately after collection.
+The samples were then centrifuged (3,000 g, 10 min), and
+plasma was stored at -80C within 4 h.
+Metabolomics measurements
+A metabolomic analysis of plasma samples collected from dia-
+betes patients on the 2nd and 16th hospital day with GC/MS
+was carried out. Plasma samples of volunteers without diabetes
+were also analyzed.
+All the samples were divided into eight batches after ran-
+domization of sample sequences. For each batch, a series of
+samples was prepared, as described previously4, and subsequent
+metabolite measurements were carried out on a Shimadzu
+TQ8040 GC system (Shimadzu Corporation, Kyoto, Japan)
+connected to a mass spectrometer in multiple reaction monitor-
+ing mode.
+N-alkane mix C9–C40 (GL Science Inc., Tokyo, Japan) was
+injected in the beginning part of each batch and was analyzed
+in scan mode. The result was used to correct the retention time
+of each batch. A quality control (QC) sample, which was gener-
+ated by mixing the same volume of plasma randomly selected
+from the collected plasma samples, was injected after every
+three study samples. Each batch also contained a blank sample.
+Multiple reaction monitoring transitions are described in
+Table S1. The other analytical conditions, such as the column
+and the instrument, were described previously4.
+Peak detection was carried out using the LabSolutions
+Insight (Shimadzu Corporation). Peak height was then used
+for quantiﬁcation. Subsequently, each metabolite was calibrated
+using the LOWESS/Spline normalization method (http://prime.
+psc.riken.jp/compms/others/main.html)
+based
+on
+the
+QC
+value15.
+Statistical analysis
+Descriptive analysis
+Clinical data were expressed as the mean and standard devia-
+tion if normally distributed, or as the median and interquartile
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+J Diabetes Investig Vol. 12 No. 12 December 2021
+2233
+O R I G I N A L A R T I C L E
+http://wileyonlinelibrary.com/journal/jdi
+Metabolome and diabetes treatment
+
+range if log-normally distributed. Categorical variables were
+expressed as counts and percentages. P-values <0.05 were con-
+sidered signiﬁcant. Welch’s t-tests were used to evaluate the dif-
+ferences between the two groups at baseline for continuous
+variables. Paired t-tests were used to differentiate the diabetes
+group between the pre-treatment period and post-treatment
+period. If the variables were log-normally distributed, the tests
+were used after log-transformation. The v2-test was used for
+categorical variables.
+Metabolomic analysis
+The metabolites that met the following criteria were included
+in the analysis: (i) detection rate in QC samples was ≥70%; (ii)
+the residual standard deviation of intensity in QC samples was
+Table 1 | Clinical data of study participants
+Diabetes (n = 31)
+Non-diabetes (n = 30)
+Pre-treatment
+Post-treatment
+P-value (pre vs post)
+P-value (vs diabetes)
+Sex: male
+13 (41.9)
+–
+–
+21 (70.0)
+0.027
+Age (years)
+63.9 – 10.5
+–
+–
+42.1 – 11.2
+<0.001
+Diabetes duration (year)
+16.8 – 11.1
+–
+–
+–
+–
+Ever smoker
+15 (48.4)
+–
+–
+4 (13.3)
+0.0031
+BMI (kg/m2)
+26.7 – 5.1
+–
+–
+22.6 – 3.8
+<0.001
+Bodyweight (kg)
+67.8 – 13.5
+66.6 – 13.1
+<0.001
+–
+–
+Systolic BP (mmHg)
+128.6 – 17.4
+125.0 – 12.6
+0.249
+–
+–
+Hypertension
+22 (71.0)
+–
+–
+2 (6.7)
+<0.001
+Dyslipidemia
+26 (83.9)
+–
+–
+1 (3.3)
+<0.001
+AST (U/L)
+27.9 – 17.1
+24.5 – 13.7
+0.014
+22.1 – 5
+0.082
+ALT (U/L)
+30.6 – 27.4
+27.0 – 23.1
+0.101
+23.7 – 11.5
+0.205
+c-GTP (U/L)
+39.1 – 30.4
+30.9 – 26.9
+<0.001
+27.5 – 18.0
+0.074
+eGFR (mL/min/1.73 m2)
+70.79 – 21.49
+66.72 – 18.96
+0.0072
+85.86 – 9.66
+<0.001
+FPG (mmol/L)
+8.1 – 2.6
+6.1 – 1.1
+<0.001
+5.0 – 0.5
+<0.001
+HbA1c (mmol/mol)
+76.4 – 22.6
+68.68 – 17.53
+<0.001
+35.6 – 3.5
+<0.001
+HbA1c (%)
+9.1 – 2.1
+8.4 – 1.6
+<0.001
+5.4 – 0.3
+<0.001
+Glycoalbumin (%)
+23.7 – 5.7
+19.4 – 3.4
+<0.001
+13.8 – 1.4
+<0.001
+CPR index
+1.07 – 0.63
+1.31 – 0.70
+0.019
+–
+–
+Total cholesterol (mmol/L)
+5.20 – 1.58
+4.10 – 0.81
+<0.001
+5.47 – 1.04
+0.429
+Triglycerides (mmol/L)
+1.41 (0.92–2.59)
+1.06 (0.79–1.45)
+<0.001
+0.79 (0.59–1.15)
+<0.001
+HDL cholesterol (mmol/L)
+1.37 – 0.31
+1.30 – 0.27
+0.030
+1.79 – 0.53
+<0.001
+LDL cholesterol (mmol/L)
+3.11 – 1.26
+2.27 – 0.75
+<0.001
+3.24 – 0.93
+0.650
+hs-CRP (mg/L)
+0.710 (0.465–1.255)
+0.478 (0.200–0.739)
+<0.001
+0.336 (0.132–0.668)
+0.005
+Uric acid (mmol/L)
+0.34 – 0.07
+0.33 – 0.06
+0.248
+0.33 – 0.07
+0.739
+u-Alb/Cr (mg/mmol)
+1.4 (0.4–4.2)
+1.2 (0.6–3.2)
+0.493
+0.5 (0.4–1.0)
+0.032
+Data are presented as the mean – standard deviation if normally distributed or as the median (interquartile range) if log-normally distributed. Cate-
+gorical data are presented as counts (percentage). Welch’s t-tests and v2-tests were used to compare the baseline characteristics between the two
+groups for continuous and categorical variables, respectively. Paired t-tests were used to compare differences between pre-treatment and post-
+treatment in the diabetes group. BMI, body mass index; eGFR, estimated glomerular filtration rate; FPG, fasting plasma glucose; CPR index, C-
+peptide immunoreactivity index; HbA1c, glycated hemoglobin; HDL, high-density lipoprotein; hs-CRP, highly-sensitive C-reactive protein; LDL, low-
+density lipoprotein; u-Alb/Cr, urine albumin/creatinine ratio.
+Figure 1 | Principal component analysis score scatter plots (a) with the metabolites of the diabetes group in the pre-treatment period and non-
+diabetes group. (b) The data of the diabetes group in the post-treatment period were transformed according to the loading score and plotted. (c)
+The loading plots of principal component analysis (first principal component [PC1] and second principal component [PC2]). Red squares, blue
+squares and green circles in (a) and (b) indicate the diabetes group in the pre-treatment period, in the post-treatment period and the non-
+diabetes group, respectively. Proportions of variance are presented in parentheses of each principal component. Dark blue points in (c) represent
+the metabolites with high absolute value (>0.15) of the loading score of PC1 or PC2. Light blue points represent the other metabolites. The
+metabolite names only of the dark blue points are described. The loading scores of all metabolites are shown in Tables S2 and S3. DM_post,
+diabetes group in the post-treatment period; DM_pre, diabetes group in the pre-treatment period; non-DM, non-diabetes group.
+2234
+J Diabetes Investig Vol. 12 No. 12 December 2021
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+O R I G I N A L A R T I C L E
+Taya et al.
+http://wileyonlinelibrary.com/journal/jdi
+
+<30%; and (iii) the maximum value of intensity in samples,
+except for blank samples, divided by the average value of inten-
+sity in blank samples was ≥2, meaning not derived from the
+blank samples. The detection rate and residual standard
+deviation of QC samples were obtained to estimate the preci-
+sion of the quantiﬁcation of each metabolite. Based on these
+inclusion criteria, the metabolites with low measurement preci-
+sion or blank-related metabolites were removed. In the values
+-15
+-10
+-5
+0
+5
+10
+(a)
+(b)
+(c)
+-10
+-5
+0
+5
+10
+PC2 (14.3%)
+PC1 (18.8%)
+DM_pre
+non-DM
+-15
+-10
+-5
+0
+5
+10
+-10
+-5
+0
+5
+10
+PC2 (14.3%)
+PC1 (18.8%)
+DM_pre
+DM_post
+non-DM
+0.3
+0.2
+0.2
+0.3
+0.1
+0.1
+0
+0
+PC1
+-0.1
+-0.1
+-0.2
+-0.2
+-0.3
+-0.3
+PC2
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+J Diabetes Investig Vol. 12 No. 12 December 2021
+2235
+O R I G I N A L A R T I C L E
+http://wileyonlinelibrary.com/journal/jdi
+Metabolome and diabetes treatment
+
+of samples without detection, half of the minimum value of the
+metabolite’s intensity in all the samples was substituted. All
+metabolite data were then log-transformed.
+A principal component analysis was carried out with a statis-
+tical analysis tool (http://prime.psc.riken.jp/compms/others/ma
+in.html) using the metabolite data of the diabetes group in the
+pre-treatment period and of the non-diabetes group. The
+metabolite data were used after autoscaling (standardization
+with a mean of 0 and a standard deviation of 1). Then, the
+metabolite data of the diabetes group in the post-treatment per-
+iod were transformed according to the loading score and com-
+pared with the principal component analysis data of the
+diabetes group in the pre-treatment period and the non-
+diabetes group.
+To evaluate the effect of inpatient treatment, each
+metabolite datum of the diabetes group was compared
+between the pre-treatment period and post-treatment per-
+iod using paired t-tests. To account for multiple testing,
+we used the Benjamini–Hochberg method; that is, we cal-
+culated
+the
+adjusted
+P-values
+(q-values),
+with
+the
+signiﬁcance level set at 0.05. A volcano plot was con-
+structed using the q-values and fold-change values (ratios
+between the median of post-treatment values and the med-
+ian of pre-treatment values). We then selected the metabo-
+lites with a signiﬁcant difference in the paired t-tests and
+whose fold-change value was not >90% and <110%.
+Finally, to evaluate the association of metabolites from the
+perspective of the change caused by treatment, hierarchical
+clustering with cosine similarity was carried out using the group
+average method. Post-treatment value/pre-treatment value ratio
+was used for the analysis after log-transforming. The analysis
+was carried out using SPSS Statistics (IBM Corporation,
+Armonk, NY, USA).
+RESULTS
+Participants’ characteristics and effect of a comprehensive
+diabetes treatment
+Two diabetes patients withdrew the consent after participation;
+hence, a total of 31 diabetes patients and 30 volunteers without
+diabetes, none of whom had missing data, were included in the
+ﬁnal analysis. Their clinical data are shown in Table 1. Diabetes
+patients were older, had a higher body mass index and glycated
+hemoglobin level, and had a higher prevalence of hypertension
+and dyslipidemia than the participants without diabetes. A
+comprehensive diabetes treatment carried out in the hospital
+resulted in signiﬁcant changes in bodyweight, liver function,
+lipid proﬁle, highly sensitive C-reactive protein level and glyce-
+mic control of diabetes patients.
+Metabolomic analysis
+The residual standard deviation of ribitol in all study samples
+and QC samples was 6.4%, indicating an extremely high stabil-
+ity of GC/MS measurement. Among the 379 target metabolites,
+the levels of 135 metabolites peaked. Among these 135 metabo-
+lites, 78 met the inclusion criteria and were included in the
+analysis.
+The principal component analysis results with the data of
+the diabetes group in the pre-treatment period and non-
+diabetes group are shown in Figure 1a, which revealed that the
+metabolomes of the two groups were different.
+The results along with the data of the diabetes group in the
+post-treatment period are shown in Figure 1b, which indicated
+that the metabolome of the post-treatment period was different
+from that of the pre-treatment period, as well as that of the
+non-diabetes group. As shown in Figure 1b, the ﬁrst principal
+component was likely to be associated with whether the partici-
+pants had diabetes, whereas the second principal component
+Serine
+Threonine
+Proline
+Glycine
+Pyroglutamic acid
+Glutamine
+1,5-Anhydroglucitol
+Succinic acid (or anhydride)
+Methionine
+Indole-3-acetaldehyde Galactose
+Glucose
+Mannose
+Fructose
+Lysine
+Spermidine
+Gluconic acid
+Citric acid
+Meso erythritol
+0.5
+1
+2
+q-value
+Fold Change (post /pre)
+α-Tocopherol
+10-1
+10-6
+10-7
+10-8
+10-9
+1
+10-2
+10-3
+10-4
+10-5
+Figure 2 | Volcano plot showing the results of the paired t-tests
+comparing the metabolite intensities of the pre-treatment group and
+post-treatment group. The x-axis represents the fold-change values
+(ratios between the median of post-treatment values/the median of
+pre-treatment values), whereas the y-axis represents the q-values
+(adjusted P-values using the Benjamini–Hochberg method). Dark blue
+points represent the metabolites with a significant difference (q-
+value ≤0.05) and 10% change (fold change ≥1.1 or ≤0.9). Light blue
+points represent the other metabolites.
+Figure 3 | The dendrograms with heat map showing the results of the hierarchical clustering to evaluate the association of metabolites from the
+perspective of the change caused by the treatment. Heat map represents the log of fold-change values (post-treatment intensity/pre-treatment
+intensity ratios). Metabolites of red or blue characters indicate the metabolites with a significant increase or decrease (10%), respectively (the
+metabolites of a dark blue point in Figure 2). The brown circles represent the patients with decreased monosaccharide and increased 1,5-
+anhydroglucitol.
+2236
+J Diabetes Investig Vol. 12 No. 12 December 2021
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+O R I G I N A L A R T I C L E
+Taya et al.
+http://wileyonlinelibrary.com/journal/jdi
+
+markedly decreased monosaccharide and increased 1,5-anhydroglucitol
+Spermidine
+Fructose
+Indole-3-acetaldehyde
+Galactose
+Glucose
+Mannose
+Allose
+Gluconic acid
+Quinic acid
+Paraxanthine
+2-Aminoethanol
+Uridine
+Pyruvate
+Xylulose
+α-Tocopherol
+Cholesterol
+Ketovaline
+Hippurate
+Glucuronate
+Uric acid
+Linoleic acid
+Elaidic acid (18 : 1n-9)
+3-Hydroxy butyrate
+Arabinose
+Palmitoleic acid (C16 : 1n7)
+Oleic acid (18 : 1n-9)
+Lauric acid
+Myristic acid
+Glutamic acid
+Palmitic acid (16 : 0)
+Stearic acid (18 : 0)
+Pentadecanoic acid (15 : 0)
+Leucine
+Ketoisoleucine
+2-Hydroxybutyrate
+Cystine
+Glyceric acid
+Valine
+β-Alanine
+Heptadecanoic acid (17 : 0)
+Propyleneglycol
+2-Aminobutyric acid
+Urea
+Citric acid
+Arginine
+Mannitol
+Inositol
+Malic acid
+3-Amino isobutyric acid
+Hypotaurine
+N-Acetyl glucosamine
+Threonic acid
+Histidine
+Phenylalanine
+Tryptophan
+Tyrosine
+Lactic acid
+Creatinine
+Glycolic acid
+Phosphate
+Aspartic acid
+Cysteine
+Glycine
+Glutamine
+Pyroglutamic acid
+Hydroxyproline
+Serine
+Threonine
+0.5
+Meso-erythritol
+Lysine
+Alanine
+Asparagine
+Log (post/pre)
+-0.5
+Isoleucine
+Proline
+Methionine
+Succinic acid (or anhydride)
+1,5-Anhydroglucitol
+Ornithine
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+J Diabetes Investig Vol. 12 No. 12 December 2021
+2237
+O R I G I N A L A R T I C L E
+http://wileyonlinelibrary.com/journal/jdi
+Metabolome and diabetes treatment
+
+was likely to be associated with whether the plasma samples
+were taken before or after inpatient treatment. The metabolites
+with low loading scores of the ﬁrst principal component
+include monosaccharides and branched-chain amino acids (Fig-
+ure 1c and Table S2). In contrast, several amino acids had high
+loading scores of the second principal component, whereas fatty
+acids had low loading scores (Figure 1c and Table S3), indicat-
+ing that the changes in these metabolites were probably
+induced by the inpatient treatment.
+The volcano plot (Figure 2) shows the results of the paired
+t-tests comparing between metabolite’s intensities in the pre-
+treatment and post-treatment period. This analysis indicates
+that the metabolites, which decreased over a period of 2 weeks
+during the inpatient treatment, consisted of several monosac-
+charides, whereas those that increased consisted of several
+amino acids.
+The dendrograms with a heat map (Figure 3) show the
+results of the hierarchical clustering. The cluster in the lower
+part consisted mostly of the amino acids, which increased dur-
+ing the inpatient treatment (amino acids of red characters),
+indicating that they changed in the same way. On the contrary,
+the cluster in the upper part consisted mostly of the monosac-
+charides, which decreased (monosaccharides of blue characters).
+In the case of patients with markedly decreased monosaccha-
+ride levels and increased 1,5-anhydroglucitol (shown in bold
+letters in Figure 3) levels, the levels of amino acids increased
+more signiﬁcantly.
+Furthermore, the plasma levels of the amino acids with a sig-
+niﬁcant increase after inpatient treatment were compared
+among the groups. There were signiﬁcant differences in plasma
+levels between the non-diabetes group and the diabetes group
+in the post-treatment period, but there was no signiﬁcant differ-
+ence between the non-diabetes group and the diabetes group in
+the pre-treatment period (Figure S1).
+DISCUSSION
+In
+the
+present
+GC/MS-based
+non-target metabolomics
+study, we found that the plasma metabolome of the dia-
+betes patients with poor glycemic control were different
+from that of the individuals without diabetes. We also
+found that the plasma metabolome of the participants with
+diabetes had signiﬁcantly changed after the comprehensive
+treatment against diabetes, although it was still different
+from that of the participants without diabetes. After the
+treatment, the plasma levels of many monosaccharides
+(e.g., glucose, galactose, fructose and mannose) decreased,
+but those of several amino acids (e.g., proline, glycine, ser-
+ine, threonine, methionine, pyroglutamic acid, glutamine
+and lysine) increased.
+In the present study, the levels of monosaccharides, such as
+galactose, fructose and mannose, in addition to glucose,
+decreased after treatment. This result is partially consistent with
+that of a previous study, which reported that the serum level of
+a-galactose decreased by rosiglitazone or repaglinide treatment,
+mannose decreased by repaglinide treatment, and fructose
+increased by rosiglitazone or repaglinide treatment6. In the pre-
+sent study, the dendrograms with a heat map (Figure 3) show
+that the decrease in the level of monosaccharides belong to the
+same cluster, indicating that they decreased in the same way.
+Monosaccharides, not restricted to glucose, are catabolized
+through glycolysis16, which is promoted by insulin17. Our pre-
+sent result of the hierarchical clustering implies that an
+improvement in the action of insulin after the treatment pro-
+moted glycolysis, resulting in the reduction in the levels of vari-
+ous monosaccharides.
+Many previous studies reported the relationships between cir-
+culating levels of certain amino acids and diabetes. Several of
+them showed that elevated blood concentrations of branched-
+chain amino acids, such as valine, leucine and isoleucine, and
+aromatic amino acids, such as phenylalanine and tyrosine, and
+reduced blood concentration of glycine predict the risk of
+developing type 2 diabetes18-20. A clinical study using the Fram-
+ingham Heart Study Offspring Cohort identiﬁed the valine, leu-
+cine, isoleucine, phenylalanine and tyrosine as predictors of
+type 2 diabetes18. These branched-chain amino acids and aro-
+matic amino acids were also identiﬁed as predictors of insulin
+resistance in healthy individuals21. A lower level of glycine was
+found to be a predictor of impaired glucose tolerance and
+type 2 diabetes in the Cooperative Health Research in the
+Region of Augsburg cohort19, and of type 2 diabetes in the
+European Prospective Investigation into Cancer and Nutrition-
+Potsdam cohort20. As glycine is an acceptor of the acyl groups
+that buffer the excess acyl groups generating acyl-glycine
+derivatives, excessive amounts of fatty acyl group with diabetes
+leads to glycine consumption followed by a reduction of the
+free glycine pool22. However, it remains unclear whether most
+of the other amino acids are associated with the pathophysiol-
+ogy of diabetes. The present study showed that comprehensive
+diabetes treatment increased the plasma levels of many amino
+acids, and that no amino acids were decreased. This is the ﬁrst
+study to report that the plasma levels of proline, threonine,
+methionine and pyroglutamic acid increased after the diabetes
+treatment.
+Interestingly, the increase in amino acids during diabetes
+treatment seems to have been extremely large, as the differences
+between pre- and post-treatment were relatively large compared
+with those between diabetes patients in the pre-treatment per-
+iod and participants without diabetes. The possible underlying
+mechanisms of the increase in the levels of amino acids in the
+present study were as follows: (i) an increase in the release of
+amino acids from the skeletal muscles; and (ii) a reduction in
+the use of amino acids in the liver as a consequence of a reduc-
+tion of gluconeogenesis.
+Muscles and circulating proteins are the major reservoir of
+amino acids within the body, and the proteins in the skeletal
+muscle and the circulating system are in continuous turnover.
+Protein degradation and synthesis of skeletal muscles are con-
+trolled
+by
+circulating
+anabolic
+and
+catabolic
+molecules23.
+2238
+J Diabetes Investig Vol. 12 No. 12 December 2021
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+O R I G I N A L A R T I C L E
+Taya et al.
+http://wileyonlinelibrary.com/journal/jdi
+
+Relative or absolute deﬁciency of insulin, which is one of the
+major anabolic molecules that induces protein synthesis, is the
+main pathological condition of diabetes. On the contrary, the
+expression of catabolic molecules, such as inﬂammatory cytoki-
+nes (e.g., tumor necrosis factor-a and interleukin-1b) and hor-
+mones (catecholamines and cortisol), which induce protein
+degradation, increases in patients with diabetes24. Thus, the
+protein metabolism of skeletal muscle in diabetes patients, both
+the reduction in anabolic molecules and increase in catabolic
+molecules, could lead to protein degradation and release of the
+amino acids. Amino acids released from muscles are, then, used
+in the liver to produce glucose by gluconeogenesis24. The
+increased release from muscles and the increased use through
+enhanced gluconeogenesis might be balanced, and thus, there
+was no difference in plasma levels of most of the amino acids
+with an increase after the inpatient treatment between diabetes
+patients in the pre-treatment and participants without diabetes.
+Diabetes treatment is considered to improve the insulin action
+of skeletal muscle, and reduce the expression of inﬂammatory
+cytokines and hormones, attenuating the protein degradation
+and the release of the amino acids from skeletal muscle. In the
+liver, it might reduce the usage of the amino acids through the
+reduction of gluconeogenesis. In the present study, the hierar-
+chical clustering analysis showed that an increase in plasma
+levels of amino acids was observed in accordance with the
+improvement in glycemic control (Figure 3), supporting the
+hypothesis that the reduction of gluconeogenesis caused by dia-
+betes treatment increased the plasma amino acid levels. The
+changes in amino acid and protein metabolism in the skeletal
+muscle might have been relatively small. This implies that the
+short-term (approximately 2 weeks) comprehensive diabetes
+treatment was insufﬁcient to improve amino acid and protein
+metabolism in skeletal muscle, although it might have resulted
+in the improvement of various metabolic proﬁles, such as glyce-
+mic control, lipid proﬁles and liver function. In such a scenario,
+a relatively long-term glycemic control might be required. Fur-
+thermore, the simultaneous performance of resistance exercise
+seems to be important for the improvement of amino acid and
+protein metabolism, as it enhances the synthesis of muscle pro-
+teins25.
+A previous randomized controlled study including obese
+adults with impaired fasting glucose or diabetes reported that a
+3-month treatment of insulin sensitizer with pioglitazone and
+metformin increased the plasma glycine and serine concentra-
+tion, and decreased the plasma lysine concentration compared
+with a placebo5. Another study showed that 48 weeks of
+rosiglitazone treatment increased the serum levels of lysine in
+diabetes patients6. Rosiglitazone was also reported to increase
+plasma levels of glutamine after 6 weeks of treatment11, as well
+as the plasma levels of serum glutamine after 16 weeks of treat-
+ment12. Furthermore, rosiglitazone treatment might diminish
+the demand for amino acids as substrate for hepatic gluconeo-
+genesis11. These ﬁndings suggest that elevation in the plasma
+levels of glycine, serine, glutamine and lysine observed in the
+present study might be induced by improvement in glycemic
+control or insulin resistance itself, but not by diet or exercise.
+The present study also had some potential limitations. First,
+the present study was a pilot study, and the sample size was
+insufﬁcient to draw conclusions. In addition, not diabetes, but
+other factors, might cause the difference in metabolome
+between the diabetes and the non-diabetes groups, as we were
+unable to match clinical characteristics of the two groups.
+Second, it remains unclear whether the detected metabolites
+and glycemic control have a causal relationship; the present
+ﬁndings did not necessarily mean that glycemic control caused
+the changes in the plasma levels of metabolomes and vice versa.
+Therefore, experimental studies are necessary to investigate the
+mechanisms underlying this change.
+Third, the possibility that a change in the dietary composi-
+tion and physical activity during the hospitalization affected the
+plasma levels of amino acids cannot be denied, as we do not
+have detailed information about these factors. Blood metabo-
+lomes differ between groups who have different dietary compo-
+sition26, and diet inﬂuences the metabolism of amino acids27.
+In the present study, physical therapy was not provided based
+on a standardized protocol; but was prescribed to the patients
+by their attending physician according to their respective condi-
+tions of glycemic control and diabetic complications. Therefore,
+the study might have included patients whose amount of exer-
+cise was reduced. Reduction in the amount of exercise might
+induce imbalance of protein synthesis and degradation of skele-
+tal muscles, and accelerate the release of amino acids into the
+blood. However, most of the amino acids released from the
+skeletal muscles into the blood as a result of the reduction in
+the amount of exercise is alanine28,29. Considering the results
+that the plasma level of alanine did not increase in the present
+study, the degradation of skeletal muscles might have had little
+inﬂuence.
+In conclusion, after a 2-week comprehensive treatment, the
+plasma levels of various amino acids increased in conjunction
+with the reduction in monosaccharide levels in poorly con-
+trolled type 2 diabetes patients.
+ACKNOWLEDGMENTS
+The authors thank study participants for their participation.
+This study was supported by AMED-CREST, Japan Agency for
+Medical Research and Development (AMED; grant number:
+JP19gm0710005).
+DISCLOSURE
+The authors declare no conﬂict of interest.
+REFERENCES
+1. Pauling L, Robinson AB, Teranishi R, et al. Quantitative
+analysis of urine vapor and breath by gas-liquid partition
+chromatography. Proc Natl Acad Sci USA 1971; 68: 2374–
+2376.
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+J Diabetes Investig Vol. 12 No. 12 December 2021
+2239
+O R I G I N A L A R T I C L E
+http://wileyonlinelibrary.com/journal/jdi
+Metabolome and diabetes treatment
+
+2. Sas KM, Karnovsky A, Michailidis G, et al. Metabolomics and
+diabetes: analytical and computational approaches. Diabetes
+2015; 64: 718–732.
+3. Wu T, Qiao S, Shi C, et al. Metabolomics window into
+diabetic complications. J Diabetes Investig 2018; 9: 244–255.
+4. Omori K, Katakami N, Arakawa S, et al. Identification of
+plasma inositol and indoxyl sulfate as novel biomarker
+candidates for atherosclerosis in patients with type 2
+diabetes – findings from metabolome analysis using GC/MS.
+J Atheroscler Thromb 2020; 27: 1053–1067.
+5. Irving BA, Carter RE, Soop M, et al. Effect of insulin sensitizer
+therapy on amino acids and their metabolites. Metabolism
+2015; 64: 720–728.
+6. Bao Y, Zhao T, Wang X, et al. Metabonomic variations in the
+drug-treated type 2 diabetes mellitus patients and healthy
+volunteers. J Proteome Res 2009; 8: 1623–1630.
+7. Safai N, Suvitaival T, Ali A, et al. Effect of metformin on
+plasma metabolite profile in the Copenhagen Insulin and
+Metformin Therapy (CIMT) trial. Diabet Med 2018; 35: 944–
+953.
+8. Xu T, Brandmaier S, Messias AC, et al. Effects of
+metformin on metabolite profiles and LDL cholesterol
+in patients with type 2 diabetes. Diabetes Care 2015; 38:
+1858–1867.
+9. Zhang Y, Hu C, Hong J, et al. Lipid profiling reveals different
+therapeutic effects of metformin and glipizide in patients
+with type 2 diabetes and coronary artery disease. Diabetes
+Care 2014; 37: 2804–2812.
+10. Adam J, Brandmaier S, Leonhardt J, et al. Metformin effect
+on nontargeted metabolite profiles in patients with type 2
+diabetes and in multiple murine tissues. Diabetes 2016; 65:
+3776–3785.
+11. van Doorn M, Vogels J, Tas A, et al. Evaluation of
+metabolite profiles as biomarkers for the
+pharmacological effects of thiazolidinediones in type 2
+diabetes mellitus patients and healthy volunteers. Br J
+Clin Pharmacol 2007; 63: 562–574.
+12. Badeau RM, Honka M-J, Lautam€aki R, et al. Systemic
+metabolic markers and myocardial glucose uptake in type 2
+diabetic and coronary artery disease patients treated for 16
+weeks with rosiglitazone, a PPARc agonist. Ann Med 2014;
+46: 18–23.
+13. Matsuo S, Imai E, Horio M, et al. Revised equations for
+estimated GFR from serum creatinine in Japan. Am J Kidney
+Dis 2009; 53: 982–992.
+14. Goto A, Takaichi M, Kishimoto M, et al. Body mass index,
+fasting plasma glucose levels, and C-peptide levels as
+predictors of the future insulin use in Japanese type 2
+diabetic patients. Endocr J 2010; 57: 237–244.
+15. Tsugawa H, Kanazawa M, Ogiwara A, et al. MRMPROBS suite
+for metabolomics using large-scale MRM assays.
+Bioinformatics 2014; 30: 2379–2380.
+16. Dashty M. A quick look at biochemistry: carbohydrate
+metabolism. Clin Biochem 2013; 46: 1339–1352.
+17. Probst I, Unthan-Fechner K. Activation of glycolysis by
+insulin with a sequential increase of the 6-phosphofructo-2-
+kinase activity, fructose-2,6-bisphosphate level and pyruvate
+kinase activity in cultured rat hepatocytes. Eur J Biochem
+1985; 153: 347–353.
+18. Wang TJ, Larson MG, Vasan RS, et al. Metabolite profiles and
+the risk of developing diabetes. Nat Med 2011; 17: 448–453.
+19. Wang-Sattler R, Yu Z, Herder C, et al. Novel biomarkers for
+pre-diabetes identified by metabolomics. Mol Syst Biol 2012;
+8: 615.
+20. Floegel A, Stefan N, Yu Z, et al. Identification of serum
+metabolites associated with risk of type 2 diabetes using a
+targeted metabolomic approach. Diabetes 2013; 62: 639–
+648.
+21. Wurtz P, Soininen P, Kangas AJ, et al. Branched-chain and
+aromatic amino acids are predictors of insulin resistance in
+young adults. Diabetes Care 2013; 36: 648–655.
+22. Adeva-Andany M, Souto-Adeva G, Ameneiros-Rodrıguez E,
+et al. Insulin resistance and glycine metabolism in humans.
+Amino Acids 2018; 50: 11–27.
+23. Pasini E, Corsetti G, Aquilani R, et al. Protein-amino acid
+metabolism disarrangements: the hidden enemy of chronic
+age-related conditions. Nutrients 2018; 10: 391.
+24. Pasini E, Aquilani R, Dioguardi FS. Amino acids: chemistry
+and metabolism in normal and hypercatabolic states. Am J
+Cardiol 2004; 93: 3A–5A.
+25. Bolster DR, Jefferson LS, Kimball SR. Regulation of protein
+synthesis associated with skeletal muscle hypertrophy by
+insulin-, amino acid- and exercise-induced signaling. Proc
+Nutr Soc 2004; 63: 351–356.
+26. O’Donovan CB, Walsh MC, Woolhead C, et al. Metabotyping
+for the development of tailored dietary advice solutions in
+a European population: the Food4Me study. Br J Nutr 2017;
+118: 561–569.
+27. Vazquez JA, Morse EL, Adibi SA. Effect of dietary fat,
+carbohydrate, and protein on branched-chain amino acid
+catabolism during caloric restriction. J Clin Invest 1985; 76:
+737–743.
+28. Felig P, Wahren J. Amino acid metabolism in exercising
+man. J Clin Invest 1971; 50: 2703–2714.
+29. Pozefsky T, Felig P, Tobin JD, et al. Amino acid balance
+across the tissue of the forearm in postabsorptive man:
+effects of insulin at two dose levels. J Clin Invest 1969; 48:
+2273–2282.
+2240
+J Diabetes Investig Vol. 12 No. 12 December 2021
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+O R I G I N A L A R T I C L E
+Taya et al.
+http://wileyonlinelibrary.com/journal/jdi
+
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the Supporting Information section at the end of the article.
+Figure S1 | Comparison in the intensities of the amino acids with a signiﬁcant increase during the inpatient diabetes treatment
+among the diabetes group in the pre- and post-treatment period and the non-diabetes group.
+Table S1 | Multiple reaction monitoring transitions for analysis.
+Table S2 | Loading scores in the principal component analysis of the ﬁrst principle component.
+Table S3 | Loading scores in the principal component analysis of the second principle component.
+ª 2021 The Authors. Journal of Diabetes Investigation published by AASD and John Wiley & Sons Australia, Ltd
+J Diabetes Investig Vol. 12 No. 12 December 2021
+2241
+O R I G I N A L A R T I C L E
+http://wileyonlinelibrary.com/journal/jdi
+Metabolome and diabetes treatment
+

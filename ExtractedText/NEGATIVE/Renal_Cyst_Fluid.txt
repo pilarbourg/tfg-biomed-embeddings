@@ -1,0 +1,1257 @@
+ORIGINAL ARTICLE
+Metabolomics (2025) 21:90
+https://doi.org/10.1007/s11306-025-02291-7
+Simon Heckscher, Nicolas A. Ihlo have shared first-authors.
+	
+ Silke Haerteis
+silke.haerteis@ur.de
+	
+ Katharina M. Schmidt
+katharina.schmidt@ukr.de
+1	
+Institute of Functional Genomics, University of Regensburg, 
+Regensburg, Germany
+2	
+Faculty of Informatics and Data Science, University of 
+Regensburg, Regensburg, Germany
+3	
+Institute for Molecular and Cellular Anatomy, University of 
+Regensburg, Regensburg, Germany
+4	
+Department of Surgery, University Hospital Regensburg, 
+93053 Regensburg, Germany
+5	
+Department of Urology and Pediatric Urology, University 
+Hospital Erlangen, Erlangen, Germany
+6	
+Department of Urology, St. Elisabeth Hospital Straubing, 
+Brothers of Mercy Hospital, Straubing, Germany
+7	
+Faculty of Applied Healthcare Science, Deggendorf Institute 
+of Technology, Deggendorf, Germany
+8	
+Institute for Clinical Chemistry and Laboratory Medicine, 
+University Hospital Regensburg, Regensburg, Germany
+9	
+Department of Nephrology and Hypertension, University 
+Hospital Erlangen, Erlangen, Germany
+10	 Department of Nephrology, University Hospital Regensburg, 
+Regensburg, Germany
+Abstract
+Background  Autosomal dominant polycystic kidney disease (ADPKD) is the most common hereditary kidney disorder 
+characterized by progressive renal cyst formation, often leading to end-stage kidney disease (ESKD). In contrast to the uri­
+nary metabolome in ADPKD, the composition of renal cyst fluid remains largely unexplored.
+Methods  We conducted a comprehensive metabolomic analysis of renal cyst fluid from 26 ADPKD patients (20 on dialysis, 
+six with kidney transplants) using ¹H-NMR spectroscopy and liquid chromatography-mass spectrometry (LC-MS). Cysts 
+were clustered based on metabolite profiles, and differences were analyzed across groups defined by renal function status 
+(dialysis vs. transplant), cyst volume, and cyst fluid sodium concentrations.
+Results  Dialysis patients and transplant recipients differed significantly in their renal cyst fluid metabolomes. The former 
+exhibited higher concentrations of myoinositol, creatinine, sucrose, τ-methylhistidine, trigonelline, and sarcosine, while the 
+latter showed increased levels of leucine, isoleucine, valine and alanine. Remarkably, metabolites of the immunosuppressive 
+prodrug mycophenolate mofetil were detected in renal cyst fluids after kidney transplantation. Despite intra- and interindi­
+vidual variability, cyst fluid from the same patient displayed greater homogeneity. Interestingly, metabolomic profiles were 
+not altered by cyst size.
+Conclusion  This first systematic metabolomic analysis of renal cyst fluid in advanced ADPKD reveals distinct metabolic 
+signatures linked to renal function status. The data provides novel insights into the pathophysiology of ADPKD and highlight 
+the potentials of renal cyst fluid metabolomics for identifying biomarkers and therapeutic targets.
+Keywords  ADPKD · Cyst fluid · Metabolomics · NMR spectroscopy · Mass spectrometry · Patient clustering
+Received: 25 January 2025 / Accepted: 9 June 2025 / Published online: 26 June 2025
+© The Author(s) 2025
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights 
+from dialysis and transplantation cohorts
+Simon Heckscher1 · Nicolas A. Ihlo2 · Jan Schueler3 · Fabian Kellermeier1 · Jens M. Werner4 · Barbara Nuebel5 · 
+Verena Gross6 · Matthias May6 · Bernd Wullich5 · Martin Kammerl7 · Carsten Gnewuch8 · Ralph Burkhardt8 · 
+Björn Buchholz9 · Eric Pion3 · Thiha Aung3,7 · Miriam Banas10 · Hans J. Schlitt4 · Peter J. Oefner1 · Katja Dettmer1 · 
+Wolfram Gronwald1 · Merle Behr2 · Silke Haerteis3 · Katharina M. Schmidt4
+1 3
+
+S. Heckscher et al.
+1  Background
+Autosomal dominant polycystic kidney disease (ADPKD), 
+one of the most frequent human monogenic disorders and 
+the fourth leading cause for kidney failure worldwide, is 
+characterized by the progressive development of numerous 
+fluid-filled cysts within the renal parenchyma (Chapman et 
+al., 2015; Harris & Torres, 2009). ADPKD is predominantly 
+caused by mutations in the PKD1 or PKD2 gene encoding 
+for polycystin-1 and polycystin-2. Both proteins are integral 
+to the function of renal tubular epithelial cells and the main­
+tenance of normal tubular architecture and function (Tor­
+res et al., 2007a; Wilson, 2004). In ADPKD, formation and 
+expansion of cysts are both driven by a complex interplay of 
+genetic, molecular, and cellular mechanisms. Cyst initiation 
+often starts early in life and involves focal dedifferentiation 
+and proliferation of tubular epithelial cells derived from 
+nephrons and collecting tubules, followed by fluid secretion 
+into the cyst lumen (Grantham et al., 2011; Paul & Van­
+den Heuvel, 2014; Torres et al., 2007a). Cyst formation and 
+growth are accompanied by inflammation and fibrosis of the 
+surrounding parenchyma (Fragiadaki et al., 2020). Common 
+clinical symptoms of ADPKD are abdominal pain, urinary 
+tract infections, hematuria, hypertension, and eventually 
+renal failure (Cornec-Le Gall et al., 2019; Gaur et al., 2019). 
+Half of patients reach end-stage kidney disease (ESKD) by 
+age 60 requiring some method of renal replacement therapy. 
+Hemodialysis and peritoneal dialysis are both appropriate 
+options, kidney transplantation remains the preferred choice 
+if possible (Al Khunaizi & Alam, 2018).
+A key aspect of ADPKD pathology is the complex com­
+position of the renal cyst fluid and its paracrine cystogenic 
+effects. Cyst fluid contains more than 350 unique proteins 
+and other biochemically active substances (Kenter et al., 
+2019; Lai et al., 2008), including products of systemic 
+and local metabolism. These molecules may play critical 
+roles in cyst growth, maintenance and structural forma­
+tion, and disease progression (Kenter et al., 2019; Ye et al., 
+1992; Yamaguchi et al., 1995). During the early stages of 
+ADPKD, cysts are attached to their parental renal tubule. 
+Beyond a diameter of 2 mm, cysts close off. Therefore, cyst 
+fluid initially is derived from the glomerular filtrate, and in 
+later stages from a combination of plasma ultrafiltration and 
+secretory activity of the cyst-lining epithelium (Grantham 
+et al., 2011; Paul & Vanden Heuvel, 2014; Sullivan et al., 
+1998; Terryn et al., 2011).
+Understanding the detailed metabolomic landscape 
+of renal cyst fluid and its interactions with cyst epithelial 
+cells may offer valuable insights into potential therapeutic 
+strategies for ADPKD. While the urinary metabolome in 
+ADPKD has been extensively studied (Dekker et al., 2020, 
+2022; Gronwald et al., 2011; Hallows et al., 2023; Houske 
+et al., 2023), this is the first systematic analysis of renal cyst 
+fluid in advanced-stage ADPKD post-nephrectomy, includ­
+ing 20 dialysis patients and six kidney transplant recipients. 
+Employing proton nuclear magnetic resonance (1H-NMR) 
+spectroscopy and ultra-performance liquid chromatography 
+(UPLC) hyphenated to a quadrupole time-of-flight mass 
+spectrometry (qTOFMS) system together with state-of-
+the-art data analysis, we seek to gain new insights into the 
+potential pathophysiological processes relevant for ADPKD 
+progression.
+2  Methods
+2.1  Patient selection and sampling of cystic fluid
+The study included ADPKD patients with ESKD that under­
+went nephrectomy at the University Hospital Regensburg, 
+Germany, from October 2020 until May 2024, at the Uni­
+versity Hospital Erlangen, Germany, from February 2024 
+until May 2024, or at the St. Elisabeth Hospital Straubing, 
+Germany, from October 2023 until May 2024. After exclu­
+sion of seven patients due to macroscopic contamination of 
+cyst fluid with blood or pus, 26 participants remained: 20 on 
+dialysis and six with kidney transplants.
+Immediately after nephrectomy, renal cystic fluid was 
+obtained from cysts of various size (0.5-1 mL, 1–3 mL, > 
+3 mL), centrifuged and stored at -80 °C for further analysis.
+2.2  1H-NMR spectroscopy, LC-MS, and sodium 
+measurements
+1H-NMR: NMR experiments were performed as described 
+previously (Gronwald et al., 2008). In short, 400 µL of cyst 
+fluid were mixed with 200 µL of 0.1 M phosphate buffer 
+(pH 7.4), 50 µl of 0.75% (w) TSP-2,2,3,3-d4 in deuterium 
+oxide (Sigma-Aldrich, Taufkirchen, Germany) and 10 mL 
+of a 240 mM stock solution of formic acid, which served 
+as an additional internal standard that, unlike TSP, does not 
+bind to protein. Spectra were acquired in 5 mm tubes on 
+a 600 MHz Bruker Avance III spectrometer, using a triple 
+resonance (1H, 13C, 15N, 2H lock) helium cooled cryo­
+probe with z-gradient. Handling of samples was done by 
+an automatic Bruker SampleJet sample changer (Bruker 
+Biospin GmbH, Ettlingen, Germany). Tuning and match­
+ing of the probe as well as locking and shimming of the 
+sample were performed automatically. One-dimensional 1H 
+NMR spectra were obtained at 298 K using a Carr-Purcell-
+Meiboom-Gill (CPMG) pulse-sequence with solvent signal 
+suppression by presaturation during relaxation time. Spec­
+tra were automatically Fourier transformed and phase and 
+baseline corrected. For quantification of metabolites, NMR 
+1 3
+90 
+Page 2 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+spectra were analyzed by Chenomx NMR© software suite 
+v. 9.0 (Chenomx Inc., Edmonton, Canada). Signal assign­
+ments were additionally verified by spike-in experiments 
+and a high-resolution 2D 1H-13C HSQC spectrum that was 
+matched with the corresponding 2D pure compound ref­
+erence spectra of the Bruker BBIOREFCODE database 
+(Bruker BioSpin GmbH, Ettlingen, Germany).
+LC-MS: For protein precipitation, cyst fluid samples 
+were extracted with 80% methanol. Untargeted metabo­
+lomics was performed using a Thermo Scientific Dionex 
+Ultimate 3000 UPLC system (Idstein, Germany) coupled 
+to a SCIEX Triple TOF 5600 + mass spectrometer (Sciex, 
+Framingham, Massachusetts, USA). Chromatographic sep­
+aration was carried out using an ACQUITY Premier HSS 
+T3 reversed phase column with VanGuard FIT (Waters, 
+1.8 μm, 2.1 mm x 150 mm). For data evaluation, raw data 
+files were converted into.mzml-file format using the peak 
+picking function in MSConvert (version 3.0.19, ProteoW­
+izard, Palo Alto, CA, USA) with the parameter “vendor” 
+(Chambers et al., 2012). Untargeted data processing with 
+peak detection, deconvolution, peak alignment, and gap fill­
+ing was performed with MZmine2 version 2.53 (Pluskal et 
+al., 2010). A detailed description of the method is given in 
+the supplementary material.
+Sodium measurements: Sodium measurements in 
+ADPKD cyst fluid were performed at the Institute of Clini­
+cal Chemistry and Laboratory Medicine at the University 
+Hospital Regensburg using an indirect ion-selective elec­
+trode method on a cobas® pro analyzer from Roche Diag­
+nostics GmbH (Mannheim, Germany). If the original cyst 
+fluid volume was insufficient due to the small size of the 
+cysts, specimens from the 1H-NMR measurements were 
+used. An aliquot of 340 µL of water was added to all 1H-
+NMR measurement samples to achieve a final volume of 
+1 mL.
+2.3  Data analysis
+Quantitative NMR and MS-fingerprinting data were PQN-
+normalized (Dieterle et al., 2006) to account for unwanted 
+technical and biological variance. The MS-fingerprinting 
+data was additionally log-scaled. For clustering, missing 
+values in the NMR dataset were imputed using the lowest 
+concentration determined for that molecule and all measure­
+ments were standardized using z-scores. The resulting data 
+was hierarchically clustered for both samples and features 
+by performing average linkage according to their cosine dis­
+tances using SciPy (Virtanen et al., 2020). By using these 
+linkages, the data was visualized through the clustermap 
+function of Seaborn (Waskom, 2021). Additionally, dimen­
+sion reduction and visualization with UMAP (McInnes & 
+Healy, 2018) was performed.
+We considered three groupings of the cyst samples to 
+detect differences in fluid composition, namely patients’ 
+renal function (either requiring dialysis or having a func­
+tioning renal allograft), volume of the cyst (small: vol­
+ume < 1 mL, medium: 1–3 mL, or large: > 3 mL), and 
+sodium level of the cyst fluid (low: < 100 mmol/L or high: 
+> 100 mmol/L). For the grouping based on renal function, 
+differences in molecule measurements were tested using the 
+Mann-Whitney U rank tests. Here we considered for each 
+patient the median of the measurements from their cysts and 
+assumed sample independence. Additionally, properties of 
+the patients, grouped according to renal function, were com­
+pared using the Mann-Whitney U rank test if numerical and 
+Fisher’s exact test if binary. For these tests, the implementa­
+tions in SciPy (Virtanen et al., 2020) were used.
+For the comparisons of molecules based on volume and 
+sodium level of the cysts, a Linear Mixed Effects Model 
+was used to account for differences between patients, using 
+MixedLM from Python package statsmodels (Seabold & 
+Perktold, 2010).
+3  Results
+3.1  Patient characteristics
+26 advanced-stage ADPKD patients who underwent a 
+nephrectomy were included. 20 patients were currently on 
+renal dialysis and six had received a kidney allograft 12 to 
+60 months ago subsequent to years on dialysis. The mean 
+age of the entire cohort at ADPKD diagnosis was 25.8 ± 8.2 
+years. Mean age at first dialysis and time of nephrectomy 
+was 47.8 ± 8.9 years and 53.8 ± 8.0 years, respectively. In 
+most cases, nephrectomy was performed due to a lack of 
+space before kidney transplantation. Other indications for 
+nephrectomy comprised abdominal pain and indigestion, 
+recurrent infections, hematuria/hemorrhage, and suspicion 
+of malignancy. Weight of removed organs ranged from 779 
+up to 5,800 g. Detailed patient characteristics are summa­
+rized in Table 1, their medication in Supplementary Table 2.
+Given are the absolute number and percentage or mean 
+value and standard deviation. The last column contains the 
+p-value as calculated using the Mann-Whitney U rank test 
+for numerical data and Fisher’s exact test for binary data. 
+* Age at time of diagnosis could not be evaluated in two 
+cases, so mean value, standard deviation and p-value were 
+calculated using the remaining 24 cases.
+3.2  Metabolite composition of renal cystic fluid
+To analyze the metabolite composition of renal cystic fluid, 
+1H-NMR spectroscopy (in total 61 cysts from 26 patients) 
+1 3
+Page 3 of 14 
+90
+
+S. Heckscher et al.
+and LC-MS (in total 46 cysts from 23 patients) were con­
+ducted. Numbers of specimens ranged from one to 11 per 
+individual. Figure 1 shows the results of both measurement 
+methods as clustered heatmaps. Note that Fig. 1A displays 
+metabolites quantified by NMR, while Fig. 1B gives a broad 
+metabolic overview provided by MS-fingerprinting data.
+Clustering revealed two groups of cysts with respect to 
+their metabolomic profile, in both NMR and MS data. These 
+groups mostly align with the renal function status of the 
+respective patients. Thus, we will be considering the cysts 
+from transplant patients (called “transplant group”) and 
+dialysis patients (“dialysis group”) in their place from now 
+on. Also, the molecules appear to form two clusters, which 
+are highlighted as “molecule group 1” and “molecule group 
+2”. From Fig. 1 it becomes apparent that cyst fluids of the 
+dialysis group tend to reveal higher values for molecules in 
+group 1, and lower values for molecules in group 2, whereas 
+this trend is reversed in the transplant group.
+For NMR data, testing for differences between the dialy­
+sis and the transplant group identified ten metabolites that 
+differed significantly in distribution (see Supplementary Fig. 
+S1). Six of those compounds trended to have higher con­
+centrations in cysts from dialysis than transplant patients. 
+Those are myoinositol (Bonferroni-corrected p-value 
+2.9 × 10− 4), creatinine (2.9 × 10− 4), sucrose (5.7 × 10− 4), 
+τ-methylhistidine (8.6 × 10− 3), trigonelline (1.8 × 10− 2), and 
+sarcosine (3.6 × 10− 2). Their concentrations also vary more 
+within the dialysis group than in the transplant group (see 
+Supplementary Fig. S1). Except trigonelline, these mole­
+cules belong to “molecule group 1”, exemplifying the trend 
+observed before. In the transplant group, higher concentra­
+tions were detected for alanine (p-value 2.9 × 10− 4), isoleu­
+cine (3.4 × 10− 3), valine (9.7 × 10− 3), and leucine (4.8 × 10− 2). 
+These belong to “molecule group 2”, together with 6 other 
+proteinogenic amino acids, while only 5 proteinogenic 
+amino acids belong to “molecule group 1”. Note that the 
+signal assignment of the significantly regulated metabolites 
+was additionally verified by spike-in experiments.
+Based on the MS data, 364 features were significantly 
+different between the transplant and the dialysis group as 
+illustrated by the volcano plot in Supplementary Fig. S2. 
+Significantly different features with p-value, log2 fold 
+change, exact mass, retention time and partial identification 
+with indication of the level of the ID are listed in Supple­
+mentary Table 1. In accordance with the NMR data, isoleu­
+cine and leucine were significantly higher in the transplant 
+group. Among the ten features with the highest absolute fold 
+change, two features could be assigned to glucuronides of 
+mycophenolic acid. The signal at 7.6 min was identified as 
+mycophenolic acid glucuronide (MPAG) using an authen­
+tic standard. The signal at 6.59 min was putatively assigned 
+to mycophenolic acid acyl glucuronide (AcMPAG). 
+Table 1  Patient characteristics of the ADPKD cohort
+All
+Dialysis
+Transplant p-value
+N (per­
+centage)
+26 (100%)
+20 (76.9%)
+6 (23.1%)
+•
+Age
+Years
+53.8 ± 8.0
+53.1 ± 8.3
+56.0 ± 7.3
+0.4648
+Sex
+m = 1, 
+f = 0
+18 (69.2%)
+13 (65.0%)
+5 (83.3%)
+0.6279
+Age at 
+time of 
+diagnosis
+Years
+25.8 ± 8.2*
+26.0 ± 8.4*
+25.0 ± 8.2
+0.6883*
+Age at 
+time 
+of first 
+dialysis
+Years
+47.7 ± 8.9
+47.3 ± 9.4
+49.2 ± 7.4
+0.7139
+Previous 
+contra­
+lateral 
+nephrec­
+tomy
+0/1
+8 (30.8%)
+3 (15.0%)
+5 (83.3%)
+0.0045
+Serum 
+creatinine
+mg/dl
+8.4 ± 5.3
+10.5 ± 4.2
+1.5 ± 0.6
+0.0003
+Dialysis 
+at date of 
+nephrec­
+tomy
+0/1
+20 (76.9%)
+20 
+(100.0%)
+0 (0.0%)
+0.0000
+Kidney 
+trans­
+plant 
+recipient
+0/1
+6 (23.1%)
+0 (0.0%)
+6 
+(100.0%)
+0.0000
+ Time 
+since 
+trans­
+planta­
+tion
+Months •
+•
+32.3 ± 19
+•
+Weight 
+of 
+removed 
+kidney
+g
+2439 ± 1331 2646 ± 1452 1818 ± 586 0.3670
+Indica­
+tion of 
+nephrec­
+tomy
+ Less 
+space for 
+transplant
+0/1
+15 (57.7%)
+15 (75.0%)
+0 (0.0%)
+0.0020
+ Abdomi­
+nal pain, 
+indiges­
+tion
+0/1
+10 (38.5%)
+8 (40.0%)
+2 (33.3%)
+1.0000
+ Recur­
+rent 
+infections
+0/1
+2 (7.7%)
+1 (5.0%)
+1 (16.7%)
+0.4154
+ Hema­
+turia, 
+hemor­
+rhage
+0/1
+2 (7.7%)
+2 (10.0%)
+0 (0.0%)
+1.0000
+ Suspi­
+cious for 
+malig­
+nancy
+0/1
+3 (11.5%)
+0 (0.0%)
+3 (50.0%)
+0.0077
+1 3
+90 
+Page 4 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+Fig. 1  Clustered heatmaps of cyst fluid measurements. A Absolute 
+quantified 1H-NMR and B MS fingerprinting data. First column indi­
+cates attribution of cysts to patients with white entries for patients with 
+only one cyst sampled. Second column shows the renal function status: 
+dialysis (green) or transplant (orange). Third column depicts the cyst 
+sodium concentrations with values above (green) or below (orange) 
+100 mmol/L, non-reliable sodium measurements are left white. Larger 
+and smaller values are depicted in red and blue, respectively, while 
+missing values are shown in black. In Figure A, the highest and low­
+est measured concentrations (mM) for each molecule are given in the 
+respective cells. Groups of patients and molecules based on the clus­
+tering are also marked. The rows are marked by the cyst ID with * 
+indicating fluid which may be a mixture from multiple cysts
+ 
+1 3
+Page 5 of 14 
+90
+
+S. Heckscher et al.
+readily excreted to over 90% into the urine by glomerular 
+filtration and active tubular secretion, predominantly as 
+MPAG (Bullingham et al., 1998).
+3.3  Intraindividual and interindividual differences 
+of cyst fluid composition
+Both clustering (see Fig. 1) and UMAP dimension reduction 
+(see Fig.  2) demonstrate that different cyst fluid samples 
+Mycophenolic acid is an immunosuppressant derived from 
+the prodrug mycophenolate mofetil that was given to all six 
+transplant patients. Accordingly, its metabolites were only 
+found in the transplant group. For data analysis, zero val­
+ues present in the dialysis group were replaced by small 
+imputed values and therefore the obtained p-values and fold 
+changes for these two metabolites have to be treated with 
+care. Mycophenolic acid undergoes phase 2 conjugation 
+by the uridine diphosphate glucuronosyl transferase and is 
+Fig. 1  (continued)
+ 
+1 3
+90 
+Page 6 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+group ranged between 26.1 and 166.5 mmol/L. The trans­
+plant group featured only high-sodium cysts with concen­
+trations between 132.0 and 151.9 mmol/l, i.e. within the 
+physiological range for serum sodium.
+Additionally, we considered differences in cyst fluid com­
+position based on the sodium level. A Mixed Linear Effects 
+Model was used to estimate the difference by sodium level 
+while accounting for inter-patient differences. Significant 
+differences were observed for pyroglutamate (Bonferroni 
+corrected p-value 3.4 × 10− 17), pyruvate (2.8 × 10− 2), and tri­
+methylamine N-oxide (1.0 × 10− 19) (see Fig. 4).
+3.6  Total metabolite concentration of cyst fluid
+Regarding the MS data, PQN (Probabilistic Quotient Nor­
+malization (Dieterle et al., 2006) factors were correlated with 
+the sum of all features (TIC) (see Supplementary Fig. S3). 
+A PQN factor larger than 1 implies a higher overall concen­
+tration in a sample in comparison to the median reference 
+chromatogram, a PQN factors below 1 vice versa. Remark­
+ably, the transplant group features significantly lower PQN 
+factors (p = 3.67e− 7, Mann Whitney U test). Hence, the cyst 
+fluids of this group revealed lower total metabolite concen­
+trations on average. Furthermore, the PQN factors of the 
+dialysis group scattered widely in comparison to the trans­
+plant group. So, renal cyst fluids of dialysis patients revealed 
+higher differences in total metabolite concentrations.
+4  Discussion
+The composition of renal cyst fluid has intrigued research­
+ers since the initial studies conducted in the mid-20th 
+century (Bricker & Patton, 1955; Lambert, 1947). Early 
+from the same patient are more similar than cyst fluid sam­
+ples from different patients. This is exemplified by patient 
+11 (dark green in Figs. 1 and 2), whose samples form a tight 
+cluster with no overlap with other patient samples in that 
+group (see Fig. 2: 1H-NMR: top left corner, LC-MS: bottom 
+right corner).
+Additionally, UMAP visualization (see Fig.  2) under­
+scores the dichotomy of the cyst metabolome of dialysis 
+patients (left for 1H-NMR, right for MS) and transplant 
+recipients (right for 1H-NMR, left for MS), already 
+described before.
+3.4  Impact of cyst volume on cyst fluid composition
+Differences between cysts of different volumes (45 cysts 
+from 13 patients (11 dialysis, 2 transplant)) were tested for 
+both, NMR and MS measurements, using a Mixed Linear 
+Effects Model. NMR measurements yielded a single sig­
+nificant metabolite, namely sarcosine (Bonferroni corrected 
+p-value of 2.4 × 10− 4), but this difference was driven mainly 
+by one measurement for patient 2. The effect of cyst volume 
+on sarcosine is not significant when excluding this measure­
+ment. Among the MS data, no molecules revealed a signifi­
+cant difference.
+3.5  Sodium concentrations of cyst fluid
+Sodium concentration was measured in 59 cyst fluid sam­
+ples. 45 cysts from 23 patients yielded reliable measure­
+ments (see Fig.  3). Cysts were labeled as high-sodium 
+(sodium ≥ 100 mmol/L) or low-sodium (sodium < 100 
+mmol/L). These labels are also shown in Fig. 1 (third col­
+umn). Obviously, all low-sodium cysts were obtained from 
+patients undergoing dialysis. Overall sodium values in this 
+Fig. 2  UMAPs of 1H-NMR (left) and LC-MS (right) data. Mea­
+surements of different cyst fluid samples from the same patient are 
+depicted by the same color. Patients that had only a single cyst sampled 
+and analyzed are shown in black. Renal function status is marked by 
+dots (dialysis) and crosses (transplant).
+ 
+1 3
+Page 7 of 14 
+90
+
+S. Heckscher et al.
+This study demonstrates a clear metabolic distinction 
+between renal cyst fluid samples from dialysis patients and 
+transplant recipients. Elevated levels of myoinositol, creati­
+nine, sucrose, τ-methylhistidine, trigonelline, and sarcosine 
+in dialysis patients are indicative of systemic metabolic 
+derangements and altered cyst epithelial activity. In con­
+trast, significantly increased concentrations of numerous 
+proteinogenic amino acids in transplant recipients suggest 
+restored metabolic stability and transformed conditions 
+in native kidneys post-transplantation. Greater intra- and 
+interindividual variability in the dialysis group compared 
+to the more homogenous profiles observed in transplant 
+recipients further underscores the systemic influences on 
+cyst fluid composition and assumably the loss of original 
+cyst epithelial features after transplantation. In both groups, 
+investigations predominantly focused on electrolytes, creat­
+inine, and urea (Gardner, 1969; Gardner et al., 1992; Huse­
+man et al., 1980). Over the years, the complex nature of this 
+biofluid has been examined from diverse perspectives (Fox­
+all et al., 1992; Lai et al., 2008; Slade et al., 1998). To our 
+knowledge, this study represents the first systematic metab­
+olomic analysis of renal cyst fluid in an advanced-stage 
+ADPKD cohort, comprising patients with ESKD that are 
+either on dialysis (20 participants) or have received a kidney 
+transplant previously (six participants). By leveraging high-
+resolution measurement technologies and advanced statisti­
+cal approaches, we identified distinct metabolic signatures 
+contingent on renal function status, thereby offering novel 
+insights into the pathophysiology of ADPKD.
+Fig. 4  Plots of pyroglutamate, pyruvate, and trimethylamine N-oxide 
+measured by NMR for cysts with different sodium concentrations. 
+Cysts with sodium concentration ≥ 100 mmol/L are shown in green, 
+and those with concentration < 100 mmol/L in orange. The patients are 
+sorted by the respective intercept in the Mixed Linear Effects Model.
+ 
+Fig. 3  Plots of sodium concentra­
+tion for cysts separated by the renal 
+function status of the patients. The 
+patients are marked with the same 
+color as in Fig. 2
+ 
+1 3
+90 
+Page 8 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+in the native ADPKD kidneys: immunosuppression, reduc­
+tion in renal blood flow, abolished effect of uremia on 
+tubular epithelium proliferation, and improvement of fluid 
+overload may contribute to the significant decline in total 
+kidney volume subsequent to transplantation (Jung et al., 
+2016; Veroux et al., 2018; Yamamoto et al., 2012). Both the 
+altered systemic and intrarenal conditions will significantly 
+affect the transepithelial secretion and metabolic activity of 
+the cyst-lining epithelium.
+4.2.1  Dialysis patients
+In dialysis patients, the metabolomic profile of renal cyst 
+fluid demonstrated considerable heterogeneity, likely attrib­
+utable to the plentiful systemic factors associated with 
+chronic renal failure and its management. These include 
+comorbidities such as hypertension, malnutrition, and 
+hyperparathyroidism, extensive use of medication, and the 
+varying impact of long-term dialysis (Broseta et al., 2022; 
+Stegmayr, 2017; Tonelli et al., 2011). Furthermore, the par­
+tially preserved variation of epithelial features depending 
+on the cysts’ origin (Gardner, 1969; Gardner et al., 1992; 
+Huseman et al., 1980) promoted the heterogeneity, which is 
+especially showcased by varying sodium levels and prob­
+ably by the widely scattered total metabolite concentrations.
+Creatinine levels in cyst fluid were markedly elevated 
+and heterogenous. On the one hand, this phenomenon 
+reflects the impaired systemic clearance with oscillating 
+high serum creatinine during intermittent dialysis treatment. 
+On the other hand, the intraindividual variability in creati­
+nine concentrations suggests residual heterogeneity of the 
+cyst barrier function with the ability to accumulate creati­
+nine in “distal cysts” (Gardner, 1969; Gardner et al., 1992; 
+Huseman et al., 1980). Apparently, this feature is lost due to 
+disease progression after transplantation. This hypothesis is 
+underscored by the divergent variability of cyst creatinine 
+and cyst sodium among dialysis and transplant patients.
+Myoinositol, a well-established urinary biomarker of 
+chronic kidney disease and, particularly, of ADPKD (Bevi­
+lacqua & Bizzarri, 2018; Dekker et al., 2022; Gronwald et 
+al., 2011; Gil et al., 2018) was significantly elevated in the 
+cyst fluids of dialysis patients compared to those of trans­
+plant recipients. In renal failure, not only urinary myo­
+inositol rises but also serum myoinositol increases due to 
+lower intrarenal enzymatic degradation (Bevilacqua & Biz­
+zarri, 2018; Omosule et al., 2024). As cyst myoinositol of 
+both groups significantly surpassed serum levels (Omosule 
+et al., 2024), cyst-lining cells apparently accumulate and 
+secrete myoinositol into the cyst lumina. The prominent gap 
+between the dialysis and the transplant group might be pri­
+marily due to the renal function and the consecutively dif­
+fering serum myoinositol (Meeusen et al., 2022).
+fluid samples of different cysts from one patient were more 
+similar than cyst fluids from different patients. Moreover, 
+minimal impact of cyst volume on metabolic profiles was 
+observed, with sarcosine as a rare exception driven by a 
+single outlier. These findings not only highlight systemic 
+and local factors driving cyst fluid composition but also 
+emphasize its potential as a biomarker source for ADPKD 
+management.
+4.1  ADPKD renal cyst fluid genesis
+To answer, why kidney transplantation changes the metabo­
+lomic profile of ADPKD renal cyst fluid in such a profound 
+way, the pathophysiology of renal cyst fluid genesis has to 
+be clarified. As renal cysts are regarded to be anatomically 
+separated from their parental tubule segment– except in 
+the very early stage with cyst diameters under 2 mm– cyst 
+fluid arises from a combination of plasma ultrafiltration 
+and secretory activity of the cyst-lining epithelium (Paul 
+& Vanden Heuvel, 2014; Sullivan et al., 1998; Terryn et 
+al., 2011). Therefore, cyst fluid composition is regarded to 
+depend on the biophysical and biochemical properties of the 
+cyst epithelium. This comprises the quality of cell-to-cell 
+contacts, the expression of ion channels and transporters as 
+well as electrochemical gradients, which consequently will 
+affect transport of water and solutes into the cyst lumen. In 
+addition, the high metabolic activity of the cyst-lining cells 
+(Bakaj & Pocai, 2023; Haumann et al., 2020) may impact 
+the formation of metabolites that contribute to cyst fluid 
+composition.
+Previously, ADPKD renal cysts were classified according 
+to their origin: “Proximal cysts” derived from the proximal 
+nephron are characterized by leaky cyst walls permeable 
+to many substances. “Distal cysts” derived from the dis­
+tal nephron and collecting tubule reveal a tight epithelium 
+able to evoke considerable gradients between plasma and 
+cyst fluid, namely for sodium (low cyst/serum ratio), cre­
+atinine (high cyst/serum ratio) and numerous amino acids 
+(high cyst/serum ratio) (Gardner, 1969; Gardner et al., 1992; 
+Huseman et al., 1980).
+4.2  Metabolic signatures of renal cyst fluid
+The clear dichotomy of the metabolomic profiles between 
+dialysis patients and transplant recipients underscores 
+the profound influence of renal function on cyst fluid 
+composition.
+Naturally, the physical status of both patient groups 
+diverges dramatically. Differences in organ functions, renal 
+replacement therapy itself, numerous drugs, and the nutri­
+tional status impact the organism (Tonelli et al., 2011). 
+Moreover, renal transplantation changes the local conditions 
+1 3
+Page 9 of 14 
+90
+
+S. Heckscher et al.
+models, suggesting a direct impact on cyst epithelial metab­
+olism (Aouad et al., 2023; Xie et al., 2022). Since those 
+analyses address healthy renal tubule cells, further research 
+on the effects of immunosuppressants on ADPKD cyst fluid 
+metabolomes is required, for example by leveraging our 
+innovative 3D in vivo model, the chorioallantoic membrane 
+model (Bichlmayer et al., 2022; Schueler et al., 2024).
+Remarkably, drugs or their derivatives are able to pass 
+the cyst epithelium. According to our MS data, renal cyst 
+fluid of allograft recipients contained glucuronides of myco­
+phenolic acid, thus metabolites of the immunosuppressant 
+mycophenolate mofetil regularly administered in kidney 
+allograft recipients. Transport of these metabolites requires 
+active transport, with organic anion transporters facilitating 
+their cellular uptake, while the multidrug resistance-asso­
+ciated protein 2 (MRP2) accounts for their efflux into the 
+lumen of excretory organs including kidney (Patel et al., 
+2013).
+4.3  Limitations
+Several limitations must be considered when interpreting 
+this study’s results:
+All participants suffered from advanced ADPKD with 
+ESKD, either on dialysis or post-transplantation, which 
+very likely do not reflect earlier disease. Furthermore, the 
+study focused exclusively on patients undergoing nephrec­
+tomy, which might introduce selection bias, as nephrectomy 
+is typically reserved for specific clinical indications (see 
+Table 1). Though, only nephrectomy allows for systematic 
+and ethical sampling of renal cysts.
+The potential co-presence of acquired renal cysts, which 
+frequently form in patients with long-term chronic kidney 
+disease independently of ADPKD, may have introduced 
+variability in the metabolomic profiles analyzed. Due to 
+nephron loss for any reason, activated proto-oncogenes and 
+growth factors lead to tubular hyperplasia and acquired cyst 
+formation of the remaining healthy nephrons, exclusively 
+the proximal tubules (Choyke, 2000; Rahbari-Oskoui & 
+O’Neill, 2017). However, given the fact that ADPKD results 
+in the formation of hundreds of cysts whereas acquired cysts 
+are much lower in number, it is statistically unlikely that 
+a significant number of acquired cysts have been included. 
+Nevertheless, since acquired and hereditary cysts cannot be 
+distinguished, we defined this point as a limitation.
+Extrarenal factors such as comorbidities, renal replace­
+ment therapies, medication (see also Supplementary Table 
+2), and nutrition could not be fully controlled and may have 
+influenced the results. We did not correct for these various 
+possible confounders due to the limited cohort size.
+The absence of direct plasma metabolomic data limits 
+the ability to correlate systemic metabolic changes with cyst 
+Sucrose, the most abundant disaccharide found in plants, 
+was uniquely abundant in the dialysis group, originat­
+ing from medical interventions rather than dietary intake 
+(Merino et al., 2019; Tasevska et al., 2005). For example, 
+iron sucrose, commonly administered to address anemia 
+in dialysis patients, may account for this observation. As 
+human cells lack sucrose transporters, transepithelial trans­
+port relies on paracellular diffusion in a somewhat perme­
+able cyst epithelium (Sullivan et al., 1998).
+Three further molecules, namely τ-methylhistidine, trig­
+onelline, and sarcosine, are significantly increased in the 
+dialysis group. All three metabolites are discussed as novel 
+serum biomarkers elevated in renal failure (Liu et al., 2024; 
+Santos et al., 2023; Yamaguchi et al., 2021).
+4.2.2  Transplant recipients
+Allograft recipients, whose transplantations date back 12 to 
+60 months, displayed cyst fluid metabolomic profiles with 
+significantly reduced inter- and interindividual variability 
+reflecting the stabilization of systemic metabolic conditions 
+and perhaps the progressive loss of typical cyst epithelial 
+features post-transplantation (Jung et al., 2016; Torres et 
+al., 2007b; Yamamoto et al., 2012). This assumption is sup­
+ported by the consistently high cyst sodium concentrations 
+similar to serum levels. However, the last observation might 
+be biased by the low number of patients and cysts in the 
+transplant group.
+Elevated levels of proteinogenic amino acids, particularly 
+leucine, isoleucine, valine, and alanine, were a hallmark of 
+the transplant group. These findings suggest diminished 
+intraepithelial amino acid turnover and metabolic demands 
+after renal transplantation (Jung et al., 2016; Veroux et al., 
+2018; Yamamoto et al., 2012). Improved nutritional status 
+post-transplantation will also affect cyst amino acid content 
+(Małgorzewicz et al., 2008). Interestingly, mean concen­
+trations of almost all detected amino acids exceed physi­
+ological serum levels in the transplant group, but not in the 
+dialysis group. Glutamine represents the only amino acid 
+with lower concentrations in cyst fluid than in serum in both 
+the transplant and dialysis group. This may reflect the direct 
+utilization of glutamine as carbon source by cyst cells (Fox­
+all et al., 1992; Haumann et al., 2020).
+The interplay between reduced renal perfusion, the miss­
+ing pro-proliferative effects of uremia, and immunosuppres­
+sive therapy, particularly with calcineurin inhibitors such as 
+tacrolimus, likely contributes to these metabolic changes 
+(Jung et al., 2016; Marchetti & Navalesi, 2000; Oliveras 
+et al., 2024; Shrestha, 2017; Torres et al., 2007b; Thölking 
+et al., 2021; Veroux et al., 2018; Yamamoto et al., 2012). 
+Tacrolimus-induced alterations of intrarenal amino acid 
+pathways have been documented in both in vivo and in vitro 
+1 3
+90 
+Page 10 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+5  Conclusion
+This study provides a detailed characterization of renal cyst 
+fluid metabolomics in advanced ADPKD, highlighting dis­
+tinct metabolic signatures influenced by renal function sta­
+tus. These findings may not only enhance our understanding 
+of ADPKD pathophysiology but also underscore the clini­
+cal potential of metabolomics in guiding disease manage­
+ment and therapeutic development. Future investigations 
+should prioritize the integration of serum metabolomics and 
+expand such analyses to earlier disease stages to elucidate 
+the systemic and local interplay that drives cystogenesis.
+Supplementary 
+Information  The 
+online 
+version 
+contains 
+supplementary material available at ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​1​1​3​0​6​-​0​
+2​5​-​0​2​2​9​1​-​7.
+Author contributions  Conceptualization: S.He., N.I., J.S., K.D., T.A., 
+W.G., M.Be., S.Ha. and KM. S.; Methodology: S.He., N.I., J.S., F.K., 
+JM.W., M.K., E.P., B.N., V.G., M.M., B.W., C.G., R.B., B.B., T.A., 
+K.D., W.G., M.Be., S.Ha. and KM. S.;Sodium Measurements: C.G. 
+and R.B.; formal analysis: S.He., N.I., J.S., K.D., W.G., M.Be., S.Ha. 
+and KM. S.; Investigation: S.He., N.I., J.S., C.G., R.B., K.D., W.G., 
+M.Be., S.Ha. and KM. S.; resources, B.B., T.A., K.D., W.G., M.Be., 
+S.Ha. and KM.S.; writing-original draft preparation, S.He., N.I., J.S., 
+K.D., W.G., M.Be., S.Ha. and KM. S; writing-review and editing, 
+JM.W., M.K., B.N., V.G., M.M., B.W., E.P., C.G., R.B., B.B., T.A, 
+M.Ba., HJ.S., PJ.O., K.D., W.G., M.Be., S.Ha. and KM.S.supervision, 
+B.B., T.A., K.D., W.G., M.Be., S.Ha. and KM.S.; project administra­
+tion, B.B., T.A., K.D., W.G., M.Be., S.Ha. and KM.S; funding acquisi­
+tion, B.B., T.A., K.D., W.G., M.Be., S.Ha.
+Funding  Open Access funding enabled and organized by Projekt 
+DEAL. Deutsche Forschungsgemeinschaft (DFG, German Research 
+Foundation), project number 509149993, TRR 374.
+Data availability  Raw data from NMR and MS (spectra and tables) 
+will be available at MetaboLights (ID MTBLS12372). Additional data 
+and the code used for analysis and creation of figures are available at ​
+h​t​t​p​s​:​/​/​g​i​t​.​u​n​i​-​r​e​g​e​n​s​b​u​r​g​.​d​e​/​b​e​h​r​-​g​r​o​u​p​-​p​u​b​l​i​c​/​m​e​t​a​b​o​l​o​m​i​c​-​p​r​o​f​i​l​i​n​
+g​-​o​f​-​r​e​n​a​l​-​c​y​s​t​-​f​l​u​i​d​-​i​n​-​a​d​v​a​n​c​e​d​-​a​d​p​k​d​.​
+Declarations
+Conflict of interest  The authors declare no competing interests.
+Ethics approval and consent to participate  Informed consent was ob­
+tained from all subjects and/or their legal guardians and experiments 
+were approved by the ethics committee of the University of Regens­
+burg (no. 20-1886-101) and of the Friedrich-Alexander-University 
+Erlangen-Nuremberg (no. 23-404-Bn). All patient data gets encrypted, 
+and every patient gets an internal patient ID. All data protection guide­
+lines from the University of Regensburg are met.
+Consent for publication  All authors agree with the publication of this 
+manuscript.
+Open Access   This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+fluid composition. The lack of paired plasma and cyst fluid 
+analysis may obscure the contribution of systemic versus 
+local metabolic alterations.
+Notably, the limited sample size, particularly in the trans­
+plant cohort, reduces the generalizability of the findings and 
+warrants validation in larger studies.
+With respect to assignments of NMR signals all signifi­
+cantly regulated metabolites were additionally verified by 
+spike-in experiments and high resolution 2D spectra, while 
+the assignment of non-significantly regulated metabolites 
+was verified by 2D spectra alone.
+4.4  Clinical outlook and future research
+The results of this study may have direct implications for 
+clinical practice. The distinct metabolic signatures identi­
+fied in renal cyst fluid underscore its potential as a diag­
+nostic and prognostic biomarker in ADPKD. For instance, 
+elevated myoinositol levels could aid in monitoring disease 
+progression, while branched-chain amino acid profiles may 
+provide insights into cyst epithelial activity and therapeu­
+tic responses. Moreover, the stabilization of metabolomic 
+profiles post-transplantation may shed light on cystogenic 
+pathways that may be addressed pharmaceutically in earlier 
+stages of the disease. The analysis of cyst fluid of advanced 
+stages of ADPKD may be regarded as a limitation. However, 
+it may reflect the maximum amplitude of metabolic disor­
+ders in the course of ADPKD and, therefore, help to iden­
+tify metabolic fingerprints that potentially already emerge at 
+early stages of the disease and affect its progression. There­
+fore, we will measure those metabolites next in plasma and 
+urine of early stage ADPKD patients and correlate the find­
+ings with renal function and cyst progression. Although our 
+current data do not allow for causal correlations between 
+cyst metabolome and cyst progression, the identified cyst 
+fluid metabolites represent an excellent basis for further 
+experiments to address the paracrine effects on cyst epithe­
+lium, e.g. using our already mentioned 3D in vivo model 
+(Bichlmayer et al., 2022; Schueler et al., 2024). Addition­
+ally, exploring the impact of specific therapeutic agents, 
+such as immunosuppressants, on cyst epithelial metabolism 
+could provide novel insights into targeted treatment strate­
+gies. Lastly, leveraging advanced imaging techniques and 
+machine learning approaches to correlate metabolomic data 
+with clinical outcomes could pave the way for personalized 
+medicine in ADPKD management, ultimately improving 
+patient care and prognosis.
+1 3
+Page 11 of 14 
+90
+
+S. Heckscher et al.
+urinary myoinositol/citrate ratio associates with progressive 
+loss of renal function in ADPKD patients. American Journal of 
+Nephrology, 53(6), 470–480. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​5​9​/​0​0​0​5​2​4​8​5​1
+Dekker, S. E. I., Verhoeven, A., Soonawala, D., Peters, D. J. M., & 
+Fijter, J. W. (2020). Urinary metabolites associate with the rate 
+of kidney function decline in patients with autosomal dominant 
+polycystic kidney disease. PLoS One, 15(5). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​3​
+7​1​/​j​o​u​r​n​a​l​.​p​o​n​e​.​0​2​3​3​2​1​3. MayborodaO. A.e0233213.
+Dieterle, F., Ross, A., Schlotterbeck, G., & Senn, H. (2006). Proba­
+bilistic quotient normalization as robust method to account for 
+Dilution of complex biological mixtures. Application in 1H NMR 
+metabonomics. Analytical Chemistry, 78(13), 4281–4290. ​h​t​t​p​s​:​/​
+/​d​o​i​.​o​r​g​/​1​0​.​1​0​2​1​/​a​c​0​5​1​6​3​2​c
+Foxall, P. J., Price, R. G., Jones, J. K., Neild, G. H., Thompson, F. 
+D., & Nicholson, J. K. (1992). High resolution proton magnetic 
+resonance spectroscopy of cyst fluids from patients with poly­
+cystic kidney disease. Biochimica Et Biophysica Acta, 1138(4), 
+305–314. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​0​9​2​5​-​4​4​3​9​(​9​2​)​9​0​0​0​8​-​b
+Fragiadaki, M., Macleod, F. M., & Ong, A. C. M. (2020). The contro­
+versial role of fibrosis in autosomal dominant polycystic kidney 
+disease. International Journal of Molecular Sciences, 21(23). ​h​t​t​
+p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​i​j​m​s​2​1​2​3​8​9​3​6
+Gardner, K. D. (1969). Composition of fluid in twelve cysts of a poly­
+cystic kidney. New England Journal of Medicine, 281(18), 985–
+988. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​5​6​/​n​e​j​m​1​9​6​9​1​0​3​0​2​8​1​1​8​0​4
+Gardner, K. D., Burnside, J. S., Skipper, B. J., Swan, S. K., Bennett, W. 
+M., Connors, B. A., & Evan, A. P. (1992). On the probability that 
+kidneys are different in autosomal dominant polycystic disease. 
+Kidney International, 42(5), 1199–1206. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​
+/​k​i​.​1​9​9​2​.​4​0​5
+Gaur, P., Gedroyc, W., & Hill, P. (2019). ADPKD-what the radiologist 
+should know. British Journal of Radiology, 92(1098), 20190078. ​
+h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​2​5​9​/​b​j​r​.​2​0​1​9​0​0​7​8
+Gil, R. B., Ortiz, A., Sanchez-Niño, M. D., Markoska, K., Schepers, E., 
+Vanholder, R., et al. (2018). Increased urinary osmolyte excretion 
+indicates chronic kidney disease severity and progression rate. 
+Nephrology, Dialysis, Transplantation, 33(12), 2156–2164. ​h​t​t​p​
+s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​9​3​/​n​d​t​/​g​f​y​0​2​0
+Grantham, J. J., Mulamalla, S., & Swenson-Fields, K. I. (2011). Why 
+kidneys fail in autosomal dominant polycystic kidney disease. 
+Nature Reviews Nephrology, 7(10), 556–566. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​
+1​0​3​8​/​n​r​n​e​p​h​.​2​0​1​1​.​1​0​9
+Gronwald, W., Klein, M. S., Kaspar, H., Fagerer, S. R., Nürnberger, 
+N., Dettmer, K., et al. (2008). Urinary metabolite quantification 
+employing 2D NMR spectroscopy. Analytical Chemistry, 80(23), 
+9288–9297. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​2​1​/​a​c​8​0​1​6​2​7​c
+Gronwald, W., Klein, M. S., Zeltner, R., Schulze, B. D., Reinhold, 
+S. W., Deutschmann, M., et al. (2011). Detection of autosomal 
+dominant polycystic kidney disease by NMR spectroscopic fin­
+gerprinting of urine. Kidney International, 79(11), 1244–1253. ​h​t​
+t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​k​i​.​2​0​1​1​.​3​0
+Hallows, K. R., Abebe, K. Z., Li, H., Saitta, B., Althouse, A. D., Bae, 
+K. T., et al. (2023). Association of longitudinal urinary metabolic 
+biomarkers with ADPKD severity and response to Metformin 
+in TAME-PKD clinical trial participants. Kidney Int Rep, 8(3), 
+467–477. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​e​k​i​r​.​2​0​2​2​.​1​1​.​0​1​9
+Harris, P. C., & Torres, V. E. (2009). Polycystic kidney disease. Annual 
+Review of Medicine, 60, 321–337. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​4​6​/​a​n​n​u​r​e​
+v​.​m​e​d​.​6​0​.​1​0​1​7​0​7​.​1​2​5​7​1​2
+Haumann, S., Müller, R. U., & Liebau, M. C. (2020). Metabolic 
+changes in polycystic kidney disease as a potential target for sys­
+temic treatment. International Journal of Molecular Sciences, 
+21(17). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​i​j​m​s​2​1​1​7​6​0​9​3
+Houske, E. A., Glimm, M. G., Bergstrom, A. R., Slipher, S. K., Wel­
+haven, H. D., Greenwood, M. C., et al. (2023). Metabolomic pro­
+filing to identify early urinary biomarkers and metabolic pathway 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​
+r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/.
+References
+Al Khunaizi, A., & Alam, A. (2018). End-Stage Renal Disease in 
+Patients with Autosomal Dominant Polycystic Kidney Disease. 
+In: Benjamin D. Cowley, JR und John J. Bissler (Hg.) Polycys­
+tic Kidney Disease: Translating Mechanisms into Therapy. New 
+York, NY: Springer New York, S. 229–241.
+Aouad, H., Faucher, Q., Sauvage, F. L., Pinault, E., Barrot, C. C., 
+Arnion, H., et al. (2023). A multi-omics investigation of tacro­
+limus off-target effects on a proximal tubule cell-line. Pharma­
+cological Research, 192, 106794. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​p​h​r​s​.​
+2​0​2​3​.​1​0​6​7​9​4
+Bakaj, I., & Pocai, A. (2023). Metabolism-based approaches for auto­
+somal dominant polycystic kidney disease. Front Mol Biosci, 10, 
+1126055. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​8​9​/​f​m​o​l​b​.​2​0​2​3​.​1​1​2​6​0​5​5
+Bevilacqua, A., & Bizzarri, M. (2018). Inositols in Insulin Signaling 
+and Glucose Metabolism. In: Int J Endocrinol 2018, S. 1968450. ​
+h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​5​5​/​2​0​1​8​/​1​9​6​8​4​5​0
+Bichlmayer, E. M., Mahl, L., Hesse, L., Pion, E., Haller, V., Moehwald, 
+A., et al. (2022). A 3D in vivo model for studying human renal 
+cystic tissue and mouse kidney slices. Cells, 11(15). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​3​3​9​0​/​c​e​l​l​s​1​1​1​5​2​2​6​9
+Bricker, N. S., & Patton, J. F. (1955). Cystic disease of the kidneys; a 
+study of dynamics and chemical composition of cyst fluid. Ameri­
+can Journal of Medicine, 18(2), 207–219. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​
+/​0​0​0​2​-​9​3​4​3​(​5​5​)​9​0​2​3​6​-​9
+Broseta, J. J., Roca, M., Rodríguez-Espinosa, D., López-Romero, L. 
+C., Gómez-Bori, A., Cuadrado-Payán, E., et al. (2022). Impact of 
+acetate versus citrate dialysates on intermediary Metabolism-A 
+targeted metabolomics approach. International Journal of Molec­
+ular Sciences, 23(19). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​i​j​m​s​2​3​1​9​1​1​6​9​3
+Bullingham, R. E., Nicholls, A. J., & Kamm, B. R. (1998). Clinical 
+pharmacokinetics of mycophenolate mofetil. Clinical Pharmaco­
+kinetics, 34(6), 429–455. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​2​1​6​5​/​0​0​0​0​3​0​8​8​-​1​9​9​8​
+3​4​0​6​0​-​0​0​0​0​2
+Chambers, M. C., Maclean, B., Burke, R., Amodei, D., Ruderman, D. 
+L., Neumann, S., et al. (2012). A cross-platform toolkit for mass 
+spectrometry and proteomics. Nature Biotechnology, 30(10), 
+918–920. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​n​b​t​.​2​3​7​7
+Chapman, A. B., Devuyst, O., Eckardt, K. U., Gansevoort, R. T., Har­
+ris, T., Horie, S. (2015). Autosomal-dominant polycystic kidney 
+disease (ADPKD) executive summary from a Kidney Disease: 
+Improving Global Outcomes (KDIGO) Controversies Confer­
+ence. In: Kidney Int 88 (1), S. 17–27. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​k​i​
+.​2​0​1​5​.​5​9
+Choyke, P. L. (2000). Acquired cystic kidney disease. European Radi­
+ology, 10(11), 1716–1721. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​0​0​3​3​0​0​0​0​0​6​
+0​1
+Cornec-Le Gall, E., Alam, A., & Perrone, R. D. (2019). Autosomal 
+dominant polycystic kidney disease. Lancet, 393(10174), 919–
+935. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​s​0​1​4​0​-​6​7​3​6​(​1​8​)​3​2​7​8​2​-​x
+Dekker, S. E. I., Verhoeven, A., Frey, D., Soonawala, D., Peters, D. 
+J. M., Mayboroda, O. A., & de Fijter, J. W. (2022). Change in 
+1 3
+90 
+Page 12 of 14
+
+Metabolomic profiling of renal cyst fluid in advanced ADPKD: insights from dialysis and transplantation…
+Paul, B. M., & Vanden Heuvel, G. B. (2014). Kidney: Polycystic kid­
+ney disease. Wiley Interdiscip Rev Dev Biol, 3(6), 465–487. ​h​t​t​p​s​
+:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​2​/​w​d​e​v​.​1​5​2
+Pluskal, T., Castillo, S., Villar-Briones, A., & Oresic, M. (2010). 
+MZmine 2: Modular framework for processing, visualizing, and 
+analyzing mass spectrometry-based molecular profile data. Bmc 
+Bioinformatics, 11, 395. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​8​6​/​1​4​7​1​-​2​1​0​5​-​1​1​-​3​
+9​5
+Rahbari-Oskoui, F., & O’Neill, W. C. (2017). Diagnosis and manage­
+ment of acquired cystic kidney disease and renal tumors in ESRD 
+patients. Seminars in dialysis, 30(4), 373–379. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​1​1​1​/​s​d​i​.​1​2​6​0​5
+Santos, I. S. R., Martin-Pastor, M., Tavares Júnior, A. G., Queiroz, K. 
+A., Da Silva Sólon, L. G., & Sousa, F. F. O. (2023). Metabolomic 
+profile and its correlation with the plasmatic levels of losartan, 
+EXP3174 and blood pressure control in hypertensive and chronic 
+kidney disease patients. International Journal of Molecular Sci­
+ences, 24(12). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​i​j​m​s​2​4​1​2​9​8​3​2
+Schueler, J., Kuenzel, J., Thuesing, A., Pion, E., Behncke, R. Y., Hae­
+gerling, R., et al. (2024). Ultra high frequency ultrasound enables 
+real-time visualization of blood supply from Chorioallantoic 
+membrane to human autosomal dominant polycystic kidney tis­
+sue. Scientific Reports, 14(1), 10063. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​s​4​1​
+5​9​8​-​0​2​4​-​6​0​7​8​3​-​3
+Seabold, S., & Perktold, J. (Hrsg.) (2010). Statsmodels: Econometric 
+and Statistical Modeling with Python. SciPy.
+Shrestha, B. M. (2017). Two decades of tacrolimus in renal transplant: 
+Basic science and clinical evidences. Experimental and Clinical 
+Transplantation, 15(1), 1–9. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​6​0​0​2​/​e​c​t​.​2​0​1​6​.​0​1​
+5​7
+Slade, M. J., Kirby, R. B., Pócsi, I., Jones, J. K., & Price, R. G. (1998). 
+Presence of laminin fragments in cyst fluid from patients with 
+autosomal dominant polycystic kidney disease (ADPKD) role in 
+proliferation of tubular epithelial cells. Biochimica Et Biophysica 
+Acta, 1401(2), 203–210. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​s​0​1​6​7​-​4​8​8​9​(​9​7​)​
+0​0​1​2​5​-​0
+Stegmayr, B. (2017). Dialysis procedures alter metabolic conditions. 
+Nutrients, 9(6). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​n​u​9​0​6​0​5​4​8
+Sullivan, L. P., Wallace, D. P., & Grantham, J. J. (1998). Epithelial 
+transport in polycystic kidney disease. Physiological Reviews, 
+78(4), 1165–1191. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​5​2​/​p​h​y​s​r​e​v​.​1​9​9​8​.​7​8​.​4​.​1​1​
+6​5
+Tasevska, N., Runswick, S. A., McTaggart, A., & Bingham, S. A. 
+(2005). Urinary sucrose and Fructose as biomarkers for sugar 
+consumption. Cancer Epidemiology, Biomarkers & Prevention, 
+14(5), 1287–1294. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​5​8​/​1​0​5​5​-​9​9​6​5​.​E​p​i​-​0​4​-​0​8​
+2​7
+Terryn, S., Ho, A., Beauwens, R., & Devuyst, O. (2011). Fluid trans­
+port and cystogenesis in autosomal dominant polycystic kidney 
+disease. Biochimica Et Biophysica Acta, 1812(10), 1314–1321. ​h​
+t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​b​b​a​d​i​s​.​2​0​1​1​.​0​1​.​0​1​1
+Thölking, G., Schulte, C., Jehn, U., Schütte-Nütgen, K., Pavenstädt, 
+H., Suwelack, B., & Reuter, S. (2021). The tacrolimus metabo­
+lism rate and dyslipidemia after kidney transplantation. J Clin 
+Med, 10(14). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​j​c​m​1​0​1​4​3​0​6​6
+Tonelli, M., Wiebe, N., Knoll, G., Bello, A., Browne, S., Jadhav, D., et 
+al. (2011). Systematic review: Kidney transplantation compared 
+with dialysis in clinically relevant outcomes. American Journal 
+of Transplantation, 11(10), 2093–2109. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​
+.​1​6​0​0​-​6​1​4​3​.​2​0​1​1​.​0​3​6​8​6​.​x
+Torres, V. E., Harris, P. C., & Pirson, Y. (2007a). Autosomal dominant 
+polycystic kidney disease. Lancet, 369(9569), 1287–1301. ​h​t​t​p​s​:​/​
+/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​s​0​1​4​0​-​6​7​3​6​(​0​7​)​6​0​6​0​1​-​1
+Torres, V. E., King, B. F., Chapman, A. B., Brummer, M. E., Bae, K. 
+T., Glockner, J. F., et al. (2007b). Magnetic resonance measure­
+ments of renal blood flow and disease progression in autosomal 
+alterations in autosomal dominant polycystic kidney disease. Am 
+J Physiol Renal Physiol, 324(6), F590–f602. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​
+5​2​/​a​j​p​r​e​n​a​l​.​0​0​3​0​1​.​2​0​2​2
+Huseman, R., Grady, A., Welling, D., & Grantham, J. (1980). Mac­
+ropuncture study of polycystic disease in adult human kidneys. 
+Kidney International, 18(3), 375–385. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​k​
+i​.​1​9​8​0​.​1​4​8
+Jung, Y., Irazabal, M. V., Chebib, F. T., Harris, P. C., Dean, P. G., Pri­
+eto, M., et al. (2016). Volume regression of native polycystic 
+kidneys after renal transplantation. Nephrology, Dialysis, Trans­
+plantation, 31(1), 73–79. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​9​3​/​n​d​t​/​g​f​v​2​2​7
+Kenter, A. T., van Rossum-Fikkert, S. E., Salih, M., Verhagen, P., van 
+Leenders, G., Demmers, J. A. A., et al. (2019). Identifying cysto­
+genic paracrine signaling molecules in cyst fluid of patients with 
+polycystic kidney disease. Am J Physiol Renal Physiol, 316(1), 
+F204–f213. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​5​2​/​a​j​p​r​e​n​a​l​.​0​0​4​7​0​.​2​0​1​8
+Lai, X., Bacallao, R. L., Blazer-Yost, B. L., Hong, D., Mason, S. B., 
+& Witzmann, F. A. (2008). Characterization of the renal cyst 
+fluid proteome in autosomal dominant polycystic kidney disease 
+(ADPKD) patients. Proteomics. Clinical Applications, 2(7–8), 
+1140–1152. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​2​/​p​r​c​a​.​2​0​0​7​8​0​1​4​0
+Lambert, P. P. (1947). Polycystic disease of the kidney; a review. Arch 
+Pathol (Chic), 44(1), 34–58.
+Liu, Y., Sun, M., Sun, J., Lin, F., Xu, D., Chen, Y., et al. (2024). Iden­
+tification of novel serum metabolic signatures to predict chronic 
+kidney disease among Chinese elders using UPLC-Orbitrap-MS. 
+The Journal of Nutrition, Health & Aging, 28(3), 100036. ​h​t​t​p​s​:​/​/​
+d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​j​n​h​a​.​2​0​2​3​.​1​0​0​0​3​6
+Małgorzewicz, S., Debska-Slizień, A., Rutkowski, B., & Lysiak-
+Szydłowska, W. (2008). Serum concentration of amino acids ver­
+sus nutritional status in Hemodialysis patients. Journal of Renal 
+Nutrition: the official Journal of the Council on Renal Nutrition 
+of the National Kidney Foundation, 18(2), 239–247. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​0​5​3​/​j​.​j​r​n​.​2​0​0​7​.​1​1​.​0​1​1
+Marchetti, P., & Navalesi, R. (2000). The metabolic effects of cyclo­
+sporin and tacrolimus. J Endocrinol Invest, 23(7), 482–490. ​h​t​t​p​s​
+:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​b​f​0​3​3​4​3​7​6​1
+McInnes, L., & Healy, J. (2018). UMAP: Uniform manifold approx­
+imation and projection for dimension reduction. 	
+arXiv:1802.03426
+Meeusen, J. W., Stämmler, F., Dasari, S., Schiffer, E., & Lieske, J. 
+C. (2022). Serum myo-inositol and valine improve metabolomic-
+based estimated glomerular filtration rate among kidney trans­
+plant recipients. Front Med (Lausanne), 9, 988989. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​3​3​8​9​/​f​m​e​d​.​2​0​2​2​.​9​8​8​9​8​9
+Merino, B., Fernández-Díaz, C. M., Cózar-Castellano, I., & Perdomo, 
+G. (2019). Intestinal Fructose and glucose metabolism in health 
+and disease. Nutrients, 12(1). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​n​u​1​2​0​1​0​0​9​
+4
+Oliveras, L., Coloma, A., Lloberas, N., Lino, L., Favà, A., Manonelles, 
+A., et al. (2024). Immunosuppressive drug combinations after 
+kidney transplantation and post-transplant diabetes: A systematic 
+review and meta-analysis. Transplantation Reviews (Orlando, 
+Fla.), 38(3), 100856. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​t​r​r​e​.​2​0​2​4​.​1​0​0​8​5​6
+Omosule, C. L., Blair, C. J., Herries, E., Zaydman, M. A., Farnsworth, 
+C., Ladenson, J., et al. (2024). Clinical utility of LC-MS/MS 
+for blood Myo-Inositol in patients with acute kidney injury and 
+chronic kidney disease. Clinical Chemistry, 70(9), 1172–1181. ​h​t​
+t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​9​3​/​c​l​i​n​c​h​e​m​/​h​v​a​e​0​9​7
+Patel, C. G., Ogasawara, K., & Akhlaghi, F. (2013). Mycophenolic 
+acid glucuronide is transported by multidrug resistance-associ­
+ated protein 2 and this transport is not inhibited by cyclosporine, 
+tacrolimus or sirolimus. Xenobiotica, 43(3), 229–235. ​h​t​t​p​s​:​/​/​d​o​i​.​
+o​r​g​/​1​0​.​3​1​0​9​/​0​0​4​9​8​2​5​4​.​2​0​1​2​.​7​1​3​5​3​1
+1 3
+Page 13 of 14 
+90
+
+S. Heckscher et al.
+disease stimulates fluid secretion, Cyclic adenosine monophos­
+phate accumulation, and cell proliferation by Madin-Darby 
+canine kidney cells in vitro. American Journal of Kidney Dis­
+eases, 25(3), 471–477. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​0​2​7​2​-​6​3​8​6​(​9​5​)​9​0​
+1​1​1​-​6
+Yamaguchi, Y., Zampino, M., Moaddel, R., Chen, T. K., Tian, Q., Fer­
+rucci, L., & Semba, R. D. (2021). Plasma metabolites associated 
+with chronic kidney disease and renal function in adults from the 
+Baltimore longitudinal study of aging. Metabolomics, 17(1), 9. ​h​
+t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​1​1​3​0​6​-​0​2​0​-​0​1​7​6​2​-​3
+Yamamoto, T., Watarai, Y., Kobayashi, T., Matsuda, Y., Tsujita, M., 
+Hiramitsu, T., et al. (2012). Kidney volume changes in patients 
+with autosomal dominant polycystic kidney disease after renal 
+transplantation. Transplantation, 93(8), 794–798. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​
+/​1​0​.​1​0​9​7​/​T​P​.​0​b​0​1​3​e​3​1​8​2​4​6​f​9​1​0
+Ye, M., Grant, M., Sharma, M., Elzinga, L., Swan, S., Torres, V. E., & 
+Grantham, J. J. (1992). Cyst fluid from human autosomal domi­
+nant polycystic kidneys promotes cyst formation and expansion 
+by renal epithelial cells in vitro. Journal of the American Society 
+of Nephrology, 3(4), 984–994. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​6​8​1​/​a​s​n​.​V​3​4​9​
+8​4
+Publisher’s note  Springer Nature remains neutral with regard to juris­
+dictional claims in published maps and institutional affiliations.
+dominant polycystic kidney disease. Clinical Journal of the 
+American Society of Nephrology, 2(1), 112–120. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​
+1​0​.​2​2​1​5​/​c​j​n​.​0​0​9​1​0​3​0​6
+Veroux, M., Gozzo, C., Corona, D., Murabito, P., Caltabiano, D. C., 
+Mammino, L., et al. (2018). Change in kidney volume after kid­
+ney transplantation in patients with autosomal polycystic kidney 
+disease. PLoS One, 13(12), e0209332. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​3​7​1​/​j​o​
+u​r​n​a​l​.​p​o​n​e​.​0​2​0​9​3​3​2
+Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., 
+Cournapeau, D., et al. (2020). SciPy 1.0: Fundamental algorithms 
+for scientific computing in Python. Nature Methods, 17(3), 261–
+272. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​s​4​1​5​9​2​-​0​1​9​-​0​6​8​6​-​2
+Waskom, L. M. (2021). Seaborn: Statistical data visualization. Journal 
+of Open Source Software, 6(60), 3021. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​2​1​1​0​5​/​j​
+o​s​s​.​0​3​0​2​1
+Wilson, P. D. (2004). Polycystic kidney disease: New Understanding 
+in the pathogenesis. International Journal of Biochemistry & Cell 
+Biology, 36(10), 1868–1873. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​b​i​o​c​e​l​.​2​0​0​
+4​.​0​3​.​0​1​2
+Xie, D., Guo, J., Dang, R., Li, Y., Si, Q., Han, W., et al. (2022). The 
+effect of tacrolimus-induced toxicity on metabolic profiling in tar­
+get tissues of mice. BMC Pharmacol Toxicol, 23(1), 87. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​8​6​/​s​4​0​3​6​0​-​0​2​2​-​0​0​6​2​6​-​x
+Yamaguchi, T., Nagao, S., Takahashi, H., Ye, M., & Grantham, J. J. 
+(1995). Cyst fluid from a murine model of polycystic kidney 
+1 3
+90 
+Page 14 of 14
+
